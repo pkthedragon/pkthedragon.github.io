@@ -1,0 +1,995 @@
+﻿[
+    {
+        "card_name": "Arati, God of Reflections",
+        "number": 1,
+        "shape": "transform double faced",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Claudia, Faceless Mogul",
+        "number": 5,
+        "shape": "normal",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Ereni, Pale Monarch",
+        "number": 8,
+        "shape": "normal",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Getana, Plasm Legionary",
+        "number": 11,
+        "shape": "normal",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Anuun, God of Snakes",
+        "number": 14,
+        "shape": "transform double faced",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Mezza, August Empress",
+        "number": 2,
+        "shape": "normal",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Emil, God of Clouds",
+        "number": 6,
+        "shape": "transform double faced",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Gala, Bone Mistress",
+        "number": 9,
+        "shape": "normal",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Ishim, God of Dusk",
+        "number": 12,
+        "shape": "transform double faced",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Fahad, Oasis King",
+        "number": 15,
+        "shape": "normal",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Ninisina, Gilded Herald",
+        "number": 3,
+        "shape": "normal",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Lilu, Secluded Archivist",
+        "number": 7,
+        "shape": "normal",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Yshnu, God of Stars",
+        "number": 10,
+        "shape": "transform double faced",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Tiame, Visionary Elder",
+        "number": 13,
+        "shape": "normal",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Trusted Nurta",
+        "number": 16,
+        "shape": "normal",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Shadowed Hanzu",
+        "number": 4,
+        "shape": "normal",
+        "set": "KRN"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->gold",
+    {
+        "card_name": "Darice, Waygate Magi",
+        "number": 28,
+        "shape": "normal",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Agare, Giver of Knowing",
+        "number": 17,
+        "shape": "normal",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Baal, Avaricious",
+        "number": 23,
+        "shape": "normal",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Durg, Enclave's Warden",
+        "number": 32,
+        "shape": "normal",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Mother of Beasts",
+        "number": 49,
+        "shape": "normal",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Ea, Magi of the Oasis",
+        "number": 33,
+        "shape": "normal",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Anzu, All-Consuming",
+        "number": 20,
+        "shape": "normal",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Corvu, Ambling Hermit",
+        "number": 25,
+        "shape": "planeswalker",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Hesah, King of Snakes",
+        "number": 41,
+        "shape": "normal",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Shamash, Triumphant",
+        "number": 58,
+        "shape": "normal",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Mergho, Sky Ancient",
+        "number": 48,
+        "shape": "normal",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Urukh the Shadowed",
+        "number": 63,
+        "shape": "planeswalker",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Transcendent Agnar",
+        "number": 62,
+        "shape": "normal",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Libluth the Steadfast",
+        "number": 47,
+        "shape": "normal",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Zagal, Wayward Minstrel",
+        "number": 70,
+        "shape": "planeswalker",
+        "set": "KRN"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Saasa, Dark Witch",
+        "number": 56,
+        "shape": "normal",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Signi, Spiritfire",
+        "number": 60,
+        "shape": "normal",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Dir, Venerated One",
+        "number": 30,
+        "shape": "normal",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Aloro, Torchbearer",
+        "number": 18,
+        "shape": "normal",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Cit, Wayfinder",
+        "number": 24,
+        "shape": "normal",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Warad, the Red Hand",
+        "number": 66,
+        "shape": "normal",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Sola, the Sunrise",
+        "number": 61,
+        "shape": "normal",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Grem, Plague Seraph",
+        "number": 39,
+        "shape": "normal",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Cuith, War Patroness",
+        "number": 26,
+        "shape": "normal",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Guardian of Paradise",
+        "number": 40,
+        "shape": "normal",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Yadi, Carmine Priestess",
+        "number": 67,
+        "shape": "normal",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Zaeyr the Veiled",
+        "number": 69,
+        "shape": "normal",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Idad, Cycle Tender",
+        "number": 42,
+        "shape": "normal",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Dharman, Gold Chariot",
+        "number": 29,
+        "shape": "normal",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Ussuh, Ever Burgeoning",
+        "number": 64,
+        "shape": "normal",
+        "set": "KRN"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Eluz, Eternal Shepherd",
+        "number": 35,
+        "shape": "normal",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Erragal, Red Hunter",
+        "number": 36,
+        "shape": "normal",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Irrah, Ashen Ravager",
+        "number": 44,
+        "shape": "normal",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Amuz, Dune Giant",
+        "number": 19,
+        "shape": "normal",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Ean, Ebbing Tide",
+        "number": 34,
+        "shape": "normal",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Nidab, Forgotten Vestige",
+        "number": 52,
+        "shape": "normal",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Kitu, Vast Aurora",
+        "number": 45,
+        "shape": "normal",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Lahar, Many Bodied",
+        "number": 46,
+        "shape": "normal",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Nin, Daydreamer",
+        "number": 53,
+        "shape": "adventure",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Utash, Great Wanderer",
+        "number": 65,
+        "shape": "normal",
+        "set": "KRN"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Namash, Ever Famished",
+        "number": 51,
+        "shape": "normal",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Dishkur, Pulsing Core",
+        "number": 31,
+        "shape": "normal",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Esteemed Marroc",
+        "number": 37,
+        "shape": "normal",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Ashur, Roaming Library",
+        "number": 22,
+        "shape": "normal",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Dammuk, Farseeker",
+        "number": 27,
+        "shape": "normal",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Nusbil, Arid Wind",
+        "number": 54,
+        "shape": "normal",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Zabu, Parasitic Bloom",
+        "number": 68,
+        "shape": "adventure",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Mugan, Harmonious",
+        "number": 50,
+        "shape": "normal",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Io, Stargazer",
+        "number": 43,
+        "shape": "planeswalker",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Saraf, Ivory Weaver",
+        "number": 57,
+        "shape": "normal",
+        "set": "KRN"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Oro, Brass Tyrant",
+        "number": 55,
+        "shape": "normal",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Aru, Blinding Seraph",
+        "number": 21,
+        "shape": "normal",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Fayah, Rousing Magnate",
+        "number": 38,
+        "shape": "normal",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Shifter Manzet",
+        "number": 59,
+        "shape": "normal",
+        "set": "KRN"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->colorless",
+    {
+        "card_name": "Plasm Arthropod",
+        "number": 71,
+        "shape": "normal",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Plasm Crab",
+        "number": 72,
+        "shape": "normal",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Plasm Hound",
+        "number": 73,
+        "shape": "normal",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Plasm Raptor",
+        "number": 74,
+        "shape": "normal",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Plasm Serpent",
+        "number": 75,
+        "shape": "normal",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Nameless Anachronism",
+        "number": 131,
+        "shape": "normal",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Arcane Signet",
+        "number": 132,
+        "shape": "normal",
+        "set": "KRN"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->land",
+    {
+        "card_name": "Lofty Atheneum",
+        "number": 97,
+        "shape": "normal",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Sunken Atheneum",
+        "number": 122,
+        "shape": "normal",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Secluded Atheneum",
+        "number": 117,
+        "shape": "normal",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Mystic Atheneum",
+        "number": 104,
+        "shape": "normal",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Overgrown Atheneum",
+        "number": 108,
+        "shape": "normal",
+        "set": "KRN"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Resculpted Gorge",
+        "number": 112,
+        "shape": "normal",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Ghostspore Mire",
+        "number": 92,
+        "shape": "normal",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Molten Falls",
+        "number": 101,
+        "shape": "normal",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Autumn Canopy",
+        "number": 78,
+        "shape": "normal",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Druid's Sanctuary",
+        "number": 87,
+        "shape": "normal",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Tactitian's Outpost",
+        "number": 125,
+        "shape": "normal",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Necromancer's Den",
+        "number": 105,
+        "shape": "normal",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Tyrant's Cathedral",
+        "number": 128,
+        "shape": "normal",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Hermit's Refuge",
+        "number": 95,
+        "shape": "normal",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Timeless Shrine",
+        "number": 127,
+        "shape": "normal",
+        "set": "KRN"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Cursed Wastes",
+        "number": 85,
+        "shape": "normal",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Mage's Repository",
+        "number": 98,
+        "shape": "normal",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Benefactor's Altar",
+        "number": 80,
+        "shape": "normal",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Cloudsteel Summit",
+        "number": 84,
+        "shape": "normal",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Soaring Rainforest",
+        "number": 120,
+        "shape": "normal",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Regent's Metropolis",
+        "number": 111,
+        "shape": "normal",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Steamlit Peaks",
+        "number": 121,
+        "shape": "normal",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Shuddering Node",
+        "number": 119,
+        "shape": "normal",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Scoundrel's Camp",
+        "number": 116,
+        "shape": "normal",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Wanderer's Shrine",
+        "number": 129,
+        "shape": "normal",
+        "set": "KRN"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Amber Hills",
+        "number": 76,
+        "shape": "normal",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Archmage's Tower",
+        "number": 77,
+        "shape": "normal",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Barren Desolation",
+        "number": 79,
+        "shape": "normal",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Blossoming Expanse",
+        "number": 81,
+        "shape": "normal",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Bustling Marketplace",
+        "number": 82,
+        "shape": "normal",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Chamber of Ceremonies",
+        "number": 83,
+        "shape": "normal",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Dormant Remnant",
+        "number": 86,
+        "shape": "normal",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Fabled Passage",
+        "number": 88,
+        "shape": "normal",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Fell Glade",
+        "number": 89,
+        "shape": "modal double faced",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Floodwater Depths",
+        "number": 90,
+        "shape": "normal",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Ghost Quarter",
+        "number": 91,
+        "shape": "normal",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Grand Citadel",
+        "number": 93,
+        "shape": "normal",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Grim Bastion",
+        "number": 94,
+        "shape": "normal",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Hushed Oasis",
+        "number": 96,
+        "shape": "modal double faced",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Magma Ridge",
+        "number": 99,
+        "shape": "modal double faced",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Magmatic Torrent",
+        "number": 100,
+        "shape": "normal",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Morphic Verge",
+        "number": 102,
+        "shape": "normal",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Mysterious Cataract",
+        "number": 103,
+        "shape": "normal",
+        "set": "KRN"
+    },
+    {
+        "card_name": "New Divide",
+        "number": 106,
+        "shape": "normal",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Ocean Monastery",
+        "number": 107,
+        "shape": "normal",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Pinnacle Portal",
+        "number": 109,
+        "shape": "normal",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Prismatic Cavern",
+        "number": 110,
+        "shape": "normal",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Resting Dunes",
+        "number": 113,
+        "shape": "modal double faced",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Rogue's Passage",
+        "number": 114,
+        "shape": "normal",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Rotbed Mire",
+        "number": 115,
+        "shape": "modal double faced",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Shardstone Rift",
+        "number": 118,
+        "shape": "normal",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Sunlit Highland",
+        "number": 123,
+        "shape": "normal",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Sunrise Exchange",
+        "number": 124,
+        "shape": "normal",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Timber Range",
+        "number": 126,
+        "shape": "normal",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Watched Bazaar",
+        "number": 130,
+        "shape": "normal",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Command Tower",
+        "number": 133,
+        "shape": "normal",
+        "set": "KRN"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    }
+]

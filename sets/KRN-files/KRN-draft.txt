@@ -1,0 +1,1799 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Oro, Brass Tyrant",
+			"rarity": "mythic",
+			"mana_cost": "{6}{B}{R}{G}",
+			"type": "Legendary Creature — Elder Serpent",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/55_Oro, Brass Tyrant.png"
+			}
+		},
+		{
+			"name": "Ashur, Roaming Library",
+			"rarity": "mythic",
+			"mana_cost": "{4}{U}{R}{W}",
+			"type": "Legendary Enchantment Creature — Study Mount",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/22_Ashur, Roaming Library.png"
+			}
+		},
+		{
+			"name": "Dammuk, Farseeker",
+			"rarity": "mythic",
+			"mana_cost": "{B}{G}{U}",
+			"type": "Legendary Creature — Snake Beast",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/27_Dammuk, Farseeker.png"
+			}
+		},
+		{
+			"name": "Esteemed Marroc",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{B}{G}",
+			"type": "Legendary Creature — Demon",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/37_Esteemed Marroc.png"
+			}
+		},
+		{
+			"name": "Ean, Ebbing Tide",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}{W}{U}",
+			"type": "Legendary Creature — Spirit Avatar",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/34_Ean, Ebbing Tide.png"
+			}
+		},
+		{
+			"name": "Eluz, Eternal Shepherd",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{U}{B}",
+			"type": "Legendary Creature — Zombie Spirit",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/35_Eluz, Eternal Shepherd.png"
+			}
+		},
+		{
+			"name": "Amuz, Dune Giant",
+			"rarity": "mythic",
+			"mana_cost": "{3}{R}{G}{W}",
+			"type": "Legendary Creature — Giant Avatar",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/19_Amuz, Dune Giant.png"
+			}
+		},
+		{
+			"name": "Dishkur, Pulsing Core",
+			"rarity": "mythic",
+			"mana_cost": "{3}{G}{U}{R}",
+			"type": "Legendary Creature — Plant Mutant",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/31_Dishkur, Pulsing Core.png"
+			}
+		},
+		{
+			"name": "Erragal, Red Hunter",
+			"rarity": "mythic",
+			"mana_cost": "{5}{U}{B}{R}",
+			"type": "Legendary Creature — Crocodile Demon",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/36_Erragal, Red Hunter.png"
+			}
+		},
+		{
+			"name": "Nusbil, Arid Wind",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{W}{B}",
+			"type": "Legendary Creature — Dragon Sphinx",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/54_Nusbil, Arid Wind.png"
+			}
+		},
+		{
+			"name": "Io, Stargazer",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}{R}{W}",
+			"type": "Legendary Planeswalker — Io",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/43_Io, Stargazer.png"
+			}
+		},
+		{
+			"name": "Saraf, Ivory Weaver",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}{G}{U}",
+			"type": "Legendary Creature — Zombie Noble",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/57_Saraf, Ivory Weaver.png"
+			}
+		},
+		{
+			"name": "Namash, Ever Famished",
+			"rarity": "mythic",
+			"mana_cost": "{R}{W}{B}",
+			"type": "Legendary Creature — Demon",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/51_Namash, Ever Famished.png"
+			}
+		},
+		{
+			"name": "Zabu, Parasitic Bloom",
+			"rarity": "mythic",
+			"mana_cost": "{3}{G}{U}{R}",
+			"type": "Legendary Planeswalker — Zabu",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/68_Zabu, Parasitic Bloom.png"
+			}
+		},
+		{
+			"name": "Mugan, Harmonious",
+			"rarity": "mythic",
+			"mana_cost": "{W}{B}{G}",
+			"type": "Legendary Creature — Sphinx Beast",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/50_Mugan, Harmonious.png"
+			}
+		},
+		{
+			"name": "Nidab, Forgotten Vestige",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{U}{B}",
+			"type": "Legendary Artifact Creature — Statue",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/52_Nidab, Forgotten Vestige.png"
+			}
+		},
+		{
+			"name": "Kitu, Vast Aurora",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{B}{R}",
+			"type": "Legendary Enchantment Creature — Wolf",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/45_Kitu, Vast Aurora.png"
+			}
+		},
+		{
+			"name": "Nin, Daydreamer",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}{G}{W}",
+			"type": "Legendary Creature — Angel",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/53_Nin, Daydreamer.png"
+			}
+		},
+		{
+			"name": "Lahar, Many Bodied",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}{R}{G}",
+			"type": "Legendary Creature — Zombie",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/46_Lahar, Many Bodied.png"
+			}
+		},
+		{
+			"name": "Utash, Great Wanderer",
+			"rarity": "mythic",
+			"mana_cost": "{4}{G}{W}{U}",
+			"type": "Legendary Creature — Beast Spirit",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/65_Utash, Great Wanderer.png"
+			}
+		},
+		{
+			"name": "Shifter Manzet",
+			"rarity": "mythic",
+			"mana_cost": "{W}{U}{B}{R}{G}",
+			"type": "Legendary Creature — Shapeshifter",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/59_Shifter Manzet.png"
+			}
+		},
+		{
+			"name": "Irrah, Ashen Ravager",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}{R}{G}",
+			"type": "Legendary Creature — Elemental",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/44_Irrah, Ashen Ravager.png"
+			}
+		},
+		{
+			"name": "Aru, Blinding Seraph",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{U}{B}{R}{G}",
+			"type": "Legendary Creature — Angel Reflection",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/21_Aru, Blinding Seraph.png"
+			}
+		},
+		{
+			"name": "Mezza, August Empress",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}",
+			"type": "Legendary Creature — Human Noble",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/2_Mezza, August Empress.png"
+			}
+		},
+		{
+			"name": "Fayah, Rousing Magnate",
+			"rarity": "mythic",
+			"mana_cost": "{W}{U}{B}{R}{G}",
+			"type": "Legendary Creature — Human Bard",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/38_Fayah, Rousing Magnate.png"
+			}
+		},
+		{
+			"name": "Emil, God of Clouds",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Legendary Planeswalker — Emil",
+			"collector_number": "6",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://pkthedragon.github.io/sets/KRN-files/img/6_Emil, God of Clouds_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/6_Emil, God of Clouds_front.png"
+			}
+		},
+		{
+			"name": "Arati, God of Reflections",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Planeswalker — Arati",
+			"collector_number": "1",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://pkthedragon.github.io/sets/KRN-files/img/1_Arati, God of Reflections_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/1_Arati, God of Reflections_front.png"
+			}
+		},
+		{
+			"name": "Ishim, God of Dusk",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Planeswalker — Ishim",
+			"collector_number": "12",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://pkthedragon.github.io/sets/KRN-files/img/12_Ishim, God of Dusk_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/12_Ishim, God of Dusk_front.png"
+			}
+		},
+		{
+			"name": "Yshnu, God of Stars",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Legendary Planeswalker — Ishim",
+			"collector_number": "10",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://pkthedragon.github.io/sets/KRN-files/img/10_Yshnu, God of Stars_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/10_Yshnu, God of Stars_front.png"
+			}
+		},
+		{
+			"name": "Anuun, God of Snakes",
+			"rarity": "mythic",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Legendary Planeswalker",
+			"collector_number": "14",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://pkthedragon.github.io/sets/KRN-files/img/14_Anuun, God of Snakes_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/14_Anuun, God of Snakes_front.png"
+			}
+		},
+		{
+			"name": "Lilu, Secluded Archivist",
+			"rarity": "mythic",
+			"mana_cost": "{U}",
+			"type": "Legendary Creature — Faerie Advisor",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/7_Lilu, Secluded Archivist.png"
+			}
+		},
+		{
+			"name": "Gala, Bone Mistress",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}",
+			"type": "Legendary Creature — Human Warlock",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/9_Gala, Bone Mistress.png"
+			}
+		},
+		{
+			"name": "Getana, Plasm Legionary",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/11_Getana, Plasm Legionary.png"
+			}
+		},
+		{
+			"name": "Trusted Nurta",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Legendary Creature — Turtle Citizen",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/16_Trusted Nurta.png"
+			}
+		},
+		{
+			"name": "Shadowed Hanzu",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Legendary Creature — Elf Rogue",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/4_Shadowed Hanzu.png"
+			}
+		},
+		{
+			"name": "Overgrown Atheneum",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Enchantment Land — Study",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/108_Overgrown Atheneum.png"
+			}
+		},
+		{
+			"name": "Lofty Atheneum",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Enchantment Land — Study",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/97_Lofty Atheneum.png"
+			}
+		},
+		{
+			"name": "Sunken Atheneum",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Enchantment Land — Study",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/122_Sunken Atheneum.png"
+			}
+		},
+		{
+			"name": "Secluded Atheneum",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Enchantment Land — Study",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/117_Secluded Atheneum.png"
+			}
+		},
+		{
+			"name": "Mystic Atheneum",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Enchantment Land — Study",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/104_Mystic Atheneum.png"
+			}
+		},
+		{
+			"name": "Tactitian's Outpost",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/125_Tactitian's Outpost.png"
+			}
+		},
+		{
+			"name": "Druid's Sanctuary",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/87_Druid's Sanctuary.png"
+			}
+		},
+		{
+			"name": "Scoundrel's Camp",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/116_Scoundrel's Camp.png"
+			}
+		},
+		{
+			"name": "Command Tower",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/133_Command Tower.png"
+			}
+		},
+		{
+			"name": "Morphic Verge",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/102_Morphic Verge.png"
+			}
+		},
+		{
+			"name": "Fabled Passage",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/88_Fabled Passage.png"
+			}
+		},
+		{
+			"name": "Floodwater Depths",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/90_Floodwater Depths.png"
+			}
+		},
+		{
+			"name": "Grim Bastion",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/94_Grim Bastion.png"
+			}
+		},
+		{
+			"name": "Magmatic Torrent",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/100_Magmatic Torrent.png"
+			}
+		},
+		{
+			"name": "Mysterious Cataract",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/103_Mysterious Cataract.png"
+			}
+		},
+		{
+			"name": "Sunlit Highland",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/123_Sunlit Highland.png"
+			}
+		},
+		{
+			"name": "Barren Desolation",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/79_Barren Desolation.png"
+			}
+		},
+		{
+			"name": "Shardstone Rift",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/118_Shardstone Rift.png"
+			}
+		},
+		{
+			"name": "Timber Range",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/126_Timber Range.png"
+			}
+		},
+		{
+			"name": "Ocean Monastery",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/107_Ocean Monastery.png"
+			}
+		},
+		{
+			"name": "Amber Hills",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/76_Amber Hills.png"
+			}
+		},
+		{
+			"name": "Fell Glade",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Forest",
+			"collector_number": "89",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://pkthedragon.github.io/sets/KRN-files/img/89_Fell Glade_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/89_Fell Glade_front.png"
+			}
+		},
+		{
+			"name": "Resting Dunes",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Plains",
+			"collector_number": "113",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://pkthedragon.github.io/sets/KRN-files/img/113_Resting Dunes_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/113_Resting Dunes_front.png"
+			}
+		},
+		{
+			"name": "Hushed Oasis",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Island",
+			"collector_number": "96",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://pkthedragon.github.io/sets/KRN-files/img/96_Hushed Oasis_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/96_Hushed Oasis_front.png"
+			}
+		},
+		{
+			"name": "Magma Ridge",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Mountain",
+			"collector_number": "99",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://pkthedragon.github.io/sets/KRN-files/img/99_Magma Ridge_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/99_Magma Ridge_front.png"
+			}
+		},
+		{
+			"name": "Rotbed Mire",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Swamp",
+			"collector_number": "115",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://pkthedragon.github.io/sets/KRN-files/img/115_Rotbed Mire_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/115_Rotbed Mire_front.png"
+			}
+		},
+		{
+			"name": "Bustling Marketplace",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/82_Bustling Marketplace.png"
+			}
+		},
+		{
+			"name": "New Divide",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/106_New Divide.png"
+			}
+		},
+		{
+			"name": "Pinnacle Portal",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/109_Pinnacle Portal.png"
+			}
+		},
+		{
+			"name": "Archmage's Tower",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/77_Archmage's Tower.png"
+			}
+		},
+		{
+			"name": "Chamber of Ceremonies",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/83_Chamber of Ceremonies.png"
+			}
+		},
+		{
+			"name": "Watched Bazaar",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/130_Watched Bazaar.png"
+			}
+		},
+		{
+			"name": "Dormant Remnant",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Animus",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/86_Dormant Remnant.png"
+			}
+		},
+		{
+			"name": "Prismatic Cavern",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/110_Prismatic Cavern.png"
+			}
+		},
+		{
+			"name": "Rogue's Passage",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/114_Rogue's Passage.png"
+			}
+		},
+		{
+			"name": "Blossoming Expanse",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/81_Blossoming Expanse.png"
+			}
+		},
+		{
+			"name": "Grand Citadel",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/93_Grand Citadel.png"
+			}
+		},
+		{
+			"name": "Sunrise Exchange",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/124_Sunrise Exchange.png"
+			}
+		},
+		{
+			"name": "Necromancer's Den",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/105_Necromancer's Den.png"
+			}
+		},
+		{
+			"name": "Tyrant's Cathedral",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/128_Tyrant's Cathedral.png"
+			}
+		},
+		{
+			"name": "Hermit's Refuge",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/95_Hermit's Refuge.png"
+			}
+		},
+		{
+			"name": "Regent's Metropolis",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/111_Regent's Metropolis.png"
+			}
+		},
+		{
+			"name": "Mage's Repository",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/98_Mage's Repository.png"
+			}
+		},
+		{
+			"name": "Wanderer's Shrine",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/129_Wanderer's Shrine.png"
+			}
+		},
+		{
+			"name": "Benefactor's Altar",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/80_Benefactor's Altar.png"
+			}
+		},
+		{
+			"name": "Autumn Canopy",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Mountain Forest",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/78_Autumn Canopy.png"
+			}
+		},
+		{
+			"name": "Cloudsteel Summit",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Mountain Plains",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/84_Cloudsteel Summit.png"
+			}
+		},
+		{
+			"name": "Cursed Wastes",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Plains Swamp",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/85_Cursed Wastes.png"
+			}
+		},
+		{
+			"name": "Ghostspore Mire",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Island Swamp",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/92_Ghostspore Mire.png"
+			}
+		},
+		{
+			"name": "Molten Falls",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Swamp Mountain",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/101_Molten Falls.png"
+			}
+		},
+		{
+			"name": "Resculpted Gorge",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Plains Island",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/112_Resculpted Gorge.png"
+			}
+		},
+		{
+			"name": "Shuddering Node",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Swamp Forest",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/119_Shuddering Node.png"
+			}
+		},
+		{
+			"name": "Soaring Rainforest",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Forest Island",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/120_Soaring Rainforest.png"
+			}
+		},
+		{
+			"name": "Steamlit Peaks",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Island Mountain",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/121_Steamlit Peaks.png"
+			}
+		},
+		{
+			"name": "Timeless Shrine",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Forest Plains",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/127_Timeless Shrine.png"
+			}
+		},
+		{
+			"name": "Plasm Raptor",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Bird Construct",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/74_Plasm Raptor.png"
+			}
+		},
+		{
+			"name": "Plasm Crab",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Crab Construct",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/72_Plasm Crab.png"
+			}
+		},
+		{
+			"name": "Plasm Hound",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Dog Construct",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/73_Plasm Hound.png"
+			}
+		},
+		{
+			"name": "Plasm Arthropod",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Insect Construct",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/71_Plasm Arthropod.png"
+			}
+		},
+		{
+			"name": "Plasm Serpent",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Snake Construct",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/75_Plasm Serpent.png"
+			}
+		},
+		{
+			"name": "Nameless Anachronism",
+			"rarity": "special",
+			"mana_cost": "{5}",
+			"type": "Legendary Creature — Shapeshifter",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/131_Nameless Anachronism.png"
+			}
+		},
+		{
+			"name": "Ghost Quarter",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/91_Ghost Quarter.png"
+			}
+		},
+		{
+			"name": "Arcane Signet",
+			"rarity": "special",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/132_Arcane Signet.png"
+			}
+		},
+		{
+			"name": "Ninisina, Gilded Herald",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Creature — Cat Noble",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/3_Ninisina, Gilded Herald.png"
+			}
+		},
+		{
+			"name": "Claudia, Faceless Mogul",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Legendary Creature — Sphinx Noble",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/5_Claudia, Faceless Mogul.png"
+			}
+		},
+		{
+			"name": "Ereni, Pale Monarch",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Creature — Zombie Noble",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/8_Ereni, Pale Monarch.png"
+			}
+		},
+		{
+			"name": "Tiame, Visionary Elder",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Legendary Creature — Human Noble",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/13_Tiame, Visionary Elder.png"
+			}
+		},
+		{
+			"name": "Fahad, Oasis King",
+			"rarity": "mythic",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Legendary Creature — Elf Noble",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/15_Fahad, Oasis King.png"
+			}
+		},
+		{
+			"name": "Guardian of Paradise",
+			"rarity": "mythic",
+			"mana_cost": "{4}{G}{U}",
+			"type": "Legendary Creature — Spirit",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/40_Guardian of Paradise.png"
+			}
+		},
+		{
+			"name": "Dharman, Gold Chariot",
+			"rarity": "mythic",
+			"mana_cost": "{R}{W}",
+			"type": "Legendary Artifact — Vehicle",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/29_Dharman, Gold Chariot.png"
+			}
+		},
+		{
+			"name": "Hesah, King of Snakes",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Legendary Creature — Elder Snake",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/41_Hesah, King of Snakes.png"
+			}
+		},
+		{
+			"name": "Zagal, Wayward Minstrel",
+			"rarity": "mythic",
+			"mana_cost": "{3}{G}{W}",
+			"type": "Legendary Planeswalker — Zagal",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/70_Zagal, Wayward Minstrel.png"
+			}
+		},
+		{
+			"name": "Warad, the Red Hand",
+			"rarity": "mythic",
+			"mana_cost": "{4}{W}{B}",
+			"type": "Legendary Creature — Human Rogue",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/66_Warad, the Red Hand.png"
+			}
+		},
+		{
+			"name": "Anzu, All-Consuming",
+			"rarity": "mythic",
+			"mana_cost": "{4}{U}{B}",
+			"type": "Legendary Creature — Goat Avatar",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/20_Anzu, All-Consuming.png"
+			}
+		},
+		{
+			"name": "Urukh the Shadowed",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Legendary Planeswalker — Urukh",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/63_Urukh the Shadowed.png"
+			}
+		},
+		{
+			"name": "Durg, Enclave's Warden",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Legendary Creature — Cat Warrior",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/32_Durg, Enclave's Warden.png"
+			}
+		},
+		{
+			"name": "Baal, Avaricious",
+			"rarity": "mythic",
+			"mana_cost": "{B}{R}",
+			"type": "Legendary Creature — Demon",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/23_Baal, Avaricious.png"
+			}
+		},
+		{
+			"name": "Ea, Magi of the Oasis",
+			"rarity": "mythic",
+			"mana_cost": "{W}{U}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/33_Ea, Magi of the Oasis.png"
+			}
+		},
+		{
+			"name": "Zaeyr the Veiled",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Legendary Creature — Elder Wizard",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/69_Zaeyr the Veiled.png"
+			}
+		},
+		{
+			"name": "Mergho, Sky Ancient",
+			"rarity": "mythic",
+			"mana_cost": "{4}{W}{U}",
+			"type": "Legendary Creature — Elder Dragon",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/48_Mergho, Sky Ancient.png"
+			}
+		},
+		{
+			"name": "Saasa, Dark Witch",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Legendary Creature — Human Warlock",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/56_Saasa, Dark Witch.png"
+			}
+		},
+		{
+			"name": "Corvu, Ambling Hermit",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Legendary Planeswalker — Corvu",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/25_Corvu, Ambling Hermit.png"
+			}
+		},
+		{
+			"name": "Mother of Beasts",
+			"rarity": "mythic",
+			"mana_cost": "{5}{G}{W}",
+			"type": "Legendary Creature — Elder Beast",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/49_Mother of Beasts.png"
+			}
+		},
+		{
+			"name": "Cuith, War Patroness",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Legendary Creature — Avatar",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/26_Cuith, War Patroness.png"
+			}
+		},
+		{
+			"name": "Dir, Venerated One",
+			"rarity": "mythic",
+			"mana_cost": "{4}{B}{G}",
+			"type": "Legendary Creature — Elephant God",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/30_Dir, Venerated One.png"
+			}
+		},
+		{
+			"name": "Idad, Cycle Tender",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Legendary Creature — Human Druid",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/42_Idad, Cycle Tender.png"
+			}
+		},
+		{
+			"name": "Ussuh, Ever Burgeoning",
+			"rarity": "mythic",
+			"mana_cost": "{X}{G}{U}",
+			"type": "Legendary Creature — Hydra",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/64_Ussuh, Ever Burgeoning.png"
+			}
+		},
+		{
+			"name": "Signi, Spiritfire",
+			"rarity": "mythic",
+			"mana_cost": "{3}{U}{R}",
+			"type": "Legendary Creature — Avatar",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/60_Signi, Spiritfire.png"
+			}
+		},
+		{
+			"name": "Shamash, Triumphant",
+			"rarity": "mythic",
+			"mana_cost": "{3}{G}{W}",
+			"type": "Legendary Creature — Elephant God",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/58_Shamash, Triumphant.png"
+			}
+		},
+		{
+			"name": "Transcendent Agnar",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Legendary Creature — Elk Elemental",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/62_Transcendent Agnar.png"
+			}
+		},
+		{
+			"name": "Sola, the Sunrise",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Legendary Creature — Avatar",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/61_Sola, the Sunrise.png"
+			}
+		},
+		{
+			"name": "Libluth the Steadfast",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Legendary Creature — Elf Scout",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/47_Libluth the Steadfast.png"
+			}
+		},
+		{
+			"name": "Yadi, Carmine Priestess",
+			"rarity": "mythic",
+			"mana_cost": "{W}{B}",
+			"type": "Legendary Creature — Human Cleric",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/67_Yadi, Carmine Priestess.png"
+			}
+		},
+		{
+			"name": "Darice, Waygate Magi",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/28_Darice, Waygate Magi.png"
+			}
+		},
+		{
+			"name": "Cit, Wayfinder",
+			"rarity": "mythic",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Legendary Creature — Elf Druid",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/24_Cit, Wayfinder.png"
+			}
+		},
+		{
+			"name": "Grem, Plague Seraph",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}{G}",
+			"type": "Legendary Creature — Angel",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/39_Grem, Plague Seraph.png"
+			}
+		},
+		{
+			"name": "Aloro, Torchbearer",
+			"rarity": "mythic",
+			"mana_cost": "{3}{R}{W}",
+			"type": "Legendary Creature — Avatar",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/18_Aloro, Torchbearer.png"
+			}
+		},
+		{
+			"name": "Agare, Giver of Knowing",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Legendary Creature — Demon",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/17_Agare, Giver of Knowing.png"
+			}
+		}
+	]
+
+[rare(1)]
+	1 Oro, Brass Tyrant
+	1 Ashur, Roaming Library
+	1 Dammuk, Farseeker
+	1 Esteemed Marroc
+	1 Ean, Ebbing Tide
+	1 Eluz, Eternal Shepherd
+	1 Amuz, Dune Giant
+	1 Dishkur, Pulsing Core
+	1 Erragal, Red Hunter
+	1 Nusbil, Arid Wind
+	1 Io, Stargazer
+	1 Saraf, Ivory Weaver
+	1 Namash, Ever Famished
+	1 Zabu, Parasitic Bloom
+	1 Mugan, Harmonious
+	1 Nidab, Forgotten Vestige
+	1 Kitu, Vast Aurora
+	1 Nin, Daydreamer
+	1 Lahar, Many Bodied
+	1 Utash, Great Wanderer
+	1 Shifter Manzet
+	1 Irrah, Ashen Ravager
+	1 Aru, Blinding Seraph
+	1 Mezza, August Empress
+	1 Fayah, Rousing Magnate
+	1 Emil, God of Clouds
+	1 Arati, God of Reflections
+	1 Ishim, God of Dusk
+	1 Yshnu, God of Stars
+	1 Anuun, God of Snakes
+	1 Lilu, Secluded Archivist
+	1 Gala, Bone Mistress
+	1 Getana, Plasm Legionary
+	1 Trusted Nurta
+	1 Shadowed Hanzu
+	2 Plasm Raptor
+	2 Plasm Crab
+	2 Plasm Hound
+	2 Plasm Arthropod
+	2 Plasm Serpent
+	1 Ninisina, Gilded Herald
+	1 Claudia, Faceless Mogul
+	1 Ereni, Pale Monarch
+	1 Tiame, Visionary Elder
+	1 Fahad, Oasis King
+	1 Guardian of Paradise
+	1 Dharman, Gold Chariot
+	1 Hesah, King of Snakes
+	1 Zagal, Wayward Minstrel
+	1 Warad, the Red Hand
+	1 Anzu, All-Consuming
+	1 Urukh the Shadowed
+	1 Durg, Enclave's Warden
+	1 Baal, Avaricious
+	1 Ea, Magi of the Oasis
+	1 Zaeyr the Veiled
+	1 Mergho, Sky Ancient
+	1 Saasa, Dark Witch
+	1 Corvu, Ambling Hermit
+	1 Mother of Beasts
+	1 Cuith, War Patroness
+	1 Dir, Venerated One
+	1 Idad, Cycle Tender
+	1 Ussuh, Ever Burgeoning
+	1 Signi, Spiritfire
+	1 Shamash, Triumphant
+	1 Transcendent Agnar
+	1 Sola, the Sunrise
+	1 Libluth the Steadfast
+	1 Yadi, Carmine Priestess
+	1 Darice, Waygate Magi
+	1 Cit, Wayfinder
+	1 Grem, Plague Seraph
+	1 Aloro, Torchbearer
+	1 Agare, Giver of Knowing
+[uncommon(3)]
+	4 Overgrown Atheneum
+	4 Lofty Atheneum
+	4 Sunken Atheneum
+	4 Secluded Atheneum
+	4 Mystic Atheneum
+	4 Tactitian's Outpost
+	4 Druid's Sanctuary
+	4 Scoundrel's Camp
+	4 Morphic Verge
+	4 Fabled Passage
+	4 Floodwater Depths
+	4 Grim Bastion
+	4 Magmatic Torrent
+	4 Mysterious Cataract
+	4 Sunlit Highland
+	4 Barren Desolation
+	4 Shardstone Rift
+	4 Timber Range
+	4 Ocean Monastery
+	4 Amber Hills
+	4 Fell Glade
+	4 Resting Dunes
+	4 Hushed Oasis
+	4 Magma Ridge
+	4 Rotbed Mire
+	4 Bustling Marketplace
+	4 New Divide
+	4 Pinnacle Portal
+	4 Archmage's Tower
+	4 Chamber of Ceremonies
+	4 Watched Bazaar
+	4 Dormant Remnant
+	4 Prismatic Cavern
+	4 Rogue's Passage
+	4 Blossoming Expanse
+	4 Grand Citadel
+	4 Sunrise Exchange
+	4 Necromancer's Den
+	4 Tyrant's Cathedral
+	4 Hermit's Refuge
+	4 Regent's Metropolis
+	4 Mage's Repository
+	4 Wanderer's Shrine
+	4 Benefactor's Altar
+	4 Autumn Canopy
+	4 Cloudsteel Summit
+	4 Cursed Wastes
+	4 Ghostspore Mire
+	4 Molten Falls
+	4 Resculpted Gorge
+	4 Shuddering Node
+	4 Soaring Rainforest
+	4 Steamlit Peaks
+	4 Timeless Shrine
+	4 Ghost Quarter
+[common(7)]
+[foil(1)]
+	1 Oro, Brass Tyrant
+	1 Ashur, Roaming Library
+	1 Dammuk, Farseeker
+	1 Esteemed Marroc
+	1 Ean, Ebbing Tide
+	1 Eluz, Eternal Shepherd
+	1 Amuz, Dune Giant
+	1 Dishkur, Pulsing Core
+	1 Erragal, Red Hunter
+	1 Nusbil, Arid Wind
+	1 Io, Stargazer
+	1 Saraf, Ivory Weaver
+	1 Namash, Ever Famished
+	1 Zabu, Parasitic Bloom
+	1 Mugan, Harmonious
+	1 Nidab, Forgotten Vestige
+	1 Kitu, Vast Aurora
+	1 Nin, Daydreamer
+	1 Lahar, Many Bodied
+	1 Utash, Great Wanderer
+	1 Shifter Manzet
+	1 Irrah, Ashen Ravager
+	1 Aru, Blinding Seraph
+	1 Mezza, August Empress
+	1 Fayah, Rousing Magnate
+	1 Emil, God of Clouds
+	1 Arati, God of Reflections
+	1 Ishim, God of Dusk
+	1 Yshnu, God of Stars
+	1 Anuun, God of Snakes
+	1 Lilu, Secluded Archivist
+	1 Gala, Bone Mistress
+	1 Getana, Plasm Legionary
+	1 Trusted Nurta
+	1 Shadowed Hanzu
+	6 Overgrown Atheneum
+	6 Lofty Atheneum
+	6 Sunken Atheneum
+	6 Secluded Atheneum
+	6 Mystic Atheneum
+	6 Tactitian's Outpost
+	6 Druid's Sanctuary
+	6 Scoundrel's Camp
+	6 Morphic Verge
+	6 Fabled Passage
+	6 Floodwater Depths
+	6 Grim Bastion
+	6 Magmatic Torrent
+	6 Mysterious Cataract
+	6 Sunlit Highland
+	6 Barren Desolation
+	6 Shardstone Rift
+	6 Timber Range
+	6 Ocean Monastery
+	6 Amber Hills
+	6 Fell Glade
+	6 Resting Dunes
+	6 Hushed Oasis
+	6 Magma Ridge
+	6 Rotbed Mire
+	6 Bustling Marketplace
+	6 New Divide
+	6 Pinnacle Portal
+	6 Archmage's Tower
+	6 Chamber of Ceremonies
+	6 Watched Bazaar
+	6 Dormant Remnant
+	6 Prismatic Cavern
+	6 Rogue's Passage
+	6 Blossoming Expanse
+	6 Grand Citadel
+	6 Sunrise Exchange
+	6 Necromancer's Den
+	6 Tyrant's Cathedral
+	6 Hermit's Refuge
+	6 Regent's Metropolis
+	6 Mage's Repository
+	6 Wanderer's Shrine
+	6 Benefactor's Altar
+	6 Autumn Canopy
+	6 Cloudsteel Summit
+	6 Cursed Wastes
+	6 Ghostspore Mire
+	6 Molten Falls
+	6 Resculpted Gorge
+	6 Shuddering Node
+	6 Soaring Rainforest
+	6 Steamlit Peaks
+	6 Timeless Shrine
+	2 Plasm Raptor
+	2 Plasm Crab
+	2 Plasm Hound
+	2 Plasm Arthropod
+	2 Plasm Serpent
+	6 Ghost Quarter
+	1 Ninisina, Gilded Herald
+	1 Claudia, Faceless Mogul
+	1 Ereni, Pale Monarch
+	1 Tiame, Visionary Elder
+	1 Fahad, Oasis King
+	1 Guardian of Paradise
+	1 Dharman, Gold Chariot
+	1 Hesah, King of Snakes
+	1 Zagal, Wayward Minstrel
+	1 Warad, the Red Hand
+	1 Anzu, All-Consuming
+	1 Urukh the Shadowed
+	1 Durg, Enclave's Warden
+	1 Baal, Avaricious
+	1 Ea, Magi of the Oasis
+	1 Zaeyr the Veiled
+	1 Mergho, Sky Ancient
+	1 Saasa, Dark Witch
+	1 Corvu, Ambling Hermit
+	1 Mother of Beasts
+	1 Cuith, War Patroness
+	1 Dir, Venerated One
+	1 Idad, Cycle Tender
+	1 Ussuh, Ever Burgeoning
+	1 Signi, Spiritfire
+	1 Shamash, Triumphant
+	1 Transcendent Agnar
+	1 Sola, the Sunrise
+	1 Libluth the Steadfast
+	1 Yadi, Carmine Priestess
+	1 Darice, Waygate Magi
+	1 Cit, Wayfinder
+	1 Grem, Plague Seraph
+	1 Aloro, Torchbearer
+	1 Agare, Giver of Knowing
+[wildcard(1)]
+	4 Oro, Brass Tyrant
+	4 Ashur, Roaming Library
+	4 Dammuk, Farseeker
+	4 Esteemed Marroc
+	4 Ean, Ebbing Tide
+	4 Eluz, Eternal Shepherd
+	4 Amuz, Dune Giant
+	4 Dishkur, Pulsing Core
+	4 Erragal, Red Hunter
+	4 Nusbil, Arid Wind
+	4 Io, Stargazer
+	4 Saraf, Ivory Weaver
+	4 Namash, Ever Famished
+	4 Zabu, Parasitic Bloom
+	4 Mugan, Harmonious
+	4 Nidab, Forgotten Vestige
+	4 Kitu, Vast Aurora
+	4 Nin, Daydreamer
+	4 Lahar, Many Bodied
+	4 Utash, Great Wanderer
+	4 Shifter Manzet
+	4 Irrah, Ashen Ravager
+	4 Aru, Blinding Seraph
+	4 Mezza, August Empress
+	4 Fayah, Rousing Magnate
+	4 Emil, God of Clouds
+	4 Arati, God of Reflections
+	4 Ishim, God of Dusk
+	4 Yshnu, God of Stars
+	4 Anuun, God of Snakes
+	4 Lilu, Secluded Archivist
+	4 Gala, Bone Mistress
+	4 Getana, Plasm Legionary
+	4 Trusted Nurta
+	4 Shadowed Hanzu
+	15 Overgrown Atheneum
+	15 Lofty Atheneum
+	15 Sunken Atheneum
+	15 Secluded Atheneum
+	15 Mystic Atheneum
+	15 Tactitian's Outpost
+	15 Druid's Sanctuary
+	15 Scoundrel's Camp
+	15 Morphic Verge
+	15 Fabled Passage
+	15 Floodwater Depths
+	15 Grim Bastion
+	15 Magmatic Torrent
+	15 Mysterious Cataract
+	15 Sunlit Highland
+	15 Barren Desolation
+	15 Shardstone Rift
+	15 Timber Range
+	15 Ocean Monastery
+	15 Amber Hills
+	15 Fell Glade
+	15 Resting Dunes
+	15 Hushed Oasis
+	15 Magma Ridge
+	15 Rotbed Mire
+	15 Bustling Marketplace
+	15 New Divide
+	15 Pinnacle Portal
+	15 Archmage's Tower
+	15 Chamber of Ceremonies
+	15 Watched Bazaar
+	15 Dormant Remnant
+	15 Prismatic Cavern
+	15 Rogue's Passage
+	15 Blossoming Expanse
+	15 Grand Citadel
+	15 Sunrise Exchange
+	15 Necromancer's Den
+	15 Tyrant's Cathedral
+	15 Hermit's Refuge
+	15 Regent's Metropolis
+	15 Mage's Repository
+	15 Wanderer's Shrine
+	15 Benefactor's Altar
+	15 Autumn Canopy
+	15 Cloudsteel Summit
+	15 Cursed Wastes
+	15 Ghostspore Mire
+	15 Molten Falls
+	15 Resculpted Gorge
+	15 Shuddering Node
+	15 Soaring Rainforest
+	15 Steamlit Peaks
+	15 Timeless Shrine
+	7 Plasm Raptor
+	7 Plasm Crab
+	7 Plasm Hound
+	7 Plasm Arthropod
+	7 Plasm Serpent
+	15 Ghost Quarter
+	4 Ninisina, Gilded Herald
+	4 Claudia, Faceless Mogul
+	4 Ereni, Pale Monarch
+	4 Tiame, Visionary Elder
+	4 Fahad, Oasis King
+	4 Guardian of Paradise
+	4 Dharman, Gold Chariot
+	4 Hesah, King of Snakes
+	4 Zagal, Wayward Minstrel
+	4 Warad, the Red Hand
+	4 Anzu, All-Consuming
+	4 Urukh the Shadowed
+	4 Durg, Enclave's Warden
+	4 Baal, Avaricious
+	4 Ea, Magi of the Oasis
+	4 Zaeyr the Veiled
+	4 Mergho, Sky Ancient
+	4 Saasa, Dark Witch
+	4 Corvu, Ambling Hermit
+	4 Mother of Beasts
+	4 Cuith, War Patroness
+	4 Dir, Venerated One
+	4 Idad, Cycle Tender
+	4 Ussuh, Ever Burgeoning
+	4 Signi, Spiritfire
+	4 Shamash, Triumphant
+	4 Transcendent Agnar
+	4 Sola, the Sunrise
+	4 Libluth the Steadfast
+	4 Yadi, Carmine Priestess
+	4 Darice, Waygate Magi
+	4 Cit, Wayfinder
+	4 Grem, Plague Seraph
+	4 Aloro, Torchbearer
+	4 Agare, Giver of Knowing
