@@ -1,4 +1,377 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+Ein, Ebbing Tide added.
+Ussuh, the Burgeoning added.
+Commander's Sphere added.
+Coalition Relic added.
+Chromatic Lantern added.
+Solemn Simulacrum added.
+Elixir of Perpetuity added.
+Inscrutable Talisman added.
+Sunset Pyramid added.
+Cosmic Chart added.
+Ring of Souls added.
+Clock of Seasons added.
+Runic Pillars added.
+Chamber of Reflections added.
+Skybright Obelisk added.
+Newleaf Obelisk added.
+Helltide Obelisk added.
+Gravemurk Obelisk added.
+Stormshore Obelisk added.
+Shadowbog Obelisk added.
+Cliffhome Obelisk added.
+Lilypond Obelisk added.
+Woodbellow Obelisk added.
+Dusklight Obelisk added.
+Pendant of Being added.
+Lost King's Crown added.
+Ring of Eternal Promise added.
+The Great Work added.
+Blade of Self added.
+Gate to Paradise added.
+Seizing the Throne added.
+Infernal Proclamation added.
+Royal Bank added.
+Hall of Scholars added.
+Sigil of Autumn added.
+Sigil of Winter added.
+Sigil of Reaping added.
+Sigil of Summer added.
+Sigil of Spring added.
+Colossal Gate added.
+Bygone Gate added.
+Enigmatic Gate added.
+Desolate Gate added.
+Ineffable Gate added.
+Conqueror's Greaves added.
+Ethereal Vagabond added.
+Wayfarer's Familiar added.
+Scout's Compass added.
+Ligosomnia Engine added.
+Assembling Spheres added.
+Answer to Prayers added.
+Zagal's Beating Heart added.
+Forgotten Volume added.
+Robust Manuscript added.
+Enchanted Scroll added.
+Malefic Grimoire added.
+Alchemical Journal added.
+
+Ean, Ebbing Tide removed.
+Ussuh, Ever Burgeoning removed.
+
+Oro, Brass Tyrant
+
+Ashur, Roaming Library
+
+Dammuk, Farseeker
+
+Esteemed Marroc
+
+Eluz, Eternal Shepherd
+
+Amuz, Dune Giant
+
+Dishkur, Pulsing Core
+
+Erragal, Red Hunter
+rules_text: Delve [i](Each card you exile from your graveyard while casting this spell pays for {1}.)[/i]
+Haste, menace
+Whenever Erragal deals combat damage to a player, each player loses a sanity. [i](Losing sanity reduces a player's maximum hand size. Pay {2} as a sorcery to regain a sanity.)[/i] => Delve [i](Each card you exile from your graveyard while casting this spell pays for {1}.)[/i]
+Haste, menace
+Whenever Erragal deals combat damage to a player, each player gets two frenzy counters. [i](Frenzy counters reduce a player's maximum hand size. Pay {2} as a sorcery to remove a frenzy counter.)[/i]
+
+Nusbil, Arid Wind
+
+Io, Stargazer
+
+Saraf, Ivory Weaver
+rules_text: Surface {1}{B}{G}{U} [i](When this card is put into your graveyard from your library, you may exile it. You may cast it later from exile for its surface cost.)[/i]
+Whenever Saraf attacks, exile a permanent card from your graveyard and create a token copy of it. Sacrifice that copy at the end of your next turn.
+When Saraf leaves, put it in your library four cards from top. => Escape—{1}{B}{G}{U}, Exile four other cards from your graveyard.
+When Saraf enters, mill four cards.
+Whenever Saraf attacks, shuffle a permanent card from your graveyard into its owner's library and create a token copy of it with decayed.
+
+Namash, Ever Famished
+
+Zabu, Parasitic Bloom
+
+Mugan, Harmonious
+
+Nidab, Forgotten Vestige
+
+Kitu, Vast Aurora
+
+Nin, Daydreamer
+
+Lahar, Many Bodied
+
+Utash, Great Wanderer
+
+Shifter Manzet
+rules_text: Before you shuffle your deck to start the game, you may reveal this card from your deck or command zone. When you do, for each color, exile up to one creature card you drafted of that color that isn't in your deck.
+Changeling
+{2}: Shifter Manzet becomes a copy of a card exiled with cards named Shifter Manzet, except it has this ability. => Before you shuffle your deck to start the game, you may reveal this card from your deck or command zone. When you do, for each color, exile up to one creature card you own of that color from outside the game.
+Changeling
+{2}: Shifter Manzet becomes a copy of a card exiled with cards named Shifter Manzet, except it has this ability.
+
+Irrah, Ashen Ravager
+
+Aru, Blinding Seraph
+
+Mezza, August Empress
+
+Fayah, Rousing Magnate
+rules_text: [i]Parley[/i] — At the beginning of combat on your turn, each player reveals the top card of their library. For each land card revealed this way, create a tapped Treasure token. For each nonland card revealed this way, target legendary creature you control gets +2/+2 and gains haste until end of turn. Then each player draws a card. => [i]Parley[/i] — At the beginning of combat on your turn, each player reveals the top card of their library. For each land card revealed this way, create a Treasure token. For each nonland card revealed this way, target legendary creature you control gets +2/+2 and gains haste until end of turn. Then each player draws a card.
+
+Emil, God of Clouds
+
+Arati, God of Reflections
+
+Ishim, God of Dusk
+
+Yshnu, God of Stars
+
+Anuun, God of Snakes
+
+Lilu, Secluded Archivist
+
+Gala, Bone Mistress
+
+Getana, Plasm Legionary
+
+Trusted Nurta
+
+Shadowed Hanzu
+
+Overgrown Atheneum
+
+Lofty Atheneum
+
+Sunken Atheneum
+
+Secluded Atheneum
+
+Mystic Atheneum
+
+Tactitian's Outpost
+
+Druid's Sanctuary
+
+Scoundrel's Camp
+
+Command Tower
+
+Morphic Verge
+
+Fabled Passage
+
+Floodwater Depths
+
+Grim Bastion
+
+Magmatic Torrent
+
+Mysterious Cataract
+
+Sunlit Highland
+
+Barren Desolation
+
+Shardstone Rift
+
+Timber Range
+
+Ocean Monastery
+
+Amber Hills
+
+Fell Glade
+
+Resting Dunes
+
+Hushed Oasis
+
+Magma Ridge
+
+Rotbed Mire
+
+Bustling Marketplace
+
+New Divide
+
+Pinnacle Portal
+
+Archmage's Tower
+
+Chamber of Ceremonies
+
+Watched Bazaar
+
+Dormant Remnant
+
+Prismatic Cavern
+
+Rogue's Passage
+
+Blossoming Expanse
+
+Grand Citadel
+
+Sunrise Exchange
+
+Necromancer's Den
+
+Tyrant's Cathedral
+
+Hermit's Refuge
+
+Regent's Metropolis
+
+Mage's Repository
+
+Wanderer's Shrine
+
+Benefactor's Altar
+
+Autumn Canopy
+
+Cloudsteel Summit
+
+Cursed Wastes
+
+Ghostspore Mire
+
+Molten Falls
+
+Resculpted Gorge
+
+Shuddering Node
+
+Soaring Rainforest
+
+Steamlit Peaks
+
+Timeless Shrine
+
+Plasm Raptor
+
+Plasm Crab
+
+Plasm Hound
+
+Plasm Arthropod
+
+Plasm Serpent
+
+Nameless Anachronism
+
+Ghost Quarter
+
+Arcane Signet
+
+Ninisina, Gilded Herald
+
+Claudia, Faceless Mogul
+
+Ereni, Pale Monarch
+
+Tiame, Visionary Elder
+
+Fahad, Oasis King
+
+Guardian of Paradise
+
+Dharman, Gold Chariot
+
+Hesah, King of Snakes
+
+Zagal, Wayward Minstrel
+
+Warad, the Red Hand
+
+Anzu, All-Consuming
+
+Urukh the Shadowed
+
+Durg, Enclave's Warden
+
+Baal, Avaricious
+rules_text: Whenever Baal enters or attacks, it connives. [i](Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on this creature.)[/i]
+Whenever you discard a card, if its mana value is less than Baal's power, you may exile it and create a Treasure token. You may play that card until the end of turn. => Whenever Baal enters or attacks, it connives.
+Whenever you discard a card, if its mana value is less than Baal's power, you may exile it and create a Treasure token. You may play that card until the end of turn.
+
+Ea, Magi of the Oasis
+
+Zaeyr the Veiled
+
+Mergho, Sky Ancient
+rules_text: Flying, protection from black and red
+When Mergho enters, aetherize any number of other permanents you control. [i](To aetherize, create a token that's a copy of it, then exile that token.)[/i] => Flying, protection from black and red
+When Mergho enters for the first time each turn, aetherize any number of other permanents you control. [i](To aetherize, create a token that's a copy of it, then exile that token.)[/i]
+
+Saasa, Dark Witch
+
+Corvu, Ambling Hermit
+rules_text: [+1]: Until end of turn, Corvu becomes a 1/2 Bird Avatar creature with flying and indestructible. It connives. [i](Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on that creature.)[/i]
+[-3]: Destroy target creature. Its controller discards a card.
+[-8]: You get an emblem with “Whenever a player discards a card, this emblem deals 1 damage to each opponent.” => [+1]: Until end of turn, Corvu becomes a 1/2 Bird Avatar creature with flying, haste, and indestructible. It connives.
+[-3]: Destroy target creature. Its controller gets two frenzy counters. [i](Frenzy counters reduce a player's maximum hand size. Pay {2} as a sorcery to remove a frenzy counter.)[/i]
+[-8]: You get an emblem with “Whenever a player discards a card, this emblem deals 1 damage to each opponent.”
+special_text: [+1]: Until end of turn, Corvu becomes a 1/2 Bird Avatar creature with flying and indestructible. It connives. [i](Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on that creature.)[/i]
+[-3]: Destroy target creature. Its controller discards a card.
+[-8]: You get an emblem with “Whenever a player discards a card, this emblem deals 1 damage to each opponent.” => [+1]: Until end of turn, Corvu becomes a 1/2 Bird Avatar creature with flying, haste, and indestructible. It connives.
+[-3]: Destroy target creature. Its controller gets two frenzy counters. [i](Frenzy counters reduce a player's maximum hand size. Pay {2} as a sorcery to remove a frenzy counter.)[/i]
+[-8]: You get an emblem with “Whenever a player discards a card, this emblem deals 1 damage to each opponent.”
+
+Mother of Beasts
+
+Cuith, War Patroness
+
+Dir, Venerated One
+rules_text: Reincarnate [i](When this creature dies, if it isn't a token, create a token copy of it except it's a 1/1 Spirit in addition to its other types and has flying.)[/i]
+If one or more tokens would be created under your control, those tokens plus that many additional 1/1 colorless Spirit creature tokens with flying are created. Create that many Idol tokens. => Reincarnate [i](When this creature dies, if it isn't a token, create a token copy of it with flying except it's a 1/1 Spirit in addition to its other types.)[/i]
+When Dir enters or dies, create a 1/1 colorless Spirit creature token with flying. Then you draw a card and create an Idol token for each differently named token you control.
+
+Idad, Cycle Tender
+rules_text: Lifelink
+When Idad enters, create a 1/1 black Bird creature token with flying, then populate.
+Tokens you control have “{T}, Pay 1 life: Add one mana of any color.” => Lifelink
+When Idad enters, create a 1/1 black Bird creature token with flying or populate.
+Tokens you control have “{T}, Pay 1 life: Add one mana of any color.”
+pt: 1/1 => 1/2
+
+Signi, Spiritfire
+rules_text: Surge {1}{U}{R}
+Double strike, prowess
+Whenever Signi, Spiritfire deals combat damage to a player, look at that many cards from the top of your library. You may put one of them into your hand and the rest into your graveyard. => Surge {1}{U}{R}
+Double strike, prowess
+Whenever Signi deals combat damage to a player, surveil that many cards then draw a card.
+
+Shamash, Triumphant
+
+Transcendent Agnar
+
+Sola, the Sunrise
+
+Libluth the Steadfast
+
+Yadi, Carmine Priestess
+
+Darice, Waygate Magi
+
+Cit, Wayfinder
+
+Grem, Plague Seraph
+
+Aloro, Torchbearer
+
+Agare, Giver of Knowing
+
+
+VERSION 2 CHANGELOG
 ====================
 
 Idol added.
