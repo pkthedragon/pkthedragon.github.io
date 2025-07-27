@@ -1,10 +1,16 @@
 ﻿{
+    "name": "Karna",
+    "formats": "",
+    "trimmed": "n",
+    "image_type": "png",
+    "draft_structure": "play booster",
+    "unpreviewed": "card back",
     "cards": [
         {
             "card_name": "Oro, Brass Tyrant",
             "color": "BRG",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2013 Elder Serpent",
+            "type": "Legendary Creature \u2014 Elder Serpent",
             "number": 55,
             "color_identity": "WUBRG",
             "cost": "{6}{B}{R}{G}",
@@ -17,14 +23,13 @@
             "loyalty": "",
             "artist": "Marc Simonetti",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Ashur, Roaming Library",
             "color": "WUR",
             "rarity": "mythic",
-            "type": "Legendary Enchantment Creature \u2013 Study Mount",
+            "type": "Legendary Enchantment Creature \u2014 Study Mount",
             "number": 22,
             "color_identity": "WUR",
             "cost": "{4}{U}{R}{W}",
@@ -37,14 +42,13 @@
             "loyalty": "",
             "artist": "Lee Deok Su",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Dammuk, Farseeker",
             "color": "UBG",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2013 Snake Beast",
+            "type": "Legendary Creature \u2014 Snake Beast",
             "number": 27,
             "color_identity": "UBG",
             "cost": "{B}{G}{U}",
@@ -57,14 +61,13 @@
             "loyalty": "",
             "artist": "Sergey Kykhylov",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Esteemed Marroc",
             "color": "WBG",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2013 Demon",
+            "type": "Legendary Creature \u2014 Demon",
             "number": 37,
             "color_identity": "WBG",
             "cost": "{1}{W}{B}{G}",
@@ -77,14 +80,13 @@
             "loyalty": "",
             "artist": "Natasha Nanook",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Ean, Ebbing Tide",
             "color": "WUG",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2013 Spirit Avatar",
+            "type": "Legendary Creature \u2014 Spirit Avatar",
             "number": 34,
             "color_identity": "WUG",
             "cost": "{2}{G}{W}{U}",
@@ -97,18 +99,17 @@
             "loyalty": "",
             "artist": "Jorge Jacinto",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Eluz, Eternal Shepherd",
             "color": "WUB",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2013 Zombie Spirit",
+            "type": "Legendary Creature \u2014 Zombie Spirit",
             "number": 35,
             "color_identity": "WUB",
             "cost": "{1}{W}{U}{B}",
-            "rules_text": "Ward\u2013Put a stun counter on target permanent you control.\nWhen Eluz enters, create a Mount token.\nWhenever one or more cards are put into your graveyard from your library, tap or untap target permanent that hasn't been targeted this way this turn.",
+            "rules_text": "Ward\u2014Put a stun counter on target permanent you control.\nWhen Eluz enters, create a Mount token.\nWhenever one or more cards are put into your graveyard from your library, tap or untap target permanent that hasn't been targeted this way this turn.",
             "flavor_text": "[i][/i]",
             "pt": "3/4",
             "special_text": "",
@@ -117,14 +118,13 @@
             "loyalty": "",
             "artist": "Brandon Moore",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Amuz, Dune Giant",
             "color": "WRG",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2013 Giant Avatar",
+            "type": "Legendary Creature \u2014 Giant Avatar",
             "number": 19,
             "color_identity": "WRG",
             "cost": "{3}{R}{G}{W}",
@@ -137,14 +137,13 @@
             "loyalty": "",
             "artist": "Martin Deschambault",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Dishkur, Pulsing Core",
             "color": "URG",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2013 Plant Mutant",
+            "type": "Legendary Creature \u2014 Plant Mutant",
             "number": 31,
             "color_identity": "URG",
             "cost": "{3}{G}{U}{R}",
@@ -157,14 +156,13 @@
             "loyalty": "",
             "artist": "Erskine DesignsPro",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Erragal, Red Hunter",
             "color": "UBR",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2013 Crocodile Demon",
+            "type": "Legendary Creature \u2014 Crocodile Demon",
             "number": 36,
             "color_identity": "UBR",
             "cost": "{5}{U}{B}{R}",
@@ -177,18 +175,17 @@
             "loyalty": "",
             "artist": "Kevin Sidharta",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Nusbil, Arid Wind",
             "color": "WBR",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2013 Dragon Sphinx",
+            "type": "Legendary Creature \u2014 Dragon Sphinx",
             "number": 54,
             "color_identity": "WBR",
             "cost": "{2}{R}{W}{B}",
-            "rules_text": "Flying, lifelink, haste\nVirulent 1 [i](Whenever this deals damage to a creature, that creature's controller gets a poison counter.)[/i]\n[i]Opulence[/i] \u2013 {3}{R}{W}{B}, {T}: Nusbil deals 4 damage divided among any number of target creatures. Activate only if you have the highest life total or are tied for the highest life total.",
+            "rules_text": "Flying, lifelink, haste\nVirulent 1 [i](Whenever this deals damage to a creature, that creature's controller gets a poison counter.)[/i]\n[i]Opulence[/i] \u2014 {3}{R}{W}{B}, {T}: Nusbil deals 4 damage divided among any number of target creatures. Activate only if you have the highest life total or are tied for the highest life total.",
             "flavor_text": "[i][/i]",
             "pt": "4/3",
             "special_text": "",
@@ -197,14 +194,13 @@
             "loyalty": "",
             "artist": "Simon Urban",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Io, Stargazer",
             "color": "WUR",
             "rarity": "mythic",
-            "type": "Legendary Planeswalker \u2013 Io",
+            "type": "Legendary Planeswalker \u2014 Io",
             "number": 43,
             "color_identity": "WUR",
             "cost": "{1}{U}{R}{W}",
@@ -217,14 +213,13 @@
             "loyalty": "",
             "artist": "Peter Mohrbacher",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Saraf, Ivory Weaver",
             "color": "UBG",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2013 Zombie Noble",
+            "type": "Legendary Creature \u2014 Zombie Noble",
             "number": 57,
             "color_identity": "UBG",
             "cost": "{3}{B}{G}{U}",
@@ -237,14 +232,13 @@
             "loyalty": "",
             "artist": "Maxwell Crabill",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Namash, Ever Famished",
             "color": "WBR",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2013 Demon",
+            "type": "Legendary Creature \u2014 Demon",
             "number": 51,
             "color_identity": "WBR",
             "cost": "{R}{W}{B}",
@@ -257,14 +251,13 @@
             "loyalty": "",
             "artist": "Peter Mohrbacher",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Zabu, Parasitic Bloom",
             "color": "URG",
             "rarity": "mythic",
-            "type": "Legendary Planeswalker \u2013 Zabu",
+            "type": "Legendary Planeswalker \u2014 Zabu",
             "number": 68,
             "color_identity": "URG",
             "cost": "{3}{G}{U}{R}",
@@ -279,7 +272,7 @@
             "alias": "",
             "card_name2": "Genesis",
             "color2": "G",
-            "type2": "Sorcery \u2013 Tale",
+            "type2": "Sorcery \u2014 Tale",
             "cost2": "{3}{G}{G}{G}",
             "rules_text2": "Create Zabu, a legendary 3/3 green Plant creature token with \u201cWhenever this attacks, proliferate twice.\u201d [i](Cast a copy of this spell once while this creature is on the battlefield.)[/i]",
             "flavor_text2": "[i][/i]",
@@ -288,18 +281,17 @@
             "loyalty2": "",
             "artist2": "",
             "alias2": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Mugan, Harmonious",
             "color": "WBG",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2013 Sphinx Beast",
+            "type": "Legendary Creature \u2014 Sphinx Beast",
             "number": 50,
             "color_identity": "WBG",
             "cost": "{W}{B}{G}",
-            "rules_text": "Flying\nWard\u2013Sacrifice a creature.\n[i]Stampede[/i] \u2013 Whenever Mugan and a creature with greater power attack, that creature bellows. [i](The next creature spell you cast this turn costs {X} less to cast, where X is that creature's power.)[/i]",
+            "rules_text": "Flying\nWard\u2014Sacrifice a creature.\n[i]Stampede[/i] \u2014 Whenever Mugan and a creature with greater power attack, that creature bellows. [i](The next creature spell you cast this turn costs {X} less to cast, where X is that creature's power.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "2/3",
             "special_text": "",
@@ -308,18 +300,17 @@
             "loyalty": "",
             "artist": "Marko Horvatin",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Nidab, Forgotten Vestige",
             "color": "WUB",
             "rarity": "mythic",
-            "type": "Legendary Artifact Creature \u2013 Statue",
+            "type": "Legendary Artifact Creature \u2014 Statue",
             "number": 52,
             "color_identity": "WUB",
             "cost": "{2}{W}{U}{B}",
-            "rules_text": "Defender, vigilance\n{T}: Scry 2. Create an Elixir token. Activate only as a sorcery. [i](It's an artifact with \u201c{1}, {T}, Sacrifice this: If you gained 4 or more life this turn, draw a card. Otherwise, you gain 2 life.\u201d)[/i]\n[i]Opulence[/i] \u2013 As long as you have the highest life total or are tied for the highest life total, Nidab gets +2/+0 and loses defender.",
+            "rules_text": "Defender, vigilance\n{T}: Scry 2. Create an Elixir token. Activate only as a sorcery. [i](It's an artifact with \u201c{1}, {T}, Sacrifice this: If you gained 4 or more life this turn, draw a card. Otherwise, you gain 2 life.\u201d)[/i]\n[i]Opulence[/i] \u2014 As long as you have the highest life total or are tied for the highest life total, Nidab gets +2/+0 and loses defender.",
             "flavor_text": "[i][/i]",
             "pt": "5/7",
             "special_text": "",
@@ -328,14 +319,13 @@
             "loyalty": "",
             "artist": "Vladimir Manyukhin",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Kitu, Vast Aurora",
             "color": "UBR",
             "rarity": "mythic",
-            "type": "Legendary Enchantment Creature \u2013 Wolf",
+            "type": "Legendary Enchantment Creature \u2014 Wolf",
             "number": 45,
             "color_identity": "UBR",
             "cost": "{2}{U}{B}{R}",
@@ -348,14 +338,13 @@
             "loyalty": "",
             "artist": "Erik Shoemaker",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Nin, Daydreamer",
             "color": "WRG",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2013 Angel",
+            "type": "Legendary Creature \u2014 Angel",
             "number": 53,
             "color_identity": "WRG",
             "cost": "{1}{R}{G}{W}",
@@ -370,7 +359,7 @@
             "alias": "",
             "card_name2": "The Call",
             "color2": "WRG",
-            "type2": "Sorcery \u2013 Dream",
+            "type2": "Sorcery \u2014 Dream",
             "cost2": "{5}{R}{G}{W}",
             "rules_text2": "Put a +1/+1 counter on each tapped creature you control. [i](Cast a copy once each turn you tapped this creature.)[/i]",
             "flavor_text2": "[i][/i]",
@@ -379,18 +368,17 @@
             "loyalty2": "",
             "artist2": "",
             "alias2": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Lahar, Many Bodied",
             "color": "BRG",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2013 Zombie",
+            "type": "Legendary Creature \u2014 Zombie",
             "number": 46,
             "color_identity": "BRG",
             "cost": "{3}{B}{R}{G}",
-            "rules_text": "When Lahar enters, choose two \u2013\n\u2022 Create a 2/2 black Zombie creature token with lifelink. \n\u2022 Create a 3/2 red Zombie creature token with trample.\n\u2022 Create a 2/3 green Zombie creature token with vigilance.\nAt the beginning of your upkeep, you may pay 3 life. If you do, populate.",
+            "rules_text": "When Lahar enters, choose two \u2014\n\u2022 Create a 2/2 black Zombie creature token with lifelink. \n\u2022 Create a 3/2 red Zombie creature token with trample.\n\u2022 Create a 2/3 green Zombie creature token with vigilance.\nAt the beginning of your upkeep, you may pay 3 life. If you do, populate.",
             "flavor_text": "[i][/i]",
             "pt": "3/5",
             "special_text": "",
@@ -399,18 +387,17 @@
             "loyalty": "",
             "artist": "Ari-Matti Toivonen",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Utash, Great Wanderer",
             "color": "WUG",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2013 Beast Spirit",
+            "type": "Legendary Creature \u2014 Beast Spirit",
             "number": 65,
             "color_identity": "WUG",
             "cost": "{4}{G}{W}{U}",
-            "rules_text": "Utash costs {1} less to cast for each nonbasic land you control.\n[i]Expanse[/i] \u2013 Whenever a nontoken land enters under a player's control, if two or more lands entered under their control this turn, draw a card and create an Oasis token. [i](It's a land with \u201c{T}, Sacrifice this: Add one mana of any color.\u201d)[/i]",
+            "rules_text": "Utash costs {1} less to cast for each nonbasic land you control.\n[i]Expanse[/i] \u2014 Whenever a nontoken land enters under a player's control, if two or more lands entered under their control this turn, draw a card and create an Oasis token. [i](It's a land with \u201c{T}, Sacrifice this: Add one mana of any color.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "5/6",
             "special_text": "",
@@ -419,14 +406,13 @@
             "loyalty": "",
             "artist": "Erik Shoemaker",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Shifter Manzet",
             "color": "WUBRG",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2013 Shapeshifter",
+            "type": "Legendary Creature \u2014 Shapeshifter",
             "number": 59,
             "color_identity": "WUBRG",
             "cost": "{W}{U}{B}{R}{G}",
@@ -439,14 +425,13 @@
             "loyalty": "",
             "artist": "Bastien Lecouffe Deharme",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Irrah, Ashen Ravager",
             "color": "BRG",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2013 Elemental",
+            "type": "Legendary Creature \u2014 Elemental",
             "number": 44,
             "color_identity": "BRG",
             "cost": "{2}{B}{R}{G}",
@@ -459,18 +444,17 @@
             "loyalty": "",
             "artist": "Shahab Alizadeh",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Aru, Blinding Seraph",
             "color": "WUBRG",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2013 Angel Reflection",
+            "type": "Legendary Creature \u2014 Angel Reflection",
             "number": 21,
             "color_identity": "WUBRG",
             "cost": "{2}{W}{U}{B}{R}{G}",
-            "rules_text": "Flying, first strike, vigilance, lifelink, trample\n[i]Augmented[/i] \u2013 If you've spent {W}{U}{B}{R}{G} to cast noncommander spells this turn, multicolored spells you cast cost {W}{U}{B}{R}{G} less to cast.",
+            "rules_text": "Flying, first strike, vigilance, lifelink, trample\n[i]Augmented[/i] \u2014 If you've spent {W}{U}{B}{R}{G} to cast noncommander spells this turn, multicolored spells you cast cost {W}{U}{B}{R}{G} less to cast.",
             "flavor_text": "[i][/i]",
             "pt": "5/5",
             "special_text": "",
@@ -479,14 +463,13 @@
             "loyalty": "",
             "artist": "Yuliya Zabelina",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Mezza, August Empress",
             "color": "W",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2013 Human Noble",
+            "type": "Legendary Creature \u2014 Human Noble",
             "number": 2,
             "color_identity": "WUBRG",
             "cost": "{3}{W}",
@@ -499,18 +482,17 @@
             "loyalty": "",
             "artist": "Resh DarkStar",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Fayah, Rousing Magnate",
             "color": "WUBRG",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2013 Human Bard",
+            "type": "Legendary Creature \u2014 Human Bard",
             "number": 38,
             "color_identity": "WUBRG",
             "cost": "{W}{U}{B}{R}{G}",
-            "rules_text": "[i]Parley[/i] \u2013 At the beginning of combat on your turn, each player reveals the top card of their library. For each land card revealed this way, create a tapped Treasure token. For each nonland card revealed this way, target legendary creature you control gets +2/+2 and gains haste until end of turn. Then each player draws a card.",
+            "rules_text": "[i]Parley[/i] \u2014 At the beginning of combat on your turn, each player reveals the top card of their library. For each land card revealed this way, create a tapped Treasure token. For each nonland card revealed this way, target legendary creature you control gets +2/+2 and gains haste until end of turn. Then each player draws a card.",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -519,14 +501,13 @@
             "loyalty": "",
             "artist": "Senfeng Chen",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Emil, God of Clouds",
             "color": "U",
             "rarity": "mythic",
-            "type": "Legendary Planeswalker \u2013 Emil",
+            "type": "Legendary Planeswalker \u2014 Emil",
             "number": 6,
             "color_identity": "U",
             "cost": "{2}{U}{U}",
@@ -550,14 +531,13 @@
             "loyalty2": "",
             "artist2": "Pablo Carpio",
             "alias2": "",
-            "notes": "!cycle:gods",
-            "image_type": "png"
+            "notes": "!cycle:gods"
         },
         {
             "card_name": "Arati, God of Reflections",
             "color": "W",
             "rarity": "mythic",
-            "type": "Legendary Planeswalker \u2013 Arati",
+            "type": "Legendary Planeswalker \u2014 Arati",
             "number": 1,
             "color_identity": "W",
             "cost": "{2}{W}",
@@ -581,14 +561,13 @@
             "loyalty2": "",
             "artist2": "Pierre Santamaria",
             "alias2": "",
-            "notes": "!cycle:gods",
-            "image_type": "png"
+            "notes": "!cycle:gods"
         },
         {
             "card_name": "Ishim, God of Dusk",
             "color": "R",
             "rarity": "mythic",
-            "type": "Legendary Planeswalker \u2013 Ishim",
+            "type": "Legendary Planeswalker \u2014 Ishim",
             "number": 12,
             "color_identity": "R",
             "cost": "{2}{R}",
@@ -612,14 +591,13 @@
             "loyalty2": "",
             "artist2": "Pierre Santamaria",
             "alias2": "",
-            "notes": "!cycle:gods",
-            "image_type": "png"
+            "notes": "!cycle:gods"
         },
         {
             "card_name": "Yshnu, God of Stars",
             "color": "B",
             "rarity": "mythic",
-            "type": "Legendary Planeswalker \u2013 Yshnu",
+            "type": "Legendary Planeswalker \u2014 Yshnu",
             "number": 10,
             "color_identity": "B",
             "cost": "{2}{B}{B}",
@@ -643,14 +621,13 @@
             "loyalty2": "",
             "artist2": "Johanna Rupprecht",
             "alias2": "",
-            "notes": "!cycle:gods",
-            "image_type": "png"
+            "notes": "!cycle:gods"
         },
         {
             "card_name": "Anuun, God of Snakes",
             "color": "G",
             "rarity": "mythic",
-            "type": "Legendary Planeswalker \u2013 Anuun",
+            "type": "Legendary Planeswalker \u2014 Anuun",
             "number": 14,
             "color_identity": "G",
             "cost": "{3}{G}{G}",
@@ -674,14 +651,13 @@
             "loyalty2": "",
             "artist2": "Yuan-wei Lee",
             "alias2": "",
-            "notes": "!cycle:gods",
-            "image_type": "png"
+            "notes": "!cycle:gods"
         },
         {
             "card_name": "Lilu, Secluded Archivist",
             "color": "U",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2013 Faerie Advisor",
+            "type": "Legendary Creature \u2014 Faerie Advisor",
             "number": 7,
             "color_identity": "U",
             "cost": "{U}",
@@ -694,14 +670,13 @@
             "loyalty": "",
             "artist": "Taras Susak",
             "alias": "",
-            "notes": "!cycle:monobuddies",
-            "image_type": "png"
+            "notes": "!cycle:monobuddies"
         },
         {
             "card_name": "Gala, Bone Mistress",
             "color": "B",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2013 Human Warlock",
+            "type": "Legendary Creature \u2014 Human Warlock",
             "number": 9,
             "color_identity": "B",
             "cost": "{3}{B}",
@@ -714,14 +689,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "!cycle:monobuddies",
-            "image_type": "png"
+            "notes": "!cycle:monobuddies"
         },
         {
             "card_name": "Getana, Plasm Legionary",
             "color": "R",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2013 Human Warrior",
+            "type": "Legendary Creature \u2014 Human Warrior",
             "number": 11,
             "color_identity": "R",
             "cost": "{1}{R}",
@@ -734,14 +708,13 @@
             "loyalty": "",
             "artist": "Devon Cady-Lee",
             "alias": "",
-            "notes": "!cycle:monobuddies",
-            "image_type": "png"
+            "notes": "!cycle:monobuddies"
         },
         {
             "card_name": "Trusted Nurta",
             "color": "G",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2013 Turtle Citizen",
+            "type": "Legendary Creature \u2014 Turtle Citizen",
             "number": 16,
             "color_identity": "G",
             "cost": "{2}{G}{G}",
@@ -754,18 +727,17 @@
             "loyalty": "",
             "artist": "Jo\u00e3o G. Santos",
             "alias": "",
-            "notes": "!cycle:monobuddies",
-            "image_type": "png"
+            "notes": "!cycle:monobuddies"
         },
         {
             "card_name": "Shadowed Hanzu",
             "color": "W",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2013 Elf Rogue",
+            "type": "Legendary Creature \u2014 Elf Rogue",
             "number": 4,
             "color_identity": "W",
             "cost": "{3}{W}{W}",
-            "rules_text": "Skulk\n[i]Stampede[/i] \u2013 Whenever a commander you control and a creature with greater power than it attack, they both gain double strike until end of turn.\nPartner",
+            "rules_text": "Skulk\n[i]Stampede[/i] \u2014 Whenever a commander you control and a creature with greater power than it attack, they both gain double strike until end of turn.\nPartner",
             "flavor_text": "[i][/i]",
             "pt": "2/4",
             "special_text": "",
@@ -774,14 +746,13 @@
             "loyalty": "",
             "artist": "Rostyslav Zagornov",
             "alias": "",
-            "notes": "!cycle:monobuddies",
-            "image_type": "png"
+            "notes": "!cycle:monobuddies"
         },
         {
             "card_name": "Overgrown Atheneum",
             "color": "",
             "rarity": "uncommon",
-            "type": "Enchantment Land \u2013 Study",
+            "type": "Enchantment Land \u2014 Study",
             "number": 108,
             "color_identity": "G",
             "cost": "",
@@ -794,14 +765,13 @@
             "loyalty": "",
             "artist": "Evitaer",
             "alias": "",
-            "notes": "!cycle:atheneum",
-            "image_type": "png"
+            "notes": "!cycle:atheneum"
         },
         {
             "card_name": "Lofty Atheneum",
             "color": "",
             "rarity": "uncommon",
-            "type": "Enchantment Land \u2013 Study",
+            "type": "Enchantment Land \u2014 Study",
             "number": 97,
             "color_identity": "W",
             "cost": "",
@@ -814,14 +784,13 @@
             "loyalty": "",
             "artist": "Chris Ostrowski",
             "alias": "",
-            "notes": "!cycle:atheneum",
-            "image_type": "png"
+            "notes": "!cycle:atheneum"
         },
         {
             "card_name": "Sunken Atheneum",
             "color": "",
             "rarity": "uncommon",
-            "type": "Enchantment Land \u2013 Study",
+            "type": "Enchantment Land \u2014 Study",
             "number": 122,
             "color_identity": "U",
             "cost": "",
@@ -834,14 +803,13 @@
             "loyalty": "",
             "artist": "Yuting Li",
             "alias": "",
-            "notes": "!cycle:atheneum",
-            "image_type": "png"
+            "notes": "!cycle:atheneum"
         },
         {
             "card_name": "Secluded Atheneum",
             "color": "",
             "rarity": "uncommon",
-            "type": "Enchantment Land \u2013 Study",
+            "type": "Enchantment Land \u2014 Study",
             "number": 117,
             "color_identity": "B",
             "cost": "",
@@ -854,14 +822,13 @@
             "loyalty": "",
             "artist": "Christian Otten",
             "alias": "",
-            "notes": "!cycle:atheneum",
-            "image_type": "png"
+            "notes": "!cycle:atheneum"
         },
         {
             "card_name": "Mystic Atheneum",
             "color": "",
             "rarity": "uncommon",
-            "type": "Enchantment Land \u2013 Study",
+            "type": "Enchantment Land \u2014 Study",
             "number": 104,
             "color_identity": "R",
             "cost": "",
@@ -874,8 +841,7 @@
             "loyalty": "",
             "artist": "Yuting Li",
             "alias": "",
-            "notes": "!cycle:atheneum",
-            "image_type": "png"
+            "notes": "!cycle:atheneum"
         },
         {
             "card_name": "Tactitian's Outpost",
@@ -885,7 +851,7 @@
             "number": 125,
             "color_identity": "WU",
             "cost": "",
-            "rules_text": "Pay 1 life, {T}: Add {W} or {U}.\n[i]Lieutenant[/i] \u2013 Sacrifice Tactitian's Outpost: Draw a card. Activate only if you control your commander.",
+            "rules_text": "Pay 1 life, {T}: Add {W} or {U}.\n[i]Lieutenant[/i] \u2014 Sacrifice Tactitian's Outpost: Draw a card. Activate only if you control your commander.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -894,8 +860,7 @@
             "loyalty": "",
             "artist": "Timothy Rodriguez",
             "alias": "",
-            "notes": "!cycle:commandland",
-            "image_type": "png"
+            "notes": "!cycle:commandland"
         },
         {
             "card_name": "Druid's Sanctuary",
@@ -905,7 +870,7 @@
             "number": 87,
             "color_identity": "WG",
             "cost": "",
-            "rules_text": "Pay 1 life, {T}: Add {G} or {W}.\n[i]Lieutenant[/i] \u2013 Sacrifice Druid's Sanctuary: Draw a card. Activate only if you control your commander.",
+            "rules_text": "Pay 1 life, {T}: Add {G} or {W}.\n[i]Lieutenant[/i] \u2014 Sacrifice Druid's Sanctuary: Draw a card. Activate only if you control your commander.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -914,8 +879,7 @@
             "loyalty": "",
             "artist": "Michal Domanski",
             "alias": "",
-            "notes": "!cycle:commandland",
-            "image_type": "png"
+            "notes": "!cycle:commandland"
         },
         {
             "card_name": "Scoundrel's Camp",
@@ -925,7 +889,7 @@
             "number": 116,
             "color_identity": "WR",
             "cost": "",
-            "rules_text": "Pay 1 life, {T}: Add {R} or {W}.\n[i]Lieutenant[/i] \u2013 Sacrifice Scoundrel's Camp: Draw a card. Activate only if you control your commander.",
+            "rules_text": "Pay 1 life, {T}: Add {R} or {W}.\n[i]Lieutenant[/i] \u2014 Sacrifice Scoundrel's Camp: Draw a card. Activate only if you control your commander.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -934,8 +898,7 @@
             "loyalty": "",
             "artist": "Sergii Golotovskiy",
             "alias": "",
-            "notes": "!cycle:commandland",
-            "image_type": "png"
+            "notes": "!cycle:commandland"
         },
         {
             "card_name": "Command Tower",
@@ -954,8 +917,7 @@
             "loyalty": "",
             "artist": "Scribble Pad Studios",
             "alias": "",
-            "notes": "!reprint",
-            "image_type": "png"
+            "notes": "!reprint"
         },
         {
             "card_name": "Morphic Verge",
@@ -974,8 +936,7 @@
             "loyalty": "",
             "artist": "Dominik Mayer",
             "alias": "",
-            "notes": "!reprint:way",
-            "image_type": "png"
+            "notes": "!reprint:way"
         },
         {
             "card_name": "Fabled Passage",
@@ -994,8 +955,7 @@
             "loyalty": "",
             "artist": "Konstantinos Skenteridis",
             "alias": "",
-            "notes": "!reprint",
-            "image_type": "png"
+            "notes": "!reprint"
         },
         {
             "card_name": "Floodwater Depths",
@@ -1014,8 +974,7 @@
             "loyalty": "",
             "artist": "Hada Bagus",
             "alias": "",
-            "notes": "!reprint:kzd\n!cycle:shockfetch",
-            "image_type": "png"
+            "notes": "!reprint:kzd\n!cycle:shockfetch"
         },
         {
             "card_name": "Grim Bastion",
@@ -1034,8 +993,7 @@
             "loyalty": "",
             "artist": "Dorje Bellbrook",
             "alias": "",
-            "notes": "!reprint:landbundle\n!cycle:shockfetch",
-            "image_type": "png"
+            "notes": "!reprint:landbundle\n!cycle:shockfetch"
         },
         {
             "card_name": "Magmatic Torrent",
@@ -1054,8 +1012,7 @@
             "loyalty": "",
             "artist": "RUPAM RAAJ R.",
             "alias": "",
-            "notes": "!reprint:landbundle\n!cycle:shockfetch",
-            "image_type": "png"
+            "notes": "!reprint:landbundle\n!cycle:shockfetch"
         },
         {
             "card_name": "Mysterious Cataract",
@@ -1074,8 +1031,7 @@
             "loyalty": "",
             "artist": "Drock Nicotine",
             "alias": "",
-            "notes": "!reprint:landbundle\n!cycle:shockfetch",
-            "image_type": "png"
+            "notes": "!reprint:landbundle\n!cycle:shockfetch"
         },
         {
             "card_name": "Sunlit Highland",
@@ -1094,8 +1050,7 @@
             "loyalty": "",
             "artist": "MIKAIL IL",
             "alias": "",
-            "notes": "!reprint:landbundle\n!cycle:shockfetch",
-            "image_type": "png"
+            "notes": "!reprint:landbundle\n!cycle:shockfetch"
         },
         {
             "card_name": "Barren Desolation",
@@ -1114,8 +1069,7 @@
             "loyalty": "",
             "artist": "Eren ARIK",
             "alias": "",
-            "notes": "!reprint:landbundle\n!cycle:shockfetch",
-            "image_type": "png"
+            "notes": "!reprint:landbundle\n!cycle:shockfetch"
         },
         {
             "card_name": "Shardstone Rift",
@@ -1134,8 +1088,7 @@
             "loyalty": "",
             "artist": "Fang yuan",
             "alias": "",
-            "notes": "!reprint:kzd\n!cycle:shockfetch",
-            "image_type": "png"
+            "notes": "!reprint:kzd\n!cycle:shockfetch"
         },
         {
             "card_name": "Timber Range",
@@ -1154,8 +1107,7 @@
             "loyalty": "",
             "artist": "Thomas L\u00e9pine",
             "alias": "",
-            "notes": "!reprint:kzd\n!cycle:shockfetch",
-            "image_type": "png"
+            "notes": "!reprint:kzd\n!cycle:shockfetch"
         },
         {
             "card_name": "Ocean Monastery",
@@ -1174,8 +1126,7 @@
             "loyalty": "",
             "artist": "ZQ\u674e\u9035\u6258\u65af",
             "alias": "",
-            "notes": "!reprint:kzd\n!cycle:shockfetch",
-            "image_type": "png"
+            "notes": "!reprint:kzd\n!cycle:shockfetch"
         },
         {
             "card_name": "Amber Hills",
@@ -1194,14 +1145,13 @@
             "loyalty": "",
             "artist": "Alex Petruk",
             "alias": "",
-            "notes": "!reprint:kzd\n!cycle:shockfetch",
-            "image_type": "png"
+            "notes": "!reprint:kzd\n!cycle:shockfetch"
         },
         {
             "card_name": "Fell Glade",
             "color": "",
             "rarity": "uncommon",
-            "type": "Land \u2013 Forest",
+            "type": "Land \u2014 Forest",
             "number": 89,
             "color_identity": "G",
             "cost": "",
@@ -1216,7 +1166,7 @@
             "alias": "",
             "card_name2": "Fellroot Bairn",
             "color2": "G",
-            "type2": "Creature \u2013 Plant",
+            "type2": "Creature \u2014 Plant",
             "cost2": "{1}{G}",
             "rules_text2": "Reach\n{G}, Sacrifice Fellroot Bairn: Destroy target artifact or enchantment.",
             "flavor_text2": "[i][/i]",
@@ -1225,14 +1175,13 @@
             "loyalty2": "",
             "artist2": "Alex Kuhn",
             "alias2": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Resting Dunes",
             "color": "",
             "rarity": "uncommon",
-            "type": "Land \u2013 Plains",
+            "type": "Land \u2014 Plains",
             "number": 113,
             "color_identity": "W",
             "cost": "",
@@ -1247,7 +1196,7 @@
             "alias": "",
             "card_name2": "Restless Servitor",
             "color2": "W",
-            "type2": "Creature \u2013 Spirit",
+            "type2": "Creature \u2014 Spirit",
             "cost2": "{2}{W}",
             "rules_text2": "Vigilance\n{W}, Sacrifice Restless Servitor: Creatures you control gain indestructible until end of turn.",
             "flavor_text2": "[i][/i]",
@@ -1256,14 +1205,13 @@
             "loyalty2": "",
             "artist2": "Jim \"Dreadjim\" Ling",
             "alias2": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Hushed Oasis",
             "color": "",
             "rarity": "uncommon",
-            "type": "Land \u2013 Island",
+            "type": "Land \u2014 Island",
             "number": 96,
             "color_identity": "U",
             "cost": "",
@@ -1278,7 +1226,7 @@
             "alias": "",
             "card_name2": "Hushwing Sprite",
             "color2": "U",
-            "type2": "Creature \u2013 Faerie",
+            "type2": "Creature \u2014 Faerie",
             "cost2": "{2}{U}",
             "rules_text2": "Flying\n{U}, Sacrifice Hushwing Sprite: Counter target noncreature spell unless its controller pays {3}.",
             "flavor_text2": "[i][/i]",
@@ -1287,14 +1235,13 @@
             "loyalty2": "",
             "artist2": "Benjamin Hill",
             "alias2": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Magma Ridge",
             "color": "",
             "rarity": "uncommon",
-            "type": "Land \u2013 Mountain",
+            "type": "Land \u2014 Mountain",
             "number": 99,
             "color_identity": "R",
             "cost": "",
@@ -1309,7 +1256,7 @@
             "alias": "",
             "card_name2": "Magmatic Hotspur",
             "color2": "R",
-            "type2": "Creature \u2013 Elemental",
+            "type2": "Creature \u2014 Elemental",
             "cost2": "{2}{R}{R}",
             "rules_text2": "Haste\n{R}, Sacrifice Magmatic Hotspur: Discard two cards, then draw two cards.",
             "flavor_text2": "[i][/i]",
@@ -1318,14 +1265,13 @@
             "loyalty2": "",
             "artist2": "Markella Stav",
             "alias2": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Rotbed Mire",
             "color": "",
             "rarity": "uncommon",
-            "type": "Land \u2013 Swamp",
+            "type": "Land \u2014 Swamp",
             "number": 115,
             "color_identity": "B",
             "cost": "",
@@ -1340,7 +1286,7 @@
             "alias": "",
             "card_name2": "Rotfang Mutt",
             "color2": "B",
-            "type2": "Creature \u2013 Dog",
+            "type2": "Creature \u2014 Dog",
             "cost2": "{3}{B}{B}",
             "rules_text2": "Menace\n{B}, Sacrifice Rotfang Mutt: Destroy target nonblack creature.",
             "flavor_text2": "[i][/i]",
@@ -1349,8 +1295,7 @@
             "loyalty2": "",
             "artist2": "Victor Garcia",
             "alias2": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Bustling Marketplace",
@@ -1369,8 +1314,7 @@
             "loyalty": "",
             "artist": "Asim A. Steckel",
             "alias": "",
-            "notes": "!reprint:swr",
-            "image_type": "png"
+            "notes": "!reprint:swr"
         },
         {
             "card_name": "New Divide",
@@ -1389,8 +1333,7 @@
             "loyalty": "",
             "artist": "Sam White",
             "alias": "",
-            "notes": "!reprint:lvs",
-            "image_type": "png"
+            "notes": "!reprint:lvs"
         },
         {
             "card_name": "Pinnacle Portal",
@@ -1409,8 +1352,7 @@
             "loyalty": "",
             "artist": "Andrew Szymanski",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Archmage's Tower",
@@ -1429,8 +1371,7 @@
             "loyalty": "",
             "artist": "Ga\u00e9tan 'Spartan' Weltzer",
             "alias": "",
-            "notes": "!reprint:swr",
-            "image_type": "png"
+            "notes": "!reprint:swr"
         },
         {
             "card_name": "Chamber of Ceremonies",
@@ -1449,8 +1390,7 @@
             "loyalty": "",
             "artist": "Ruan Jia",
             "alias": "",
-            "notes": "!reprint:swr",
-            "image_type": "png"
+            "notes": "!reprint:swr"
         },
         {
             "card_name": "Watched Bazaar",
@@ -1469,14 +1409,13 @@
             "loyalty": "",
             "artist": "Jesse van Aalderen",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Dormant Remnant",
             "color": "",
             "rarity": "uncommon",
-            "type": "Land \u2013 Animus",
+            "type": "Land \u2014 Animus",
             "number": 86,
             "color_identity": "C",
             "cost": "",
@@ -1489,8 +1428,7 @@
             "loyalty": "",
             "artist": "kisoo lee",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Prismatic Cavern",
@@ -1509,8 +1447,7 @@
             "loyalty": "",
             "artist": "Piotr Dura",
             "alias": "",
-            "notes": "!reprint:lvs",
-            "image_type": "png"
+            "notes": "!reprint:lvs"
         },
         {
             "card_name": "Rogue's Passage",
@@ -1529,8 +1466,7 @@
             "loyalty": "",
             "artist": "Jordan Grimmer",
             "alias": "",
-            "notes": "!reprint",
-            "image_type": "png"
+            "notes": "!reprint"
         },
         {
             "card_name": "Blossoming Expanse",
@@ -1549,8 +1485,7 @@
             "loyalty": "",
             "artist": "Nele Diel",
             "alias": "",
-            "notes": "!reprint:way",
-            "image_type": "png"
+            "notes": "!reprint:way"
         },
         {
             "card_name": "Grand Citadel",
@@ -1569,8 +1504,7 @@
             "loyalty": "",
             "artist": "Erin Lin",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Sunrise Exchange",
@@ -1589,8 +1523,7 @@
             "loyalty": "",
             "artist": "Olga Ok",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Necromancer's Den",
@@ -1600,7 +1533,7 @@
             "number": 105,
             "color_identity": "UB",
             "cost": "",
-            "rules_text": "Pay 1 life, {T}: Add {U} or {B}.\n[i]Lieutenant[/i] \u2013 Sacrifice Necromancer's Den: Draw a card. Activate only if you control your commander.",
+            "rules_text": "Pay 1 life, {T}: Add {U} or {B}.\n[i]Lieutenant[/i] \u2014 Sacrifice Necromancer's Den: Draw a card. Activate only if you control your commander.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1609,8 +1542,7 @@
             "loyalty": "",
             "artist": "Scribble Pad Studios",
             "alias": "",
-            "notes": "!cycle:commandland",
-            "image_type": "png"
+            "notes": "!cycle:commandland"
         },
         {
             "card_name": "Tyrant's Cathedral",
@@ -1620,7 +1552,7 @@
             "number": 128,
             "color_identity": "BR",
             "cost": "",
-            "rules_text": "Pay 1 life, {T}: Add {B} or {R}.\n[i]Lieutenant[/i] \u2013 Sacrifice Tyrant's Cathedral: Draw a card. Activate only if you control your commander.",
+            "rules_text": "Pay 1 life, {T}: Add {B} or {R}.\n[i]Lieutenant[/i] \u2014 Sacrifice Tyrant's Cathedral: Draw a card. Activate only if you control your commander.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1629,8 +1561,7 @@
             "loyalty": "",
             "artist": "Marc Simonetti",
             "alias": "",
-            "notes": "!cycle:commandland",
-            "image_type": "png"
+            "notes": "!cycle:commandland"
         },
         {
             "card_name": "Hermit's Refuge",
@@ -1640,7 +1571,7 @@
             "number": 95,
             "color_identity": "RG",
             "cost": "",
-            "rules_text": "Pay 1 life, {T}: Add {R} or {G}.\n[i]Lieutenant[/i] \u2013 Sacrifice Hermit's Refuge: Draw a card. Activate only if you control your commander.",
+            "rules_text": "Pay 1 life, {T}: Add {R} or {G}.\n[i]Lieutenant[/i] \u2014 Sacrifice Hermit's Refuge: Draw a card. Activate only if you control your commander.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1649,8 +1580,7 @@
             "loyalty": "",
             "artist": "ZUDartS Lee",
             "alias": "",
-            "notes": "!cycle:commandland",
-            "image_type": "png"
+            "notes": "!cycle:commandland"
         },
         {
             "card_name": "Regent's Metropolis",
@@ -1660,7 +1590,7 @@
             "number": 111,
             "color_identity": "WB",
             "cost": "",
-            "rules_text": "Pay 1 life, {T}: Add {W} or {B}.\n[i]Lieutenant[/i] \u2013 Sacrifice Regent's Metropolis: Draw a card. Activate only if you control your commander.",
+            "rules_text": "Pay 1 life, {T}: Add {W} or {B}.\n[i]Lieutenant[/i] \u2014 Sacrifice Regent's Metropolis: Draw a card. Activate only if you control your commander.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1669,8 +1599,7 @@
             "loyalty": "",
             "artist": "Jesse van Aalderen",
             "alias": "",
-            "notes": "!cycle:commandland",
-            "image_type": "png"
+            "notes": "!cycle:commandland"
         },
         {
             "card_name": "Mage's Repository",
@@ -1680,7 +1609,7 @@
             "number": 98,
             "color_identity": "UR",
             "cost": "",
-            "rules_text": "Pay 1 life, {T}: Add {U} or {R}.\n[i]Lieutenant[/i] \u2013 Sacrifice Mage's Repository: Draw a card. Activate only if you control your commander.",
+            "rules_text": "Pay 1 life, {T}: Add {U} or {R}.\n[i]Lieutenant[/i] \u2014 Sacrifice Mage's Repository: Draw a card. Activate only if you control your commander.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1689,8 +1618,7 @@
             "loyalty": "",
             "artist": "Asim A. Steckel",
             "alias": "",
-            "notes": "!cycle:commandland",
-            "image_type": "png"
+            "notes": "!cycle:commandland"
         },
         {
             "card_name": "Wanderer's Shrine",
@@ -1700,7 +1628,7 @@
             "number": 129,
             "color_identity": "UG",
             "cost": "",
-            "rules_text": "Pay 1 life, {T}: Add {G} or {U}.\n[i]Lieutenant[/i] \u2013 Sacrifice Wanderer's Shrine: Draw a card. Activate only if you control your commander.",
+            "rules_text": "Pay 1 life, {T}: Add {G} or {U}.\n[i]Lieutenant[/i] \u2014 Sacrifice Wanderer's Shrine: Draw a card. Activate only if you control your commander.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1709,8 +1637,7 @@
             "loyalty": "",
             "artist": "Mateusz Michalski",
             "alias": "",
-            "notes": "!cycle:commandland",
-            "image_type": "png"
+            "notes": "!cycle:commandland"
         },
         {
             "card_name": "Benefactor's Altar",
@@ -1720,7 +1647,7 @@
             "number": 80,
             "color_identity": "BG",
             "cost": "",
-            "rules_text": "Pay 1 life, {T}: Add {B} or {G}.\n[i]Lieutenant[/i] \u2013 Sacrifice Benefactor's Altar: Draw a card. Activate only if you control your commander.",
+            "rules_text": "Pay 1 life, {T}: Add {B} or {G}.\n[i]Lieutenant[/i] \u2014 Sacrifice Benefactor's Altar: Draw a card. Activate only if you control your commander.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1729,14 +1656,13 @@
             "loyalty": "",
             "artist": "Raja Nandepu",
             "alias": "",
-            "notes": "!cycle:commandland",
-            "image_type": "png"
+            "notes": "!cycle:commandland"
         },
         {
             "card_name": "Autumn Canopy",
             "color": "",
             "rarity": "uncommon",
-            "type": "Land \u2013 Mountain Forest",
+            "type": "Land \u2014 Mountain Forest",
             "number": 78,
             "color_identity": "RG",
             "cost": "",
@@ -1749,14 +1675,13 @@
             "loyalty": "",
             "artist": "ZQ\u674e\u9035\u6258\u65af",
             "alias": "",
-            "notes": "!reprint:way\n!cycle:filterland",
-            "image_type": "png"
+            "notes": "!reprint:way\n!cycle:filterland"
         },
         {
             "card_name": "Cloudsteel Summit",
             "color": "",
             "rarity": "uncommon",
-            "type": "Land \u2013 Mountain Plains",
+            "type": "Land \u2014 Mountain Plains",
             "number": 84,
             "color_identity": "WR",
             "cost": "",
@@ -1769,14 +1694,13 @@
             "loyalty": "",
             "artist": "Camille Sule",
             "alias": "",
-            "notes": "!reprint:way\n!cycle:filterland",
-            "image_type": "png"
+            "notes": "!reprint:way\n!cycle:filterland"
         },
         {
             "card_name": "Cursed Wastes",
             "color": "",
             "rarity": "uncommon",
-            "type": "Land \u2013 Plains Swamp",
+            "type": "Land \u2014 Plains Swamp",
             "number": 85,
             "color_identity": "WB",
             "cost": "",
@@ -1789,14 +1713,13 @@
             "loyalty": "",
             "artist": "Piotr Dura",
             "alias": "",
-            "notes": "!reprint:way\n!cycle:filterland",
-            "image_type": "png"
+            "notes": "!reprint:way\n!cycle:filterland"
         },
         {
             "card_name": "Ghostspore Mire",
             "color": "",
             "rarity": "uncommon",
-            "type": "Land \u2013 Island Swamp",
+            "type": "Land \u2014 Island Swamp",
             "number": 92,
             "color_identity": "UB",
             "cost": "",
@@ -1809,14 +1732,13 @@
             "loyalty": "",
             "artist": "Richard Benning",
             "alias": "",
-            "notes": "!reprint:way\n!cycle:filterland",
-            "image_type": "png"
+            "notes": "!reprint:way\n!cycle:filterland"
         },
         {
             "card_name": "Molten Falls",
             "color": "",
             "rarity": "uncommon",
-            "type": "Land \u2013 Swamp Mountain",
+            "type": "Land \u2014 Swamp Mountain",
             "number": 101,
             "color_identity": "BR",
             "cost": "",
@@ -1829,14 +1751,13 @@
             "loyalty": "",
             "artist": "Anna Makusheva",
             "alias": "",
-            "notes": "!reprint:way\n!cycle:filterland",
-            "image_type": "png"
+            "notes": "!reprint:way\n!cycle:filterland"
         },
         {
             "card_name": "Resculpted Gorge",
             "color": "",
             "rarity": "uncommon",
-            "type": "Land \u2013 Plains Island",
+            "type": "Land \u2014 Plains Island",
             "number": 112,
             "color_identity": "WU",
             "cost": "",
@@ -1849,14 +1770,13 @@
             "loyalty": "",
             "artist": "Ayan Nag",
             "alias": "",
-            "notes": "!reprint:way\n!cycle:filterland",
-            "image_type": "png"
+            "notes": "!reprint:way\n!cycle:filterland"
         },
         {
             "card_name": "Shuddering Node",
             "color": "",
             "rarity": "uncommon",
-            "type": "Land \u2013 Swamp Forest",
+            "type": "Land \u2014 Swamp Forest",
             "number": 119,
             "color_identity": "BG",
             "cost": "",
@@ -1869,14 +1789,13 @@
             "loyalty": "",
             "artist": "John Searcher",
             "alias": "",
-            "notes": "!reprint:way\n!cycle:filterland",
-            "image_type": "png"
+            "notes": "!reprint:way\n!cycle:filterland"
         },
         {
             "card_name": "Soaring Rainforest",
             "color": "",
             "rarity": "uncommon",
-            "type": "Land \u2013 Forest Island",
+            "type": "Land \u2014 Forest Island",
             "number": 120,
             "color_identity": "UG",
             "cost": "",
@@ -1889,14 +1808,13 @@
             "loyalty": "",
             "artist": "Aleksandr Iwaac",
             "alias": "",
-            "notes": "!reprint:way\n!cycle:filterland",
-            "image_type": "png"
+            "notes": "!reprint:way\n!cycle:filterland"
         },
         {
             "card_name": "Steamlit Peaks",
             "color": "",
             "rarity": "uncommon",
-            "type": "Land \u2013 Island Mountain",
+            "type": "Land \u2014 Island Mountain",
             "number": 121,
             "color_identity": "UR",
             "cost": "",
@@ -1909,14 +1827,13 @@
             "loyalty": "",
             "artist": "Philip Sue",
             "alias": "",
-            "notes": "!reprint:way\n!cycle:filterland",
-            "image_type": "png"
+            "notes": "!reprint:way\n!cycle:filterland"
         },
         {
             "card_name": "Timeless Shrine",
             "color": "",
             "rarity": "uncommon",
-            "type": "Land \u2013 Forest Plains",
+            "type": "Land \u2014 Forest Plains",
             "number": 127,
             "color_identity": "WG",
             "cost": "",
@@ -1929,14 +1846,13 @@
             "loyalty": "",
             "artist": "ZQ\u674e\u9035\u6258\u65af",
             "alias": "",
-            "notes": "!reprint:way\n!cycle:filterland",
-            "image_type": "png"
+            "notes": "!reprint:way\n!cycle:filterland"
         },
         {
             "card_name": "Plasm Raptor",
             "color": "",
             "rarity": "rare",
-            "type": "Artifact Creature \u2013 Bird Construct",
+            "type": "Artifact Creature \u2014 Bird Construct",
             "number": 74,
             "color_identity": "W",
             "cost": "{2}",
@@ -1949,14 +1865,13 @@
             "loyalty": "",
             "artist": "Alexander Trufanov",
             "alias": "",
-            "notes": "!cycle:plasmdork",
-            "image_type": "png"
+            "notes": "!cycle:plasmdork"
         },
         {
             "card_name": "Plasm Crab",
             "color": "",
             "rarity": "rare",
-            "type": "Artifact Creature \u2013 Crab Construct",
+            "type": "Artifact Creature \u2014 Crab Construct",
             "number": 72,
             "color_identity": "U",
             "cost": "{2}",
@@ -1969,14 +1884,13 @@
             "loyalty": "",
             "artist": "Alexander Trufanov",
             "alias": "",
-            "notes": "!cycle:plasmdork",
-            "image_type": "png"
+            "notes": "!cycle:plasmdork"
         },
         {
             "card_name": "Plasm Hound",
             "color": "",
             "rarity": "rare",
-            "type": "Artifact Creature \u2013 Dog Construct",
+            "type": "Artifact Creature \u2014 Dog Construct",
             "number": 73,
             "color_identity": "B",
             "cost": "{2}",
@@ -1989,14 +1903,13 @@
             "loyalty": "",
             "artist": "Alexander Trufanov",
             "alias": "",
-            "notes": "!cycle:plasmdork",
-            "image_type": "png"
+            "notes": "!cycle:plasmdork"
         },
         {
             "card_name": "Plasm Arthropod",
             "color": "",
             "rarity": "rare",
-            "type": "Artifact Creature \u2013 Insect Construct",
+            "type": "Artifact Creature \u2014 Insect Construct",
             "number": 71,
             "color_identity": "R",
             "cost": "{2}",
@@ -2009,14 +1922,13 @@
             "loyalty": "",
             "artist": "Alexander Trufanov",
             "alias": "",
-            "notes": "!cycle:plasmdork",
-            "image_type": "png"
+            "notes": "!cycle:plasmdork"
         },
         {
             "card_name": "Plasm Serpent",
             "color": "",
             "rarity": "rare",
-            "type": "Artifact Creature \u2013 Snake Construct",
+            "type": "Artifact Creature \u2014 Snake Construct",
             "number": 75,
             "color_identity": "G",
             "cost": "{2}",
@@ -2029,14 +1941,13 @@
             "loyalty": "",
             "artist": "Alexander Trufanov",
             "alias": "",
-            "notes": "!cycle:plasmdork",
-            "image_type": "png"
+            "notes": "!cycle:plasmdork"
         },
         {
             "card_name": "Nameless Anachronism",
             "color": "",
             "rarity": "special",
-            "type": "Legendary Creature \u2013 Shapeshifter",
+            "type": "Legendary Creature \u2014 Shapeshifter",
             "number": 131,
             "color_identity": "C",
             "cost": "{5}",
@@ -2049,8 +1960,7 @@
             "loyalty": "",
             "artist": "Peter Mohrbacher",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Ghost Quarter",
@@ -2069,8 +1979,7 @@
             "loyalty": "",
             "artist": "Eddie Bennun",
             "alias": "",
-            "notes": "!reprint",
-            "image_type": "png"
+            "notes": "!reprint"
         },
         {
             "card_name": "Arcane Signet",
@@ -2089,14 +1998,13 @@
             "loyalty": "",
             "artist": "naiiade",
             "alias": "",
-            "notes": "!reprint",
-            "image_type": "png"
+            "notes": "!reprint"
         },
         {
             "card_name": "Ninisina, Gilded Herald",
             "color": "W",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2013 Cat Noble",
+            "type": "Legendary Creature \u2014 Cat Noble",
             "number": 3,
             "color_identity": "W",
             "cost": "{1}{W}",
@@ -2109,14 +2017,13 @@
             "loyalty": "",
             "artist": "Beniamino Bradi",
             "alias": "",
-            "notes": "!cycle:monogolden",
-            "image_type": "png"
+            "notes": "!cycle:monogolden"
         },
         {
             "card_name": "Claudia, Faceless Mogul",
             "color": "U",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2013 Sphinx Noble",
+            "type": "Legendary Creature \u2014 Sphinx Noble",
             "number": 5,
             "color_identity": "U",
             "cost": "{1}{U}{U}",
@@ -2129,14 +2036,13 @@
             "loyalty": "",
             "artist": "Bryan F. Rosado",
             "alias": "",
-            "notes": "!cycle:monogolden",
-            "image_type": "png"
+            "notes": "!cycle:monogolden"
         },
         {
             "card_name": "Ereni, Pale Monarch",
             "color": "B",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2013 Zombie Noble",
+            "type": "Legendary Creature \u2014 Zombie Noble",
             "number": 8,
             "color_identity": "B",
             "cost": "{2}{B}",
@@ -2149,14 +2055,13 @@
             "loyalty": "",
             "artist": "Pierre Raveneau",
             "alias": "",
-            "notes": "!cycle:monogolden",
-            "image_type": "png"
+            "notes": "!cycle:monogolden"
         },
         {
             "card_name": "Tiame, Visionary Elder",
             "color": "R",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2013 Human Noble",
+            "type": "Legendary Creature \u2014 Human Noble",
             "number": 13,
             "color_identity": "R",
             "cost": "{2}{R}{R}",
@@ -2169,14 +2074,13 @@
             "loyalty": "",
             "artist": "Pierre Demet",
             "alias": "",
-            "notes": "!cycle:monogolden",
-            "image_type": "png"
+            "notes": "!cycle:monogolden"
         },
         {
             "card_name": "Fahad, Oasis King",
             "color": "G",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2013 Elf Noble",
+            "type": "Legendary Creature \u2014 Elf Noble",
             "number": 15,
             "color_identity": "G",
             "cost": "{4}{G}{G}",
@@ -2189,18 +2093,17 @@
             "loyalty": "",
             "artist": "Dmitry Klyushkin",
             "alias": "",
-            "notes": "!cycle:monogolden",
-            "image_type": "png"
+            "notes": "!cycle:monogolden"
         },
         {
             "card_name": "Guardian of Paradise",
             "color": "UG",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2013 Spirit",
+            "type": "Legendary Creature \u2014 Spirit",
             "number": 40,
             "color_identity": "UG",
             "cost": "{4}{G}{U}",
-            "rules_text": "Creatures you control have islandwalk.\nIslands you control have \u201c{T}: Add {G}{U}.\u201d\n[i]Expanse[/i] \u2013 At the beginning of your end step, if two or more lands entered under your control this turn, put a flood counter on target land. That land is an Island for as long as it has a flood counter on it.",
+            "rules_text": "Creatures you control have islandwalk.\nIslands you control have \u201c{T}: Add {G}{U}.\u201d\n[i]Expanse[/i] \u2014 At the beginning of your end step, if two or more lands entered under your control this turn, put a flood counter on target land. That land is an Island for as long as it has a flood counter on it.",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
@@ -2209,14 +2112,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Dharman, Gold Chariot",
             "color": "WR",
             "rarity": "mythic",
-            "type": "Legendary Artifact \u2013 Vehicle",
+            "type": "Legendary Artifact \u2014 Vehicle",
             "number": 29,
             "color_identity": "WR",
             "cost": "{R}{W}",
@@ -2229,14 +2131,13 @@
             "loyalty": "",
             "artist": "Magdalena Katanska",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Hesah, King of Snakes",
             "color": "RG",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2013 Elder Snake",
+            "type": "Legendary Creature \u2014 Elder Snake",
             "number": 41,
             "color_identity": "RG",
             "cost": "{1}{R}{G}",
@@ -2249,14 +2150,13 @@
             "loyalty": "",
             "artist": "Alexey Kruglov",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Zagal, Wayward Minstrel",
             "color": "WG",
             "rarity": "mythic",
-            "type": "Legendary Planeswalker \u2013 Zagal",
+            "type": "Legendary Planeswalker \u2014 Zagal",
             "number": 70,
             "color_identity": "WG",
             "cost": "{3}{G}{W}",
@@ -2269,18 +2169,17 @@
             "loyalty": "4",
             "artist": "Peter Mohrbacher",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Warad, the Red Hand",
             "color": "WB",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2013 Human Rogue",
+            "type": "Legendary Creature \u2014 Human Rogue",
             "number": 66,
             "color_identity": "WB",
             "cost": "{4}{W}{B}",
-            "rules_text": "Extort [i](Whenever you cast a spell, you may pay {WB}. If you do, each opponent loses 1 life and you gain that much life.)[/i]\n[i]Opulence[/i] \u2013 As long as you have the highest life total or are tied for the highest life total, Warad is a 7/7 Demon and has flying and \u201c{WB}, Pay 2 life: Draw a card.\u201d",
+            "rules_text": "Extort [i](Whenever you cast a spell, you may pay {WB}. If you do, each opponent loses 1 life and you gain that much life.)[/i]\n[i]Opulence[/i] \u2014 As long as you have the highest life total or are tied for the highest life total, Warad is a 7/7 Demon and has flying and \u201c{WB}, Pay 2 life: Draw a card.\u201d",
             "flavor_text": "[i][/i]",
             "pt": "5/5",
             "special_text": "",
@@ -2289,14 +2188,13 @@
             "loyalty": "",
             "artist": "Calvin Lye",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Anzu, All-Consuming",
             "color": "UB",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2013 Goat Avatar",
+            "type": "Legendary Creature \u2014 Goat Avatar",
             "number": 20,
             "color_identity": "UB",
             "cost": "{4}{U}{B}",
@@ -2309,34 +2207,32 @@
             "loyalty": "",
             "artist": "Calder Moore",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Urukh the Shadowed",
             "color": "UB",
             "rarity": "mythic",
-            "type": "Legendary Planeswalker \u2013 Urukh",
+            "type": "Legendary Planeswalker \u2014 Urukh",
             "number": 63,
             "color_identity": "UB",
             "cost": "{1}{U}{B}",
-            "rules_text": "Whenever one or more cards are put into your graveyard from your library, put a loyalty counter on Urukh.\n[0]: Target player mills two cards. Draw a card.\n[-2]: The next spell you cast from your hand this turn has delve. [i](Each card you exile from your graveyard while casting this spell pays for {1}.)[/i]\n[-7]: Create a 7/7 black Nightmare creature token with menace and ward\u2013mill seven cards. Target player draws seven cards.",
+            "rules_text": "Whenever one or more cards are put into your graveyard from your library, put a loyalty counter on Urukh.\n[0]: Target player mills two cards. Draw a card.\n[-2]: The next spell you cast from your hand this turn has delve. [i](Each card you exile from your graveyard while casting this spell pays for {1}.)[/i]\n[-7]: Create a 7/7 black Nightmare creature token with menace and ward\u2014mill seven cards. Target player draws seven cards.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "Whenever one or more cards are put into your graveyard from your library, put a loyalty counter on Urukh.\n[0]: Target player mills two cards. Draw a card.\n[-2]: The next spell you cast from your hand this turn has delve. [i](Each card you exile from your graveyard while casting this spell pays for {1}.)[/i]\n[-7]: Create a 7/7 black Nightmare creature token with menace and ward\u2013mill seven cards. Target player draws seven cards.",
+            "special_text": "Whenever one or more cards are put into your graveyard from your library, put a loyalty counter on Urukh.\n[0]: Target player mills two cards. Draw a card.\n[-2]: The next spell you cast from your hand this turn has delve. [i](Each card you exile from your graveyard while casting this spell pays for {1}.)[/i]\n[-7]: Create a 7/7 black Nightmare creature token with menace and ward\u2014mill seven cards. Target player draws seven cards.",
             "shape": "planeswalker",
             "set": "KRN",
             "loyalty": "2",
             "artist": "Peter Mohrbacher",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Durg, Enclave's Warden",
             "color": "RG",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2013 Cat Warrior",
+            "type": "Legendary Creature \u2014 Cat Warrior",
             "number": 32,
             "color_identity": "RG",
             "cost": "{2}{R}{G}",
@@ -2349,14 +2245,13 @@
             "loyalty": "",
             "artist": "Leaf Art",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Baal, Avaricious",
             "color": "BR",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2013 Demon",
+            "type": "Legendary Creature \u2014 Demon",
             "number": 23,
             "color_identity": "BR",
             "cost": "{B}{R}",
@@ -2369,14 +2264,13 @@
             "loyalty": "",
             "artist": "Xavier -GzaV-",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Ea, Magi of the Oasis",
             "color": "WU",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2013 Human Wizard",
+            "type": "Legendary Creature \u2014 Human Wizard",
             "number": 33,
             "color_identity": "WU",
             "cost": "{W}{U}",
@@ -2389,14 +2283,13 @@
             "loyalty": "",
             "artist": "Erion Makuo",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Zaeyr the Veiled",
             "color": "UR",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2013 Elder Wizard",
+            "type": "Legendary Creature \u2014 Elder Wizard",
             "number": 69,
             "color_identity": "UR",
             "cost": "{2}{U}{R}",
@@ -2409,14 +2302,13 @@
             "loyalty": "",
             "artist": "Sam Flegal",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Mergho, Sky Ancient",
             "color": "WU",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2013 Elder Dragon",
+            "type": "Legendary Creature \u2014 Elder Dragon",
             "number": 48,
             "color_identity": "WU",
             "cost": "{4}{W}{U}",
@@ -2429,14 +2321,13 @@
             "loyalty": "",
             "artist": "Nathaniel Himawan",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Saasa, Dark Witch",
             "color": "WB",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2013 Human Warlock",
+            "type": "Legendary Creature \u2014 Human Warlock",
             "number": 56,
             "color_identity": "WB",
             "cost": "{1}{W}{B}",
@@ -2449,14 +2340,13 @@
             "loyalty": "",
             "artist": "Ilya Vatutin",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Corvu, Ambling Hermit",
             "color": "BR",
             "rarity": "mythic",
-            "type": "Legendary Planeswalker \u2013 Corvu",
+            "type": "Legendary Planeswalker \u2014 Corvu",
             "number": 25,
             "color_identity": "BR",
             "cost": "{2}{B}{R}",
@@ -2469,14 +2359,13 @@
             "loyalty": "5",
             "artist": "Peter Mohrbacher",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Mother of Beasts",
             "color": "WG",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2013 Elder Beast",
+            "type": "Legendary Creature \u2014 Elder Beast",
             "number": 49,
             "color_identity": "WG",
             "cost": "{5}{G}{W}",
@@ -2489,14 +2378,13 @@
             "loyalty": "",
             "artist": "Ville Sinkkonen",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Cuith, War Patroness",
             "color": "WR",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2013 Avatar",
+            "type": "Legendary Creature \u2014 Avatar",
             "number": 26,
             "color_identity": "WR",
             "cost": "{1}{R}{W}",
@@ -2509,14 +2397,13 @@
             "loyalty": "",
             "artist": "Kuryliuk Darya",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Dir, Venerated One",
             "color": "BG",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2013 Elephant God",
+            "type": "Legendary Creature \u2014 Elephant God",
             "number": 30,
             "color_identity": "BG",
             "cost": "{4}{B}{G}",
@@ -2529,14 +2416,13 @@
             "loyalty": "",
             "artist": "David Noren",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Idad, Cycle Tender",
             "color": "BG",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2013 Human Druid",
+            "type": "Legendary Creature \u2014 Human Druid",
             "number": 42,
             "color_identity": "BG",
             "cost": "{1}{B}{G}",
@@ -2549,14 +2435,13 @@
             "loyalty": "",
             "artist": "Yaroslav Radetskyi",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Ussuh, Ever Burgeoning",
             "color": "UG",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2013 Hydra",
+            "type": "Legendary Creature \u2014 Hydra",
             "number": 64,
             "color_identity": "UG",
             "cost": "{X}{G}{U}",
@@ -2569,14 +2454,13 @@
             "loyalty": "",
             "artist": "Mazert Young",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Signi, Spiritfire",
             "color": "UR",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2013 Avatar",
+            "type": "Legendary Creature \u2014 Avatar",
             "number": 60,
             "color_identity": "UR",
             "cost": "{3}{U}{R}",
@@ -2589,14 +2473,13 @@
             "loyalty": "",
             "artist": "mist XG",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Shamash, Triumphant",
             "color": "WG",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2013 Elephant God",
+            "type": "Legendary Creature \u2014 Elephant God",
             "number": 58,
             "color_identity": "WG",
             "cost": "{3}{G}{W}",
@@ -2609,14 +2492,13 @@
             "loyalty": "",
             "artist": "Zp Zhang",
             "alias": "",
-            "notes": "!cycle:bibuddies",
-            "image_type": "png"
+            "notes": "!cycle:bibuddies"
         },
         {
             "card_name": "Transcendent Agnar",
             "color": "BR",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2013 Elk Elemental",
+            "type": "Legendary Creature \u2014 Elk Elemental",
             "number": 62,
             "color_identity": "BR",
             "cost": "{2}{B}{R}",
@@ -2629,14 +2511,13 @@
             "loyalty": "",
             "artist": "Alice Boudry",
             "alias": "",
-            "notes": "!cycle:bibuddies",
-            "image_type": "png"
+            "notes": "!cycle:bibuddies"
         },
         {
             "card_name": "Sola, the Sunrise",
             "color": "UR",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2013 Avatar",
+            "type": "Legendary Creature \u2014 Avatar",
             "number": 61,
             "color_identity": "UR",
             "cost": "{1}{U}{R}",
@@ -2649,14 +2530,13 @@
             "loyalty": "",
             "artist": "Ari-Matti Toivonen",
             "alias": "",
-            "notes": "!cycle:bibuddies",
-            "image_type": "png"
+            "notes": "!cycle:bibuddies"
         },
         {
             "card_name": "Libluth the Steadfast",
             "color": "RG",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2013 Elf Scout",
+            "type": "Legendary Creature \u2014 Elf Scout",
             "number": 47,
             "color_identity": "RG",
             "cost": "{2}{R}{G}",
@@ -2669,14 +2549,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "!cycle:bibuddies",
-            "image_type": "png"
+            "notes": "!cycle:bibuddies"
         },
         {
             "card_name": "Yadi, Carmine Priestess",
             "color": "WB",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2013 Human Cleric",
+            "type": "Legendary Creature \u2014 Human Cleric",
             "number": 67,
             "color_identity": "WB",
             "cost": "{W}{B}",
@@ -2689,14 +2568,13 @@
             "loyalty": "",
             "artist": "Irina Nordsol Kuzmina",
             "alias": "",
-            "notes": "!cycle:bibuddies",
-            "image_type": "png"
+            "notes": "!cycle:bibuddies"
         },
         {
             "card_name": "Darice, Waygate Magi",
             "color": "WU",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2013 Human Wizard",
+            "type": "Legendary Creature \u2014 Human Wizard",
             "number": 28,
             "color_identity": "WU",
             "cost": "{2}{W}{U}",
@@ -2709,18 +2587,17 @@
             "loyalty": "",
             "artist": "Artur Treffner",
             "alias": "",
-            "notes": "!cycle:bibuddies",
-            "image_type": "png"
+            "notes": "!cycle:bibuddies"
         },
         {
             "card_name": "Cit, Wayfinder",
             "color": "UG",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2013 Elf Druid",
+            "type": "Legendary Creature \u2014 Elf Druid",
             "number": 24,
             "color_identity": "UG",
             "cost": "{1}{G}{U}",
-            "rules_text": "Evoke\u2013Sacrifice a land. [i](You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters.)[/i]\nWhen Cit enters, draw a card. You may put a land card from your hand onto the battlefield.\nPartner",
+            "rules_text": "Evoke\u2014Sacrifice a land. [i](You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters.)[/i]\nWhen Cit enters, draw a card. You may put a land card from your hand onto the battlefield.\nPartner",
             "flavor_text": "[i][/i]",
             "pt": "3/2",
             "special_text": "",
@@ -2729,14 +2606,13 @@
             "loyalty": "",
             "artist": "Graey Erb",
             "alias": "",
-            "notes": "!cycle:bibuddies",
-            "image_type": "png"
+            "notes": "!cycle:bibuddies"
         },
         {
             "card_name": "Grem, Plague Seraph",
             "color": "BG",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2013 Angel",
+            "type": "Legendary Creature \u2014 Angel",
             "number": 39,
             "color_identity": "BG",
             "cost": "{3}{B}{G}",
@@ -2749,14 +2625,13 @@
             "loyalty": "",
             "artist": "Kyle Pearson",
             "alias": "",
-            "notes": "!cycle:bibuddies",
-            "image_type": "png"
+            "notes": "!cycle:bibuddies"
         },
         {
             "card_name": "Aloro, Torchbearer",
             "color": "WR",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2013 Avatar",
+            "type": "Legendary Creature \u2014 Avatar",
             "number": 18,
             "color_identity": "WR",
             "cost": "{3}{R}{W}",
@@ -2769,14 +2644,13 @@
             "loyalty": "",
             "artist": "Andrea Piparo",
             "alias": "",
-            "notes": "!cycle:bibuddies",
-            "image_type": "png"
+            "notes": "!cycle:bibuddies"
         },
         {
             "card_name": "Agare, Giver of Knowing",
             "color": "UB",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2013 Demon",
+            "type": "Legendary Creature \u2014 Demon",
             "number": 17,
             "color_identity": "UB",
             "cost": "{1}{U}{B}",
@@ -2789,14 +2663,13 @@
             "loyalty": "",
             "artist": "Irina Nordsol Kuzmina",
             "alias": "",
-            "notes": "!cycle:bibuddies",
-            "image_type": "png"
+            "notes": "!cycle:bibuddies"
         },
         {
             "card_name": "Idol",
             "color": "",
             "rarity": "common",
-            "type": "Token Artifact \u2013 Idol",
+            "type": "Token Artifact \u2014 Idol",
             "number": 17,
             "color_identity": "C",
             "cost": "",
@@ -2809,14 +2682,13 @@
             "loyalty": "",
             "artist": "Quentin Mabille",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Elixir",
             "color": "",
             "rarity": "common",
-            "type": "Token Artifact \u2013 Elixir",
+            "type": "Token Artifact \u2014 Elixir",
             "number": 16,
             "color_identity": "C",
             "cost": "",
@@ -2829,14 +2701,13 @@
             "loyalty": "",
             "artist": "Artur Treffner",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Oasis",
             "color": "",
             "rarity": "common",
-            "type": "Token Land \u2013 Oasis",
+            "type": "Token Land \u2014 Oasis",
             "number": 19,
             "color_identity": "C",
             "cost": "",
@@ -2849,14 +2720,13 @@
             "loyalty": "",
             "artist": "Sylvain Sarrailh",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Reflection",
             "color": "W",
             "rarity": "common",
-            "type": "Token Enchantment Creature \u2013 Reflection",
+            "type": "Token Enchantment Creature \u2014 Reflection",
             "number": 2,
             "color_identity": "W",
             "cost": "",
@@ -2869,14 +2739,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Zabu",
             "color": "G",
             "rarity": "common",
-            "type": "Token Legendary Creature \u2013 Plant",
+            "type": "Token Legendary Creature \u2014 Plant",
             "number": 12,
             "color_identity": "G",
             "cost": "",
@@ -2889,14 +2758,13 @@
             "loyalty": "",
             "artist": "Peter Mohrbacher",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Shzida",
             "color": "G",
             "rarity": "common",
-            "type": "Token Legendary Creature \u2013 Snake",
+            "type": "Token Legendary Creature \u2014 Snake",
             "number": 10,
             "color_identity": "G",
             "cost": "",
@@ -2909,8 +2777,7 @@
             "loyalty": "",
             "artist": "Yamio ZH",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Stoke",
@@ -2929,8 +2796,7 @@
             "loyalty": "",
             "artist": "Reza Afshar",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Cuith's Blade",
@@ -2949,14 +2815,13 @@
             "loyalty": "",
             "artist": "Jay Axer",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Elemental",
             "color": "B",
             "rarity": "common",
-            "type": "Token Enchantment Creature \u2013 Elemental",
+            "type": "Token Enchantment Creature \u2014 Elemental",
             "number": 5,
             "color_identity": "B",
             "cost": "",
@@ -2969,14 +2834,13 @@
             "loyalty": "",
             "artist": "Dominik Mayer",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Treasure",
             "color": "",
             "rarity": "common",
-            "type": "Token Land \u2013 Treasure",
+            "type": "Token Land \u2014 Treasure",
             "number": 18,
             "color_identity": "C",
             "cost": "",
@@ -2989,14 +2853,13 @@
             "loyalty": "",
             "artist": "Nele Diel",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Snake",
             "color": "G",
             "rarity": "common",
-            "type": "Token Creature \u2013 Snake",
+            "type": "Token Creature \u2014 Snake",
             "number": 11,
             "color_identity": "G",
             "cost": "",
@@ -3009,14 +2872,13 @@
             "loyalty": "",
             "artist": "li moly",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Mount",
             "color": "",
             "rarity": "common",
-            "type": "Token Creature \u2013 Mount",
+            "type": "Token Creature \u2014 Mount",
             "number": 14,
             "color_identity": "WUBRG",
             "cost": "",
@@ -3029,14 +2891,13 @@
             "loyalty": "",
             "artist": "Nemanja Abazovic",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Spirit",
             "color": "U",
             "rarity": "common",
-            "type": "Token Enchantment Creature \u2013 Spirit",
+            "type": "Token Enchantment Creature \u2014 Spirit",
             "number": 3,
             "color_identity": "U",
             "cost": "",
@@ -3049,14 +2910,13 @@
             "loyalty": "",
             "artist": "Ari-Matti Toivonen",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Spirit",
             "color": "",
             "rarity": "common",
-            "type": "Token Creature \u2013 Spirit",
+            "type": "Token Creature \u2014 Spirit",
             "number": 1,
             "color_identity": "C",
             "cost": "",
@@ -3069,14 +2929,13 @@
             "loyalty": "",
             "artist": "Dominik Mayer",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Bird",
             "color": "B",
             "rarity": "common",
-            "type": "Token Creature \u2013 Bird",
+            "type": "Token Creature \u2014 Bird",
             "number": 4,
             "color_identity": "B",
             "cost": "",
@@ -3089,18 +2948,17 @@
             "loyalty": "",
             "artist": "Olivia Bigley",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Nightmare",
             "color": "B",
             "rarity": "common",
-            "type": "Token Creature \u2013 Nightmare",
+            "type": "Token Creature \u2014 Nightmare",
             "number": 6,
             "color_identity": "B",
             "cost": "",
-            "rules_text": "Menace\nWard\u2013Mill seven cards.",
+            "rules_text": "Menace\nWard\u2014Mill seven cards.",
             "flavor_text": "[i][/i]",
             "pt": "7/7",
             "special_text": "",
@@ -3109,14 +2967,13 @@
             "loyalty": "",
             "artist": "Anato Finnstark",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Zombie",
             "color": "B",
             "rarity": "common",
-            "type": "Token Creature \u2013 Zombie",
+            "type": "Token Creature \u2014 Zombie",
             "number": 7,
             "color_identity": "B",
             "cost": "",
@@ -3129,14 +2986,13 @@
             "loyalty": "",
             "artist": "Ari-Matti Toivonen",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Zombie",
             "color": "R",
             "rarity": "common",
-            "type": "Token Creature \u2013 Zombie",
+            "type": "Token Creature \u2014 Zombie",
             "number": 9,
             "color_identity": "R",
             "cost": "",
@@ -3149,14 +3005,13 @@
             "loyalty": "",
             "artist": "Ari-Matti Toivonen",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Zombie",
             "color": "G",
             "rarity": "common",
-            "type": "Token Creature \u2013 Zombie",
+            "type": "Token Creature \u2014 Zombie",
             "number": 13,
             "color_identity": "G",
             "cost": "",
@@ -3169,8 +3024,7 @@
             "loyalty": "",
             "artist": "Ari-Matti Toivonen",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         }
     ]
 }

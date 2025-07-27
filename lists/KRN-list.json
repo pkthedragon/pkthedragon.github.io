@@ -591,6 +591,36 @@
         "set": "KRN"
     },
     {
+        "card_name": "Hushed Oasis",
+        "number": 96,
+        "shape": "modal double faced",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Rotbed Mire",
+        "number": 115,
+        "shape": "modal double faced",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Magma Ridge",
+        "number": 99,
+        "shape": "modal double faced",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Fell Glade",
+        "number": 89,
+        "shape": "modal double faced",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Resting Dunes",
+        "number": 113,
+        "shape": "modal double faced",
+        "set": "KRN"
+    },
+    {
         "card_name": "Sunken Atheneum",
         "number": 122,
         "shape": "normal",
@@ -828,12 +858,6 @@
         "set": "KRN"
     },
     {
-        "card_name": "Fell Glade",
-        "number": 89,
-        "shape": "modal double faced",
-        "set": "KRN"
-    },
-    {
         "card_name": "Floodwater Depths",
         "number": 90,
         "shape": "normal",
@@ -855,18 +879,6 @@
         "card_name": "Grim Bastion",
         "number": 94,
         "shape": "normal",
-        "set": "KRN"
-    },
-    {
-        "card_name": "Hushed Oasis",
-        "number": 96,
-        "shape": "modal double faced",
-        "set": "KRN"
-    },
-    {
-        "card_name": "Magma Ridge",
-        "number": 99,
-        "shape": "modal double faced",
         "set": "KRN"
     },
     {
@@ -912,21 +924,9 @@
         "set": "KRN"
     },
     {
-        "card_name": "Resting Dunes",
-        "number": 113,
-        "shape": "modal double faced",
-        "set": "KRN"
-    },
-    {
         "card_name": "Rogue's Passage",
         "number": 114,
         "shape": "normal",
-        "set": "KRN"
-    },
-    {
-        "card_name": "Rotbed Mire",
-        "number": 115,
-        "shape": "modal double faced",
         "set": "KRN"
     },
     {
@@ -973,6 +973,136 @@
     },
     {
         "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->token",
+    {
+        "card_name": "Spirit",
+        "number": 1,
+        "shape": "token",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Mount",
+        "number": 14,
+        "shape": "token",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Cuith's Blade",
+        "number": 15,
+        "shape": "token",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Elixir",
+        "number": 16,
+        "shape": "token",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Idol",
+        "number": 17,
+        "shape": "token",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Treasure",
+        "number": 18,
+        "shape": "token",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Oasis",
+        "number": 19,
+        "shape": "token",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Reflection",
+        "number": 2,
+        "shape": "token",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Spirit",
+        "number": 3,
+        "shape": "token",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Bird",
+        "number": 4,
+        "shape": "token",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Elemental",
+        "number": 5,
+        "shape": "token",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Nightmare",
+        "number": 6,
+        "shape": "token",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Zombie",
+        "number": 7,
+        "shape": "token",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Stoke",
+        "number": 8,
+        "shape": "token",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Zombie",
+        "number": 9,
+        "shape": "token",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Shzida",
+        "number": 10,
+        "shape": "token",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Snake",
+        "number": 11,
+        "shape": "token",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Zabu",
+        "number": 12,
+        "shape": "token",
+        "set": "KRN"
+    },
+    {
+        "card_name": "Zombie",
+        "number": 13,
+        "shape": "token",
+        "set": "KRN"
     },
     {
         "card_name": "e"

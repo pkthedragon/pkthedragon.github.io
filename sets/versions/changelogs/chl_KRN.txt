@@ -1,4 +1,130 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+Idol added.
+Elixir added.
+Oasis added.
+Reflection added.
+Zabu added.
+Shzida added.
+Stoke added.
+Cuith's Blade added.
+Elemental added.
+Treasure added.
+Snake added.
+Mount added.
+Spirit added.
+Spirit added.
+Bird added.
+Nightmare added.
+Zombie added.
+Zombie added.
+Zombie added.
+
+
+Utash, Great Wanderer
+rules_text: Utash costs {1} less to cast for each nonbasic land you control.
+[i]Expanse[/i] — Whenever a nontoken land enters under a player's control, if two or more lands entered under their control this turn, create a tapped Fading Rift token. [i](It's a colorless land with “{T}, Sacrifice this: Add one mana of any color.”)[/i] => Utash costs {1} less to cast for each nonbasic land you control.
+[i]Expanse[/i] — Whenever a nontoken land enters under a player's control, if two or more lands entered under their control this turn, draw a card and create an Oasis token. [i](It's a land with “{T}, Sacrifice this: Add one mana of any color.”)[/i]
+
+Arati, God of Reflections
+rules_text: When Arati dies, return it to the battlefield tapped and transformed.
+[-1]: Create an Elixir token. [i](It's an artifact with “{1}, {T}, Sacrifice this: If you gained 4 or more life this turn, draw a card. Otherwise, you gain 2 life.”)[/i]
+[-2]: Tap two untapped artifacts and/or creatures you control. When you do, destroy target nonland permanent.
+[-3]: Create a 2/1 white Reflection creature token with flying and lifelink. => When Arati dies, return it to the battlefield tapped and transformed.
+[-1]: Create an Elixir token. [i](It's an artifact with “{1}, {T}, Sacrifice this: If you gained 4 or more life this turn, draw a card. Otherwise, you gain 2 life.”)[/i]
+[-2]: Tap two untapped artifacts and/or creatures you control. When you do, destroy target nonland permanent.
+[-3]: Create a 2/1 white Reflection enchantment creature token with flying and lifelink.
+special_text: When Arati dies, return it to the battlefield tapped and transformed.
+[-1]: Create an Elixir token. [i](It's an artifact with “{1}, {T}, Sacrifice this: If you gained 4 or more life this turn, draw a card. Otherwise, you gain 2 life.”)[/i]
+[-2]: Tap two untapped artifacts and/or creatures you control. When you do, destroy target nonland permanent.
+[-3]: Create a 2/1 white Reflection creature token with flying and lifelink. => When Arati dies, return it to the battlefield tapped and transformed.
+[-1]: Create an Elixir token. [i](It's an artifact with “{1}, {T}, Sacrifice this: If you gained 4 or more life this turn, draw a card. Otherwise, you gain 2 life.”)[/i]
+[-2]: Tap two untapped artifacts and/or creatures you control. When you do, destroy target nonland permanent.
+[-3]: Create a 2/1 white Reflection enchantment creature token with flying and lifelink.
+
+Ishim, God of Dusk
+rules_text: When Ishim dies, return it to the battlefield tapped and transformed.
+[-1]: Discard up to two cards then draw that many cards. Ishim deals 1 damage to you for each card drawn.
+[-2]: Ishim deals 2 damage to each of up to two target creatures.
+[-4]: Create a red enchantment token with “Whenever you cast or copy an instant or sorcery spell, this deals 1 damage to each opponent.” => When Ishim dies, return it to the battlefield tapped and transformed.
+[-1]: Discard up to two cards then draw that many cards. Ishim deals 1 damage to you for each card drawn.
+[-2]: Ishim deals 2 damage to each of up to two target creatures.
+[-4]: Create a red enchantment token named Stoke “Whenever you cast or copy an instant or sorcery spell, this deals 1 damage to each opponent.”
+special_text: When Ishim dies, return it to the battlefield tapped and transformed.
+[-1]: Discard up to two cards then draw that many cards. Ishim deals 1 damage to you for each card drawn.
+[-2]: Ishim deals 2 damage to each of up to two target creatures.
+[-4]: Create a red enchantment token with “Whenever you cast or copy an instant or sorcery spell, this deals 1 damage to each opponent.” => When Ishim dies, return it to the battlefield tapped and transformed.
+[-1]: Discard up to two cards then draw that many cards. Ishim deals 1 damage to you for each card drawn.
+[-2]: Ishim deals 2 damage to each of up to two target creatures.
+[-4]: Create a red enchantment token named Stoke “Whenever you cast or copy an instant or sorcery spell, this deals 1 damage to each opponent.”
+
+Yshnu, God of Stars
+type: Legendary Planeswalker — Ishim => Legendary Planeswalker — Yshnu
+
+Anuun, God of Snakes
+type: Legendary Planeswalker => Legendary Planeswalker — Anuun
+
+Fell Glade
+
+Resting Dunes
+
+Hushed Oasis
+
+Magma Ridge
+
+Rotbed Mire
+
+Tiame, Visionary Elder
+rules_text: Golden age [i](If you cast an instant or sorcery spell, activated a nonmana ability, and attacked this turn, enter a renaissance for this game.)[/i]
+{R}: Until end of turn, creatures you control gain haste and “{T}: Create a Fading Rift token. Activate only if you're in a renaissance.”
+Partner => Golden age [i](If you cast an instant or sorcery spell, activated a nonmana ability, and attacked this turn, enter a renaissance for this game.)[/i]
+{R}: Until end of turn, creatures you control gain haste and “{T}: Create an Oasis token. Activate only if you're in a renaissance.”
+Partner
+
+Durg, Enclave's Warden
+rules_text: Trample
+Durg's power is equal to the number of counters on players or permanents you control.
+Whenever Durg, Enclave's Warden enters or attacks, put a ward {1} counter on target permanent. => Trample
+Durg's power is equal to the total number of counters among permanents you control and players.
+Whenever Durg, Enclave's Warden enters or attacks, put a ward {1} counter on target permanent.
+
+Saasa, Dark Witch
+rules_text: Whenever Saasa attacks, create X 1/1 black Bird creature tokens with flying that are tapped and attacking, where X is the amount of life you gained this turn. Exile them at the end of turn.
+Whenever a creature you control leaves, each opponent loses 1 life. => Whenever Saasa attacks, create X 1/1 black Bird creature tokens with flying that are tapped and attacking, where X is the amount of life you gained this turn. Exile them at the end of turn.
+Whenever a creature you control leaves, each opponent loses 1 life and you gain 1 life.
+
+Corvu, Ambling Hermit
+rules_text: [+1]: Until end of turn, Corvu becomes a 1/2 Bird Avatar creature token with flying and indestructible. It connives. [i](Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on that creature.)[/i]
+[-3]: Destroy target creature. Its controller discards a card.
+[-8]: You get an emblem with “Whenever a player discards a card, this emblem deals 1 damage to each opponent.” => [+1]: Until end of turn, Corvu becomes a 1/2 Bird Avatar creature with flying and indestructible. It connives. [i](Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on that creature.)[/i]
+[-3]: Destroy target creature. Its controller discards a card.
+[-8]: You get an emblem with “Whenever a player discards a card, this emblem deals 1 damage to each opponent.”
+special_text: [+1]: Until end of turn, Corvu becomes a 1/2 Bird Avatar creature token with flying and indestructible. It connives. [i](Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on that creature.)[/i]
+[-3]: Destroy target creature. Its controller discards a card.
+[-8]: You get an emblem with “Whenever a player discards a card, this emblem deals 1 damage to each opponent.” => [+1]: Until end of turn, Corvu becomes a 1/2 Bird Avatar creature with flying and indestructible. It connives. [i](Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on that creature.)[/i]
+[-3]: Destroy target creature. Its controller discards a card.
+[-8]: You get an emblem with “Whenever a player discards a card, this emblem deals 1 damage to each opponent.”
+
+Mother of Beasts
+rules_text: Mother of Beasts has the abilities of other Beasts you control and other creatures you control with power 4 or greater.
+At the beginning of your first upkeep, if Mother of Beasts is in your command zone and you're not the starting player, you may exile a card from your hand. If you do, create a Fading Rift token. => Mother of Beasts has the abilities of other Beasts you control and other creatures you control with power 4 or greater.
+At the beginning of your first upkeep, if Mother of Beasts is in your command zone and you're not the starting player, you may exile a card from your hand. If you do, create an Oasis token.
+
+Cuith, War Patroness
+rules_text: Vigilance, haste
+Cuith gets +1/+0 for each other tapped creature you control.
+{T}: Create Cuith's Blade, a tapped 3/1 colorless artifact creature token with first strike. Put two stun counters on it. => Vigilance, haste
+Cuith gets +1/+0 for each other tapped creature you control.
+{T}: Create Cuith's Blade, a 3/1 colorless artifact creature token with flying and first strike. Tap it and put two stun counters on it.
+
+Dir, Venerated One
+rules_text: Reincarnate [i](When this creature dies, if it isn't a token, create a token copy of it except it's a 1/1 Spirit in addition to its other types and has flying.)[/i]
+If one or more tokens would be created under your control, those tokens plus that many additional 1/1 colorless Spirit creature tokens with flying are created. => Reincarnate [i](When this creature dies, if it isn't a token, create a token copy of it except it's a 1/1 Spirit in addition to its other types and has flying.)[/i]
+If one or more tokens would be created under your control, those tokens plus that many additional 1/1 colorless Spirit creature tokens with flying are created. Create that many Idol tokens.
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
