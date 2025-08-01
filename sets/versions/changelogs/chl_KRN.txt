@@ -1,4 +1,493 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+Ussuh's Beating Heart added.
+Hesah's Study added.
+Zagal's Study added.
+Corvu's Study added.
+Zaeyr's Study added.
+Urukh's Study added.
+Idad's Study added.
+Io's Study added.
+Nin's Study added.
+Cit's Study added.
+Warad's Study added.
+Emil's Study added.
+Ishim's Study added.
+Anuun's Study added.
+Arati's Study added.
+Yshnu's Study added.
+
+Zagal's Beating Heart removed.
+
+Oro, Brass Tyrant
+
+Ashur, Roaming Library
+
+Dammuk, Farseeker
+
+Esteemed Marroc
+
+Ein, Ebbing Tide
+
+Eluz, Eternal Shepherd
+
+Amuz, Dune Giant
+
+Dishkur, Pulsing Core
+
+Erragal, Red Hunter
+
+Nusbil, Arid Wind
+rules_text: Flying, lifelink, haste
+Virulent 1 [i](Whenever this deals damage to a creature, that creature's controller gets a poison counter.)[/i]
+[i]Opulence[/i] — {3}{R}{W}{B}, {T}: Nusbil deals 4 damage divided among any number of target creatures. Activate only if you have the highest life total or are tied for the highest life total. => Flying, lifelink, haste
+Virulent 1 [i](Whenever this deals damage to a creature, that creature's controller gets a poison counter.)[/i]
+{2}{R}{W}{B}, {T}: For each enchantment you control, Nusbil deals 1 damage to any target.
+
+Io, Stargazer
+
+Saraf, Ivory Weaver
+
+Namash, Ever Famished
+
+Zabu, Parasitic Bloom
+
+Mugan, Harmonious
+
+Nidab, Forgotten Vestige
+rules_text: Defender, vigilance
+{T}: Scry 2. Create an Elixir token. Activate only as a sorcery. [i](It's an artifact with “{1}, {T}, Sacrifice this: If you gained 4 or more life this turn, draw a card. Otherwise, you gain 2 life.”)[/i]
+[i]Opulence[/i] — As long as you have the highest life total or are tied for the highest life total, Nidab gets +2/+0 and loses defender. => Defender, vigilance
+{T}: Scry 2. Create an Elixir token. Activate only as a sorcery. [i](It's an enchantment with “{1}, Sacrifice this: If you gained 4 or more life this turn, draw a card. Otherwise, you gain 2 life.”)[/i]
+[i]Opulence[/i] — As long as you have the highest life total or are tied for the highest life total, Nidab gets +2/+0 and loses defender.
+
+Kitu, Vast Aurora
+
+Nin, Daydreamer
+
+Lahar, Many Bodied
+rules_text: When Lahar enters, choose two —
+• Create a 2/2 black Zombie creature token with lifelink. 
+• Create a 3/2 red Zombie creature token with trample.
+• Create a 2/3 green Zombie creature token with vigilance.
+At the beginning of your upkeep, you may pay 3 life. If you do, populate. => When Lahar enters, choose two —
+• Create a 2/2 black Zombie creature token with lifelink. 
+• Create a 3/2 red Zombie creature token with trample.
+• Create a 2/3 green Zombie creature token with vigilance.
+At the beginning of your upkeep, you may pay 3 life. If you do, convocate.
+
+Utash, Great Wanderer
+
+Shifter Manzet
+
+Irrah, Ashen Ravager
+
+Aru, Blinding Seraph
+
+Mezza, August Empress
+
+Fayah, Rousing Magnate
+
+Emil, God of Clouds
+
+Arati, God of Reflections
+rules_text: When Arati dies, return it to the battlefield tapped and transformed.
+[-1]: Create an Elixir token. [i](It's an artifact with “{1}, {T}, Sacrifice this: If you gained 4 or more life this turn, draw a card. Otherwise, you gain 2 life.”)[/i]
+[-2]: Tap two untapped artifacts and/or creatures you control. When you do, destroy target nonland permanent.
+[-3]: Create a 2/1 white Reflection enchantment creature token with flying and lifelink. => When Arati dies, return it to the battlefield tapped and transformed.
+[-1]: Create an Elixir token. [i](It's an enchantment with “{1}, Sacrifice this: If you gained 4 or more life this turn, draw a card. Otherwise, you gain 2 life.”)[/i]
+[-2]: Tap two untapped enchantments and/or creatures you control. When you do, destroy target nonland permanent.
+[-3]: Create a 2/1 white Reflection enchantment creature token with flying and lifelink.
+special_text: When Arati dies, return it to the battlefield tapped and transformed.
+[-1]: Create an Elixir token. [i](It's an artifact with “{1}, {T}, Sacrifice this: If you gained 4 or more life this turn, draw a card. Otherwise, you gain 2 life.”)[/i]
+[-2]: Tap two untapped artifacts and/or creatures you control. When you do, destroy target nonland permanent.
+[-3]: Create a 2/1 white Reflection enchantment creature token with flying and lifelink. => When Arati dies, return it to the battlefield tapped and transformed.
+[-1]: Create an Elixir token. [i](It's an enchantment with “{1}, Sacrifice this: If you gained 4 or more life this turn, draw a card. Otherwise, you gain 2 life.”)[/i]
+[-2]: Tap two untapped enchantments and/or creatures you control. When you do, destroy target nonland permanent.
+[-3]: Create a 2/1 white Reflection enchantment creature token with flying and lifelink.
+
+Ishim, God of Dusk
+
+Yshnu, God of Stars
+rules_text: When Yshnu dies, return it to the battlefield tapped and transformed.
+[-1]: Create a 1/1 black Elemental enchantment creature token. Put a lifelink or deathtouch counter on it.
+[-1]: You may sacrifice a creature. If you do, destroy target creature or planeswalker.
+[-X]: You draw X cards and lose X life. => When Yshnu dies, return it to the battlefield tapped and transformed.
+[-1]: Create a 1/1 black Elemental enchantment creature token. Put a lifelink or deathtouch counter on it.
+[-1]: You may sacrifice a permanent. If you do, destroy target creature or planeswalker.
+[-X]: You draw X cards and lose X life.
+special_text: When Yshnu dies, return it to the battlefield tapped and transformed.
+[-1]: Create a 1/1 black Elemental enchantment creature token. Put a lifelink or deathtouch counter on it.
+[-1]: You may sacrifice a creature. If you do, destroy target creature or planeswalker.
+[-X]: You draw X cards and lose X life. => When Yshnu dies, return it to the battlefield tapped and transformed.
+[-1]: Create a 1/1 black Elemental enchantment creature token. Put a lifelink or deathtouch counter on it.
+[-1]: You may sacrifice a permanent. If you do, destroy target creature or planeswalker.
+[-X]: You draw X cards and lose X life.
+
+Anuun, God of Snakes
+
+Lilu, Secluded Archivist
+
+Gala, Bone Mistress
+
+Getana, Plasm Legionary
+
+Trusted Nurta
+
+Shadowed Hanzu
+
+Overgrown Atheneum
+
+Lofty Atheneum
+
+Sunken Atheneum
+
+Secluded Atheneum
+
+Mystic Atheneum
+
+Tactitian's Outpost
+
+Druid's Sanctuary
+
+Scoundrel's Camp
+
+Command Tower
+
+Morphic Verge
+
+Fabled Passage
+
+Floodwater Depths
+
+Grim Bastion
+
+Magmatic Torrent
+
+Mysterious Cataract
+
+Sunlit Highland
+
+Barren Desolation
+
+Shardstone Rift
+
+Timber Range
+
+Ocean Monastery
+
+Amber Hills
+
+Fell Glade
+
+Resting Dunes
+
+Hushed Oasis
+
+Magma Ridge
+
+Rotbed Mire
+
+Bustling Marketplace
+
+New Divide
+
+Pinnacle Portal
+
+Archmage's Tower
+
+Chamber of Ceremonies
+
+Watched Bazaar
+
+Dormant Remnant
+
+Prismatic Cavern
+
+Rogue's Passage
+
+Blossoming Expanse
+
+Grand Citadel
+
+Sunrise Exchange
+
+Necromancer's Den
+
+Tyrant's Cathedral
+
+Hermit's Refuge
+
+Regent's Metropolis
+
+Mage's Repository
+
+Wanderer's Shrine
+
+Benefactor's Altar
+
+Autumn Canopy
+
+Cloudsteel Summit
+
+Cursed Wastes
+
+Ghostspore Mire
+
+Molten Falls
+
+Resculpted Gorge
+
+Shuddering Node
+
+Soaring Rainforest
+
+Steamlit Peaks
+
+Timeless Shrine
+
+Plasm Raptor
+
+Plasm Crab
+
+Plasm Hound
+
+Plasm Arthropod
+
+Plasm Serpent
+
+Nameless Anachronism
+
+Ghost Quarter
+
+Arcane Signet
+
+Ninisina, Gilded Herald
+
+Claudia, Faceless Mogul
+
+Ereni, Pale Monarch
+
+Tiame, Visionary Elder
+
+Fahad, Oasis King
+
+Guardian of Paradise
+
+Dharman, Gold Chariot
+
+Hesah, King of Snakes
+
+Zagal, Wayward Minstrel
+
+Warad, the Red Hand
+
+Anzu, All-Consuming
+
+Urukh the Shadowed
+rules_text: Whenever one or more cards are put into your graveyard from your library, put a loyalty counter on Urukh.
+[0]: Target player mills two cards. Draw a card.
+[-2]: The next spell you cast from your hand this turn has delve. [i](Each card you exile from your graveyard while casting this spell pays for {1}.)[/i]
+[-7]: Create a 7/7 black Nightmare creature token with menace and ward—mill seven cards. Target player draws seven cards. => Whenever one or more cards are put into your graveyard from your library, put a loyalty counter on Urukh.
+[0]: Target player mills two cards. Draw a card.
+[-2]: The next spell you cast from your hand this turn has delve.
+[-7]: Create a 7/7 black Nightmare creature token with menace and ward—mill seven cards. Target player draws seven cards.
+special_text: Whenever one or more cards are put into your graveyard from your library, put a loyalty counter on Urukh.
+[0]: Target player mills two cards. Draw a card.
+[-2]: The next spell you cast from your hand this turn has delve. [i](Each card you exile from your graveyard while casting this spell pays for {1}.)[/i]
+[-7]: Create a 7/7 black Nightmare creature token with menace and ward—mill seven cards. Target player draws seven cards. => Whenever one or more cards are put into your graveyard from your library, put a loyalty counter on Urukh.
+[0]: Target player mills two cards. Draw a card.
+[-2]: The next spell you cast from your hand this turn has delve.
+[-7]: Create a 7/7 black Nightmare creature token with menace and ward—mill seven cards. Target player draws seven cards.
+
+Durg, Enclave's Warden
+
+Baal, Avaricious
+
+Ea, Magi of the Oasis
+
+Zaeyr the Veiled
+
+Mergho, Sky Ancient
+rules_text: Flying, protection from black and red
+When Mergho enters for the first time each turn, aetherize any number of other permanents you control. [i](To aetherize, create a token that's a copy of it, then exile that token.)[/i] => Flying, protection from black and red
+When you cast Mergho, aetherize any number of other permanents you control. [i](To aetherize, create a token that's a copy of it, then exile that token.)[/i]
+
+Saasa, Dark Witch
+rules_text: Whenever Saasa attacks, create X 1/1 black Bird creature tokens with flying that are tapped and attacking, where X is the amount of life you gained this turn. Exile them at the end of turn.
+Whenever a creature you control leaves, each opponent loses 1 life and you gain 1 life. => Whenever Saasa attacks, create a 1/1 black Bird enchantment creature token with flying that's tapped and attacking, for each enchantment you control.
+Whenever an enchantment you control enters, each opponent loses 1 life and you gain 1 life.
+
+Corvu, Ambling Hermit
+
+Mother of Beasts
+
+Cuith, War Patroness
+
+Dir, Venerated One
+
+Idad, Cycle Tender
+rules_text: Lifelink
+When Idad enters, create a 1/1 black Bird creature token with flying or populate.
+Tokens you control have “{T}, Pay 1 life: Add one mana of any color.” => Lifelink
+When Idad enters, convocate. [i](Create a 1/1 colorless Cleric creature token, or create a token copy of a token you control.)[/i]
+Tokens you control have “{T}, Pay 1 life: Add one mana of any color.”
+
+Ussuh, the Burgeoning
+
+Signi, Spiritfire
+
+Shamash, Triumphant
+
+Transcendent Agnar
+
+Sola, the Sunrise
+
+Libluth the Steadfast
+
+Yadi, Carmine Priestess
+rules_text: Lifelink
+Sacrifice another creature: Create an Elixir token. Activate only as a sorcery. [i](It's an artifact with “{1}, {T}, Sacrifice this: If you gained 4 or more life this turn, draw a card. Otherwise, you gain 2 life.”)[/i]
+Partner => Lifelink
+Sacrifice another creature: Create an Elixir token. Activate only as a sorcery. [i](It's an enchantment with “{1}, Sacrifice this: If you gained 4 or more life this turn, draw a card. Otherwise, you gain 2 life.”)[/i]
+Partner
+
+Darice, Waygate Magi
+
+Cit, Wayfinder
+
+Grem, Plague Seraph
+
+Aloro, Torchbearer
+
+Agare, Giver of Knowing
+
+Elixir
+type: Token Artifact — Elixir => Token Enchantment — Elixir
+rules_text: {1}, {T}, Sacrifice this: If you gained 4 or more life this turn, draw a card. Otherwise, you gain 2 life. => {1}, Sacrifice this: If you gained 4 or more life this turn, draw a card. Otherwise, you gain 2 life.
+
+Reflection
+
+Zabu
+
+Shzida
+
+Stoke
+
+Cuith's Blade
+
+Elemental
+
+Snake
+
+Mount
+
+Spirit
+
+Spirit
+
+Bird
+
+Nightmare
+
+Zombie
+
+Zombie
+
+Zombie
+
+Commander's Sphere
+
+Coalition Relic
+
+Chromatic Lantern
+
+Solemn Simulacrum
+
+Elixir of Perpetuity
+type: Artifact — Elixir => Artifact
+
+Inscrutable Talisman
+
+Sunset Pyramid
+
+Cosmic Chart
+
+Ring of Souls
+
+Clock of Seasons
+
+Runic Pillars
+
+Chamber of Reflections
+
+Skybright Obelisk
+
+Newleaf Obelisk
+
+Helltide Obelisk
+
+Gravemurk Obelisk
+
+Stormshore Obelisk
+
+Shadowbog Obelisk
+
+Cliffhome Obelisk
+
+Lilypond Obelisk
+
+Woodbellow Obelisk
+
+Dusklight Obelisk
+
+The Great Work
+
+Sigil of Autumn
+
+Sigil of Winter
+
+Sigil of Reaping
+
+Sigil of Summer
+
+Sigil of Spring
+
+Colossal Gate
+
+Bygone Gate
+
+Enigmatic Gate
+
+Desolate Gate
+
+Ineffable Gate
+
+Conqueror's Greaves
+
+Wayfarer's Familiar
+
+Scout's Compass
+
+Ligosomnia Engine
+
+Assembling Spheres
+
+Answer to Prayers
+
+Forgotten Volume
+
+Robust Manuscript
+
+Enchanted Scroll
+
+Malefic Grimoire
+
+Alchemical Journal
+
+
+VERSION 3 CHANGELOG
 ====================
 
 Ein, Ebbing Tide added.
