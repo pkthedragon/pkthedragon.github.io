@@ -1,4 +1,562 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+Anaza, Loreweaver added.
+Ea's Study added.
+Serpentine Bloom added.
+First Breath added.
+Springtide Ritual added.
+Infinity Repeating added.
+Howling Augury added.
+Searing Dawn added.
+Ruinous Weft added.
+Boundless Reverie added.
+Divine Reclamation added.
+Astral Procession added.
+Epiphany of Forever added.
+Brass Steward added.
+Starhide Lion added.
+Lotus Treant added.
+Prismatic Wish added.
+Empress' Arrival added.
+Charmer's Confluence added.
+Trader's Confluence added.
+Evoker's Confluence added.
+Sage's Confluence added.
+Ranger's Confluence added.
+Fanatic's Confluence added.
+Warlock's Confluence added.
+Archmage's Confluence added.
+Astrologer's Confluence added.
+Shaman's Confluence added.
+
+Oro, Brass Tyrant removed.
+Io's Study removed.
+
+Ashur, Roaming Library
+rules_text: Archive 7 [i](As this enters, shuffle the top seven cards of your main library into a new face up library. Sacrifice this after the archived library is empty.)[/i]
+At the beginning of your end step, draw a card. If Ashur is saddled, exchange up to X cards from the archived library with cards from your hand.
+Saddle X => Archive 7
+At the beginning of your end step, draw a card. If Ashur is saddled, exchange up to X cards from the archived library with cards from your hand.
+Saddle X
+
+Dammuk, Farseeker
+
+Esteemed Marroc
+
+Ein, Ebbing Tide
+rules_text: Flash; flying
+Ein can't be countered.
+When Ein enters and at the beginning of your upkeep, exile up to one target creature you control or card from your graveyard.
+When Ein leaves, put all cards exiled with it into their owner's hands. => Flash; flying
+Ein can't be countered.
+When Ein enters and at the beginning of your upkeep, exile up to one target creature you control or card from your graveyard.
+When Ein leaves, put all cards exiled with it into their owners' hand.
+
+Eluz, Eternal Shepherd
+
+Amuz, Dune Giant
+
+Dishkur, Pulsing Core
+
+Erragal, Red Hunter
+rules_text: Delve [i](Each card you exile from your graveyard while casting this spell pays for {1}.)[/i]
+Haste, menace
+Whenever Erragal deals combat damage to a player, each player gets two frenzy counters. [i](Frenzy counters reduce a player's maximum hand size. Pay {2} as a sorcery to remove a frenzy counter.)[/i] => Delve [i](Each card you exile from your graveyard while casting this spell pays for {1}.)[/i]
+Haste, menace
+Whenever Erragal deals combat damage to a player, each player gets three frenzy counters. [i](Frenzy counters reduce a player's maximum hand size. A player can only have seven counters. Pay {2} as a sorcery to remove a counter.)[/i]
+
+Nusbil, Arid Wind
+type: Legendary Creature — Dragon Sphinx => Legendary Enchantment Creature — Dragon
+rules_text: Flying, lifelink, haste
+Virulent 1 [i](Whenever this deals damage to a creature, that creature's controller gets a poison counter.)[/i]
+{2}{R}{W}{B}, {T}: For each enchantment you control, Nusbil deals 1 damage to any target. => Flying, lifelink, haste
+Virulent 1 [i](Whenever this deals damage to a creature, that creature's controller gets a poison counter.)[/i]
+{R}{W}{B}, {T}: For each enchantment you control, Nusbil deals 1 damage to any target.
+
+Io, Stargazer
+
+Saraf, Ivory Weaver
+rules_text: Escape—{1}{B}{G}{U}, Exile four other cards from your graveyard.
+When Saraf enters, mill four cards.
+Whenever Saraf attacks, shuffle a permanent card from your graveyard into its owner's library and create a token copy of it with decayed. => When Saraf enters, mill four cards.
+Whenever Saraf attacks, shuffle a permanent card from your graveyard into its owner's library and create a token copy of it with decayed.
+Weave {1}{B}{G}{U}
+
+Namash, Ever Famished
+
+Zabu, Parasitic Bloom
+
+Mugan, Harmonious
+
+Nidab, Forgotten Vestige
+rules_text: Defender, vigilance
+{T}: Scry 2. Create an Elixir token. Activate only as a sorcery. [i](It's an enchantment with “{1}, Sacrifice this: If you gained 4 or more life this turn, draw a card. Otherwise, you gain 2 life.”)[/i]
+[i]Opulence[/i] — As long as you have the highest life total or are tied for the highest life total, Nidab gets +2/+0 and loses defender. => Defender, vigilance
+{T}: Scry 2. Create an Elixir token. Activate only as a sorcery.
+[i]Opulence[/i] — As long as you have the highest life total or are tied for the highest life total, Nidab gets +2/+0 and loses defender.
+
+Kitu, Vast Aurora
+
+Nin, Daydreamer
+
+Lahar, Many Bodied
+
+Utash, Great Wanderer
+
+Shifter Manzet
+rules_text: Before you shuffle your deck to start the game, you may reveal this card from your deck or command zone. When you do, for each color, exile up to one creature card you own of that color from outside the game.
+Changeling
+{2}: Shifter Manzet becomes a copy of a card exiled with cards named Shifter Manzet, except it has this ability. => Before you shuffle your deck to start the game, you may reveal this card from your deck or command zone. When you do, for each color, exile up to one creature card you own of that color from outside the game.
+Changeling
+{2}: Shifter Manzet becomes a copy of a card exiled with cards named Shifter Manzet, except it's 7/7 and has this ability.
+
+Irrah, Ashen Ravager
+
+Aru, Blinding Seraph
+type: Legendary Creature — Angel Reflection => Legendary Enchantment Creature — Angel
+
+Fayah, Rousing Magnate
+
+Ishim, God of Dusk
+
+Yshnu, God of Stars
+
+Anuun, God of Snakes
+
+Lilu, Secluded Archivist
+
+Gala, Bone Mistress
+
+Getana, Plasm Legionary
+
+Trusted Nurta
+
+Overgrown Atheneum
+
+Lofty Atheneum
+
+Sunken Atheneum
+
+Secluded Atheneum
+
+Mystic Atheneum
+
+Tactitian's Outpost
+
+Druid's Sanctuary
+
+Scoundrel's Camp
+
+Command Tower
+
+Morphic Verge
+
+Fabled Passage
+
+Floodwater Depths
+
+Grim Bastion
+
+Magmatic Torrent
+
+Mysterious Cataract
+
+Sunlit Highland
+
+Barren Desolation
+
+Shardstone Rift
+
+Timber Range
+
+Ocean Monastery
+
+Amber Hills
+
+Fell Glade
+
+Resting Dunes
+
+Hushed Oasis
+
+Magma Ridge
+
+Rotbed Mire
+
+Bustling Marketplace
+
+New Divide
+
+Pinnacle Portal
+
+Archmage's Tower
+
+Chamber of Ceremonies
+
+Watched Bazaar
+
+Dormant Remnant
+
+Prismatic Cavern
+
+Rogue's Passage
+
+Blossoming Expanse
+
+Grand Citadel
+
+Sunrise Exchange
+
+Necromancer's Den
+
+Tyrant's Cathedral
+
+Hermit's Refuge
+
+Regent's Metropolis
+
+Mage's Repository
+
+Wanderer's Shrine
+
+Benefactor's Altar
+
+Autumn Canopy
+
+Cloudsteel Summit
+
+Cursed Wastes
+
+Ghostspore Mire
+
+Molten Falls
+
+Resculpted Gorge
+
+Shuddering Node
+
+Soaring Rainforest
+
+Steamlit Peaks
+
+Timeless Shrine
+
+Plasm Raptor
+
+Plasm Crab
+
+Plasm Hound
+
+Plasm Arthropod
+
+Plasm Serpent
+
+Nameless Anachronism
+
+Ghost Quarter
+
+Arcane Signet
+
+Ereni, Pale Monarch
+rules_text: Golden age [i](If you cast an instant or sorcery spell, activated a nonmana ability, and attacked this turn, enter a renaissance for this game.)[/i]
+{2}{B}, {T}, Discard a card: Return target creature card from your graveyard to your hand. If you're in a renaissance, add {B}{B}{B}.
+Partner => Golden age [i](If you cast an instant or sorcery spell, activated a nonmana ability, and attacked this turn, enter a renaissance for this game.)[/i]
+{2}{B}, {T}, Discard a card: Return target creature or enchantment card from your graveyard to your hand. If you're in a renaissance, add {B}{B}{B}.
+Partner
+
+Tiame, Visionary Elder
+
+Fahad, Oasis King
+
+Guardian of Paradise
+rules_text: Creatures you control have islandwalk.
+Islands you control have “{T}: Add {G}{U}.”
+[i]Expanse[/i] — At the beginning of your end step, if two or more lands entered under your control this turn, put a flood counter on target land. That land is an Island for as long as it has a flood counter on it. => Creatures you control have islandwalk.
+Islands you control have “{T}: Add {C}{C}.”
+[i]Expanse[/i] — At the beginning of your end step, if two or more lands you control entered this turn, put a flood counter on target land. That land is an Island for as long as it has a flood counter on it.
+
+Dharman, Gold Chariot
+
+Hesah, King of Snakes
+
+Zagal, Wayward Minstrel
+
+Warad, the Red Hand
+
+Anzu, All-Consuming
+
+Urukh the Shadowed
+
+Durg, Enclave's Warden
+
+Baal, Avaricious
+
+Ea, Magi of the Oasis
+
+Zaeyr the Veiled
+
+Mergho, Sky Ancient
+
+Saasa, Dark Witch
+rules_text: Whenever Saasa attacks, create a 1/1 black Bird enchantment creature token with flying that's tapped and attacking, for each enchantment you control.
+Whenever an enchantment you control enters, each opponent loses 1 life and you gain 1 life. => Whenever Saasa attacks, create a 1/1 black Bird enchantment creature token with flying that's tapped and attacking for each enchantment you control. Exile those tokens at the end of combat.
+Whenever an enchantment you control enters, each opponent loses 1 life and you gain 1 life.
+
+Corvu, Ambling Hermit
+rules_text: [+1]: Until end of turn, Corvu becomes a 1/2 Bird Avatar creature with flying, haste, and indestructible. It connives.
+[-3]: Destroy target creature. Its controller gets two frenzy counters. [i](Frenzy counters reduce a player's maximum hand size. Pay {2} as a sorcery to remove a frenzy counter.)[/i]
+[-8]: You get an emblem with “Whenever a player discards a card, this emblem deals 1 damage to each opponent.” => [+1]: Until end of turn, Corvu becomes a 1/2 Bird Avatar creature with flying, haste, and indestructible. It connives.
+[-3]: Destroy target creature. Its controller gets three frenzy counters. [i](Frenzy counters reduce a player's maximum hand size. A player can only have seven counters. Pay {2} as a sorcery to remove a counter.)[/i]
+[-8]: You get an emblem with “Whenever a player discards a card, this emblem deals 1 damage to each opponent.”
+special_text: [+1]: Until end of turn, Corvu becomes a 1/2 Bird Avatar creature with flying, haste, and indestructible. It connives.
+[-3]: Destroy target creature. Its controller gets two frenzy counters. [i](Frenzy counters reduce a player's maximum hand size. Pay {2} as a sorcery to remove a frenzy counter.)[/i]
+[-8]: You get an emblem with “Whenever a player discards a card, this emblem deals 1 damage to each opponent.” => [+1]: Until end of turn, Corvu becomes a 1/2 Bird Avatar creature with flying, haste, and indestructible. It connives.
+[-3]: Destroy target creature. Its controller gets three frenzy counters. [i](Frenzy counters reduce a player's maximum hand size. A player can only have seven counters. Pay {2} as a sorcery to remove a counter.)[/i]
+[-8]: You get an emblem with “Whenever a player discards a card, this emblem deals 1 damage to each opponent.”
+
+Mother of Beasts
+
+Cuith, War Patroness
+
+Dir, Venerated One
+rules_text: Reincarnate [i](When this creature dies, if it isn't a token, create a token copy of it with flying except it's a 1/1 Spirit in addition to its other types.)[/i]
+When Dir enters or dies, create a 1/1 colorless Spirit creature token with flying. Then you draw a card and create an Idol token for each differently named token you control. => Reincarnate [i](When this creature dies, if it isn't a token, create a token copy of it with flying except it's a 1/1 Spirit in addition to its other types.)[/i]
+When Dir enters or dies, create a 1/1 white Spirit creature token with flying. Then you draw a card and create an Idol token for each differently named token you control.
+
+Idad, Cycle Tender
+
+Ussuh, the Burgeoning
+
+Signi, Spiritfire
+
+Shamash, Triumphant
+
+Transcendent Agnar
+
+Sola, the Sunrise
+
+Libluth the Steadfast
+
+Yadi, Carmine Priestess
+
+Darice, Waygate Magi
+
+Cit, Wayfinder
+
+Grem, Plague Seraph
+
+Aloro, Torchbearer
+
+Agare, Giver of Knowing
+
+Commander's Sphere
+
+Coalition Relic
+
+Chromatic Lantern
+
+Solemn Simulacrum
+
+Elixir of Perpetuity
+
+Inscrutable Talisman
+rules_text: Escape—Exile two other cards from your graveyard.
+You have no maximum hand size.
+{2}, Sacrifice Inscrutable Talisman: Draw a card. => You have no maximum hand size.
+{2}, Sacrifice Inscrutable Talisman: Draw a card.
+Weave {0} [i]({0}, Exile this card from your graveyard: Shuffle it into your library or shuffle it and the top two cards of your main library into a new face up library.)[/i]
+
+Sunset Pyramid
+
+Cosmic Chart
+
+Ring of Souls
+
+Clock of Seasons
+
+Runic Pillars
+
+Chamber of Reflections
+
+Skybright Obelisk
+rules_text: If you control a Plains and an Island, Skybright Obelisk costs {1} less to cast and enters tapped.
+{T}: Add {W} or {U}. => Weave {2} [i]({2}, Exile this card from your graveyard: Shuffle it into your library or shuffle it and the top two cards of your main library into a new face up library.)[/i]
+{T}: Add {W} or {U}.
+
+Newleaf Obelisk
+rules_text: If you control a Mountain and a Forest, Newleaf Obelisk costs {1} less to cast and enters tapped.
+{T}: Add {R} or {G}. => Weave {2} [i]({2}, Exile this card from your graveyard: Shuffle it into your library or shuffle it and the top two cards of your main library into a new face up library.)[/i]
+{T}: Add {R} or {G}.
+
+Helltide Obelisk
+rules_text: If you control a Swamp and an Mountain, Helltide Obelisk costs {1} less to cast and enters tapped.
+{T}: Add {B} or {R}. => Weave {2} [i]({2}, Exile this card from your graveyard: Shuffle it into your library or shuffle it and the top two cards of your main library into a new face up library.)[/i]
+{T}: Add {B} or {R}.
+
+Gravemurk Obelisk
+rules_text: If you control an Island and a Swamp, Gravemurk Obelisk costs {1} less to cast and enters tapped.
+{T}: Add {U} or {B}. => Weave {2} [i]({2}, Exile this card from your graveyard: Shuffle it into your library or shuffle it and the top two cards of your main library into a new face up library.)[/i]
+{T}: Add {U} or {B}.
+
+Stormshore Obelisk
+rules_text: If you control an Island and a Mountain, Stormshore Obelisk costs {1} less to cast and enters tapped.
+{T}: Add {U} or {R}. => Weave {2} [i]({2}, Exile this card from your graveyard: Shuffle it into your library or shuffle it and the top two cards of your main library into a new face up library.)[/i]
+{T}: Add {U} or {R}.
+
+Shadowbog Obelisk
+rules_text: If you control a Swamp and a Forest, Shadowbog Obelisk costs {1} less to cast and enters tapped.
+{T}: Add {B} or {G}. => Weave {2} [i]({2}, Exile this card from your graveyard: Shuffle it into your library or shuffle it and the top two cards of your main library into a new face up library.)[/i]
+{T}: Add {B} or {G}.
+
+Cliffhome Obelisk
+rules_text: If you control a Mountain and a Plains, Cliffhome Obelisk costs {1} less to cast and enters tapped.
+{T}: Add {R} or {W}. => Weave {2} [i]({2}, Exile this card from your graveyard: Shuffle it into your library or shuffle it and the top two cards of your main library into a new face up library.)[/i]
+{T}: Add {R} or {W}.
+
+Lilypond Obelisk
+rules_text: If you control a Forest and an Island, Lilypond Obelisk costs {1} less to cast and enters tapped.
+{T}: Add {G} or {U}. => Weave {2} [i]({2}, Exile this card from your graveyard: Shuffle it into your library or shuffle it and the top two cards of your main library into a new face up library.)[/i]
+{T}: Add {G} or {U}.
+
+Woodbellow Obelisk
+rules_text: If you control a Forest and a Plains, Woodbellow Obelisk costs {1} less to cast and enters tapped.
+{T}: Add {G} or {W}. => Weave {2} [i]({2}, Exile this card from your graveyard: Shuffle it into your library or shuffle it and the top two cards of your main library into a new face up library.)[/i]
+{T}: Add {G} or {W}.
+
+Dusklight Obelisk
+rules_text: If you control a Plains and a Swamp, Dusklight Obelisk costs {1} less to cast and enters tapped.
+{T}: Add {W} or {B}. => Weave {2} [i]({2}, Exile this card from your graveyard: Shuffle it into your library or shuffle it and the top two cards of your main library into a new face up library.)[/i]
+{T}: Add {W} or {B}.
+
+The Great Work
+
+Gate to Paradise
+rules_text: Regalia [i](Start the game with this face up in the command zone and adorn an unadorned commander.)[/i]
+As the game begins, choose a color. The adorned commander is the chosen color.
+You may only include up to five cards of the chosen color in your deck. => Regalia [i](Start the game with this face up in the command zone and adorn an unadorned commander.)[/i]
+As the game begins, choose two colors. The adorned commander is the chosen colors.
+You may only include up to three cards of each of the chosen colors in your deck.
+
+Sigil of Winter
+
+Sigil of Reaping
+
+Sigil of Summer
+
+Sigil of Spring
+
+Colossal Gate
+
+Bygone Gate
+
+Desolate Gate
+
+Ineffable Gate
+
+Conqueror's Greaves
+
+Wayfarer's Familiar
+
+Scout's Compass
+
+Ligosomnia Engine
+rules_text: {T}: Create a 1/1 colorless Spirit creature token with flying.
+{6}, {T}: Create a 4/4 colorless Nightmare creature token with menace. => {T}: Create a 1/1 white Spirit creature token with flying.
+{6}, {T}: Create a 4/4 black Nightmare creature token with menace.
+
+Assembling Spheres
+rules_text: Sacrifice an artifact or creature: Put a sphere counter on Assembling Spheres.
+{2}, Remove three sphere counters from Assembling Spheres: Create a 0/0 colorless Golem creature token with “This creature gets +1/+1 for each artifact you control.” => Sacrifice an artifact or creature: Put a sphere counter on Assembling Spheres.
+{2}, Remove three sphere counters from Assembling Spheres: Create a 0/0 colorless Golem artifact creature token with “This creature gets +1/+1 for each artifact you control.”
+
+Answer to Prayers
+
+Ussuh's Beating Heart
+
+Forgotten Volume
+rules_text: [i]Imprint[/i] — When Forgotten Volume enters, you may exile a nonland card from your hand.
+{T}: Add {C}. If a card is exiled with Forgotten Volume, add {G} instead.
+{2}, {T}: If the exiled card is green, put it in your hand. Otherwise, put it on top of your library. => [i]Imprint[/i] — When Forgotten Volume enters, you may exile a nonland card from your hand.
+{T}: Add {C}. If a card is exiled with Forgotten Volume, add {G} instead.
+{2}, {T}: If the exiled card is green, you may put it in your hand. Otherwise, put it on top of your library.
+
+Robust Manuscript
+rules_text: [i]Imprint[/i] — When Robust Manuscript enters, you may exile a nonland card from your hand.
+{T}: Add {C}. If a card is exiled with Robust Manuscript, add {W} instead.
+{2}, {T}: If the exiled card is white, put it in your hand. Otherwise, put it on top of your library. => [i]Imprint[/i] — When Robust Manuscript enters, you may exile a nonland card from your hand.
+{T}: Add {C}. If a card is exiled with Robust Manuscript, add {W} instead.
+{2}, {T}: If the exiled card is white, you may put it in your hand. Otherwise, put it on top of your library.
+
+Enchanted Scroll
+rules_text: [i]Imprint[/i] — When Enchanted Scroll enters, you may exile a nonland card from your hand.
+{T}: Add {C}. If a card is exiled with Enchanted Scroll, add {U} instead.
+{2}, {T}: If the exiled card is blue, put it in your hand. Otherwise, put it on top of your library. => [i]Imprint[/i] — When Enchanted Scroll enters, you may exile a nonland card from your hand.
+{T}: Add {C}. If a card is exiled with Enchanted Scroll, add {U} instead.
+{2}, {T}: If the exiled card is blue, you may put it in your hand. Otherwise, put it on top of your library.
+
+Malefic Grimoire
+rules_text: [i]Imprint[/i] — When Malefic Grimoire enters, you may exile a nonland card from your hand.
+{T}: Add {C}. If a card is exiled with Malefic Grimoire, add {B} instead.
+{2}, {T}: If the exiled card is black, put it in your hand. Otherwise, put it on top of your library. => [i]Imprint[/i] — When Malefic Grimoire enters, you may exile a nonland card from your hand.
+{T}: Add {C}. If a card is exiled with Malefic Grimoire, add {B} instead.
+{2}, {T}: If the exiled card is black, you may put it in your hand. Otherwise, put it on top of your library.
+
+Alchemical Journal
+rules_text: [i]Imprint[/i] — When Alchemical Journal enters, you may exile a nonland card from your hand.
+{T}: Add {C}. If a card is exiled with Alchemical Journal, add {R} instead.
+{2}, {T}: If the exiled card is red, put it in your hand. Otherwise, put it on top of your library. => [i]Imprint[/i] — When Alchemical Journal enters, you may exile a nonland card from your hand.
+{T}: Add {C}. If a card is exiled with Alchemical Journal, add {R} instead.
+{2}, {T}: If the exiled card is red, you may put it in your hand. Otherwise, put it on top of your library.
+
+Hesah's Study
+
+Zagal's Study
+
+Corvu's Study
+
+Zaeyr's Study
+
+Urukh's Study
+
+Idad's Study
+
+Nin's Study
+
+Cit's Study
+
+Warad's Study
+
+Emil's Study
+cost: {3}{U}{U} => {3}{U}{U}{U}
+rules_text: Archive 5
+Spells you cast that share a card type with the top card of the archived library cost {1} less to cast.
+{2}{U}: Surveil 1, then you may draw a card from the archived library. => Archive 5
+You may play the top card of the archived library.
+Spells you cast that share a card type with the top card of the archived library cost {1} less to cast.
+
+Ishim's Study
+rules_text: Archive 7
+When Ishim's Study enters, it deals 3 damage to each creature. If a creature dealt damage this way would die this turn, you may discard a card and draw a card from the archived library. => Archive 7
+When Ishim's Study enters, it deals 3 damage to each creature. If a creature dealt damage this way would survive, you may discard a card and draw a card from the archived library.
+
+Anuun's Study
+rules_text: Archive 0
+When Anuun's Study enters, search your main library for up to four land cards, shuffle them into the archived library, then shuffle your main library. => Archive 0
+When Anuun's Study enters, search your main library for two basic land cards, put them on the top of the archived library in any order, then shuffle your main library.
+
+Arati's Study
+rules_text: Archive 7
+Whenever an opponent casts a noncreature spell or a nonbasic land enters under their control, draw a card from the archived library unless that player pays {1}. => Archive 5
+Once each turn, whenever an opponent casts a noncreature spell or a nonbasic land enters under their control, draw a card from the archived library unless that player pays {1}.
+
+Yshnu's Study
+rules_text: Archive 5 [i](As this enters, shuffle the top five cards of your main library into a new face up library. Sacrifice this after the archived library is empty.)[/i]
+At the beginning of your upkeep, you lose 1 life and draw a card from the archived library. => Archive 6 [i](As this enters, shuffle the top six cards of your main library into a new face up library. Sacrifice this after the archived library is empty.)[/i]
+At the beginning of your upkeep, draw a card from the archived library. You lose life equal to its mana value.
+
+
+VERSION 4 CHANGELOG
 ====================
 
 Ussuh's Beating Heart added.
