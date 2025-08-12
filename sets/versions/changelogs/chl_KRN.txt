@@ -1,4 +1,720 @@
-﻿VERSION 5 CHANGELOG
+﻿VERSION 6 CHANGELOG
+====================
+
+Glimmer added.
+Glimmer added.
+Prophecy of Flame added.
+Sunwing Divinity added.
+Druidic Communion added.
+Ornimancer added.
+Twilight Perplexity added.
+Resting Undertow added.
+Maniacal Evocation added.
+Undaunted Explorer added.
+Resolute Outsider added.
+Deified Wanderer added.
+Gossamer Entity added.
+Apex Goliath added.
+Sacred Fire added.
+Embalmed Drake added.
+Ravenous Aberration added.
+Collective Conscious added.
+Dark God's Blessing added.
+Inspiring Partisan added.
+Caustic Berserker added.
+Shadowed Clergy added.
+Kingmaker added.
+Eulogy of Forgotten Masses added.
+Prayer of Fecudity added.
+Revelation of Finitude added.
+Lost Etchings added.
+Battlemage Mentor added.
+Calamitous Offerings added.
+Counterflow added.
+Turn To Ash added.
+Dutiful Serpent added.
+Fathomless Amalgam added.
+Volant Loudhailer added.
+Nightborn Enigma added.
+Ophidian Shrine added.
+Fall of the Deathless added.
+March of the Deathless added.
+March of the Beasts added.
+Fall of the Great City added.
+March of the Visionaries added.
+Fall of the Ophidians added.
+Fall of the Visionaries added.
+Fall of the Beasts added.
+March of the Great City added.
+March of the Ophidians added.
+Enlightened Titan added.
+Surfaced Titan added.
+Rippling Titan added.
+Reaping Titan added.
+Burgeoning Titan added.
+Sanguine Titan added.
+Noxious Titan added.
+Nebulous Titan added.
+Astral Titan added.
+Crackling Titan added.
+Drown in the Loch added.
+Piecemeal Finale added.
+Claim for Civilization added.
+Demand Reverence added.
+Mind's Communion added.
+Boon of the Pacts added.
+Wildfire Awakener added.
+Worlds Colliding added.
+Time Wipe added.
+Rhythm of the Wild added.
+Seedmiser's Zeal added.
+Pyromancer's Zeal added.
+Malefactor's Zeal added.
+Philosopher's Zeal added.
+Loyalist's Zeal added.
+Emil's Roaming of Ravnica added.
+Arati's Roaming of Theros added.
+Yshnu's Roaming of Innistrad added.
+Anuun's Roaming of Zendikar added.
+Ishim's Roaming of Shandalar added.
+Heraldry added.
+Whimsy added.
+Villainy added.
+Brutality added.
+Creativity added.
+B33 added.
+W33 added.
+R33 added.
+G33 added.
+U33 added.
+
+Reflection removed.
+Spirit removed.
+
+Anaza, Loreweaver
+type: Legendary Enchantment Creature — Spider => Legendary Creature — Spider God
+
+Ashur, Roaming Library
+
+Dammuk, Farseeker
+
+Esteemed Marroc
+
+Ein, Ebbing Tide
+type: Legendary Creature — Spirit Avatar => Legendary Enchantment Creature — Avatar
+
+Eluz, Eternal Shepherd
+type: Legendary Creature — Zombie Spirit => Legendary Creature — Zombie
+
+Amuz, Dune Giant
+type: Legendary Creature — Giant Avatar => Legendary Creature — Giant
+
+Dishkur, Pulsing Core
+
+Erragal, Red Hunter
+rules_text: Delve [i](Each card you exile from your graveyard while casting this spell pays for {1}.)[/i]
+Haste, menace
+Whenever Erragal deals combat damage to a player, each player gets three frenzy counters. [i](Frenzy counters reduce a player's maximum hand size. A player can only have seven counters. Pay {2} as a sorcery to remove a counter.)[/i] => Delve [i](Each card you exile from your graveyard while casting this spell pays for {1}.)[/i]
+Haste, menace
+Whenever Erragal deals combat damage to a player, each player gets three frenzy counters. [i](Frenzy counters reduce your maximum hand size. You can only have seven counters. Pay {2} as a sorcery to remove a counter.)[/i]
+
+Nusbil, Arid Wind
+type: Legendary Enchantment Creature — Dragon => Legendary Enchantment Creature — Dragon Avatar
+
+Io, Stargazer
+rules_text: Spirited [i](When this enters, you may activate one of its activated abilities without paying its cost.)[/i]
+Io enters with a number of loyalty counters equal to the amount of mana spent to cast it.
+[-1]: Aetherize target permanent you control. [i](To aetherize, create a token that's a copy of it, then exile that token.)[/i]
+[-2]: Create a 2/2 blue Spirit enchantment creature token with “When this enters, draw a card.”
+[-4]: Until end of turn, whenever a creature you control enters, Io deals 2 damage to each opponent. => Spirited [i](When this enters, you may activate one of its activated abilities without paying its cost.)[/i]
+Io enters with a number of loyalty counters equal to the amount of mana spent to cast it.
+[-1]: Aetherize target permanent you control. [i](To aetherize, create a token that's a copy of it, then exile that token.)[/i]
+[-2]: Create a 2/2 blue Glimmer enchantment creature token with “When this enters, draw a card.”
+[-4]: Until end of turn, whenever a creature you control enters, Io deals 2 damage to each opponent.
+special_text: Spirited [i](When this enters, you may activate one of its activated abilities without paying its cost.)[/i]
+Io enters with a number of loyalty counters equal to the amount of mana spent to cast it.
+[-1]: Aetherize target permanent you control. [i](To aetherize, create a token that's a copy of it, then exile that token.)[/i]
+[-2]: Create a 2/2 blue Spirit enchantment creature token with “When this enters, draw a card.”
+[-4]: Until end of turn, whenever a creature you control enters, Io deals 2 damage to each opponent. => Spirited [i](When this enters, you may activate one of its activated abilities without paying its cost.)[/i]
+Io enters with a number of loyalty counters equal to the amount of mana spent to cast it.
+[-1]: Aetherize target permanent you control. [i](To aetherize, create a token that's a copy of it, then exile that token.)[/i]
+[-2]: Create a 2/2 blue Glimmer enchantment creature token with “When this enters, draw a card.”
+[-4]: Until end of turn, whenever a creature you control enters, Io deals 2 damage to each opponent.
+
+Saraf, Ivory Weaver
+
+Namash, Ever Famished
+
+Zabu, Parasitic Bloom
+
+Mugan, Harmonious
+
+Nidab, Forgotten Vestige
+
+Kitu, Vast Aurora
+type: Legendary Enchantment Creature — Wolf => Legendary Enchantment Creature — Wolf Avatar
+
+Nin, Daydreamer
+
+Lahar, Many Bodied
+
+Utash, Great Wanderer
+type: Legendary Creature — Beast Spirit => Legendary Enchantment Creature — Beast Avatar
+
+Shifter Manzet
+
+Irrah, Ashen Ravager
+
+Aru, Blinding Seraph
+type: Legendary Enchantment Creature — Angel => Legendary Enchantment Creature — Angel Glimmer
+
+Mezza, August Empress
+
+Fayah, Rousing Magnate
+
+Emil, God of Clouds
+
+Arati, God of Reflections
+rules_text: When Arati dies, return it to the battlefield tapped and transformed.
+[-1]: Create an Elixir token. [i](It's an enchantment with “{1}, Sacrifice this: If you gained 4 or more life this turn, draw a card. Otherwise, you gain 2 life.”)[/i]
+[-2]: Tap two untapped enchantments and/or creatures you control. When you do, destroy target nonland permanent.
+[-3]: Create a 2/1 white Reflection enchantment creature token with flying and lifelink. => When Arati dies, return it to the battlefield tapped and transformed.
+[-1]: Create an Elixir token. [i](It's an enchantment with “{1}, Sacrifice this: If you gained 4 or more life this turn, draw a card. Otherwise, you gain 2 life.”)[/i]
+[-2]: Tap two untapped enchantments and/or creatures you control. When you do, destroy target nonland permanent.
+[-3]: Create a 2/1 white Glimmer enchantment creature token with flying and lifelink.
+special_text: When Arati dies, return it to the battlefield tapped and transformed.
+[-1]: Create an Elixir token. [i](It's an enchantment with “{1}, Sacrifice this: If you gained 4 or more life this turn, draw a card. Otherwise, you gain 2 life.”)[/i]
+[-2]: Tap two untapped enchantments and/or creatures you control. When you do, destroy target nonland permanent.
+[-3]: Create a 2/1 white Reflection enchantment creature token with flying and lifelink. => When Arati dies, return it to the battlefield tapped and transformed.
+[-1]: Create an Elixir token. [i](It's an enchantment with “{1}, Sacrifice this: If you gained 4 or more life this turn, draw a card. Otherwise, you gain 2 life.”)[/i]
+[-2]: Tap two untapped enchantments and/or creatures you control. When you do, destroy target nonland permanent.
+[-3]: Create a 2/1 white Glimmer enchantment creature token with flying and lifelink.
+
+Ishim, God of Dusk
+
+Yshnu, God of Stars
+rules_text: When Yshnu dies, return it to the battlefield tapped and transformed.
+[-1]: Create a 1/1 black Elemental enchantment creature token. Put a lifelink or deathtouch counter on it.
+[-1]: You may sacrifice a permanent. If you do, destroy target creature or planeswalker.
+[-X]: You draw X cards and lose X life. => When Yshnu dies, return it to the battlefield tapped and transformed.
+[-1]: Create a 1/1 black Glimmer enchantment creature token. Put a lifelink or deathtouch counter on it.
+[-1]: You may sacrifice a permanent. If you do, destroy target creature or planeswalker.
+[-X]: You draw X cards and lose X life.
+special_text: When Yshnu dies, return it to the battlefield tapped and transformed.
+[-1]: Create a 1/1 black Elemental enchantment creature token. Put a lifelink or deathtouch counter on it.
+[-1]: You may sacrifice a permanent. If you do, destroy target creature or planeswalker.
+[-X]: You draw X cards and lose X life. => When Yshnu dies, return it to the battlefield tapped and transformed.
+[-1]: Create a 1/1 black Glimmer enchantment creature token. Put a lifelink or deathtouch counter on it.
+[-1]: You may sacrifice a permanent. If you do, destroy target creature or planeswalker.
+[-X]: You draw X cards and lose X life.
+
+Anuun, God of Snakes
+
+Lilu, Secluded Archivist
+
+Gala, Bone Mistress
+
+Getana, Plasm Legionary
+
+Trusted Nurta
+
+Shadowed Hanzu
+
+Overgrown Atheneum
+
+Lofty Atheneum
+
+Sunken Atheneum
+
+Secluded Atheneum
+
+Mystic Atheneum
+
+Tactitian's Outpost
+
+Druid's Sanctuary
+
+Scoundrel's Camp
+
+Command Tower
+
+Morphic Verge
+
+Fabled Passage
+
+Floodwater Depths
+
+Grim Bastion
+
+Magmatic Torrent
+
+Mysterious Cataract
+
+Sunlit Highland
+
+Barren Desolation
+
+Shardstone Rift
+
+Timber Range
+
+Ocean Monastery
+
+Amber Hills
+
+Fell Glade
+
+Resting Dunes
+
+Hushed Oasis
+
+Magma Ridge
+
+Rotbed Mire
+
+Bustling Marketplace
+
+New Divide
+
+Pinnacle Portal
+
+Archmage's Tower
+
+Chamber of Ceremonies
+
+Watched Bazaar
+
+Dormant Remnant
+
+Prismatic Cavern
+
+Rogue's Passage
+
+Blossoming Expanse
+
+Grand Citadel
+
+Sunrise Exchange
+
+Necromancer's Den
+
+Tyrant's Cathedral
+
+Hermit's Refuge
+
+Regent's Metropolis
+
+Mage's Repository
+
+Wanderer's Shrine
+
+Benefactor's Altar
+
+Autumn Canopy
+
+Cloudsteel Summit
+
+Cursed Wastes
+
+Ghostspore Mire
+
+Molten Falls
+
+Resculpted Gorge
+
+Shuddering Node
+
+Soaring Rainforest
+
+Steamlit Peaks
+
+Timeless Shrine
+
+Plasm Raptor
+
+Plasm Crab
+
+Plasm Hound
+
+Plasm Arthropod
+
+Plasm Serpent
+
+Nameless Anachronism
+
+Ghost Quarter
+
+Arcane Signet
+
+Ninisina, Gilded Herald
+
+Claudia, Faceless Mogul
+
+Ereni, Pale Monarch
+rules_text: Golden age [i](If you cast an instant or sorcery spell, activated a nonmana ability, and attacked this turn, enter a renaissance for this game.)[/i]
+{2}{B}, {T}, Discard a card: Return target creature or enchantment card from your graveyard to your hand. If you're in a renaissance, add {B}{B}{B}.
+Partner => Golden age [i](If you cast an instant or sorcery spell, activated a nonmana ability, and attacked this turn, enter a renaissance for this game.)[/i]
+{2}{B}, {T}, Discard a card: Return target card that shares a type with the discarded card from your graveyard to your hand. If you're in a renaissance, add {B}{B}{B}.
+Partner
+
+Tiame, Visionary Elder
+
+Fahad, Oasis King
+
+Guardian of Paradise
+
+Dharman, Gold Chariot
+rules_text: Lifelink
+Whenever Dharman attacks, it deals damage equal to the number of tapped creatures you control to any target.
+Other tapped creatures you control have ward {3}.
+Crew 3 => Lifelink
+Whenever Dharman attacks, it deals damage equal to the number of tapped creatures you control to any target.
+Whenever you activate a nonmana ability of a creature you control, Dharman becomes an artifact creature until end of turn.
+Crew 3
+
+Hesah, King of Snakes
+
+Zagal, Wayward Minstrel
+rules_text: As long as Zagal has eight or more loyalty counters on it, it's an 8/8 Bard Avatar creature with indestructible.
+[+1]: Untap target land or creature. Put a +1/+1 counter on creatures untapped this way.
+[0]: Target creature you control bellows. [i](The next creature spell you cast this turn costs {X} less to cast, where X is that creature's power.)[/i] => As long as Zagal has eight or more loyalty counters on it, it's an 8/8 Bard Avatar enchantment creature with indestructible.
+[+1]: Untap target land or creature. Put a +1/+1 counter on creatures untapped this way.
+[0]: Target creature you control bellows. [i](The next creature spell you cast this turn costs {X} less to cast, where X is that creature's power.)[/i]
+special_text: As long as Zagal has eight or more loyalty counters on it, it's an 8/8 Bard Avatar creature with indestructible.
+[+1]: Untap target land or creature. Put a +1/+1 counter on creatures untapped this way.
+[0]: Target creature you control bellows. [i](The next creature spell you cast this turn costs {X} less to cast, where X is that creature's power.)[/i] => As long as Zagal has eight or more loyalty counters on it, it's an 8/8 Bard Avatar enchantment creature with indestructible.
+[+1]: Untap target land or creature. Put a +1/+1 counter on creatures untapped this way.
+[0]: Target creature you control bellows. [i](The next creature spell you cast this turn costs {X} less to cast, where X is that creature's power.)[/i]
+
+Warad, the Red Hand
+
+Anzu, All-Consuming
+type: Legendary Creature — Goat Avatar => Legendary Enchantment Creature — Goat Avatar
+
+Urukh the Shadowed
+
+Durg, Enclave's Warden
+
+Baal, Avaricious
+
+Ea, Magi of the Oasis
+
+Zaeyr the Veiled
+
+Mergho, Sky Ancient
+
+Saasa, Dark Witch
+
+Corvu, Ambling Hermit
+rules_text: [+1]: Until end of turn, Corvu becomes a 1/2 Bird Avatar creature with flying, haste, and indestructible. It connives.
+[-3]: Destroy target creature. Its controller gets three frenzy counters. [i](Frenzy counters reduce a player's maximum hand size. A player can only have seven counters. Pay {2} as a sorcery to remove a counter.)[/i]
+[-8]: You get an emblem with “Whenever a player discards a card, this emblem deals 1 damage to each opponent.” => [+1]: Until end of turn, Corvu becomes a 1/2 Bird Avatar enchantment creature with flying, haste, and indestructible. It connives.
+[-3]: Destroy target creature. Its controller gets three frenzy counters. [i](Frenzy counters reduce your maximum hand size. You can only have seven counters. Pay {2} as a sorcery to remove a counter.)[/i]
+[-8]: You get an emblem with “Whenever a player discards a card, this emblem deals 1 damage to each opponent.”
+special_text: [+1]: Until end of turn, Corvu becomes a 1/2 Bird Avatar creature with flying, haste, and indestructible. It connives.
+[-3]: Destroy target creature. Its controller gets three frenzy counters. [i](Frenzy counters reduce a player's maximum hand size. A player can only have seven counters. Pay {2} as a sorcery to remove a counter.)[/i]
+[-8]: You get an emblem with “Whenever a player discards a card, this emblem deals 1 damage to each opponent.” => [+1]: Until end of turn, Corvu becomes a 1/2 Bird Avatar enchantment creature with flying, haste, and indestructible. It connives.
+[-3]: Destroy target creature. Its controller gets three frenzy counters. [i](Frenzy counters reduce your maximum hand size. You can only have seven counters. Pay {2} as a sorcery to remove a counter.)[/i]
+[-8]: You get an emblem with “Whenever a player discards a card, this emblem deals 1 damage to each opponent.”
+
+Mother of Beasts
+
+Cuith, War Patroness
+type: Legendary Creature — Avatar => Legendary Enchantment Creature — Avatar
+
+Dir, Venerated One
+rules_text: Reincarnate [i](When this creature dies, if it isn't a token, create a token copy of it with flying except it's a 1/1 Spirit in addition to its other types.)[/i]
+When Dir enters or dies, create a 1/1 white Spirit creature token with flying. Then you draw a card and create an Idol token for each differently named token you control. => Reincarnate [i](When this creature dies, if it isn't a token, create a token copy of it with flying except it's a 1/1 Spirit in addition to its other types.)[/i]
+When Dir enters or dies, create a 1/1 white Spirit creature token with flying. Then you draw a card, lose 1 life, and create an Idol token for each differently named token you control.
+
+Idad, Cycle Tender
+rules_text: Lifelink
+When Idad enters, convocate. [i](Create a 1/1 colorless Cleric creature token, or create a token copy of a token you control.)[/i]
+Tokens you control have “{T}, Pay 1 life: Add one mana of any color.” => Lifelink
+When Idad enters, convocate. [i](Create a 1/1 green Druid creature token, or create a token copy of a token you control.)[/i]
+Tokens you control have “{T}, Pay 1 life: Add one mana of any color.”
+
+Ussuh, the Burgeoning
+
+Signi, Spiritfire
+type: Legendary Creature — Avatar => Legendary Enchantment Creature — Avatar
+
+Shamash, Triumphant
+
+Transcendent Agnar
+
+Sola, the Sunrise
+type: Legendary Creature — Avatar => Legendary Enchantment Creature — Avatar
+
+Libluth the Steadfast
+rules_text: Trample
+Whenever a creature you control leaves the battlefield, if it had counters on it, put those counters on Libluth.
+Partner => Trample
+Whenever a creature you control leaves the battlefield, if it had counters on it, put those counters on up to one target creature.
+Partner
+
+Yadi, Carmine Priestess
+
+Darice, Waygate Magi
+
+Cit, Wayfinder
+
+Grem, Plague Seraph
+
+Aloro, Torchbearer
+type: Legendary Creature — Avatar => Legendary Enchantment Creature — Avatar
+
+Agare, Giver of Knowing
+
+Spirit
+type: Token Enchantment Creature — Spirit => Token Creature — Spirit
+rules_text: When this enters, draw a card. => Flying
+pt: 2/2 => 1/1
+
+Commander's Sphere
+
+Coalition Relic
+
+Chromatic Lantern
+
+Solemn Simulacrum
+
+Elixir of Perpetuity
+
+Inscrutable Talisman
+
+Sunset Pyramid
+
+Cosmic Chart
+
+Ring of Souls
+
+Clock of Seasons
+
+Runic Pillars
+
+Chamber of Reflections
+
+Skybright Obelisk
+rules_text: Weave {2} [i]({2}, Exile this card from your graveyard: Shuffle it into your library or shuffle it and the top two cards of your main library into a new face up library.)[/i]
+{T}: Add {W} or {U}. => If you control a Plains and an Island, Skybright Obelisk costs {1} less to cast and enters tapped.
+{T}: Add {W} or {U}.
+
+Newleaf Obelisk
+rules_text: Weave {2} [i]({2}, Exile this card from your graveyard: Shuffle it into your library or shuffle it and the top two cards of your main library into a new face up library.)[/i]
+{T}: Add {R} or {G}. => If you control a Mountain and a Forest, Newleaf Obelisk costs {1} less to cast and enters tapped.
+{T}: Add {R} or {G}.
+
+Helltide Obelisk
+rules_text: Weave {2} [i]({2}, Exile this card from your graveyard: Shuffle it into your library or shuffle it and the top two cards of your main library into a new face up library.)[/i]
+{T}: Add {B} or {R}. => If you control a Swamp and a Mountain, Helltide Obelisk costs {1} less to cast and enters tapped.
+{T}: Add {B} or {R}.
+
+Gravemurk Obelisk
+rules_text: Weave {2} [i]({2}, Exile this card from your graveyard: Shuffle it into your library or shuffle it and the top two cards of your main library into a new face up library.)[/i]
+{T}: Add {U} or {B}. => If you control an Island and a Swamp, Gravemurk Obelisk costs {1} less to cast and enters tapped.
+{T}: Add {U} or {B}.
+
+Stormshore Obelisk
+rules_text: Weave {2} [i]({2}, Exile this card from your graveyard: Shuffle it into your library or shuffle it and the top two cards of your main library into a new face up library.)[/i]
+{T}: Add {U} or {R}. => If you control an Island and a Mountain, Stormshore Obelisk costs {1} less to cast and enters tapped.
+{T}: Add {U} or {R}.
+
+Shadowbog Obelisk
+rules_text: Weave {2} [i]({2}, Exile this card from your graveyard: Shuffle it into your library or shuffle it and the top two cards of your main library into a new face up library.)[/i]
+{T}: Add {B} or {G}. => If you control a Swamp and a Forest, Shadowbog Obelisk costs {1} less to cast and enters tapped.
+{T}: Add {B} or {G}.
+
+Cliffhome Obelisk
+rules_text: Weave {2} [i]({2}, Exile this card from your graveyard: Shuffle it into your library or shuffle it and the top two cards of your main library into a new face up library.)[/i]
+{T}: Add {R} or {W}. => If you control a Mountain and a Plains, Cliffhome Obelisk costs {1} less to cast and enters tapped.
+{T}: Add {R} or {W}.
+
+Lilypond Obelisk
+rules_text: Weave {2} [i]({2}, Exile this card from your graveyard: Shuffle it into your library or shuffle it and the top two cards of your main library into a new face up library.)[/i]
+{T}: Add {G} or {U}. => If you control a Forest and an Island, Lilypond Obelisk costs {1} less to cast and enters tapped.
+{T}: Add {G} or {U}.
+
+Woodbellow Obelisk
+rules_text: Weave {2} [i]({2}, Exile this card from your graveyard: Shuffle it into your library or shuffle it and the top two cards of your main library into a new face up library.)[/i]
+{T}: Add {G} or {W}. => If you control a Forest and a Plains, Woodbellow Obelisk costs {1} less to cast and enters tapped.
+{T}: Add {G} or {W}.
+
+Dusklight Obelisk
+rules_text: Weave {2} [i]({2}, Exile this card from your graveyard: Shuffle it into your library or shuffle it and the top two cards of your main library into a new face up library.)[/i]
+{T}: Add {W} or {B}. => If you control a Plains and a Swamp, Dusklight Obelisk costs {1} less to cast and enters tapped.
+{T}: Add {W} or {B}.
+
+The Great Work
+
+Sigil of Autumn
+
+Sigil of Winter
+
+Sigil of Reaping
+
+Sigil of Summer
+
+Sigil of Spring
+
+Colossal Gate
+
+Bygone Gate
+
+Enigmatic Gate
+
+Desolate Gate
+
+Ineffable Gate
+
+Conqueror's Greaves
+
+Wayfarer's Familiar
+
+Scout's Compass
+
+Ligosomnia Engine
+
+Assembling Spheres
+
+Answer to Prayers
+
+Ussuh's Beating Heart
+
+Forgotten Volume
+
+Robust Manuscript
+
+Enchanted Scroll
+
+Malefic Grimoire
+
+Alchemical Journal
+
+Hesah's Study
+
+Zagal's Study
+
+Corvu's Study
+
+Zaeyr's Study
+
+Urukh's Study
+
+Idad's Study
+rules_text: Archive 6
+When Idad's Study enters, convocate. [i](Create a 1/1 colorless Cleric creature token, or create a token copy of a token you control.)[/i]
+Sacrifice X tokens: Put a permanent card with mana value X or less from the archived library onto the battlefield. X can't be 0. => Archive 6
+When Idad's Study enters, convocate. [i](Create a 1/1 green Druid creature token, or create a token copy of a token you control.)[/i]
+Sacrifice X tokens: Put a permanent card with mana value X or less from the archived library onto the battlefield. X can't be 0.
+
+Ea's Study
+
+Nin's Study
+
+Cit's Study
+
+Warad's Study
+
+Emil's Study
+
+Ishim's Study
+
+Anuun's Study
+
+Arati's Study
+
+Yshnu's Study
+
+Serpentine Bloom
+rules_text: Put a +1/+1 counter on each creature you control.
+Each opponent gets a frenzy counter and a poison counter. [i](Frenzy counters reduce a player's maximum hand size. A player can only have seven counters. Pay {2} as a sorcery to remove a counter.)[/i]
+Proliferate twice. => Put a +1/+1 counter on each creature you control.
+Each opponent gets a frenzy counter and a poison counter. [i](Frenzy counters reduce your maximum hand size. You can only have seven counters. Pay {2} as a sorcery to remove a counter.)[/i]
+Proliferate twice.
+
+First Breath
+rules_text: Untap target land you control. Put ten +1/+1 counters, a trample counter, and a shield counter on it. It becomes a 0/0 Elemental creature that's still a land. => Untap target land you control. Put ten +1/+1 counters, a trample counter, and a shield counter on it. It becomes a 0/0 Elemental creature with haste that's still a land.
+
+Springtide Ritual
+
+Infinity Repeating
+
+Howling Augury
+
+Searing Dawn
+
+Ruinous Weft
+
+Boundless Reverie
+
+Divine Reclamation
+
+Astral Procession
+rules_text: Create two 1/2 black Reflection enchantment creature tokens with reach and deathtouch, two 2/1 white Reflection enchantment creature tokens with flying and lifelink, and a 6/6 green Beast enchantment creature token with vigilance and trample. => Create two 1/2 black Glimmer enchantment creature tokens with reach and deathtouch, two 2/1 white Glimmer enchantment creature tokens with flying and lifelink, and a 6/6 green Beast Glimmer enchantment creature token with vigilance and trample.
+
+Brass Steward
+
+Starhide Lion
+
+Lotus Treant
+
+Prismatic Wish
+
+Empress' Arrival
+
+Charmer's Confluence
+rules_text: Choose three. You may choose the same mode more than once.
+• Proliferate.
+• Whenever a creature blocks this turn, its controller gets a poison counter.
+• Charmer's Confluence deals 1 damage to each creature you don't control. => Choose three. You may choose the same mode more than once.
+• Proliferate.
+• Whenever a creature blocks this turn, its controller gets a poison counter.
+• Charmer's Confluence deals 1 damage each creature, planeswalker, and battle.
+
+Trader's Confluence
+
+Evoker's Confluence
+
+Sage's Confluence
+rules_text: Choose three. You may choose the same mode more than once.
+• Counter target spell unless its controller taps an untapped permanent they control.
+• Aetherize target permanent. [i](To aetherize, create a token that's a copy of it, then exile that token.)[/i]
+• You and target opponent each draw a card. => Choose three. You may choose the same mode more than once.
+• Counter target spell unless its controller pays {2}.
+• Aetherize target permanent. [i](To aetherize, create a token that's a copy of it, then exile that token.)[/i]
+• You and target opponent each draw a card.
+
+Ranger's Confluence
+
+Fanatic's Confluence
+rules_text: Choose three. You may choose the same mode more than once.
+• Each player gets a frenzy counter.
+• Fanatic's Confluence deals 2 damage to any target.
+• Destroy target artifact. => Choose three. You may choose the same mode more than once.
+• Each player gets a frenzy counter. [i](Frenzy counters reduce your maximum hand size. You can only have seven counters. Pay {2} as a sorcery to remove a counter.)[/i]
+• Creatures get -1/-1 until end of turn.
+• Destroy target artifact.
+
+Warlock's Confluence
+
+Archmage's Confluence
+
+Astrologer's Confluence
+
+Shaman's Confluence
+rules_text: Choose three. You may choose the same mode more than once.
+• Create an Oasis token.
+• Put two +1/+1 counters and a haste counter on a land you control. It becomes a 0/0 Elemental creature. It's still a land.
+• Draw a card. => Choose three. You may choose the same mode more than once.
+• Create an Oasis token.
+• Put two +1/+1 counters on a land you control. It becomes a 0/0 Elemental creature with haste. It's still a land.
+• Draw a card.
+
+Epiphany of Forever
+
+
+VERSION 5 CHANGELOG
 ====================
 
 Anaza, Loreweaver added.

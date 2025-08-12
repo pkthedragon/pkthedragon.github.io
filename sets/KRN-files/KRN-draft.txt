@@ -4,17 +4,17 @@
 			"name": "Anaza, Loreweaver",
 			"rarity": "mythic",
 			"mana_cost": "{5}{B}{B}{B}",
-			"type": "Legendary Enchantment Creature — Spider",
-			"collector_number": "25",
+			"type": "Legendary Creature — Spider God",
+			"collector_number": "34",
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://pkthedragon.github.io/sets/KRN-files/img/25_Anaza, Loreweaver_back.png"
+					"en": "https://pkthedragon.github.io/sets/KRN-files/img/34_Anaza, Loreweaver_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/25_Anaza, Loreweaver_front.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/34_Anaza, Loreweaver_front.png"
 			}
 		},
 		{
@@ -22,9 +22,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}{U}{R}{W}",
 			"type": "Legendary Enchantment Creature — Study Mount",
-			"collector_number": "52",
+			"collector_number": "77",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/52_Ashur, Roaming Library.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/77_Ashur, Roaming Library.png"
 			}
 		},
 		{
@@ -32,9 +32,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{B}{G}{U}",
 			"type": "Legendary Creature — Snake Beast",
-			"collector_number": "64",
+			"collector_number": "96",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/64_Dammuk, Farseeker.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/96_Dammuk, Farseeker.png"
 			}
 		},
 		{
@@ -42,39 +42,39 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{W}{B}{G}",
 			"type": "Legendary Creature — Demon",
-			"collector_number": "76",
+			"collector_number": "115",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/76_Esteemed Marroc.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/115_Esteemed Marroc.png"
 			}
 		},
 		{
 			"name": "Ein, Ebbing Tide",
 			"rarity": "mythic",
 			"mana_cost": "{2}{G}{W}{U}",
-			"type": "Legendary Creature — Spirit Avatar",
-			"collector_number": "73",
+			"type": "Legendary Enchantment Creature — Avatar",
+			"collector_number": "110",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/73_Ein, Ebbing Tide.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/110_Ein, Ebbing Tide.png"
 			}
 		},
 		{
 			"name": "Eluz, Eternal Shepherd",
 			"rarity": "mythic",
 			"mana_cost": "{1}{W}{U}{B}",
-			"type": "Legendary Creature — Zombie Spirit",
-			"collector_number": "74",
+			"type": "Legendary Creature — Zombie",
+			"collector_number": "111",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/74_Eluz, Eternal Shepherd.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/111_Eluz, Eternal Shepherd.png"
 			}
 		},
 		{
 			"name": "Amuz, Dune Giant",
 			"rarity": "mythic",
 			"mana_cost": "{3}{R}{G}{W}",
-			"type": "Legendary Creature — Giant Avatar",
-			"collector_number": "48",
+			"type": "Legendary Creature — Giant",
+			"collector_number": "72",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/48_Amuz, Dune Giant.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/72_Amuz, Dune Giant.png"
 			}
 		},
 		{
@@ -82,9 +82,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{G}{U}{R}",
 			"type": "Legendary Creature — Plant Mutant",
-			"collector_number": "68",
+			"collector_number": "103",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/68_Dishkur, Pulsing Core.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/103_Dishkur, Pulsing Core.png"
 			}
 		},
 		{
@@ -92,19 +92,19 @@
 			"rarity": "mythic",
 			"mana_cost": "{5}{U}{B}{R}",
 			"type": "Legendary Creature — Crocodile Demon",
-			"collector_number": "75",
+			"collector_number": "114",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/75_Erragal, Red Hunter.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/114_Erragal, Red Hunter.png"
 			}
 		},
 		{
 			"name": "Nusbil, Arid Wind",
 			"rarity": "mythic",
 			"mana_cost": "{2}{R}{W}{B}",
-			"type": "Legendary Enchantment Creature — Dragon",
-			"collector_number": "102",
+			"type": "Legendary Enchantment Creature — Dragon Avatar",
+			"collector_number": "158",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/102_Nusbil, Arid Wind.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/158_Nusbil, Arid Wind.png"
 			}
 		},
 		{
@@ -112,9 +112,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{U}{R}{W}",
 			"type": "Legendary Planeswalker — Io",
-			"collector_number": "90",
+			"collector_number": "136",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/90_Io, Stargazer.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/136_Io, Stargazer.png"
 			}
 		},
 		{
@@ -122,9 +122,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{B}{G}{U}",
 			"type": "Legendary Creature — Zombie Noble",
-			"collector_number": "108",
+			"collector_number": "174",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/108_Saraf, Ivory Weaver.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/174_Saraf, Ivory Weaver.png"
 			}
 		},
 		{
@@ -132,9 +132,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{R}{W}{B}",
 			"type": "Legendary Creature — Demon",
-			"collector_number": "98",
+			"collector_number": "152",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/98_Namash, Ever Famished.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/152_Namash, Ever Famished.png"
 			}
 		},
 		{
@@ -142,9 +142,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{G}{U}{R}",
 			"type": "Legendary Planeswalker — Zabu",
-			"collector_number": "128",
+			"collector_number": "202",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/128_Zabu, Parasitic Bloom.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/202_Zabu, Parasitic Bloom.png"
 			}
 		},
 		{
@@ -152,9 +152,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{W}{B}{G}",
 			"type": "Legendary Creature — Sphinx Beast",
-			"collector_number": "97",
+			"collector_number": "151",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/97_Mugan, Harmonious.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/151_Mugan, Harmonious.png"
 			}
 		},
 		{
@@ -162,19 +162,19 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{W}{U}{B}",
 			"type": "Legendary Artifact Creature — Statue",
-			"collector_number": "99",
+			"collector_number": "154",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/99_Nidab, Forgotten Vestige.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/154_Nidab, Forgotten Vestige.png"
 			}
 		},
 		{
 			"name": "Kitu, Vast Aurora",
 			"rarity": "mythic",
 			"mana_cost": "{2}{U}{B}{R}",
-			"type": "Legendary Enchantment Creature — Wolf",
-			"collector_number": "92",
+			"type": "Legendary Enchantment Creature — Wolf Avatar",
+			"collector_number": "139",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/92_Kitu, Vast Aurora.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/139_Kitu, Vast Aurora.png"
 			}
 		},
 		{
@@ -182,9 +182,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{R}{G}{W}",
 			"type": "Legendary Creature — Angel",
-			"collector_number": "100",
+			"collector_number": "155",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/100_Nin, Daydreamer.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/155_Nin, Daydreamer.png"
 			}
 		},
 		{
@@ -192,19 +192,19 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{B}{R}{G}",
 			"type": "Legendary Creature — Zombie",
-			"collector_number": "93",
+			"collector_number": "140",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/93_Lahar, Many Bodied.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/140_Lahar, Many Bodied.png"
 			}
 		},
 		{
 			"name": "Utash, Great Wanderer",
 			"rarity": "mythic",
 			"mana_cost": "{4}{G}{W}{U}",
-			"type": "Legendary Creature — Beast Spirit",
-			"collector_number": "123",
+			"type": "Legendary Enchantment Creature — Beast Avatar",
+			"collector_number": "195",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/123_Utash, Great Wanderer.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/195_Utash, Great Wanderer.png"
 			}
 		},
 		{
@@ -212,9 +212,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{W}{U}{B}{R}{G}",
 			"type": "Legendary Creature — Shapeshifter",
-			"collector_number": "113",
+			"collector_number": "180",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/113_Shifter Manzet.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/180_Shifter Manzet.png"
 			}
 		},
 		{
@@ -222,19 +222,19 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{B}{R}{G}",
 			"type": "Legendary Creature — Elemental",
-			"collector_number": "91",
+			"collector_number": "137",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/91_Irrah, Ashen Ravager.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/137_Irrah, Ashen Ravager.png"
 			}
 		},
 		{
 			"name": "Aru, Blinding Seraph",
 			"rarity": "mythic",
 			"mana_cost": "{2}{W}{U}{B}{R}{G}",
-			"type": "Legendary Enchantment Creature — Angel",
-			"collector_number": "51",
+			"type": "Legendary Enchantment Creature — Angel Glimmer",
+			"collector_number": "76",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/51_Aru, Blinding Seraph.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/76_Aru, Blinding Seraph.png"
 			}
 		},
 		{
@@ -242,9 +242,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{W}",
 			"type": "Legendary Creature — Human Noble",
-			"collector_number": "14",
+			"collector_number": "18",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/14_Mezza, August Empress.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/18_Mezza, August Empress.png"
 			}
 		},
 		{
@@ -252,9 +252,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{W}{U}{B}{R}{G}",
 			"type": "Legendary Creature — Human Bard",
-			"collector_number": "79",
+			"collector_number": "123",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/79_Fayah, Rousing Magnate.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/123_Fayah, Rousing Magnate.png"
 			}
 		},
 		{
@@ -262,16 +262,16 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Legendary Planeswalker — Emil",
-			"collector_number": "19",
+			"collector_number": "24",
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://pkthedragon.github.io/sets/KRN-files/img/19_Emil, God of Clouds_back.png"
+					"en": "https://pkthedragon.github.io/sets/KRN-files/img/24_Emil, God of Clouds_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/19_Emil, God of Clouds_front.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/24_Emil, God of Clouds_front.png"
 			}
 		},
 		{
@@ -296,16 +296,16 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{R}",
 			"type": "Legendary Planeswalker — Ishim",
-			"collector_number": "34",
+			"collector_number": "49",
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://pkthedragon.github.io/sets/KRN-files/img/34_Ishim, God of Dusk_back.png"
+					"en": "https://pkthedragon.github.io/sets/KRN-files/img/49_Ishim, God of Dusk_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/34_Ishim, God of Dusk_front.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/49_Ishim, God of Dusk_front.png"
 			}
 		},
 		{
@@ -313,16 +313,16 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Legendary Planeswalker — Yshnu",
-			"collector_number": "30",
+			"collector_number": "43",
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://pkthedragon.github.io/sets/KRN-files/img/30_Yshnu, God of Stars_back.png"
+					"en": "https://pkthedragon.github.io/sets/KRN-files/img/43_Yshnu, God of Stars_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/30_Yshnu, God of Stars_front.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/43_Yshnu, God of Stars_front.png"
 			}
 		},
 		{
@@ -330,16 +330,16 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{G}{G}",
 			"type": "Legendary Planeswalker — Anuun",
-			"collector_number": "38",
+			"collector_number": "57",
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://pkthedragon.github.io/sets/KRN-files/img/38_Anuun, God of Snakes_back.png"
+					"en": "https://pkthedragon.github.io/sets/KRN-files/img/57_Anuun, God of Snakes_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/38_Anuun, God of Snakes_front.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/57_Anuun, God of Snakes_front.png"
 			}
 		},
 		{
@@ -347,9 +347,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{U}",
 			"type": "Legendary Creature — Faerie Advisor",
-			"collector_number": "23",
+			"collector_number": "29",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/23_Lilu, Secluded Archivist.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/29_Lilu, Secluded Archivist.png"
 			}
 		},
 		{
@@ -357,9 +357,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{B}",
 			"type": "Legendary Creature — Human Warlock",
-			"collector_number": "28",
+			"collector_number": "38",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/28_Gala, Bone Mistress.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/38_Gala, Bone Mistress.png"
 			}
 		},
 		{
@@ -367,9 +367,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{R}",
 			"type": "Legendary Creature — Human Warrior",
-			"collector_number": "33",
+			"collector_number": "48",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/33_Getana, Plasm Legionary.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/48_Getana, Plasm Legionary.png"
 			}
 		},
 		{
@@ -377,9 +377,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{G}{G}",
 			"type": "Legendary Creature — Turtle Citizen",
-			"collector_number": "45",
+			"collector_number": "69",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/45_Trusted Nurta.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/69_Trusted Nurta.png"
 			}
 		},
 		{
@@ -387,9 +387,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{W}{W}",
 			"type": "Legendary Creature — Elf Rogue",
-			"collector_number": "16",
+			"collector_number": "20",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/16_Shadowed Hanzu.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/20_Shadowed Hanzu.png"
 			}
 		},
 		{
@@ -397,9 +397,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Enchantment Land — Study",
-			"collector_number": "204",
+			"collector_number": "288",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/204_Overgrown Atheneum.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/288_Overgrown Atheneum.png"
 			}
 		},
 		{
@@ -407,9 +407,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Enchantment Land — Study",
-			"collector_number": "193",
+			"collector_number": "277",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/193_Lofty Atheneum.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/277_Lofty Atheneum.png"
 			}
 		},
 		{
@@ -417,9 +417,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Enchantment Land — Study",
-			"collector_number": "218",
+			"collector_number": "302",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/218_Sunken Atheneum.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/302_Sunken Atheneum.png"
 			}
 		},
 		{
@@ -427,9 +427,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Enchantment Land — Study",
-			"collector_number": "213",
+			"collector_number": "297",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/213_Secluded Atheneum.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/297_Secluded Atheneum.png"
 			}
 		},
 		{
@@ -437,9 +437,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Enchantment Land — Study",
-			"collector_number": "200",
+			"collector_number": "284",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/200_Mystic Atheneum.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/284_Mystic Atheneum.png"
 			}
 		},
 		{
@@ -447,9 +447,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "221",
+			"collector_number": "305",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/221_Tactitian's Outpost.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/305_Tactitian's Outpost.png"
 			}
 		},
 		{
@@ -457,9 +457,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "183",
+			"collector_number": "267",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/183_Druid's Sanctuary.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/267_Druid's Sanctuary.png"
 			}
 		},
 		{
@@ -467,9 +467,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "212",
+			"collector_number": "296",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/212_Scoundrel's Camp.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/296_Scoundrel's Camp.png"
 			}
 		},
 		{
@@ -477,9 +477,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "229",
+			"collector_number": "313",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/229_Command Tower.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/313_Command Tower.png"
 			}
 		},
 		{
@@ -487,9 +487,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "198",
+			"collector_number": "282",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/198_Morphic Verge.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/282_Morphic Verge.png"
 			}
 		},
 		{
@@ -497,9 +497,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "184",
+			"collector_number": "268",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/184_Fabled Passage.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/268_Fabled Passage.png"
 			}
 		},
 		{
@@ -507,9 +507,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "186",
+			"collector_number": "270",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/186_Floodwater Depths.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/270_Floodwater Depths.png"
 			}
 		},
 		{
@@ -517,9 +517,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "190",
+			"collector_number": "274",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/190_Grim Bastion.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/274_Grim Bastion.png"
 			}
 		},
 		{
@@ -527,9 +527,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "196",
+			"collector_number": "280",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/196_Magmatic Torrent.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/280_Magmatic Torrent.png"
 			}
 		},
 		{
@@ -537,9 +537,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "199",
+			"collector_number": "283",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/199_Mysterious Cataract.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/283_Mysterious Cataract.png"
 			}
 		},
 		{
@@ -547,9 +547,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "219",
+			"collector_number": "303",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/219_Sunlit Highland.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/303_Sunlit Highland.png"
 			}
 		},
 		{
@@ -557,9 +557,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "175",
+			"collector_number": "259",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/175_Barren Desolation.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/259_Barren Desolation.png"
 			}
 		},
 		{
@@ -567,9 +567,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "214",
+			"collector_number": "298",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/214_Shardstone Rift.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/298_Shardstone Rift.png"
 			}
 		},
 		{
@@ -577,9 +577,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "222",
+			"collector_number": "306",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/222_Timber Range.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/306_Timber Range.png"
 			}
 		},
 		{
@@ -587,9 +587,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "203",
+			"collector_number": "287",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/203_Ocean Monastery.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/287_Ocean Monastery.png"
 			}
 		},
 		{
@@ -597,9 +597,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "172",
+			"collector_number": "256",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/172_Amber Hills.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/256_Amber Hills.png"
 			}
 		},
 		{
@@ -607,16 +607,16 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Forest",
-			"collector_number": "185",
+			"collector_number": "269",
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://pkthedragon.github.io/sets/KRN-files/img/185_Fell Glade_back.png"
+					"en": "https://pkthedragon.github.io/sets/KRN-files/img/269_Fell Glade_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/185_Fell Glade_front.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/269_Fell Glade_front.png"
 			}
 		},
 		{
@@ -624,16 +624,16 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Plains",
-			"collector_number": "209",
+			"collector_number": "293",
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://pkthedragon.github.io/sets/KRN-files/img/209_Resting Dunes_back.png"
+					"en": "https://pkthedragon.github.io/sets/KRN-files/img/293_Resting Dunes_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/209_Resting Dunes_front.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/293_Resting Dunes_front.png"
 			}
 		},
 		{
@@ -641,16 +641,16 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Island",
-			"collector_number": "192",
+			"collector_number": "276",
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://pkthedragon.github.io/sets/KRN-files/img/192_Hushed Oasis_back.png"
+					"en": "https://pkthedragon.github.io/sets/KRN-files/img/276_Hushed Oasis_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/192_Hushed Oasis_front.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/276_Hushed Oasis_front.png"
 			}
 		},
 		{
@@ -658,16 +658,16 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Mountain",
-			"collector_number": "195",
+			"collector_number": "279",
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://pkthedragon.github.io/sets/KRN-files/img/195_Magma Ridge_back.png"
+					"en": "https://pkthedragon.github.io/sets/KRN-files/img/279_Magma Ridge_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/195_Magma Ridge_front.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/279_Magma Ridge_front.png"
 			}
 		},
 		{
@@ -675,16 +675,16 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Swamp",
-			"collector_number": "211",
+			"collector_number": "295",
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://pkthedragon.github.io/sets/KRN-files/img/211_Rotbed Mire_back.png"
+					"en": "https://pkthedragon.github.io/sets/KRN-files/img/295_Rotbed Mire_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/211_Rotbed Mire_front.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/295_Rotbed Mire_front.png"
 			}
 		},
 		{
@@ -692,9 +692,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "178",
+			"collector_number": "262",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/178_Bustling Marketplace.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/262_Bustling Marketplace.png"
 			}
 		},
 		{
@@ -702,9 +702,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "202",
+			"collector_number": "286",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/202_New Divide.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/286_New Divide.png"
 			}
 		},
 		{
@@ -712,9 +712,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "205",
+			"collector_number": "289",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/205_Pinnacle Portal.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/289_Pinnacle Portal.png"
 			}
 		},
 		{
@@ -722,9 +722,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "173",
+			"collector_number": "257",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/173_Archmage's Tower.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/257_Archmage's Tower.png"
 			}
 		},
 		{
@@ -732,9 +732,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "179",
+			"collector_number": "263",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/179_Chamber of Ceremonies.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/263_Chamber of Ceremonies.png"
 			}
 		},
 		{
@@ -742,9 +742,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "226",
+			"collector_number": "310",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/226_Watched Bazaar.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/310_Watched Bazaar.png"
 			}
 		},
 		{
@@ -752,9 +752,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Animus",
-			"collector_number": "182",
+			"collector_number": "266",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/182_Dormant Remnant.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/266_Dormant Remnant.png"
 			}
 		},
 		{
@@ -762,9 +762,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "206",
+			"collector_number": "290",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/206_Prismatic Cavern.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/290_Prismatic Cavern.png"
 			}
 		},
 		{
@@ -772,9 +772,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "210",
+			"collector_number": "294",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/210_Rogue's Passage.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/294_Rogue's Passage.png"
 			}
 		},
 		{
@@ -782,9 +782,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "177",
+			"collector_number": "261",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/177_Blossoming Expanse.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/261_Blossoming Expanse.png"
 			}
 		},
 		{
@@ -792,9 +792,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "189",
+			"collector_number": "273",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/189_Grand Citadel.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/273_Grand Citadel.png"
 			}
 		},
 		{
@@ -802,9 +802,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "220",
+			"collector_number": "304",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/220_Sunrise Exchange.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/304_Sunrise Exchange.png"
 			}
 		},
 		{
@@ -812,9 +812,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "201",
+			"collector_number": "285",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/201_Necromancer's Den.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/285_Necromancer's Den.png"
 			}
 		},
 		{
@@ -822,9 +822,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "224",
+			"collector_number": "308",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/224_Tyrant's Cathedral.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/308_Tyrant's Cathedral.png"
 			}
 		},
 		{
@@ -832,9 +832,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "191",
+			"collector_number": "275",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/191_Hermit's Refuge.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/275_Hermit's Refuge.png"
 			}
 		},
 		{
@@ -842,9 +842,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "207",
+			"collector_number": "291",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/207_Regent's Metropolis.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/291_Regent's Metropolis.png"
 			}
 		},
 		{
@@ -852,9 +852,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "194",
+			"collector_number": "278",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/194_Mage's Repository.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/278_Mage's Repository.png"
 			}
 		},
 		{
@@ -862,9 +862,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "225",
+			"collector_number": "309",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/225_Wanderer's Shrine.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/309_Wanderer's Shrine.png"
 			}
 		},
 		{
@@ -872,9 +872,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "176",
+			"collector_number": "260",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/176_Benefactor's Altar.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/260_Benefactor's Altar.png"
 			}
 		},
 		{
@@ -882,9 +882,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Mountain Forest",
-			"collector_number": "174",
+			"collector_number": "258",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/174_Autumn Canopy.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/258_Autumn Canopy.png"
 			}
 		},
 		{
@@ -892,9 +892,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Mountain Plains",
-			"collector_number": "180",
+			"collector_number": "264",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/180_Cloudsteel Summit.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/264_Cloudsteel Summit.png"
 			}
 		},
 		{
@@ -902,9 +902,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Plains Swamp",
-			"collector_number": "181",
+			"collector_number": "265",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/181_Cursed Wastes.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/265_Cursed Wastes.png"
 			}
 		},
 		{
@@ -912,9 +912,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Island Swamp",
-			"collector_number": "188",
+			"collector_number": "272",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/188_Ghostspore Mire.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/272_Ghostspore Mire.png"
 			}
 		},
 		{
@@ -922,9 +922,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Swamp Mountain",
-			"collector_number": "197",
+			"collector_number": "281",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/197_Molten Falls.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/281_Molten Falls.png"
 			}
 		},
 		{
@@ -932,9 +932,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Plains Island",
-			"collector_number": "208",
+			"collector_number": "292",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/208_Resculpted Gorge.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/292_Resculpted Gorge.png"
 			}
 		},
 		{
@@ -942,9 +942,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Swamp Forest",
-			"collector_number": "215",
+			"collector_number": "299",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/215_Shuddering Node.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/299_Shuddering Node.png"
 			}
 		},
 		{
@@ -952,9 +952,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Forest Island",
-			"collector_number": "216",
+			"collector_number": "300",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/216_Soaring Rainforest.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/300_Soaring Rainforest.png"
 			}
 		},
 		{
@@ -962,9 +962,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Island Mountain",
-			"collector_number": "217",
+			"collector_number": "301",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/217_Steamlit Peaks.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/301_Steamlit Peaks.png"
 			}
 		},
 		{
@@ -972,9 +972,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Forest Plains",
-			"collector_number": "223",
+			"collector_number": "307",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/223_Timeless Shrine.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/307_Timeless Shrine.png"
 			}
 		},
 		{
@@ -982,9 +982,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}",
 			"type": "Artifact Creature — Bird Construct",
-			"collector_number": "158",
+			"collector_number": "242",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/158_Plasm Raptor.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/242_Plasm Raptor.png"
 			}
 		},
 		{
@@ -992,9 +992,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}",
 			"type": "Artifact Creature — Crab Construct",
-			"collector_number": "156",
+			"collector_number": "240",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/156_Plasm Crab.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/240_Plasm Crab.png"
 			}
 		},
 		{
@@ -1002,9 +1002,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}",
 			"type": "Artifact Creature — Dog Construct",
-			"collector_number": "157",
+			"collector_number": "241",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/157_Plasm Hound.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/241_Plasm Hound.png"
 			}
 		},
 		{
@@ -1012,9 +1012,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}",
 			"type": "Artifact Creature — Insect Construct",
-			"collector_number": "155",
+			"collector_number": "239",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/155_Plasm Arthropod.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/239_Plasm Arthropod.png"
 			}
 		},
 		{
@@ -1022,9 +1022,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}",
 			"type": "Artifact Creature — Snake Construct",
-			"collector_number": "159",
+			"collector_number": "243",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/159_Plasm Serpent.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/243_Plasm Serpent.png"
 			}
 		},
 		{
@@ -1032,9 +1032,9 @@
 			"rarity": "special",
 			"mana_cost": "{5}",
 			"type": "Legendary Creature — Shapeshifter",
-			"collector_number": "227",
+			"collector_number": "311",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/227_Nameless Anachronism.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/311_Nameless Anachronism.png"
 			}
 		},
 		{
@@ -1042,9 +1042,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "187",
+			"collector_number": "271",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/187_Ghost Quarter.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/271_Ghost Quarter.png"
 			}
 		},
 		{
@@ -1052,9 +1052,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "228",
+			"collector_number": "312",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/228_Arcane Signet.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/312_Arcane Signet.png"
 			}
 		},
 		{
@@ -1062,9 +1062,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{W}",
 			"type": "Legendary Creature — Cat Noble",
-			"collector_number": "15",
+			"collector_number": "19",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/15_Ninisina, Gilded Herald.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/19_Ninisina, Gilded Herald.png"
 			}
 		},
 		{
@@ -1072,9 +1072,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{U}{U}",
 			"type": "Legendary Creature — Sphinx Noble",
-			"collector_number": "18",
+			"collector_number": "23",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/18_Claudia, Faceless Mogul.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/23_Claudia, Faceless Mogul.png"
 			}
 		},
 		{
@@ -1082,9 +1082,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{B}",
 			"type": "Legendary Creature — Zombie Noble",
-			"collector_number": "27",
+			"collector_number": "37",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/27_Ereni, Pale Monarch.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/37_Ereni, Pale Monarch.png"
 			}
 		},
 		{
@@ -1092,9 +1092,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{R}{R}",
 			"type": "Legendary Creature — Human Noble",
-			"collector_number": "37",
+			"collector_number": "56",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/37_Tiame, Visionary Elder.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/56_Tiame, Visionary Elder.png"
 			}
 		},
 		{
@@ -1102,9 +1102,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}{G}{G}",
 			"type": "Legendary Creature — Elf Noble",
-			"collector_number": "42",
+			"collector_number": "63",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/42_Fahad, Oasis King.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/63_Fahad, Oasis King.png"
 			}
 		},
 		{
@@ -1112,9 +1112,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}{G}{U}",
 			"type": "Legendary Creature — Spirit",
-			"collector_number": "83",
+			"collector_number": "128",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/83_Guardian of Paradise.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/128_Guardian of Paradise.png"
 			}
 		},
 		{
@@ -1122,9 +1122,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{R}{W}",
 			"type": "Legendary Artifact — Vehicle",
-			"collector_number": "66",
+			"collector_number": "101",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/66_Dharman, Gold Chariot.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/101_Dharman, Gold Chariot.png"
 			}
 		},
 		{
@@ -1132,9 +1132,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{R}{G}",
 			"type": "Legendary Creature — Elder Snake",
-			"collector_number": "84",
+			"collector_number": "129",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/84_Hesah, King of Snakes.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/129_Hesah, King of Snakes.png"
 			}
 		},
 		{
@@ -1142,9 +1142,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{G}{W}",
 			"type": "Legendary Planeswalker — Zagal",
-			"collector_number": "131",
+			"collector_number": "205",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/131_Zagal, Wayward Minstrel.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/205_Zagal, Wayward Minstrel.png"
 			}
 		},
 		{
@@ -1152,19 +1152,19 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}{W}{B}",
 			"type": "Legendary Creature — Human Rogue",
-			"collector_number": "124",
+			"collector_number": "196",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/124_Warad, the Red Hand.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/196_Warad, the Red Hand.png"
 			}
 		},
 		{
 			"name": "Anzu, All-Consuming",
 			"rarity": "mythic",
 			"mana_cost": "{4}{U}{B}",
-			"type": "Legendary Creature — Goat Avatar",
-			"collector_number": "49",
+			"type": "Legendary Enchantment Creature — Goat Avatar",
+			"collector_number": "73",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/49_Anzu, All-Consuming.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/73_Anzu, All-Consuming.png"
 			}
 		},
 		{
@@ -1172,9 +1172,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{U}{B}",
 			"type": "Legendary Planeswalker — Urukh",
-			"collector_number": "120",
+			"collector_number": "192",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/120_Urukh the Shadowed.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/192_Urukh the Shadowed.png"
 			}
 		},
 		{
@@ -1182,9 +1182,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{R}{G}",
 			"type": "Legendary Creature — Cat Warrior",
-			"collector_number": "70",
+			"collector_number": "107",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/70_Durg, Enclave's Warden.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/107_Durg, Enclave's Warden.png"
 			}
 		},
 		{
@@ -1192,9 +1192,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{B}{R}",
 			"type": "Legendary Creature — Demon",
-			"collector_number": "55",
+			"collector_number": "81",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/55_Baal, Avaricious.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/81_Baal, Avaricious.png"
 			}
 		},
 		{
@@ -1202,9 +1202,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{W}{U}",
 			"type": "Legendary Creature — Human Wizard",
-			"collector_number": "71",
+			"collector_number": "108",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/71_Ea, Magi of the Oasis.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/108_Ea, Magi of the Oasis.png"
 			}
 		},
 		{
@@ -1212,9 +1212,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{U}{R}",
 			"type": "Legendary Creature — Elder Wizard",
-			"collector_number": "129",
+			"collector_number": "203",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/129_Zaeyr the Veiled.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/203_Zaeyr the Veiled.png"
 			}
 		},
 		{
@@ -1222,9 +1222,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}{W}{U}",
 			"type": "Legendary Creature — Elder Dragon",
-			"collector_number": "95",
+			"collector_number": "148",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/95_Mergho, Sky Ancient.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/148_Mergho, Sky Ancient.png"
 			}
 		},
 		{
@@ -1232,9 +1232,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{W}{B}",
 			"type": "Legendary Creature — Human Warlock",
-			"collector_number": "106",
+			"collector_number": "170",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/106_Saasa, Dark Witch.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/170_Saasa, Dark Witch.png"
 			}
 		},
 		{
@@ -1242,9 +1242,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{B}{R}",
 			"type": "Legendary Planeswalker — Corvu",
-			"collector_number": "61",
+			"collector_number": "92",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/61_Corvu, Ambling Hermit.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/92_Corvu, Ambling Hermit.png"
 			}
 		},
 		{
@@ -1252,19 +1252,19 @@
 			"rarity": "mythic",
 			"mana_cost": "{5}{G}{W}",
 			"type": "Legendary Creature — Elder Beast",
-			"collector_number": "96",
+			"collector_number": "150",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/96_Mother of Beasts.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/150_Mother of Beasts.png"
 			}
 		},
 		{
 			"name": "Cuith, War Patroness",
 			"rarity": "mythic",
 			"mana_cost": "{1}{R}{W}",
-			"type": "Legendary Creature — Avatar",
-			"collector_number": "63",
+			"type": "Legendary Enchantment Creature — Avatar",
+			"collector_number": "95",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/63_Cuith, War Patroness.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/95_Cuith, War Patroness.png"
 			}
 		},
 		{
@@ -1272,9 +1272,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}{B}{G}",
 			"type": "Legendary Creature — Elephant God",
-			"collector_number": "67",
+			"collector_number": "102",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/67_Dir, Venerated One.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/102_Dir, Venerated One.png"
 			}
 		},
 		{
@@ -1282,9 +1282,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{B}{G}",
 			"type": "Legendary Creature — Human Druid",
-			"collector_number": "87",
+			"collector_number": "132",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/87_Idad, Cycle Tender.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/132_Idad, Cycle Tender.png"
 			}
 		},
 		{
@@ -1292,19 +1292,19 @@
 			"rarity": "mythic",
 			"mana_cost": "{X}{G}{U}",
 			"type": "Legendary Creature — Hydra",
-			"collector_number": "122",
+			"collector_number": "194",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/122_Ussuh, the Burgeoning.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/194_Ussuh, the Burgeoning.png"
 			}
 		},
 		{
 			"name": "Signi, Spiritfire",
 			"rarity": "mythic",
 			"mana_cost": "{3}{U}{R}",
-			"type": "Legendary Creature — Avatar",
-			"collector_number": "114",
+			"type": "Legendary Enchantment Creature — Avatar",
+			"collector_number": "181",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/114_Signi, Spiritfire.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/181_Signi, Spiritfire.png"
 			}
 		},
 		{
@@ -1312,9 +1312,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{G}{W}",
 			"type": "Legendary Creature — Elephant God",
-			"collector_number": "112",
+			"collector_number": "179",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/112_Shamash, Triumphant.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/179_Shamash, Triumphant.png"
 			}
 		},
 		{
@@ -1322,19 +1322,19 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{B}{R}",
 			"type": "Legendary Creature — Elk Elemental",
-			"collector_number": "119",
+			"collector_number": "189",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/119_Transcendent Agnar.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/189_Transcendent Agnar.png"
 			}
 		},
 		{
 			"name": "Sola, the Sunrise",
 			"rarity": "mythic",
 			"mana_cost": "{1}{U}{R}",
-			"type": "Legendary Creature — Avatar",
-			"collector_number": "115",
+			"type": "Legendary Enchantment Creature — Avatar",
+			"collector_number": "182",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/115_Sola, the Sunrise.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/182_Sola, the Sunrise.png"
 			}
 		},
 		{
@@ -1342,9 +1342,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{R}{G}",
 			"type": "Legendary Creature — Elf Scout",
-			"collector_number": "94",
+			"collector_number": "141",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/94_Libluth the Steadfast.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/141_Libluth the Steadfast.png"
 			}
 		},
 		{
@@ -1352,9 +1352,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{W}{B}",
 			"type": "Legendary Creature — Human Cleric",
-			"collector_number": "127",
+			"collector_number": "201",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/127_Yadi, Carmine Priestess.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/201_Yadi, Carmine Priestess.png"
 			}
 		},
 		{
@@ -1362,9 +1362,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{W}{U}",
 			"type": "Legendary Creature — Human Wizard",
-			"collector_number": "65",
+			"collector_number": "97",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/65_Darice, Waygate Magi.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/97_Darice, Waygate Magi.png"
 			}
 		},
 		{
@@ -1372,9 +1372,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{G}{U}",
 			"type": "Legendary Creature — Elf Druid",
-			"collector_number": "59",
+			"collector_number": "88",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/59_Cit, Wayfinder.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/88_Cit, Wayfinder.png"
 			}
 		},
 		{
@@ -1382,19 +1382,19 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{B}{G}",
 			"type": "Legendary Creature — Angel",
-			"collector_number": "82",
+			"collector_number": "127",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/82_Grem, Plague Seraph.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/127_Grem, Plague Seraph.png"
 			}
 		},
 		{
 			"name": "Aloro, Torchbearer",
 			"rarity": "mythic",
 			"mana_cost": "{3}{R}{W}",
-			"type": "Legendary Creature — Avatar",
-			"collector_number": "47",
+			"type": "Legendary Enchantment Creature — Avatar",
+			"collector_number": "71",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/47_Aloro, Torchbearer.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/71_Aloro, Torchbearer.png"
 			}
 		},
 		{
@@ -1402,9 +1402,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{U}{B}",
 			"type": "Legendary Creature — Demon",
-			"collector_number": "46",
+			"collector_number": "70",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/46_Agare, Giver of Knowing.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/70_Agare, Giver of Knowing.png"
 			}
 		},
 		{
@@ -1438,13 +1438,13 @@
 			}
 		},
 		{
-			"name": "Reflection",
+			"name": "Glimmer",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Enchantment Creature — Reflection",
-			"collector_number": "3",
+			"type": "Token Enchantment Creature — Glimmer",
+			"collector_number": "2",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/3_Reflection.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/2_Glimmer.png"
 			}
 		},
 		{
@@ -1528,13 +1528,13 @@
 			}
 		},
 		{
-			"name": "Spirit",
+			"name": "Glimmer",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Enchantment Creature — Spirit",
+			"type": "Token Enchantment Creature — Glimmer",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/4_Spirit.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/4_Glimmer.png"
 			}
 		},
 		{
@@ -1542,9 +1542,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Spirit",
-			"collector_number": "2",
+			"collector_number": "3",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/2_Spirit.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/3_Spirit.png"
 			}
 		},
 		{
@@ -1602,9 +1602,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "141",
+			"collector_number": "225",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/141_Commander's Sphere.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/225_Commander's Sphere.png"
 			}
 		},
 		{
@@ -1612,9 +1612,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "140",
+			"collector_number": "224",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/140_Coalition Relic.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/224_Coalition Relic.png"
 			}
 		},
 		{
@@ -1622,9 +1622,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "137",
+			"collector_number": "221",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/137_Chromatic Lantern.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/221_Chromatic Lantern.png"
 			}
 		},
 		{
@@ -1632,9 +1632,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}",
 			"type": "Artifact Creature — Golem",
-			"collector_number": "166",
+			"collector_number": "250",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/166_Solemn Simulacrum.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/250_Solemn Simulacrum.png"
 			}
 		},
 		{
@@ -1642,9 +1642,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}",
 			"type": "Artifact",
-			"collector_number": "145",
+			"collector_number": "229",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/145_Elixir of Perpetuity.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/229_Elixir of Perpetuity.png"
 			}
 		},
 		{
@@ -1652,9 +1652,9 @@
 			"rarity": "rare",
 			"mana_cost": "{0}",
 			"type": "Artifact — Clue",
-			"collector_number": "150",
+			"collector_number": "234",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/150_Inscrutable Talisman.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/234_Inscrutable Talisman.png"
 			}
 		},
 		{
@@ -1662,9 +1662,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "168",
+			"collector_number": "252",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/168_Sunset Pyramid.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/252_Sunset Pyramid.png"
 			}
 		},
 		{
@@ -1672,9 +1672,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "143",
+			"collector_number": "227",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/143_Cosmic Chart.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/227_Cosmic Chart.png"
 			}
 		},
 		{
@@ -1682,9 +1682,9 @@
 			"rarity": "rare",
 			"mana_cost": "{0}",
 			"type": "Artifact — Equipment",
-			"collector_number": "160",
+			"collector_number": "244",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/160_Ring of Souls.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/244_Ring of Souls.png"
 			}
 		},
 		{
@@ -1692,9 +1692,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "139",
+			"collector_number": "223",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/139_Clock of Seasons.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/223_Clock of Seasons.png"
 			}
 		},
 		{
@@ -1702,9 +1702,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}",
 			"type": "Artifact",
-			"collector_number": "162",
+			"collector_number": "246",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/162_Runic Pillars.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/246_Runic Pillars.png"
 			}
 		},
 		{
@@ -1712,9 +1712,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "136",
+			"collector_number": "220",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/136_Chamber of Reflections.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/220_Chamber of Reflections.png"
 			}
 		},
 		{
@@ -1722,9 +1722,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "165",
+			"collector_number": "249",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/165_Skybright Obelisk.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/249_Skybright Obelisk.png"
 			}
 		},
 		{
@@ -1732,9 +1732,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "154",
+			"collector_number": "238",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/154_Newleaf Obelisk.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/238_Newleaf Obelisk.png"
 			}
 		},
 		{
@@ -1742,9 +1742,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "149",
+			"collector_number": "233",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/149_Helltide Obelisk.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/233_Helltide Obelisk.png"
 			}
 		},
 		{
@@ -1752,9 +1752,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "148",
+			"collector_number": "232",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/148_Gravemurk Obelisk.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/232_Gravemurk Obelisk.png"
 			}
 		},
 		{
@@ -1762,9 +1762,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "167",
+			"collector_number": "251",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/167_Stormshore Obelisk.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/251_Stormshore Obelisk.png"
 			}
 		},
 		{
@@ -1772,9 +1772,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "164",
+			"collector_number": "248",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/164_Shadowbog Obelisk.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/248_Shadowbog Obelisk.png"
 			}
 		},
 		{
@@ -1782,9 +1782,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "138",
+			"collector_number": "222",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/138_Cliffhome Obelisk.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/222_Cliffhome Obelisk.png"
 			}
 		},
 		{
@@ -1792,9 +1792,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "152",
+			"collector_number": "236",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/152_Lilypond Obelisk.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/236_Lilypond Obelisk.png"
 			}
 		},
 		{
@@ -1802,9 +1802,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "171",
+			"collector_number": "255",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/171_Woodbellow Obelisk.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/255_Woodbellow Obelisk.png"
 			}
 		},
 		{
@@ -1812,9 +1812,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "144",
+			"collector_number": "228",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/144_Dusklight Obelisk.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/228_Dusklight Obelisk.png"
 			}
 		},
 		{
@@ -1852,9 +1852,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Conspiracy",
-			"collector_number": "81",
+			"collector_number": "126",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/81_The Great Work.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/126_The Great Work.png"
 			}
 		},
 		{
@@ -1922,9 +1922,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Conspiracy",
-			"collector_number": "17",
+			"collector_number": "21",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/17_Sigil of Autumn.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/21_Sigil of Autumn.png"
 			}
 		},
 		{
@@ -1932,9 +1932,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Conspiracy",
-			"collector_number": "24",
+			"collector_number": "31",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/24_Sigil of Winter.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/31_Sigil of Winter.png"
 			}
 		},
 		{
@@ -1942,9 +1942,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Conspiracy",
-			"collector_number": "29",
+			"collector_number": "41",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/29_Sigil of Reaping.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/41_Sigil of Reaping.png"
 			}
 		},
 		{
@@ -1952,9 +1952,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Conspiracy",
-			"collector_number": "36",
+			"collector_number": "55",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/36_Sigil of Summer.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/55_Sigil of Summer.png"
 			}
 		},
 		{
@@ -1962,9 +1962,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Conspiracy",
-			"collector_number": "44",
+			"collector_number": "68",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/44_Sigil of Spring.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/68_Sigil of Spring.png"
 			}
 		},
 		{
@@ -1972,9 +1972,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Conspiracy",
-			"collector_number": "32",
+			"collector_number": "46",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/32_Colossal Gate.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/46_Colossal Gate.png"
 			}
 		},
 		{
@@ -1982,9 +1982,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Conspiracy",
-			"collector_number": "40",
+			"collector_number": "61",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/40_Bygone Gate.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/61_Bygone Gate.png"
 			}
 		},
 		{
@@ -1992,9 +1992,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Conspiracy",
-			"collector_number": "13",
+			"collector_number": "14",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/13_Enigmatic Gate.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/14_Enigmatic Gate.png"
 			}
 		},
 		{
@@ -2002,9 +2002,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Conspiracy",
-			"collector_number": "26",
+			"collector_number": "36",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/26_Desolate Gate.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/36_Desolate Gate.png"
 			}
 		},
 		{
@@ -2012,9 +2012,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Conspiracy",
-			"collector_number": "22",
+			"collector_number": "28",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/22_Ineffable Gate.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/28_Ineffable Gate.png"
 			}
 		},
 		{
@@ -2022,9 +2022,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}",
 			"type": "Artifact — Equipment",
-			"collector_number": "142",
+			"collector_number": "226",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/142_Conqueror's Greaves.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/226_Conqueror's Greaves.png"
 			}
 		},
 		{
@@ -2049,9 +2049,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}",
 			"type": "Artifact Creature — Construct",
-			"collector_number": "170",
+			"collector_number": "254",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/170_Wayfarer's Familiar.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/254_Wayfarer's Familiar.png"
 			}
 		},
 		{
@@ -2059,9 +2059,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "163",
+			"collector_number": "247",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/163_Scout's Compass.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/247_Scout's Compass.png"
 			}
 		},
 		{
@@ -2069,9 +2069,9 @@
 			"rarity": "rare",
 			"mana_cost": "{6}",
 			"type": "Legendary Artifact",
-			"collector_number": "151",
+			"collector_number": "235",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/151_Ligosomnia Engine.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/235_Ligosomnia Engine.png"
 			}
 		},
 		{
@@ -2079,9 +2079,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "135",
+			"collector_number": "219",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/135_Assembling Spheres.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/219_Assembling Spheres.png"
 			}
 		},
 		{
@@ -2089,9 +2089,9 @@
 			"rarity": "rare",
 			"mana_cost": "{10}",
 			"type": "Artifact Creature — Golem",
-			"collector_number": "134",
+			"collector_number": "218",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/134_Answer to Prayers.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/218_Answer to Prayers.png"
 			}
 		},
 		{
@@ -2099,9 +2099,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}",
 			"type": "Legendary Artifact",
-			"collector_number": "169",
+			"collector_number": "253",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/169_Ussuh's Beating Heart.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/253_Ussuh's Beating Heart.png"
 			}
 		},
 		{
@@ -2109,9 +2109,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "147",
+			"collector_number": "231",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/147_Forgotten Volume.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/231_Forgotten Volume.png"
 			}
 		},
 		{
@@ -2119,9 +2119,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "161",
+			"collector_number": "245",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/161_Robust Manuscript.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/245_Robust Manuscript.png"
 			}
 		},
 		{
@@ -2129,9 +2129,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "146",
+			"collector_number": "230",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/146_Enchanted Scroll.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/230_Enchanted Scroll.png"
 			}
 		},
 		{
@@ -2139,9 +2139,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "153",
+			"collector_number": "237",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/153_Malefic Grimoire.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/237_Malefic Grimoire.png"
 			}
 		},
 		{
@@ -2149,9 +2149,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "133",
+			"collector_number": "217",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/133_Alchemical Journal.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/217_Alchemical Journal.png"
 			}
 		},
 		{
@@ -2159,9 +2159,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{R}{G}",
 			"type": "Enchantment — Study",
-			"collector_number": "85",
+			"collector_number": "130",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/85_Hesah's Study.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/130_Hesah's Study.png"
 			}
 		},
 		{
@@ -2169,9 +2169,9 @@
 			"rarity": "rare",
 			"mana_cost": "{G}{W}",
 			"type": "Enchantment — Study",
-			"collector_number": "132",
+			"collector_number": "206",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/132_Zagal's Study.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/206_Zagal's Study.png"
 			}
 		},
 		{
@@ -2179,9 +2179,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}{R}",
 			"type": "Enchantment — Study",
-			"collector_number": "62",
+			"collector_number": "93",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/62_Corvu's Study.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/93_Corvu's Study.png"
 			}
 		},
 		{
@@ -2189,9 +2189,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}{R}",
 			"type": "Enchantment — Study",
-			"collector_number": "130",
+			"collector_number": "204",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/130_Zaeyr's Study.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/204_Zaeyr's Study.png"
 			}
 		},
 		{
@@ -2199,9 +2199,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}{B}",
 			"type": "Enchantment — Study",
-			"collector_number": "121",
+			"collector_number": "193",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/121_Urukh's Study.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/193_Urukh's Study.png"
 			}
 		},
 		{
@@ -2209,9 +2209,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{B}{G}",
 			"type": "Enchantment — Study",
-			"collector_number": "88",
+			"collector_number": "133",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/88_Idad's Study.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/133_Idad's Study.png"
 			}
 		},
 		{
@@ -2219,9 +2219,9 @@
 			"rarity": "rare",
 			"mana_cost": "{W}{U}",
 			"type": "Enchantment — Study",
-			"collector_number": "72",
+			"collector_number": "109",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/72_Ea's Study.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/109_Ea's Study.png"
 			}
 		},
 		{
@@ -2229,9 +2229,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}{W}",
 			"type": "Enchantment — Study",
-			"collector_number": "101",
+			"collector_number": "156",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/101_Nin's Study.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/156_Nin's Study.png"
 			}
 		},
 		{
@@ -2239,9 +2239,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}{U}",
 			"type": "Enchantment — Study",
-			"collector_number": "60",
+			"collector_number": "89",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/60_Cit's Study.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/89_Cit's Study.png"
 			}
 		},
 		{
@@ -2249,9 +2249,9 @@
 			"rarity": "rare",
 			"mana_cost": "{X}{W}{B}",
 			"type": "Enchantment — Study",
-			"collector_number": "125",
+			"collector_number": "197",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/125_Warad's Study.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/197_Warad's Study.png"
 			}
 		},
 		{
@@ -2259,9 +2259,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{U}{U}{U}",
 			"type": "Enchantment — Study",
-			"collector_number": "20",
+			"collector_number": "26",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/20_Emil's Study.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/26_Emil's Study.png"
 			}
 		},
 		{
@@ -2269,9 +2269,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}{R}",
 			"type": "Enchantment — Study",
-			"collector_number": "35",
+			"collector_number": "51",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/35_Ishim's Study.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/51_Ishim's Study.png"
 			}
 		},
 		{
@@ -2279,9 +2279,9 @@
 			"rarity": "rare",
 			"mana_cost": "{G}",
 			"type": "Enchantment — Study",
-			"collector_number": "39",
+			"collector_number": "59",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/39_Anuun's Study.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/59_Anuun's Study.png"
 			}
 		},
 		{
@@ -2289,9 +2289,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{W}",
 			"type": "Enchantment — Study",
-			"collector_number": "12",
+			"collector_number": "13",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/12_Arati's Study.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/13_Arati's Study.png"
 			}
 		},
 		{
@@ -2299,9 +2299,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}",
 			"type": "Enchantment — Study",
-			"collector_number": "31",
+			"collector_number": "45",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/31_Yshnu's Study.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/45_Yshnu's Study.png"
 			}
 		},
 		{
@@ -2309,9 +2309,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}{B}{R}{R}{G}{G}",
 			"type": "Sorcery",
-			"collector_number": "110",
+			"collector_number": "176",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/110_Serpentine Bloom.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/176_Serpentine Bloom.png"
 			}
 		},
 		{
@@ -2319,9 +2319,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}{G}{U}{U}{R}{R}",
 			"type": "Instant",
-			"collector_number": "80",
+			"collector_number": "124",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/80_First Breath.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/124_First Breath.png"
 			}
 		},
 		{
@@ -2329,9 +2329,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}{R}{G}{G}{W}{W}",
 			"type": "Sorcery",
-			"collector_number": "116",
+			"collector_number": "183",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/116_Springtide Ritual.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/183_Springtide Ritual.png"
 			}
 		},
 		{
@@ -2339,9 +2339,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}{U}{B}{B}{R}{R}",
 			"type": "Instant",
-			"collector_number": "89",
+			"collector_number": "134",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/89_Infinity Repeating.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/134_Infinity Repeating.png"
 			}
 		},
 		{
@@ -2349,9 +2349,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}{B}{G}{G}{U}{U}",
 			"type": "Sorcery",
-			"collector_number": "86",
+			"collector_number": "131",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/86_Howling Augury.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/131_Howling Augury.png"
 			}
 		},
 		{
@@ -2359,9 +2359,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}{R}{W}{W}{B}{B}",
 			"type": "Instant",
-			"collector_number": "109",
+			"collector_number": "175",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/109_Searing Dawn.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/175_Searing Dawn.png"
 			}
 		},
 		{
@@ -2369,9 +2369,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}{U}{R}{R}{W}{W}",
 			"type": "Sorcery",
-			"collector_number": "105",
+			"collector_number": "169",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/105_Ruinous Weft.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/169_Ruinous Weft.png"
 			}
 		},
 		{
@@ -2379,9 +2379,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}{G}{W}{W}{U}{U}",
 			"type": "Sorcery",
-			"collector_number": "56",
+			"collector_number": "83",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/56_Boundless Reverie.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/83_Boundless Reverie.png"
 			}
 		},
 		{
@@ -2389,9 +2389,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}{W}{U}{U}{B}{B}",
 			"type": "Sorcery",
-			"collector_number": "69",
+			"collector_number": "104",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/69_Divine Reclamation.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/104_Divine Reclamation.png"
 			}
 		},
 		{
@@ -2399,19 +2399,19 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}{W}{B}{B}{G}{G}",
 			"type": "Sorcery",
-			"collector_number": "53",
+			"collector_number": "78",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/53_Astral Procession.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/78_Astral Procession.png"
 			}
 		},
 		{
-			"name": "Epiphany of Forever",
+			"name": "Prophecy of Flame",
 			"rarity": "rare",
-			"mana_cost": "{4}{U}{U}",
+			"mana_cost": "{4}{R}{R}{R}",
 			"type": "Sorcery",
-			"collector_number": "21",
+			"collector_number": "52",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/21_Epiphany of Forever.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/52_Prophecy of Flame.png"
 			}
 		},
 		{
@@ -2419,9 +2419,9 @@
 			"rarity": "rare",
 			"mana_cost": "{W}{U}{B}{R}{G}",
 			"type": "Artifact Creature — Construct",
-			"collector_number": "57",
+			"collector_number": "84",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/57_Brass Steward.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/84_Brass Steward.png"
 			}
 		},
 		{
@@ -2429,9 +2429,9 @@
 			"rarity": "rare",
 			"mana_cost": "{W}{B}",
 			"type": "Enchantment Creature — Cat Beast",
-			"collector_number": "117",
+			"collector_number": "184",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/117_Starhide Lion.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/184_Starhide Lion.png"
 			}
 		},
 		{
@@ -2439,9 +2439,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{G}",
 			"type": "Creature — Treefolk",
-			"collector_number": "43",
+			"collector_number": "65",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/43_Lotus Treant.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/65_Lotus Treant.png"
 			}
 		},
 		{
@@ -2449,9 +2449,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}{U}{B}{R}{G}",
 			"type": "Instant",
-			"collector_number": "103",
+			"collector_number": "161",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/103_Prismatic Wish.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/161_Prismatic Wish.png"
 			}
 		},
 		{
@@ -2459,9 +2459,9 @@
 			"rarity": "rare",
 			"mana_cost": "{G}",
 			"type": "Enchantment",
-			"collector_number": "41",
+			"collector_number": "62",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/41_Empress' Arrival.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/62_Empress' Arrival.png"
 			}
 		},
 		{
@@ -2469,9 +2469,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{R}{G}",
 			"type": "Sorcery",
-			"collector_number": "58",
+			"collector_number": "87",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/58_Charmer's Confluence.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/87_Charmer's Confluence.png"
 			}
 		},
 		{
@@ -2479,9 +2479,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}{W}",
 			"type": "Sorcery",
-			"collector_number": "118",
+			"collector_number": "188",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/118_Trader's Confluence.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/188_Trader's Confluence.png"
 			}
 		},
 		{
@@ -2489,9 +2489,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{B}{G}",
 			"type": "Sorcery",
-			"collector_number": "77",
+			"collector_number": "116",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/77_Evoker's Confluence.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/116_Evoker's Confluence.png"
 			}
 		},
 		{
@@ -2499,9 +2499,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{W}{U}",
 			"type": "Instant",
-			"collector_number": "107",
+			"collector_number": "172",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/107_Sage's Confluence.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/172_Sage's Confluence.png"
 			}
 		},
 		{
@@ -2509,9 +2509,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{G}{W}",
 			"type": "Sorcery",
-			"collector_number": "104",
+			"collector_number": "162",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/104_Ranger's Confluence.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/162_Ranger's Confluence.png"
 			}
 		},
 		{
@@ -2519,9 +2519,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}{R}",
 			"type": "Sorcery",
-			"collector_number": "78",
+			"collector_number": "122",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/78_Fanatic's Confluence.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/122_Fanatic's Confluence.png"
 			}
 		},
 		{
@@ -2529,9 +2529,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{U}{B}",
 			"type": "Instant",
-			"collector_number": "126",
+			"collector_number": "198",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/126_Warlock's Confluence.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/198_Warlock's Confluence.png"
 			}
 		},
 		{
@@ -2539,9 +2539,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}{R}",
 			"type": "Instant",
-			"collector_number": "50",
+			"collector_number": "75",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/50_Archmage's Confluence.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/75_Archmage's Confluence.png"
 			}
 		},
 		{
@@ -2549,9 +2549,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{W}{B}",
 			"type": "Instant",
-			"collector_number": "54",
+			"collector_number": "80",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/54_Astrologer's Confluence.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/80_Astrologer's Confluence.png"
 			}
 		},
 		{
@@ -2559,9 +2559,849 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}{U}",
 			"type": "Sorcery",
-			"collector_number": "111",
+			"collector_number": "178",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/KRN-files/img/111_Shaman's Confluence.png"
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/178_Shaman's Confluence.png"
+			}
+		},
+		{
+			"name": "Sunwing Divinity",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Enchantment Creature — Avatar",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/185_Sunwing Divinity.png"
+			}
+		},
+		{
+			"name": "Druidic Communion",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Sorcery",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/106_Druidic Communion.png"
+			}
+		},
+		{
+			"name": "Ornimancer",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Creature — Cat Wizard",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/159_Ornimancer.png"
+			}
+		},
+		{
+			"name": "Twilight Perplexity",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{U}",
+			"type": "Creature — Sphinx",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/190_Twilight Perplexity.png"
+			}
+		},
+		{
+			"name": "Resting Undertow",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Sorcery",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/166_Resting Undertow.png"
+			}
+		},
+		{
+			"name": "Maniacal Evocation",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Enchantment",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/142_Maniacal Evocation.png"
+			}
+		},
+		{
+			"name": "Undaunted Explorer",
+			"rarity": "rare",
+			"mana_cost": "{G}{U}",
+			"type": "Creature",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/191_Undaunted Explorer.png"
+			}
+		},
+		{
+			"name": "Resolute Outsider",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/165_Resolute Outsider.png"
+			}
+		},
+		{
+			"name": "Deified Wanderer",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{G}",
+			"type": "Creature — Spirit",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/99_Deified Wanderer.png"
+			}
+		},
+		{
+			"name": "Gossamer Entity",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{B}",
+			"type": "Enchantment Creature — Avatar",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/125_Gossamer Entity.png"
+			}
+		},
+		{
+			"name": "Apex Goliath",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}{W}",
+			"type": "Creature — Beast",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/74_Apex Goliath.png"
+			}
+		},
+		{
+			"name": "Sacred Fire",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Instant",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/171_Sacred Fire.png"
+			}
+		},
+		{
+			"name": "Embalmed Drake",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Creature — Zombie Dragon",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/112_Embalmed Drake.png"
+			}
+		},
+		{
+			"name": "Ravenous Aberration",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{B}",
+			"type": "Creature — Zombie Horror",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/163_Ravenous Aberration.png"
+			}
+		},
+		{
+			"name": "Collective Conscious",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Instant",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/91_Collective Conscious.png"
+			}
+		},
+		{
+			"name": "Dark God's Blessing",
+			"rarity": "rare",
+			"mana_cost": "{X}{X}{B}{G}",
+			"type": "Sorcery",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/98_Dark God's Blessing.png"
+			}
+		},
+		{
+			"name": "Inspiring Partisan",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}{W}",
+			"type": "Creature — Human Advisor",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/135_Inspiring Partisan.png"
+			}
+		},
+		{
+			"name": "Caustic Berserker",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Creature — Snake Warrior",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/86_Caustic Berserker.png"
+			}
+		},
+		{
+			"name": "Shadowed Clergy",
+			"rarity": "rare",
+			"mana_cost": "{W}{B}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/177_Shadowed Clergy.png"
+			}
+		},
+		{
+			"name": "Kingmaker",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{W}",
+			"type": "Creature — Lizard Beast",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/138_Kingmaker.png"
+			}
+		},
+		{
+			"name": "Eulogy of Forgotten Masses",
+			"rarity": "rare",
+			"mana_cost": "{5}{W}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/15_Eulogy of Forgotten Masses.png"
+			}
+		},
+		{
+			"name": "Prayer of Fecudity",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/66_Prayer of Fecudity.png"
+			}
+		},
+		{
+			"name": "Revelation of Finitude",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}",
+			"type": "Sorcery",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/40_Revelation of Finitude.png"
+			}
+		},
+		{
+			"name": "Epiphany of Forever",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/27_Epiphany of Forever.png"
+			}
+		},
+		{
+			"name": "Lost Etchings",
+			"rarity": "rare",
+			"mana_cost": "{3}{G/U}{G/U}",
+			"type": "Sorcery",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/212_Lost Etchings.png"
+			}
+		},
+		{
+			"name": "Battlemage Mentor",
+			"rarity": "rare",
+			"mana_cost": "{R/W}{R/W}",
+			"type": "Creature — Wizard",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/207_Battlemage Mentor.png"
+			}
+		},
+		{
+			"name": "Calamitous Offerings",
+			"rarity": "rare",
+			"mana_cost": "{3}{B/G}{B/G}",
+			"type": "Sorcery",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/208_Calamitous Offerings.png"
+			}
+		},
+		{
+			"name": "Counterflow",
+			"rarity": "rare",
+			"mana_cost": "{2}{U/R}{U/R}",
+			"type": "Instant",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/209_Counterflow.png"
+			}
+		},
+		{
+			"name": "Turn To Ash",
+			"rarity": "rare",
+			"mana_cost": "{W/B}{W/B}",
+			"type": "Instant",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/215_Turn To Ash.png"
+			}
+		},
+		{
+			"name": "Dutiful Serpent",
+			"rarity": "rare",
+			"mana_cost": "{1}{G/W}{G/W}",
+			"type": "Creature — Snake",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/210_Dutiful Serpent.png"
+			}
+		},
+		{
+			"name": "Fathomless Amalgam",
+			"rarity": "rare",
+			"mana_cost": "{1}{B/R}{B/R}",
+			"type": "Enchantment Creature — Horror Glimmer",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/211_Fathomless Amalgam.png"
+			}
+		},
+		{
+			"name": "Volant Loudhailer",
+			"rarity": "rare",
+			"mana_cost": "{1}{U/B}{U/B}",
+			"type": "Creature — Human Warlock",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/216_Volant Loudhailer.png"
+			}
+		},
+		{
+			"name": "Nightborn Enigma",
+			"rarity": "rare",
+			"mana_cost": "{1}{W/U}{W/U}",
+			"type": "Enchantment Creature — Beast Glimmer",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/213_Nightborn Enigma.png"
+			}
+		},
+		{
+			"name": "Ophidian Shrine",
+			"rarity": "rare",
+			"mana_cost": "{R/G}{R/G}",
+			"type": "Enchantment",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/214_Ophidian Shrine.png"
+			}
+		},
+		{
+			"name": "Fall of the Deathless",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Battle — Conquest",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/118_Fall of the Deathless.png"
+			}
+		},
+		{
+			"name": "March of the Deathless",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Battle — Conquest",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/144_March of the Deathless.png"
+			}
+		},
+		{
+			"name": "March of the Beasts",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Battle — Conquest",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/143_March of the Beasts.png"
+			}
+		},
+		{
+			"name": "Fall of the Great City",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Battle — Conquest",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/119_Fall of the Great City.png"
+			}
+		},
+		{
+			"name": "March of the Visionaries",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Battle — Conquest",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/147_March of the Visionaries.png"
+			}
+		},
+		{
+			"name": "Fall of the Ophidians",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Battle — Conquest",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/120_Fall of the Ophidians.png"
+			}
+		},
+		{
+			"name": "Fall of the Visionaries",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Battle — Conquest",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/121_Fall of the Visionaries.png"
+			}
+		},
+		{
+			"name": "Fall of the Beasts",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Battle — Conquest",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/117_Fall of the Beasts.png"
+			}
+		},
+		{
+			"name": "March of the Great City",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Battle — Conquest",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/145_March of the Great City.png"
+			}
+		},
+		{
+			"name": "March of the Ophidians",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Battle — Conquest",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/146_March of the Ophidians.png"
+			}
+		},
+		{
+			"name": "Enlightened Titan",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{U}{R}",
+			"type": "Creature — Giant",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/113_Enlightened Titan.png"
+			}
+		},
+		{
+			"name": "Surfaced Titan",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{G}{U}",
+			"type": "Creature — Giant",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/186_Surfaced Titan.png"
+			}
+		},
+		{
+			"name": "Rippling Titan",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{R}{W}",
+			"type": "Creature — Giant",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/168_Rippling Titan.png"
+			}
+		},
+		{
+			"name": "Reaping Titan",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{B}{G}",
+			"type": "Creature — Giant",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/164_Reaping Titan.png"
+			}
+		},
+		{
+			"name": "Burgeoning Titan",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{W}{U}",
+			"type": "Creature — Giant",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/85_Burgeoning Titan.png"
+			}
+		},
+		{
+			"name": "Sanguine Titan",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{G}{W}",
+			"type": "Creature — Giant",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/173_Sanguine Titan.png"
+			}
+		},
+		{
+			"name": "Noxious Titan",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{R}{G}",
+			"type": "Creature — Giant",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/157_Noxious Titan.png"
+			}
+		},
+		{
+			"name": "Nebulous Titan",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{B}{R}",
+			"type": "Creature — Giant",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/153_Nebulous Titan.png"
+			}
+		},
+		{
+			"name": "Astral Titan",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{U}{B}",
+			"type": "Creature — Giant",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/79_Astral Titan.png"
+			}
+		},
+		{
+			"name": "Crackling Titan",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{W}{B}",
+			"type": "Creature — Giant",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/94_Crackling Titan.png"
+			}
+		},
+		{
+			"name": "Drown in the Loch",
+			"rarity": "rare",
+			"mana_cost": "{U}{B}",
+			"type": "Instant",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/105_Drown in the Loch.png"
+			}
+		},
+		{
+			"name": "Piecemeal Finale",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Instant",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/160_Piecemeal Finale.png"
+			}
+		},
+		{
+			"name": "Claim for Civilization",
+			"rarity": "rare",
+			"mana_cost": "{G}{W}",
+			"type": "Sorcery",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/90_Claim for Civilization.png"
+			}
+		},
+		{
+			"name": "Demand Reverence",
+			"rarity": "rare",
+			"mana_cost": "{W}{B}",
+			"type": "Enchantment",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/100_Demand Reverence.png"
+			}
+		},
+		{
+			"name": "Mind's Communion",
+			"rarity": "rare",
+			"mana_cost": "{5}{U}{R}",
+			"type": "Sorcery",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/149_Mind's Communion.png"
+			}
+		},
+		{
+			"name": "Boon of the Pacts",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Enchantment",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/82_Boon of the Pacts.png"
+			}
+		},
+		{
+			"name": "Wildfire Awakener",
+			"rarity": "rare",
+			"mana_cost": "{X}{1}{R}{W}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/199_Wildfire Awakener.png"
+			}
+		},
+		{
+			"name": "Worlds Colliding",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{U}{U}",
+			"type": "Sorcery — Revelation",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/200_Worlds Colliding.png"
+			}
+		},
+		{
+			"name": "Time Wipe",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}{U}",
+			"type": "Sorcery",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/187_Time Wipe.png"
+			}
+		},
+		{
+			"name": "Rhythm of the Wild",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Enchantment",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/167_Rhythm of the Wild.png"
+			}
+		},
+		{
+			"name": "Seedmiser's Zeal",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/67_Seedmiser's Zeal.png"
+			}
+		},
+		{
+			"name": "Pyromancer's Zeal",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Instant",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/53_Pyromancer's Zeal.png"
+			}
+		},
+		{
+			"name": "Malefactor's Zeal",
+			"rarity": "rare",
+			"mana_cost": "{X}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/39_Malefactor's Zeal.png"
+			}
+		},
+		{
+			"name": "Philosopher's Zeal",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/30_Philosopher's Zeal.png"
+			}
+		},
+		{
+			"name": "Loyalist's Zeal",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/17_Loyalist's Zeal.png"
+			}
+		},
+		{
+			"name": "Emil's Roaming of Ravnica",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Battle — Conquest",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/25_Emil's Roaming of Ravnica.png"
+			}
+		},
+		{
+			"name": "Arati's Roaming of Theros",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Battle — Conquest",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/12_Arati's Roaming of Theros.png"
+			}
+		},
+		{
+			"name": "Yshnu's Roaming of Innistrad",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Battle — Conquest",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/44_Yshnu's Roaming of Innistrad.png"
+			}
+		},
+		{
+			"name": "Anuun's Roaming of Zendikar",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Battle — Conquest",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/58_Anuun's Roaming of Zendikar.png"
+			}
+		},
+		{
+			"name": "Ishim's Roaming of Shandalar",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Battle — Conquest",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/50_Ishim's Roaming of Shandalar.png"
+			}
+		},
+		{
+			"name": "Heraldry",
+			"rarity": "rare",
+			"mana_cost": "{W}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/16_Heraldry.png"
+			}
+		},
+		{
+			"name": "Whimsy",
+			"rarity": "rare",
+			"mana_cost": "{U}{U}{U}",
+			"type": "Enchantment",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/33_Whimsy.png"
+			}
+		},
+		{
+			"name": "Villainy",
+			"rarity": "rare",
+			"mana_cost": "{B}{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/42_Villainy.png"
+			}
+		},
+		{
+			"name": "Brutality",
+			"rarity": "rare",
+			"mana_cost": "{G}{G}{G}",
+			"type": "Enchantment",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/60_Brutality.png"
+			}
+		},
+		{
+			"name": "Creativity",
+			"rarity": "rare",
+			"mana_cost": "{R}{R}{R}",
+			"type": "Enchantment",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/47_Creativity.png"
+			}
+		},
+		{
+			"name": "B33",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Creature — Shapeshifter",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/35_B33.png"
+			}
+		},
+		{
+			"name": "W33",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Creature — Shapeshifter",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/22_W33.png"
+			}
+		},
+		{
+			"name": "R33",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Creature — Shapeshifter",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/54_R33.png"
+			}
+		},
+		{
+			"name": "G33",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Shapeshifter",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/64_G33.png"
+			}
+		},
+		{
+			"name": "U33",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Shapeshifter",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/KRN-files/img/32_U33.png"
 			}
 		}
 	]
@@ -2722,7 +3562,7 @@
 	2 Boundless Reverie
 	2 Divine Reclamation
 	2 Astral Procession
-	2 Epiphany of Forever
+	2 Prophecy of Flame
 	2 Brass Steward
 	2 Starhide Lion
 	2 Lotus Treant
@@ -2738,6 +3578,90 @@
 	2 Archmage's Confluence
 	2 Astrologer's Confluence
 	2 Shaman's Confluence
+	2 Sunwing Divinity
+	2 Druidic Communion
+	2 Ornimancer
+	2 Twilight Perplexity
+	2 Resting Undertow
+	2 Maniacal Evocation
+	2 Undaunted Explorer
+	2 Resolute Outsider
+	2 Deified Wanderer
+	2 Gossamer Entity
+	2 Apex Goliath
+	2 Sacred Fire
+	2 Embalmed Drake
+	2 Ravenous Aberration
+	2 Collective Conscious
+	2 Dark God's Blessing
+	2 Inspiring Partisan
+	2 Caustic Berserker
+	2 Shadowed Clergy
+	2 Kingmaker
+	2 Eulogy of Forgotten Masses
+	2 Prayer of Fecudity
+	2 Revelation of Finitude
+	2 Epiphany of Forever
+	2 Lost Etchings
+	2 Battlemage Mentor
+	2 Calamitous Offerings
+	2 Counterflow
+	2 Turn To Ash
+	2 Dutiful Serpent
+	2 Fathomless Amalgam
+	2 Volant Loudhailer
+	2 Nightborn Enigma
+	2 Ophidian Shrine
+	2 Fall of the Deathless
+	2 March of the Deathless
+	2 March of the Beasts
+	2 Fall of the Great City
+	2 March of the Visionaries
+	2 Fall of the Ophidians
+	2 Fall of the Visionaries
+	2 Fall of the Beasts
+	2 March of the Great City
+	2 March of the Ophidians
+	2 Enlightened Titan
+	2 Surfaced Titan
+	2 Rippling Titan
+	2 Reaping Titan
+	2 Burgeoning Titan
+	2 Sanguine Titan
+	2 Noxious Titan
+	2 Nebulous Titan
+	2 Astral Titan
+	2 Crackling Titan
+	2 Drown in the Loch
+	2 Piecemeal Finale
+	2 Claim for Civilization
+	2 Demand Reverence
+	2 Mind's Communion
+	2 Boon of the Pacts
+	2 Wildfire Awakener
+	2 Worlds Colliding
+	2 Time Wipe
+	2 Rhythm of the Wild
+	2 Seedmiser's Zeal
+	2 Pyromancer's Zeal
+	2 Malefactor's Zeal
+	2 Philosopher's Zeal
+	2 Loyalist's Zeal
+	2 Emil's Roaming of Ravnica
+	2 Arati's Roaming of Theros
+	2 Yshnu's Roaming of Innistrad
+	2 Anuun's Roaming of Zendikar
+	2 Ishim's Roaming of Shandalar
+	2 Heraldry
+	2 Whimsy
+	2 Villainy
+	2 Brutality
+	2 Creativity
+	2 B33
+	2 W33
+	2 R33
+	2 G33
+	2 U33
 [uncommon(3)]
 	4 Overgrown Atheneum
 	4 Lofty Atheneum
@@ -3006,7 +3930,7 @@
 	2 Boundless Reverie
 	2 Divine Reclamation
 	2 Astral Procession
-	2 Epiphany of Forever
+	2 Prophecy of Flame
 	2 Brass Steward
 	2 Starhide Lion
 	2 Lotus Treant
@@ -3022,6 +3946,90 @@
 	2 Archmage's Confluence
 	2 Astrologer's Confluence
 	2 Shaman's Confluence
+	2 Sunwing Divinity
+	2 Druidic Communion
+	2 Ornimancer
+	2 Twilight Perplexity
+	2 Resting Undertow
+	2 Maniacal Evocation
+	2 Undaunted Explorer
+	2 Resolute Outsider
+	2 Deified Wanderer
+	2 Gossamer Entity
+	2 Apex Goliath
+	2 Sacred Fire
+	2 Embalmed Drake
+	2 Ravenous Aberration
+	2 Collective Conscious
+	2 Dark God's Blessing
+	2 Inspiring Partisan
+	2 Caustic Berserker
+	2 Shadowed Clergy
+	2 Kingmaker
+	2 Eulogy of Forgotten Masses
+	2 Prayer of Fecudity
+	2 Revelation of Finitude
+	2 Epiphany of Forever
+	2 Lost Etchings
+	2 Battlemage Mentor
+	2 Calamitous Offerings
+	2 Counterflow
+	2 Turn To Ash
+	2 Dutiful Serpent
+	2 Fathomless Amalgam
+	2 Volant Loudhailer
+	2 Nightborn Enigma
+	2 Ophidian Shrine
+	2 Fall of the Deathless
+	2 March of the Deathless
+	2 March of the Beasts
+	2 Fall of the Great City
+	2 March of the Visionaries
+	2 Fall of the Ophidians
+	2 Fall of the Visionaries
+	2 Fall of the Beasts
+	2 March of the Great City
+	2 March of the Ophidians
+	2 Enlightened Titan
+	2 Surfaced Titan
+	2 Rippling Titan
+	2 Reaping Titan
+	2 Burgeoning Titan
+	2 Sanguine Titan
+	2 Noxious Titan
+	2 Nebulous Titan
+	2 Astral Titan
+	2 Crackling Titan
+	2 Drown in the Loch
+	2 Piecemeal Finale
+	2 Claim for Civilization
+	2 Demand Reverence
+	2 Mind's Communion
+	2 Boon of the Pacts
+	2 Wildfire Awakener
+	2 Worlds Colliding
+	2 Time Wipe
+	2 Rhythm of the Wild
+	2 Seedmiser's Zeal
+	2 Pyromancer's Zeal
+	2 Malefactor's Zeal
+	2 Philosopher's Zeal
+	2 Loyalist's Zeal
+	2 Emil's Roaming of Ravnica
+	2 Arati's Roaming of Theros
+	2 Yshnu's Roaming of Innistrad
+	2 Anuun's Roaming of Zendikar
+	2 Ishim's Roaming of Shandalar
+	2 Heraldry
+	2 Whimsy
+	2 Villainy
+	2 Brutality
+	2 Creativity
+	2 B33
+	2 W33
+	2 R33
+	2 G33
+	2 U33
 [wildcard(1)]
 	4 Anaza, Loreweaver
 	4 Ashur, Roaming Library
@@ -3233,7 +4241,7 @@
 	7 Boundless Reverie
 	7 Divine Reclamation
 	7 Astral Procession
-	7 Epiphany of Forever
+	7 Prophecy of Flame
 	7 Brass Steward
 	7 Starhide Lion
 	7 Lotus Treant
@@ -3249,3 +4257,87 @@
 	7 Archmage's Confluence
 	7 Astrologer's Confluence
 	7 Shaman's Confluence
+	7 Sunwing Divinity
+	7 Druidic Communion
+	7 Ornimancer
+	7 Twilight Perplexity
+	7 Resting Undertow
+	7 Maniacal Evocation
+	7 Undaunted Explorer
+	7 Resolute Outsider
+	7 Deified Wanderer
+	7 Gossamer Entity
+	7 Apex Goliath
+	7 Sacred Fire
+	7 Embalmed Drake
+	7 Ravenous Aberration
+	7 Collective Conscious
+	7 Dark God's Blessing
+	7 Inspiring Partisan
+	7 Caustic Berserker
+	7 Shadowed Clergy
+	7 Kingmaker
+	7 Eulogy of Forgotten Masses
+	7 Prayer of Fecudity
+	7 Revelation of Finitude
+	7 Epiphany of Forever
+	7 Lost Etchings
+	7 Battlemage Mentor
+	7 Calamitous Offerings
+	7 Counterflow
+	7 Turn To Ash
+	7 Dutiful Serpent
+	7 Fathomless Amalgam
+	7 Volant Loudhailer
+	7 Nightborn Enigma
+	7 Ophidian Shrine
+	7 Fall of the Deathless
+	7 March of the Deathless
+	7 March of the Beasts
+	7 Fall of the Great City
+	7 March of the Visionaries
+	7 Fall of the Ophidians
+	7 Fall of the Visionaries
+	7 Fall of the Beasts
+	7 March of the Great City
+	7 March of the Ophidians
+	7 Enlightened Titan
+	7 Surfaced Titan
+	7 Rippling Titan
+	7 Reaping Titan
+	7 Burgeoning Titan
+	7 Sanguine Titan
+	7 Noxious Titan
+	7 Nebulous Titan
+	7 Astral Titan
+	7 Crackling Titan
+	7 Drown in the Loch
+	7 Piecemeal Finale
+	7 Claim for Civilization
+	7 Demand Reverence
+	7 Mind's Communion
+	7 Boon of the Pacts
+	7 Wildfire Awakener
+	7 Worlds Colliding
+	7 Time Wipe
+	7 Rhythm of the Wild
+	7 Seedmiser's Zeal
+	7 Pyromancer's Zeal
+	7 Malefactor's Zeal
+	7 Philosopher's Zeal
+	7 Loyalist's Zeal
+	7 Emil's Roaming of Ravnica
+	7 Arati's Roaming of Theros
+	7 Yshnu's Roaming of Innistrad
+	7 Anuun's Roaming of Zendikar
+	7 Ishim's Roaming of Shandalar
+	7 Heraldry
+	7 Whimsy
+	7 Villainy
+	7 Brutality
+	7 Creativity
+	7 B33
+	7 W33
+	7 R33
+	7 G33
+	7 U33
