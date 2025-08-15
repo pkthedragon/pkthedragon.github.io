@@ -1,4 +1,885 @@
-﻿VERSION 6 CHANGELOG
+﻿VERSION 7 CHANGELOG
+====================
+
+Building of the Undercity added.
+Journey of the Deathless added.
+Stampede of the Beasts added.
+Wrath of the Deathless added.
+Rising of the Conclave added.
+Sunset of the Visionaries added.
+Growth of the Conclave added.
+Settling of the Great City added.
+Glory of the Ophidians added.
+B29 added.
+W29 added.
+R29 added.
+G29 added.
+U29 added.
+B31 added.
+R31 added.
+R30 added.
+G31 added.
+G30 added.
+B30 added.
+U31 added.
+U30 added.
+W31 added.
+W30 added.
+Smothering Tithe added.
+Enlightened Tutor added.
+Farewell added.
+Path to Exile added.
+Event Horizon added.
+Final Reckoning added.
+End of Days added.
+Adoration added.
+Cyclonic Rift added.
+Consecrated Sphinx added.
+Lost Among the Lilies added.
+Spotless Mind added.
+Abscond added.
+Counterspell added.
+Duel of Intellect added.
+Propaganda added.
+Demonic Tutor added.
+Necropotence added.
+Feed the Swarm added.
+Toxic Deluge added.
+Exeunt added.
+Impending Contagion added.
+The Afterlife Takes Its Due added.
+The Moon Rises added.
+Blasphemous Act added.
+Underworld Breach added.
+Chaos Warp added.
+Deflecting Swat added.
+Magnitude added.
+Desecrate Antiquities added.
+Worn to Nothing added.
+Crop Rotation added.
+Seedborn Muse added.
+Heroic Intervention added.
+Beast Within added.
+Fungal Swathe added.
+Breath of Fresh Air added.
+Sporeflow Protector added.
+Unnoticed in the Glade added.
+Magnoceros added.
+Herald of Wisdom added.
+U03 added.
+Dreadbearer added.
+U06 added.
+Return of the Wildspeaker added.
+W17 added.
+Scion of Torrents added.
+G26 added.
+Spellfire Savant added.
+Commanding Archmage added.
+R13 added.
+U15 added.
+B17 added.
+Adept of Transfusions added.
+B28 added.
+R24a added.
+B21 added.
+G27 added.
+B18 added.
+B22 added.
+U25 added.
+R22a added.
+B20 added.
+U09 added.
+B19 added.
+B08 added.
+Sinister Concoction added.
+Provisional Order added.
+Curse of Scuttling Thoughts added.
+Paradise Procurement added.
+Reckless Research added.
+Moonlit Hunter added.
+Bilge Crab added.
+Earthly Principality added.
+Thunderlash Mystic added.
+Hedron Crab added.
+Consult the Star Charts added.
+U13 added.
+B14 added.
+B15 added.
+U16 added.
+U17 added.
+U18 added.
+U19 added.
+U20 added.
+U21 added.
+U24 added.
+U23 added.
+U22 added.
+B25 added.
+U26 added.
+U27 added.
+U28 added.
+Ethics and Reanimation added.
+U02 added.
+W01 added.
+Embodiment of Abundance added.
+B03 added.
+Object of Awe added.
+Mind Pryer added.
+B06 added.
+Moonlight added.
+Current Surfer added.
+Monster Behind the Curtain added.
+B10 added.
+Pineblight Caribou added.
+Veindrinker's Cabalist added.
+B13 added.
+W14 added.
+R15 added.
+W16 added.
+B16 added.
+R18 added.
+W19 added.
+R20 added.
+G21 added.
+W24a added.
+B23 added.
+B24 added.
+G25 added.
+B26 added.
+B27 added.
+Surly Badgersaur added.
+Ashen Mare added.
+R03 added.
+G04 added.
+Promised Exaltation added.
+R06 added.
+Magus of Seasons added.
+G10 added.
+R11 added.
+Grim Sower added.
+W13 added.
+G14 added.
+W15 added.
+G16 added.
+R17 added.
+W18 added.
+R19 added.
+G20 added.
+W21a added.
+G24 added.
+W23a added.
+G22 added.
+R25 added.
+R28 added.
+Absurdity added.
+W02 added.
+Evolution Sage added.
+W04 added.
+Mirrorcast Battlemage added.
+Blessed Suncrusher added.
+Royal Doctor added.
+W08 added.
+R09a added.
+W10 added.
+W12 added.
+Sacred Opus added.
+G13 added.
+R14 added.
+G15 added.
+R16 added.
+G17 added.
+G18 added.
+G19 added.
+W20 added.
+R21 added.
+R23a added.
+G23 added.
+W22a added.
+R26 added.
+R27 added.
+G28 added.
+W28 added.
+W25 added.
+W26 added.
+W27 added.
+R07 added.
+G02 added.
+
+Snake removed.
+Glimmer removed.
+Spirit removed.
+Bird removed.
+Fall of the Deathless removed.
+March of the Deathless removed.
+March of the Beasts removed.
+Fall of the Great City removed.
+Fall of the Ophidians removed.
+Fall of the Visionaries removed.
+Fall of the Beasts removed.
+March of the Great City removed.
+March of the Ophidians removed.
+B33 removed.
+W33 removed.
+R33 removed.
+G33 removed.
+U33 removed.
+
+Anaza, Loreweaver
+
+Ashur, Roaming Library
+
+Dammuk, Farseeker
+
+Esteemed Marroc
+rules_text: Vigilance, lifelink
+Esteemed Marroc gets +1/+0 for each token you control.
+{T}, Sacrifice another creature: You draw cards equal to the sacrificed creature's toughness and lose life equal to its power. => Flying, lifelink
+Esteemed Marroc gets +1/+0 for each differently named token you control.
+{T}, Sacrifice another creature or token: You draw cards equal to Esteemed Marroc's power and lose life equal to its toughness.
+pt: 2/5 => 1/3
+
+Ein, Ebbing Tide
+
+Eluz, Eternal Shepherd
+
+Amuz, Dune Giant
+rules_text: Vigilance, haste
+Whenever Amuz and at least two other creatures you control that share a keyword with it attack, Amuz bellows at the beginning of your next upkeep. [i](The next creature spell you cast this turn costs {X} less to cast, where X is this creature's power.)[/i] => Vigilance, trample, haste
+Whenever Amuz and at least two other creatures you control that share a keyword with it attack, Amuz bellows at the beginning of your next upkeep. [i](The next creature spell you cast this turn costs {X} less to cast, where X is this creature's power.)[/i]
+
+Dishkur, Pulsing Core
+
+Erragal, Red Hunter
+
+Nusbil, Arid Wind
+
+Io, Stargazer
+
+Saraf, Ivory Weaver
+
+Namash, Ever Famished
+
+Zabu, Parasitic Bloom
+
+Mugan, Harmonious
+
+Nidab, Forgotten Vestige
+
+Kitu, Vast Aurora
+
+Nin, Daydreamer
+
+Lahar, Many Bodied
+
+Utash, Great Wanderer
+rules_text: Utash costs {1} less to cast for each nonbasic land you control.
+[i]Expanse[/i] — Whenever a nontoken land enters under a player's control, if two or more lands entered under their control this turn, draw a card and create an Oasis token. [i](It's a land with “{T}, Sacrifice this: Add one mana of any color.”)[/i] => Utash costs {1} less to cast for each nonbasic land you control.
+[i]Expanse[/i] — Whenever a nontoken land enters under a player's control, if two or more lands they control entered this turn, draw a card and create an Oasis token. [i](It's a land with “{T}, Sacrifice this: Add one mana of any color.”)[/i]
+
+Shifter Manzet
+
+Irrah, Ashen Ravager
+
+Aru, Blinding Seraph
+
+Mezza, August Empress
+
+Fayah, Rousing Magnate
+
+Emil, God of Clouds
+
+Arati, God of Reflections
+
+Ishim, God of Dusk
+
+Yshnu, God of Stars
+
+Anuun, God of Snakes
+
+Lilu, Secluded Archivist
+
+Gala, Bone Mistress
+
+Getana, Plasm Legionary
+
+Trusted Nurta
+
+Shadowed Hanzu
+
+Overgrown Atheneum
+
+Lofty Atheneum
+
+Sunken Atheneum
+
+Secluded Atheneum
+
+Mystic Atheneum
+
+Tactitian's Outpost
+
+Druid's Sanctuary
+
+Scoundrel's Camp
+
+Command Tower
+
+Morphic Verge
+
+Fabled Passage
+
+Floodwater Depths
+
+Grim Bastion
+
+Magmatic Torrent
+
+Mysterious Cataract
+
+Sunlit Highland
+
+Barren Desolation
+
+Shardstone Rift
+
+Timber Range
+
+Ocean Monastery
+
+Amber Hills
+
+Fell Glade
+
+Resting Dunes
+
+Hushed Oasis
+
+Magma Ridge
+
+Rotbed Mire
+
+Bustling Marketplace
+
+New Divide
+
+Pinnacle Portal
+
+Archmage's Tower
+
+Chamber of Ceremonies
+
+Watched Bazaar
+
+Dormant Remnant
+
+Prismatic Cavern
+
+Rogue's Passage
+
+Blossoming Expanse
+
+Grand Citadel
+
+Sunrise Exchange
+
+Necromancer's Den
+
+Tyrant's Cathedral
+
+Hermit's Refuge
+
+Regent's Metropolis
+
+Mage's Repository
+
+Wanderer's Shrine
+
+Benefactor's Altar
+
+Autumn Canopy
+
+Cloudsteel Summit
+
+Cursed Wastes
+
+Ghostspore Mire
+
+Molten Falls
+
+Resculpted Gorge
+
+Shuddering Node
+
+Soaring Rainforest
+
+Steamlit Peaks
+
+Timeless Shrine
+
+Plasm Raptor
+
+Plasm Crab
+
+Plasm Hound
+
+Plasm Arthropod
+
+Plasm Serpent
+
+Nameless Anachronism
+
+Ghost Quarter
+
+Arcane Signet
+
+Ninisina, Gilded Herald
+
+Claudia, Faceless Mogul
+
+Ereni, Pale Monarch
+
+Tiame, Visionary Elder
+
+Fahad, Oasis King
+
+Guardian of Paradise
+
+Dharman, Gold Chariot
+rules_text: Lifelink
+Whenever Dharman attacks, it deals damage equal to the number of tapped creatures you control to any target.
+Whenever you activate a nonmana ability of a creature you control, Dharman becomes an artifact creature until end of turn.
+Crew 3 => Lifelink
+Whenever Dharman attacks or blocks, it deals damage equal to the number of tapped creatures you control to any target.
+Whenever you cast a Dream spell or activate a nonmana ability of a creature, untap Dharman. It becomes an artifact creature until end of turn.
+Crew 3
+
+Hesah, King of Snakes
+
+Zagal, Wayward Minstrel
+
+Warad, the Red Hand
+
+Anzu, All-Consuming
+
+Urukh the Shadowed
+rules_text: Whenever one or more cards are put into your graveyard from your library, put a loyalty counter on Urukh.
+[0]: Target player mills two cards. Draw a card.
+[-2]: The next spell you cast from your hand this turn has delve.
+[-7]: Create a 7/7 black Nightmare creature token with menace and ward—mill seven cards. Target player draws seven cards. => Whenever one or more cards are put into your graveyard from your library, put a loyalty counter on Urukh.
+[0]: Target player mills two cards. Draw a card.
+[-2]: The next spell you cast from your hand this turn has delve.
+[-7]: Create a 7/7 black Nightmare enchantment creature token with menace and ward—mill seven cards. Target player draws seven cards.
+special_text: Whenever one or more cards are put into your graveyard from your library, put a loyalty counter on Urukh.
+[0]: Target player mills two cards. Draw a card.
+[-2]: The next spell you cast from your hand this turn has delve.
+[-7]: Create a 7/7 black Nightmare creature token with menace and ward—mill seven cards. Target player draws seven cards. => Whenever one or more cards are put into your graveyard from your library, put a loyalty counter on Urukh.
+[0]: Target player mills two cards. Draw a card.
+[-2]: The next spell you cast from your hand this turn has delve.
+[-7]: Create a 7/7 black Nightmare enchantment creature token with menace and ward—mill seven cards. Target player draws seven cards.
+
+Durg, Enclave's Warden
+
+Baal, Avaricious
+
+Ea, Magi of the Oasis
+
+Zaeyr the Veiled
+
+Mergho, Sky Ancient
+
+Saasa, Dark Witch
+
+Corvu, Ambling Hermit
+
+Mother of Beasts
+
+Cuith, War Patroness
+rules_text: Vigilance, haste
+Cuith gets +1/+0 for each other tapped creature you control.
+{T}: Create Cuith's Blade, a 3/1 colorless artifact creature token with flying and first strike. Tap it and put two stun counters on it. => Haste
+Cuith gets +1/+0 for each other tapped creature you control.
+Dream spells cost {0} to cast the turn Cuith enters.
+
+Dir, Venerated One
+
+Idad, Cycle Tender
+
+Ussuh, the Burgeoning
+
+Signi, Spiritfire
+
+Shamash, Triumphant
+
+Transcendent Agnar
+
+Sola, the Sunrise
+
+Libluth the Steadfast
+
+Yadi, Carmine Priestess
+
+Darice, Waygate Magi
+
+Cit, Wayfinder
+
+Grem, Plague Seraph
+
+Aloro, Torchbearer
+
+Agare, Giver of Knowing
+
+Idol
+
+Oasis
+
+Zabu
+
+Shzida
+
+Stoke
+
+Cuith's Blade
+
+Elemental
+
+Treasure
+
+Mount
+
+Glimmer
+rules_text: Flying, lifelink => When this enters, draw a card.
+pt: 2/1 => 2/2
+
+Nightmare
+type: Token Creature — Nightmare => Token Enchantment Creature — Nightmare
+
+Zombie
+
+Zombie
+
+Zombie
+
+Commander's Sphere
+
+Coalition Relic
+
+Chromatic Lantern
+
+Solemn Simulacrum
+
+Elixir of Perpetuity
+
+Inscrutable Talisman
+
+Sunset Pyramid
+
+Cosmic Chart
+
+Ring of Souls
+
+Clock of Seasons
+
+Runic Pillars
+
+Chamber of Reflections
+
+Skybright Obelisk
+
+Newleaf Obelisk
+
+Helltide Obelisk
+
+Gravemurk Obelisk
+
+Stormshore Obelisk
+
+Shadowbog Obelisk
+
+Cliffhome Obelisk
+
+Lilypond Obelisk
+
+Woodbellow Obelisk
+
+Dusklight Obelisk
+
+The Great Work
+
+Sigil of Autumn
+
+Sigil of Winter
+
+Sigil of Reaping
+
+Sigil of Summer
+
+Sigil of Spring
+
+Colossal Gate
+
+Bygone Gate
+
+Enigmatic Gate
+
+Desolate Gate
+
+Ineffable Gate
+
+Conqueror's Greaves
+
+Wayfarer's Familiar
+
+Scout's Compass
+
+Ligosomnia Engine
+
+Assembling Spheres
+
+Answer to Prayers
+
+Ussuh's Beating Heart
+
+Forgotten Volume
+
+Robust Manuscript
+
+Enchanted Scroll
+
+Malefic Grimoire
+
+Alchemical Journal
+
+Hesah's Study
+
+Zagal's Study
+
+Corvu's Study
+
+Zaeyr's Study
+
+Urukh's Study
+
+Idad's Study
+
+Ea's Study
+
+Nin's Study
+
+Cit's Study
+
+Warad's Study
+
+Emil's Study
+
+Ishim's Study
+
+Anuun's Study
+
+Arati's Study
+
+Yshnu's Study
+
+Serpentine Bloom
+
+First Breath
+
+Springtide Ritual
+
+Infinity Repeating
+
+Howling Augury
+
+Searing Dawn
+
+Ruinous Weft
+
+Boundless Reverie
+
+Divine Reclamation
+
+Astral Procession
+
+Prophecy of Flame
+
+Brass Steward
+
+Starhide Lion
+
+Lotus Treant
+
+Prismatic Wish
+
+Empress' Arrival
+
+Charmer's Confluence
+
+Trader's Confluence
+
+Evoker's Confluence
+
+Sage's Confluence
+
+Ranger's Confluence
+
+Fanatic's Confluence
+
+Warlock's Confluence
+
+Archmage's Confluence
+
+Astrologer's Confluence
+
+Shaman's Confluence
+
+Sunwing Divinity
+
+Druidic Communion
+
+Ornimancer
+
+Twilight Perplexity
+
+Resting Undertow
+
+Maniacal Evocation
+
+Undaunted Explorer
+type: Creature => Creature — Elf Scout
+
+Resolute Outsider
+
+Deified Wanderer
+
+Gossamer Entity
+
+Apex Goliath
+
+Sacred Fire
+
+Embalmed Drake
+
+Ravenous Aberration
+
+Collective Conscious
+
+Dark God's Blessing
+
+Inspiring Partisan
+
+Caustic Berserker
+
+Shadowed Clergy
+
+Kingmaker
+
+Eulogy of Forgotten Masses
+
+Prayer of Fecudity
+
+Revelation of Finitude
+
+Epiphany of Forever
+
+Lost Etchings
+
+Battlemage Mentor
+
+Calamitous Offerings
+
+Counterflow
+rules_text: Allegiant [i](This card can be in any deck whose commanders' color identities includes any of its colors, and it loses all colors not in the commanders' color identities.)[/i]
+Counter target spell or ability, or change the target of target spell or ability with a single target. Then copy that spell or ability. You may choose new targets for the copy. => Allegiant [i](This card can be in any deck whose commanders' color identities includes any of its colors, and it loses all colors not in the commanders' color identities.)[/i]
+Counter target spell or ability, then copy that spell or ability. You may choose new targets for the copy.
+
+Turn To Ash
+
+Dutiful Serpent
+
+Fathomless Amalgam
+
+Volant Loudhailer
+
+Nightborn Enigma
+
+Ophidian Shrine
+
+March of the Visionaries
+
+Enlightened Titan
+
+Surfaced Titan
+
+Rippling Titan
+
+Reaping Titan
+
+Burgeoning Titan
+
+Sanguine Titan
+
+Noxious Titan
+rules_text: Whenever Noxious Titan enters or attacks, create two 1/1 black Snake creature tokens with virulent 1. They gain haste and enter tapped and attacking if Noxious Titan is attacking.
+[i]Channel[/i] — {3}, Discard Noxious Titan: Create a tapped colorless Swamp Mountain Forest land token. => Whenever Noxious Titan enters or attacks, create two 1/1 green Snake creature tokens with virulent 1. They gain haste and enter tapped and attacking if Noxious Titan is attacking.
+[i]Channel[/i] — {3}, Discard Noxious Titan: Create a tapped colorless Swamp Mountain Forest land token.
+
+Nebulous Titan
+
+Astral Titan
+
+Crackling Titan
+
+Drown in the Loch
+
+Piecemeal Finale
+
+Claim for Civilization
+
+Demand Reverence
+
+Mind's Communion
+
+Boon of the Pacts
+
+Wildfire Awakener
+
+Worlds Colliding
+
+Time Wipe
+
+Rhythm of the Wild
+
+Seedmiser's Zeal
+
+Pyromancer's Zeal
+
+Malefactor's Zeal
+
+Philosopher's Zeal
+
+Loyalist's Zeal
+
+Emil's Roaming of Ravnica
+
+Arati's Roaming of Theros
+
+Yshnu's Roaming of Innistrad
+
+Anuun's Roaming of Zendikar
+
+Ishim's Roaming of Shandalar
+
+Heraldry
+
+Whimsy
+
+Villainy
+
+Brutality
+
+Creativity
+
+
+VERSION 6 CHANGELOG
 ====================
 
 Glimmer added.
