@@ -4,6 +4,11 @@
             "set_code": "KRN",
             "set_name": "Karna",
             "formats": ""
+        },
+        {
+            "set_code": "SWS",
+            "set_name": "Star Wars",
+            "formats": ""
         }
     ]
 }
