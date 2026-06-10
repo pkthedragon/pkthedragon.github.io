@@ -1,4 +1,127 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+Jango Fett added.
+Plo Koon added.
+Depa Billibaba added.
+Captain Cassian Andor added.
+Saw Gerrera, the Insurgent added.
+
+Jango Fett, the Progenitor removed.
+Plo Koon, the Benevolent removed.
+Depa Billibaba, Jedi Warden removed.
+
+Droideka
+
+Luke, Ahch-To Exile
+
+Alderaan, Peaceful Jewel
+
+Coruscant, Galaxy's Heart
+
+Mustafar, Volcanic Crucible
+
+Naboo, Verdant Paradise
+
+Tatooine, Twin-Sunned
+
+Bespin, Clouded Domain
+
+Dagobah, Fetid Refuge
+
+Kamino, Drowned Cradle
+
+Kashyyk, Wild Enclave
+
+Hoth, Frozen Outpost
+
+Greedo, Trigger-Happy
+
+R2-D2, Universal Companion
+
+Jabba the Hutt
+
+Mos Eisley
+
+Chewbacca, Wookie Cohort
+
+Master Mace Windu
+
+General Grievous
+
+The Millenium Falcon
+
+Grand Master Yoda
+
+Obi-Wan Kenobi
+
+Luke Skywalker
+
+Princess Leia Organa
+
+Senator Mon Mothma
+
+Rey, the Last Skywalker
+
+Kylo Ren, Supreme Leader
+
+The Death Star II
+
+Order 66
+
+The Supremacy
+
+No Disintegrations
+
+Fraternal Betrayal
+
+The Skywalker Saga
+
+Trench Run
+
+Warding Lightsaber
+
+Cleansed Lightsaber
+
+Defiant Lightsaber
+
+Bleeding Lightsaber
+
+Attuned Lightsaber
+
+The Darksaber
+
+The Death Star
+
+Ahch-To, Bygone Asylum
+
+Mandalore, Armored Ruin
+
+Moraband, Dark Tomb
+
+Jakku, Vessel Graveyard
+
+Nal Hutta, Decadent Mire
+
+Starkiller Base
+
+Jedi Temple
+
+Obi-Wan, Stern Disciple
+
+Viceroy Nute Gunray
+rules_text: When Viceroy Nute Gunray enters, create a tapped Treasure token. Then you may sacrifice another permanent. When you do, draw a card and create a blue battle token named Blockade with three defense and “Creatures can't attack you unless their controller pays {1} for each of those creatures.” You're protecting it. => When Viceroy Nute Gunray enters, you may sacrifice another permanent. When you do, create a blue battle token named Blockade with three defense and “Whenever an opponent draws a card, they may pay {1}. If they don't, you create a Treasure token.” You're protecting it.
+
+Count Dooku, Separatist
+
+Sly Moore, the Umbaran
+
+The Stranger, Cad Bane
+
+Boss Nass, Gungan Leader
+
+
+VERSION 4 CHANGELOG
 ====================
 
 
