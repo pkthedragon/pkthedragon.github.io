@@ -1,4 +1,28 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+
+
+Droideka
+rules_text: Assembly 3 [i](This creature enters with three +1/+1 counters on it. When it dies, create a 1/1 colorless Construct artifact creature token for each counter on it.)[/i]
+{T}, Remove a +1/+1 counter from Droideka: Put a shield counter on it. It deals 1 damage to any target. [i](If it would be dealt damage or destroyed, remove a shield counter from it instead.)[/i] => Assembly 3 [i](This creature enters with three +1/+1 counters on it. When it dies, create a 1/1 colorless Construct artifact creature token for each +1/+1 counter on it.)[/i]
+Droideka enters with a shield counter on it.
+{1}, Remove a counter from Droideka: It deals 1 damage to any target.
+
+Obi-Wan Kenobi
+rules_text: Ward {2}
+Whenever one or more creatures attack you, tap or untap Obi-Wan Kenobi.
+Force — {3}{W}{U}, {Q}: Tap or untap another target creature. You may remove it from combat if it's attacking. If you do, that creature's controller draws two cards. [i](Activate only once each turn.)[/i] => Ward {2}
+Whenever one or more creatures attack you, tap or untap Obi-Wan Kenobi.
+Force — {1}{W}{U}, {Q}: Untap another target creature. You may remove it from combat if it's attacking. If you do, that creature's controller draws two cards. [i](Activate only once each turn.)[/i]
+
+Senator Mon Mothma
+
+No Disintegrations
+rules_text: Put X plus one shield counters on target creature. For as long as it has a shield counter on it, it loses all abilities and is an artifact. [i](It's not a creature.)[/i] => Trigger a bounty ability of target permanent you control. When you do, put X plus one shield counters on target creature. For as long as it has a shield counter on it, it loses all abilities and is an artifact. [i](It's not a creature.)[/i]
+
+
+VERSION 3 CHANGELOG
 ====================
 
 Jango Fett, the Progenitor added.
