@@ -1,4 +1,204 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+Warding Lightsaber added.
+Cleansed Lightsaber added.
+Defiant Lightsaber added.
+Bleeding Lightsaber added.
+Attuned Lightsaber added.
+The Darksaber added.
+The Death Star added.
+Ahch-To, Bygone Asylum added.
+Mandalore, Armored Ruin added.
+Moraband, Dark Tomb added.
+Jakku, Vessel Graveyard added.
+Nal Hutta, Decadent Mire added.
+Starkiller Base added.
+Jedi Temple added.
+Obi-Wan, Stern Disciple added.
+Viceroy Nute Gunray added.
+Count Dooku added.
+Plo Koon, the Benevolent added.
+Sly Moore, the Umbaran added.
+
+
+Droideka
+
+Destruction of Alderaan
+rules_text: Energize [i](Each counter you remove from you or a permanent you control while casting this spell pays for {1}.)[/i]
+Destroy target land. Destruction of Alderaan deals 20 damage to each untapped creature without flying. => Energize [i](As you cast this spell, energize it by removing three counters from among permanents you control. If you do, it can't be countered.)[/i]
+Destruction of Alderaan costs {5} less to cast if it's energized.
+Exile target land. Destruction of Alderaan deals 20 damage to each nonartifact creature.
+
+Luke, Ahch-To Exile
+
+The Twilight
+rules_text: Ward {2}
+Whenever a creature you control stations The Twilight, you may return it to its owner's hand.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 6+] Flying
+You may activate The Twilight's station ability any time you could cast an instant. [4/2]
+ => Ward {2}
+Whenever a creature you control stations The Twilight, you may return it to its owner's hand.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 6+.)[/i]
+[level 6+] Flying
+You may activate The Twilight's station ability any time you could cast an instant. [4/2]
+
+special_text: Ward {2}
+Whenever a creature you control stations The Twilight, you may return it to its owner's hand.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 6+] Flying
+You may activate The Twilight's station ability any time you could cast an instant. [4/2]
+ => Ward {2}
+Whenever a creature you control stations The Twilight, you may return it to its owner's hand.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 6+.)[/i]
+[level 6+] Flying
+You may activate The Twilight's station ability any time you could cast an instant. [4/2]
+
+
+Alderaan, Peaceful Jewel
+
+Coruscant, Galaxy's Heart
+
+Mustafar, Volcanic Crucible
+
+Naboo, Verdant Paradise
+
+Tatooine, Twin-Sunned
+
+Anakin, Faded Vestige
+
+Bespin, Clouded Domain
+
+Dagobah, Fetid Refuge
+
+Kamino, Drowned Cradle
+
+Kashyyk, Wild Enclave
+
+Hoth, Frozen Outpost
+
+Greedo, Trigger-Happy
+
+R2-D2, Universal Companion
+
+Jabba the Hutt
+
+Mos Eisley
+
+Jango Fett, Progenitor
+rules_text: Flying
+Whenever Jango Fett attacks, hunt target nontoken creature until end of turn. [i](Whenever a permanent you are hunting dies, create a Treasure token or trigger a bounty ability of a permanent you control.)[/i]
+Bounty — Create a token that's a copy of Jango Fett except its not legendary and loses all abilities. => Flying
+Whenever Jango Fett attacks, hunt target nontoken creature until end of turn. [i](Whenever a permanent you are hunting dies, create a Treasure token or trigger a bounty ability of a permanent you control.)[/i]
+Bounty — Create a token that's a copy of Jango Fett except it's not legendary and loses all abilities.
+
+Master Mace Windu
+
+General Grievous
+
+The Millenium Falcon
+rules_text: Tapped nonattacking creatures you control have hexproof.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 12+] Flying, first strike
+{R}, Remove X counters from a tapped permanent you control: The Millenium Falcon deals X damage to target creature. [8/4]
+ => Tapped nonattacking creatures you control have hexproof.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 12+.)[/i]
+[level 12+] Flying, first strike
+{R}, Remove X counters from a tapped permanent you control: The Millenium Falcon deals X damage to target creature. [8/4]
+
+special_text: Tapped nonattacking creatures you control have hexproof.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 12+] Flying, first strike
+{R}, Remove X counters from a tapped permanent you control: The Millenium Falcon deals X damage to target creature. [8/4]
+ => Tapped nonattacking creatures you control have hexproof.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 12+.)[/i]
+[level 12+] Flying, first strike
+{R}, Remove X counters from a tapped permanent you control: The Millenium Falcon deals X damage to target creature. [8/4]
+
+
+Grand Master Yoda
+
+Obi-Wan Kenobi
+rules_text: Ward {2}
+Obi-Wan Kenobi gets +0/+4 as long as he's blocking.
+Force — {3}{W}{U}, {Q}: Tap or untap target creature. If you don't control it, it must attack this turn if able and you and its controller each draw two cards. [i](Activate only once each turn.)[/i] => Ward {2}
+Whenever one or more creatures attack you, tap or untap Obi-Wan Kenobi.
+Force — {3}{W}{U}, {Q}: Tap or untap another target creature. You may remove it from combat if it's attacking. If you do, that creature's controller draws two cards. [i](Activate only once each turn.)[/i]
+pt: 2/4 => 2/6
+
+Luke Skywalker
+
+Princess Leia Organa
+
+Senator Mon Mothma
+rules_text: When Senator Mon Mothma enters, return another target creature to its owner's hand.
+At the beginning of combat, if an opponent controls more creatures than you, you may pay {R} to exile Senator Mon Mothma and return her to the battlefield transformed under her owner's control. => When Senator Mon Mothma enters, return another target creature to its owner's hand.
+At the beginning of combat, if an opponent controls more creatures than you, you may pay {R}. If you do, exile Senator Mon Mothma and return her to the battlefield transformed under her owner's control.
+
+Rey, the Last Skywalker
+
+Kylo Ren, Supreme Leader
+
+The Death Star II
+
+Order 66
+
+The Supremacy
+rules_text: During your turn, The Supremacy has indestructible.
+Whenever a creature stations The Supremacy, hunt target artifact or creature until end of turn.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 20+] Bounty — Return any number of target artifact and/or creature cards from your graveyard to your hand. [2/20]
+ => During your turn, The Supremacy has indestructible.
+Whenever a creature stations The Supremacy, hunt target artifact or creature until end of turn.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 20+.)[/i]
+[level 20+] Bounty — Return any number of target artifact and/or creature cards from your graveyard to your hand. [2/20]
+
+special_text: During your turn, The Supremacy has indestructible.
+Whenever a creature stations The Supremacy, hunt target artifact or creature until end of turn.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 20+] Bounty — Return any number of target artifact and/or creature cards from your graveyard to your hand. [2/20]
+ => During your turn, The Supremacy has indestructible.
+Whenever a creature stations The Supremacy, hunt target artifact or creature until end of turn.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 20+.)[/i]
+[level 20+] Bounty — Return any number of target artifact and/or creature cards from your graveyard to your hand. [2/20]
+
+
+Red Five
+rules_text: Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 2+] Whenever you untap an artifact or a creature during a main phase, draw a card and put a charge counter on Red Five.
+[level 4+] Flying, vigilance
+Remove X charge counters from Red Five: Red Five gets +X/+0 until end of turn. [0/4] => Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 4+.)[/i]
+[level 2+] Whenever you untap an artifact or a creature during a main phase, draw a card and put a charge counter on Red Five.
+[level 4+] Flying, vigilance
+Remove X charge counters from Red Five: Red Five gets +X/+0 until end of turn. [0/4]
+special_text: Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 2+] Whenever you untap an artifact or a creature during a main phase, draw a card and put a charge counter on Red Five.
+[level 4+] Flying, vigilance
+Remove X charge counters from Red Five: Red Five gets +X/+0 until end of turn. [0/4] => Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 4+.)[/i]
+[level 2+] Whenever you untap an artifact or a creature during a main phase, draw a card and put a charge counter on Red Five.
+[level 4+] Flying, vigilance
+Remove X charge counters from Red Five: Red Five gets +X/+0 until end of turn. [0/4]
+
+No Disintegrations
+
+Kyber Crystal
+cost: {1}{R} => {R}
+rules_text: {1}, {T}: Put a charge counter on Kyber Crystal, then copy target activated or triggered ability you control. You may choose new targets for the copy. Kyber Crystal deals X damage to you, where X is the number of charge counters on it. => Activated abilities of artifacts and equipped creatures you control cost {2} less to activate. This effect can't reduce the mana in that cost to less than one mana.
+{X}{X}, {T}, Sacrifice Kyber Crystal: Copy target activated ability X times. You may choose new targets for the copies. Kyber Crystal deals X damage to you. This ability can't be copied.
+
+Fraternal Betrayal
+
+The Skywalker Saga
+
+Trench Run
+cost: {X}{X}{R}{W} => {1}{R}{W}
+rules_text: Energize [i](Each counter you remove from you or a permanent you control while casting this spell pays for {1}.)[/i]
+Target creature you control gets +X/+0 and gains first strike, hexproof, and indestructible. Take an extra turn after this one. At the beginning of that turn's end step, you lose the game. => Energize [i](As you cast this spell, energize it by removing three counters from among permanents you control. If you do, it can't be countered.)[/i]
+Take an extra turn after this one. At the beginning of that turn's end step, you lose the game. If Trench Run is energized, up to one target creature or Spacecraft you control gains double strike, trample, hexproof, and indestructible.
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
