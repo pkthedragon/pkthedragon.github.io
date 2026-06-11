@@ -1,4 +1,153 @@
-﻿VERSION 5 CHANGELOG
+﻿VERSION 6 CHANGELOG
+====================
+
+Mas Amedda, Grand Vizier added.
+Barriss Offee, the Healer added.
+The Child, Din Grogu added.
+Kit Fisto added.
+Bo-Katan Kryze added.
+Captain Hera Syndulla added.
+Hondo Ohnaka, Pirate King added.
+Moff Gideon added.
+
+
+Droideka
+
+Luke, Ahch-To Exile
+
+Alderaan, Peaceful Jewel
+
+Coruscant, Galaxy's Heart
+
+Mustafar, Volcanic Crucible
+
+Naboo, Verdant Paradise
+
+Tatooine, Twin-Sunned
+
+Anakin, Faded Vestige
+rules_text: Discard a card named Anakin, Faded Vestige: Target creature's next activated ability this turn costs {2} less to activate.
+Force — {2}, {Q}: Target creature gains ward {1} until end of turn and can't be blocked this turn. [i](Activate only once each turn.)[/i] => Force — Discard a legendary card, {Q}: The next time you activate an activated ability of target creature this turn, that ability costs {2} less to activate. [i](Activate only once each turn.)[/i]
+
+Bespin, Clouded Domain
+
+Dagobah, Fetid Refuge
+
+Kamino, Drowned Cradle
+
+Kashyyk, Wild Enclave
+
+Hoth, Frozen Outpost
+
+Greedo, Trigger-Happy
+
+R2-D2, Universal Companion
+
+Jabba the Hutt
+
+Mos Eisley
+
+Jango Fett
+
+Chewbacca, Wookie Cohort
+
+Master Mace Windu
+
+General Grievous
+
+The Millenium Falcon
+
+Grand Master Yoda
+
+Obi-Wan Kenobi
+
+Luke Skywalker
+
+Princess Leia Organa
+
+Senator Mon Mothma
+
+Rey, the Last Skywalker
+
+Kylo Ren, Supreme Leader
+
+The Death Star II
+
+Order 66
+
+The Supremacy
+
+No Disintegrations
+
+Fraternal Betrayal
+
+The Skywalker Saga
+
+Trench Run
+
+Warding Lightsaber
+
+Cleansed Lightsaber
+
+Defiant Lightsaber
+
+Bleeding Lightsaber
+
+Attuned Lightsaber
+
+The Darksaber
+
+The Death Star
+
+Ahch-To, Bygone Asylum
+
+Mandalore, Armored Ruin
+
+Moraband, Dark Tomb
+
+Jakku, Vessel Graveyard
+
+Nal Hutta, Decadent Mire
+
+Starkiller Base
+
+Jedi Temple
+
+Obi-Wan, Stern Disciple
+pt: 1/2 => 2/1
+
+Viceroy Nute Gunray
+
+Count Dooku, Separatist
+rules_text: When Count Dooku enters, create a 1/1 colorless Construct artifact creature token.
+Whenever Count Dooku attacks, you may sacrifice an artifact. When you do, create a tapped and attacking token that's a copy of target creature except it's not legendary and it has haste. Sacrifice that token at the beginning of the next end step. => When Count Dooku enters, create a 1/1 colorless Construct Soldier artifact creature token.
+Whenever Count Dooku attacks, you may sacrifice an artifact. When you do, gain control of target creature until end of turn. If it's a creature, you may have it become tapped and attacking.
+pt: 3/2 => 4/3
+
+Plo Koon
+
+Sly Moore, the Umbaran
+
+The Stranger, Cad Bane
+
+Boss Nass, Gungan Leader
+rules_text: Aliens you control have hexproof as long as Boss Nass is untapped.
+Whenever Boss Nass becomes tapped, put a +1/+1 counter on each creature you control with power less than Boss Nass's toughness. => Aliens you control have ward {2} as long as Boss Nass is untapped.
+Whenever Boss Nass becomes tapped, put a +1/+1 counter on each creature you control with power less than Boss Nass's toughness.
+
+Depa Billibaba
+pt: 2/2 => 1/1
+
+Captain Cassian Andor
+
+Saw Gerrera, the Insurgent
+rules_text: Trample, haste
+Whenever a creature an opponent controls dies, if it was dealt damage this turn by a creature you control, put a +1/+1 counter on that creature you control. => Vigilance, trample
+Whenever a creature an opponent controls dies, if it was dealt damage this turn by a creature you control, put a +1/+1 counter or a charge counter on target artifact or creature.
+pt: 5/4 => 6/5
+
+
+VERSION 5 CHANGELOG
 ====================
 
 Jango Fett added.
