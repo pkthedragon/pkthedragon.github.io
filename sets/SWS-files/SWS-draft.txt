@@ -5,9 +5,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{B}{B}{B}",
 			"type": "Legendary Creature — Human Sith",
-			"collector_number": "7",
+			"collector_number": "9",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/7_Darth Sidious.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/9_Darth Sidious.png"
 			}
 		},
 		{
@@ -15,9 +15,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}",
 			"type": "Artifact Creature — Construct",
-			"collector_number": "61",
+			"collector_number": "81",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/61_Droideka.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/81_Droideka.png"
 			}
 		},
 		{
@@ -25,19 +25,19 @@
 			"rarity": "mythic",
 			"mana_cost": "{7}{R}{R}{R}",
 			"type": "Sorcery",
-			"collector_number": "9",
+			"collector_number": "11",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/9_Destruction of Alderaan.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/11_Destruction of Alderaan.png"
 			}
 		},
 		{
 			"name": "Luke, Ahch-To Exile",
 			"rarity": "rare",
 			"mana_cost": "{2}{G}{U}",
-			"type": "Legendary Creature — Human Jedi",
-			"collector_number": "33",
+			"type": "Legendary Creature — Human Jedi Elder",
+			"collector_number": "37",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/33_Luke, Ahch-To Exile.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/37_Luke, Ahch-To Exile.png"
 			}
 		},
 		{
@@ -55,9 +55,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
 			"type": "Legendary Artifact — Spacecraft",
-			"collector_number": "6",
+			"collector_number": "8",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/6_The Twilight.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/8_The Twilight.png"
 			}
 		},
 		{
@@ -65,9 +65,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Legendary Land — Planet",
-			"collector_number": "66",
+			"collector_number": "86",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/66_Alderaan, Peaceful Jewel.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/86_Alderaan, Peaceful Jewel.png"
 			}
 		},
 		{
@@ -75,9 +75,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Legendary Land — Planet",
-			"collector_number": "68",
+			"collector_number": "88",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/68_Coruscant, Galaxy's Heart.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/88_Coruscant, Galaxy's Heart.png"
 			}
 		},
 		{
@@ -85,9 +85,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Legendary Land — Planet",
-			"collector_number": "78",
+			"collector_number": "98",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/78_Mustafar, Volcanic Crucible.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/98_Mustafar, Volcanic Crucible.png"
 			}
 		},
 		{
@@ -95,9 +95,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Legendary Land — Planet",
-			"collector_number": "79",
+			"collector_number": "99",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/79_Naboo, Verdant Paradise.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/99_Naboo, Verdant Paradise.png"
 			}
 		},
 		{
@@ -105,9 +105,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Legendary Land — Planet",
-			"collector_number": "81",
+			"collector_number": "101",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/81_Tatooine, Twin-Sunned.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/101_Tatooine, Twin-Sunned.png"
 			}
 		},
 		{
@@ -125,9 +125,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Legendary Land — Planet",
-			"collector_number": "67",
+			"collector_number": "87",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/67_Bespin, Clouded Domain.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/87_Bespin, Clouded Domain.png"
 			}
 		},
 		{
@@ -135,9 +135,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Legendary Land — Planet",
-			"collector_number": "69",
+			"collector_number": "89",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/69_Dagobah, Fetid Refuge.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/89_Dagobah, Fetid Refuge.png"
 			}
 		},
 		{
@@ -145,9 +145,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Legendary Land — Planet",
-			"collector_number": "73",
+			"collector_number": "93",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/73_Kamino, Drowned Cradle.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/93_Kamino, Drowned Cradle.png"
 			}
 		},
 		{
@@ -155,9 +155,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Legendary Land — Planet",
-			"collector_number": "74",
+			"collector_number": "94",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/74_Kashyyk, Wild Enclave.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/94_Kashyyk, Wild Enclave.png"
 			}
 		},
 		{
@@ -165,9 +165,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Legendary Land — Planet",
-			"collector_number": "70",
+			"collector_number": "90",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/70_Hoth, Frozen Outpost.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/90_Hoth, Frozen Outpost.png"
 			}
 		},
 		{
@@ -175,9 +175,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}{G}",
 			"type": "Legendary Creature — Alien Mercenary",
-			"collector_number": "27",
+			"collector_number": "31",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/27_Greedo, Trigger-Happy.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/31_Greedo, Trigger-Happy.png"
 			}
 		},
 		{
@@ -185,9 +185,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}",
 			"type": "Legendary Artifact Creature — Construct",
-			"collector_number": "62",
+			"collector_number": "82",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/62_R2-D2, Universal Companion.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/82_R2-D2, Universal Companion.png"
 			}
 		},
 		{
@@ -195,16 +195,16 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{W}{B}{R}",
 			"type": "Legendary Creature — Human Jedi",
-			"collector_number": "14",
+			"collector_number": "17",
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://pkthedragon.github.io/sets/SWS-files/img/14_Anakin Skywalker_back.png"
+					"en": "https://pkthedragon.github.io/sets/SWS-files/img/17_Anakin Skywalker_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/14_Anakin Skywalker_front.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/17_Anakin Skywalker_front.png"
 			}
 		},
 		{
@@ -212,9 +212,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{5}{B}{R}{G}",
 			"type": "Legendary Creature — Alien Mercenary",
-			"collector_number": "29",
+			"collector_number": "34",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/29_Jabba the Hutt.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/34_Jabba the Hutt.png"
 			}
 		},
 		{
@@ -222,9 +222,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Legendary Land",
-			"collector_number": "77",
+			"collector_number": "97",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/77_Mos Eisley.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/97_Mos Eisley.png"
 			}
 		},
 		{
@@ -232,9 +232,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}{G}",
 			"type": "Legendary Creature — Human Mercenary",
-			"collector_number": "30",
+			"collector_number": "35",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/30_Jango Fett.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/35_Jango Fett.png"
 			}
 		},
 		{
@@ -242,9 +242,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{5}{B}{B}",
 			"type": "Legendary Artifact Creature — Human Sith",
-			"collector_number": "8",
+			"collector_number": "10",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/8_Supreme Commander Vader.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/10_Supreme Commander Vader.png"
 			}
 		},
 		{
@@ -252,19 +252,19 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{R}{G}",
 			"type": "Legendary Creature — Beast Rogue Pilot",
-			"collector_number": "20",
+			"collector_number": "25",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/20_Chewbacca, Wookie Cohort.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/25_Chewbacca, Wookie Cohort.png"
 			}
 		},
 		{
 			"name": "Master Mace Windu",
 			"rarity": "mythic",
 			"mana_cost": "{1}{W}{U}{B}",
-			"type": "Legendary Creature — Human Jedi",
-			"collector_number": "36",
+			"type": "Legendary Creature — Human Jedi Elder",
+			"collector_number": "42",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/36_Master Mace Windu.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/42_Master Mace Windu.png"
 			}
 		},
 		{
@@ -272,9 +272,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}{R}",
 			"type": "Legendary Artifact Creature — Construct",
-			"collector_number": "25",
+			"collector_number": "29",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/25_General Grievous.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/29_General Grievous.png"
 			}
 		},
 		{
@@ -282,9 +282,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{R}",
 			"type": "Legendary Creature — Human Rogue Pilot",
-			"collector_number": "10",
+			"collector_number": "12",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/10_Han Solo, Roguish Captain.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/12_Han Solo, Roguish Captain.png"
 			}
 		},
 		{
@@ -292,29 +292,29 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}{R}{G}",
 			"type": "Legendary Artifact — Spacecraft",
-			"collector_number": "37",
+			"collector_number": "44",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/37_The Millenium Falcon.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/44_The Millenium Falcon.png"
 			}
 		},
 		{
 			"name": "Grand Master Yoda",
 			"rarity": "mythic",
 			"mana_cost": "{G}{U}",
-			"type": "Legendary Creature — Elder Alien Jedi",
-			"collector_number": "26",
+			"type": "Legendary Creature — Alien Jedi Elder",
+			"collector_number": "30",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/26_Grand Master Yoda.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/30_Grand Master Yoda.png"
 			}
 		},
 		{
 			"name": "Obi-Wan Kenobi",
 			"rarity": "mythic",
 			"mana_cost": "{2}{W}{U}",
-			"type": "Legendary Creature — Human Jedi",
-			"collector_number": "40",
+			"type": "Legendary Creature — Human Jedi Knight",
+			"collector_number": "47",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/40_Obi-Wan Kenobi.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/47_Obi-Wan Kenobi.png"
 			}
 		},
 		{
@@ -322,9 +322,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{G}{W}{U}",
 			"type": "Legendary Creature — Human Rebel Jedi",
-			"collector_number": "34",
+			"collector_number": "38",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/34_Luke Skywalker.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/38_Luke Skywalker.png"
 			}
 		},
 		{
@@ -332,9 +332,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{R}{W}{U}",
 			"type": "Legendary Creature — Human Rebel Noble",
-			"collector_number": "44",
+			"collector_number": "51",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/44_Princess Leia Organa.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/51_Princess Leia Organa.png"
 			}
 		},
 		{
@@ -342,16 +342,16 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{W}{U}",
 			"type": "Legendary Creature — Human Advisor",
-			"collector_number": "47",
+			"collector_number": "55",
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://pkthedragon.github.io/sets/SWS-files/img/47_Senator Mon Mothma_back.png"
+					"en": "https://pkthedragon.github.io/sets/SWS-files/img/55_Senator Mon Mothma_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/47_Senator Mon Mothma_front.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/55_Senator Mon Mothma_front.png"
 			}
 		},
 		{
@@ -359,9 +359,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{G}{W}",
 			"type": "Legendary Creature — Human Rebel Jedi",
-			"collector_number": "45",
+			"collector_number": "53",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/45_Rey, the Last Skywalker.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/53_Rey, the Last Skywalker.png"
 			}
 		},
 		{
@@ -369,9 +369,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{B}{R}",
 			"type": "Legendary Creature — Human Sith",
-			"collector_number": "32",
+			"collector_number": "36",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/32_Kylo Ren, Supreme Leader.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/36_Kylo Ren, Supreme Leader.png"
 			}
 		},
 		{
@@ -379,9 +379,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{X}{G}{G}",
 			"type": "Battle — Mission",
-			"collector_number": "12",
+			"collector_number": "14",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/12_Battle of Endor.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/14_Battle of Endor.png"
 			}
 		},
 		{
@@ -389,9 +389,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{U}{U}",
 			"type": "Battle — Mission",
-			"collector_number": "4",
+			"collector_number": "5",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/4_Battle of Geonosis.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/5_Battle of Geonosis.png"
 			}
 		},
 		{
@@ -399,9 +399,9 @@
 			"rarity": "mythic",
 			"mana_cost": "",
 			"type": "Legendary Artifact Land — Planet",
-			"collector_number": "59",
+			"collector_number": "79",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/59_The Death Star II.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/79_The Death Star II.png"
 			}
 		},
 		{
@@ -409,9 +409,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}{U}{B}",
 			"type": "Sorcery",
-			"collector_number": "42",
+			"collector_number": "49",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/42_Order 66.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/49_Order 66.png"
 			}
 		},
 		{
@@ -419,9 +419,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{W}{B}",
 			"type": "Legendary Artifact — Spacecraft",
-			"collector_number": "51",
+			"collector_number": "60",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/51_The Supremacy.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/60_The Supremacy.png"
 			}
 		},
 		{
@@ -429,9 +429,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{U}",
 			"type": "Legendary Artifact — Spacecraft",
-			"collector_number": "5",
+			"collector_number": "7",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/5_Red Five.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/7_Red Five.png"
 			}
 		},
 		{
@@ -449,9 +449,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}{G}{G}",
 			"type": "Enchantment",
-			"collector_number": "13",
+			"collector_number": "15",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/13_One With The Force.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/15_One With The Force.png"
 			}
 		},
 		{
@@ -459,9 +459,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{X}{B}{G}",
 			"type": "Instant",
-			"collector_number": "39",
+			"collector_number": "46",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/39_No Disintegrations.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/46_No Disintegrations.png"
 			}
 		},
 		{
@@ -469,9 +469,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{R}",
 			"type": "Artifact",
-			"collector_number": "11",
+			"collector_number": "13",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/11_Kyber Crystal.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/13_Kyber Crystal.png"
 			}
 		},
 		{
@@ -489,9 +489,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{U}{R}",
 			"type": "Instant",
-			"collector_number": "24",
+			"collector_number": "28",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/24_Fraternal Betrayal.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/28_Fraternal Betrayal.png"
 			}
 		},
 		{
@@ -499,9 +499,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}{W}{B}",
 			"type": "Enchantment — Saga",
-			"collector_number": "48",
+			"collector_number": "56",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/48_The Skywalker Saga.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/56_The Skywalker Saga.png"
 			}
 		},
 		{
@@ -509,9 +509,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{R}{W}",
 			"type": "Instant",
-			"collector_number": "52",
+			"collector_number": "62",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/52_Trench Run.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/62_Trench Run.png"
 			}
 		},
 		{
@@ -519,9 +519,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}",
 			"type": "Artifact — Equipment",
-			"collector_number": "64",
+			"collector_number": "84",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/64_Warding Lightsaber.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/84_Warding Lightsaber.png"
 			}
 		},
 		{
@@ -529,9 +529,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}",
 			"type": "Artifact — Equipment",
-			"collector_number": "56",
+			"collector_number": "76",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/56_Cleansed Lightsaber.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/76_Cleansed Lightsaber.png"
 			}
 		},
 		{
@@ -539,9 +539,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}",
 			"type": "Artifact — Equipment",
-			"collector_number": "60",
+			"collector_number": "80",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/60_Defiant Lightsaber.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/80_Defiant Lightsaber.png"
 			}
 		},
 		{
@@ -549,9 +549,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}",
 			"type": "Artifact — Equipment",
-			"collector_number": "55",
+			"collector_number": "75",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/55_Bleeding Lightsaber.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/75_Bleeding Lightsaber.png"
 			}
 		},
 		{
@@ -559,9 +559,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}",
 			"type": "Artifact — Equipment",
-			"collector_number": "54",
+			"collector_number": "74",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/54_Attuned Lightsaber.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/74_Attuned Lightsaber.png"
 			}
 		},
 		{
@@ -569,9 +569,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}",
 			"type": "Legendary Artifact — Equipment",
-			"collector_number": "57",
+			"collector_number": "77",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/57_The Darksaber.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/77_The Darksaber.png"
 			}
 		},
 		{
@@ -579,9 +579,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Legendary Artifact Land — Planet",
-			"collector_number": "58",
+			"collector_number": "78",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/58_The Death Star.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/78_The Death Star.png"
 			}
 		},
 		{
@@ -589,9 +589,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Legendary Land — Planet",
-			"collector_number": "65",
+			"collector_number": "85",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/65_Ahch-To, Bygone Asylum.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/85_Ahch-To, Bygone Asylum.png"
 			}
 		},
 		{
@@ -599,9 +599,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Legendary Land — Planet",
-			"collector_number": "75",
+			"collector_number": "95",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/75_Mandalore, Armored Ruin.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/95_Mandalore, Armored Ruin.png"
 			}
 		},
 		{
@@ -609,9 +609,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Legendary Land — Planet",
-			"collector_number": "76",
+			"collector_number": "96",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/76_Moraband, Dark Tomb.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/96_Moraband, Dark Tomb.png"
 			}
 		},
 		{
@@ -619,9 +619,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Legendary Land — Planet",
-			"collector_number": "71",
+			"collector_number": "91",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/71_Jakku, Vessel Graveyard.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/91_Jakku, Vessel Graveyard.png"
 			}
 		},
 		{
@@ -629,9 +629,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Legendary Land — Planet",
-			"collector_number": "80",
+			"collector_number": "100",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/80_Nal Hutta, Decadent Mire.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/100_Nal Hutta, Decadent Mire.png"
 			}
 		},
 		{
@@ -639,9 +639,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Legendary Artifact Land — Planet",
-			"collector_number": "63",
+			"collector_number": "83",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/63_Starkiller Base.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/83_Starkiller Base.png"
 			}
 		},
 		{
@@ -649,9 +649,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "72",
+			"collector_number": "92",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/72_Jedi Temple.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/92_Jedi Temple.png"
 			}
 		},
 		{
@@ -659,9 +659,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{U}",
 			"type": "Legendary Creature — Human Jedi",
-			"collector_number": "41",
+			"collector_number": "48",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/41_Obi-Wan, Stern Disciple.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/48_Obi-Wan, Stern Disciple.png"
 			}
 		},
 		{
@@ -669,29 +669,29 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{B}",
 			"type": "Legendary Creature — Alien Advisor",
-			"collector_number": "53",
+			"collector_number": "63",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/53_Viceroy Nute Gunray.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/63_Viceroy Nute Gunray.png"
 			}
 		},
 		{
-			"name": "Count Dooku, Separatist",
+			"name": "Darth Tyranus",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}{R}",
-			"type": "Legendary Creature — Human Noble",
-			"collector_number": "22",
+			"type": "Legendary Creature — Human Sith",
+			"collector_number": "26",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/22_Count Dooku, Separatist.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/26_Darth Tyranus.png"
 			}
 		},
 		{
-			"name": "Plo Koon",
+			"name": "Master Plo Koon",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}{U}",
-			"type": "Legendary Creature — Alien Jedi",
+			"type": "Legendary Creature — Alien Jedi Elder",
 			"collector_number": "43",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/43_Plo Koon.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/43_Master Plo Koon.png"
 			}
 		},
 		{
@@ -699,9 +699,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U}{B}",
 			"type": "Legendary Creature — Alien Advisor",
-			"collector_number": "49",
+			"collector_number": "57",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/49_Sly Moore, the Umbaran.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/57_Sly Moore, the Umbaran.png"
 			}
 		},
 		{
@@ -709,9 +709,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}{R}",
 			"type": "Legendary Creature — Alien Mercenary",
-			"collector_number": "50",
+			"collector_number": "59",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/50_The Stranger, Cad Bane.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/59_The Stranger, Cad Bane.png"
 			}
 		},
 		{
@@ -719,29 +719,29 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}{W}",
 			"type": "Legendary Creature — Alien Noble",
-			"collector_number": "17",
+			"collector_number": "21",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/17_Boss Nass, Gungan Leader.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/21_Boss Nass, Gungan Leader.png"
 			}
 		},
 		{
-			"name": "Depa Billibaba",
+			"name": "Master Depa Billibaba",
 			"rarity": "uncommon",
 			"mana_cost": "{G}{W}",
-			"type": "Legendary Creature — Human Jedi",
-			"collector_number": "23",
+			"type": "Legendary Creature — Human Jedi Elder",
+			"collector_number": "40",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/23_Depa Billibaba.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/40_Master Depa Billibaba.png"
 			}
 		},
 		{
 			"name": "Captain Cassian Andor",
 			"rarity": "uncommon",
 			"mana_cost": "{R}{G}",
-			"type": "Legendary Creature — Human",
-			"collector_number": "18",
+			"type": "Legendary Creature — Human Rebel",
+			"collector_number": "22",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/18_Captain Cassian Andor.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/22_Captain Cassian Andor.png"
 			}
 		},
 		{
@@ -749,19 +749,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{R}{G}",
 			"type": "Legendary Creature — Human Rebel Rogue",
-			"collector_number": "46",
+			"collector_number": "54",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/46_Saw Gerrera, the Insurgent.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/54_Saw Gerrera, the Insurgent.png"
 			}
 		},
 		{
-			"name": "Mas Amedda, Grand Vizier",
+			"name": "Speaker Mas Amedda",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{B}",
 			"type": "Legendary Creature — Alien Advisor",
-			"collector_number": "35",
+			"collector_number": "58",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/35_Mas Amedda, Grand Vizier.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/58_Speaker Mas Amedda.png"
 			}
 		},
 		{
@@ -769,29 +769,29 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}{B}",
 			"type": "Legendary Creature — Alien Jedi Sith",
-			"collector_number": "15",
+			"collector_number": "18",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/15_Barriss Offee, the Healer.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/18_Barriss Offee, the Healer.png"
 			}
 		},
 		{
-			"name": "The Child, Din Grogu",
+			"name": "Grogu, The Child",
 			"rarity": "uncommon",
 			"mana_cost": "{G}{U}",
 			"type": "Legendary Creature — Alien",
-			"collector_number": "21",
+			"collector_number": "32",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/21_The Child, Din Grogu.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/32_Grogu, The Child.png"
 			}
 		},
 		{
-			"name": "Kit Fisto",
+			"name": "Master Kit Fisto",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}{U}",
-			"type": "Legendary Creature — Alien Jedi",
-			"collector_number": "31",
+			"type": "Legendary Creature — Alien Jedi Elder",
+			"collector_number": "41",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/31_Kit Fisto.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/41_Master Kit Fisto.png"
 			}
 		},
 		{
@@ -799,9 +799,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}{W}",
 			"type": "Legendary Creature — Human Warrior",
-			"collector_number": "16",
+			"collector_number": "20",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/16_Bo-Katan Kryze.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/20_Bo-Katan Kryze.png"
 			}
 		},
 		{
@@ -809,9 +809,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}{W}",
 			"type": "Legendary Creature — Alien Rebel Pilot",
-			"collector_number": "19",
+			"collector_number": "23",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/19_Captain Hera Syndulla.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/23_Captain Hera Syndulla.png"
 			}
 		},
 		{
@@ -819,9 +819,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}{R}",
 			"type": "Legendary Creature — Alien Pirate",
-			"collector_number": "28",
+			"collector_number": "33",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/28_Hondo Ohnaka, Pirate King.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/33_Hondo Ohnaka, Pirate King.png"
 			}
 		},
 		{
@@ -829,9 +829,289 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{R}",
 			"type": "Legendary Creature — Human Soldier",
-			"collector_number": "38",
+			"collector_number": "45",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/38_Moff Gideon.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/45_Moff Gideon.png"
+			}
+		},
+		{
+			"name": "The Mandalorian",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{G}{W}",
+			"type": "Legendary Creature — Human Mercenary",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/39_The Mandalorian.png"
+			}
+		},
+		{
+			"name": "Chancellor Palpatine",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{B}{R}",
+			"type": "Legendary Creature — Human Advisor",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/24_Chancellor Palpatine.png"
+			}
+		},
+		{
+			"name": "Lama Su, the Overseer",
+			"rarity": "special",
+			"mana_cost": "{2}{G}{U}{B}",
+			"type": "Legendary Creature — Alien Advisor",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/104_Lama Su, the Overseer.png"
+			}
+		},
+		{
+			"name": "General Leia Organa",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Legendary Creature — Human Rebel",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/4_General Leia Organa.png"
+			}
+		},
+		{
+			"name": "Yoda, Reclusive Mentor",
+			"rarity": "rare",
+			"mana_cost": "{G/U}",
+			"type": "Legendary Creature — Alien Jedi Elder",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/73_Yoda, Reclusive Mentor.png"
+			}
+		},
+		{
+			"name": "Max Rebo, the Virtuoso",
+			"rarity": "special",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Legendary Creature — Alien Bard Rogue",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/107_Max Rebo, the Virtuoso.png"
+			}
+		},
+		{
+			"name": "Blockade",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Battle",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/6_Blockade.png"
+			}
+		},
+		{
+			"name": "Jabba, the Bloated One",
+			"rarity": "special",
+			"mana_cost": "{4}{B}{R}{G}",
+			"type": "Legendary Creature — Alien Mercenary",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/103_Jabba, the Bloated One.png"
+			}
+		},
+		{
+			"name": "Anakin, Jedi Knight",
+			"rarity": "special",
+			"mana_cost": "{1}{W}{B}{R}",
+			"type": "Legendary Creature — Human Jedi Knight",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/102_Anakin, Jedi Knight.png"
+			}
+		},
+		{
+			"name": "Leia, Rebel Leader",
+			"rarity": "special",
+			"mana_cost": "{2}{R}{W}{U}",
+			"type": "Legendary Creature — Human Rebel Advisor",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/105_Leia, Rebel Leader.png"
+			}
+		},
+		{
+			"name": "Luke, Determined Adept",
+			"rarity": "special",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Legendary Creature — Human Jedi",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/106_Luke, Determined Adept.png"
+			}
+		},
+		{
+			"name": "Resolute, Anakin's Flagship",
+			"rarity": "special",
+			"mana_cost": "{W}{B}{R}",
+			"type": "Legendary Artifact — Spacecraft",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/109_Resolute, Anakin's Flagship.png"
+			}
+		},
+		{
+			"name": "Red Five, Reclaimed",
+			"rarity": "special",
+			"mana_cost": "{2}{G}{W}{U}",
+			"type": "Legendary Artifact — Spacecraft",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/108_Red Five, Reclaimed.png"
+			}
+		},
+		{
+			"name": "Ben, Exiled Warden",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Legendary Creature — Human Jedi Elder",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/19_Ben, Exiled Warden.png"
+			}
+		},
+		{
+			"name": "Finn, Rogue Trooper",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Legendary Creature — Human Rebel",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/27_Finn, Rogue Trooper.png"
+			}
+		},
+		{
+			"name": "Queen Padme Amidala",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Legendary Creature — Human Noble",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/52_Queen Padme Amidala.png"
+			}
+		},
+		{
+			"name": "Supreme Leader Snoke",
+			"rarity": "rare",
+			"mana_cost": "{5}{W}{B}",
+			"type": "Legendary Creature — Sith Construct",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/61_Supreme Leader Snoke.png"
+			}
+		},
+		{
+			"name": "Poe Dameron",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{R}",
+			"type": "Legendary Creature — Human Rebel Pilot",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/50_Poe Dameron.png"
+			}
+		},
+		{
+			"name": "Anakin, Cocky Protege",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Legendary Creature — Human Jedi",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/16_Anakin, Cocky Protege.png"
+			}
+		},
+		{
+			"name": "Darth Maul",
+			"rarity": "rare",
+			"mana_cost": "{3}{B/R}{B/R}",
+			"type": "Legendary Creature — Alien Sith",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/68_Darth Maul.png"
+			}
+		},
+		{
+			"name": "Master Qui-Gon Jinn",
+			"rarity": "rare",
+			"mana_cost": "{2}{W/U}{W/U}",
+			"type": "Legendary Creature — Human Jedi Elder",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/71_Master Qui-Gon Jinn.png"
+			}
+		},
+		{
+			"name": "Boba Fett",
+			"rarity": "rare",
+			"mana_cost": "{4}{B/G}{B/G}",
+			"type": "Legendary Creature — Human Mercenary",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/65_Boba Fett.png"
+			}
+		},
+		{
+			"name": "Jar-Jar Binks",
+			"rarity": "rare",
+			"mana_cost": "{X}{W/B}{W/B}",
+			"type": "Legendary Creature — Alien Advisor",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/70_Jar-Jar Binks.png"
+			}
+		},
+		{
+			"name": "Wedge Antilles",
+			"rarity": "rare",
+			"mana_cost": "{1}{U/R}{U/R}",
+			"type": "Legendary Creature — Human Rebel Pilot",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/72_Wedge Antilles.png"
+			}
+		},
+		{
+			"name": "Han Solo, Veteran Smuggler",
+			"rarity": "rare",
+			"mana_cost": "{R/W}{R/W}",
+			"type": "Legendary Creature — Human Rogue Pilot",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/69_Han Solo, Veteran Smuggler.png"
+			}
+		},
+		{
+			"name": "Count Dooku",
+			"rarity": "rare",
+			"mana_cost": "{2}{U/B}{U/B}",
+			"type": "Legendary Creature — Human Noble",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/67_Count Dooku.png"
+			}
+		},
+		{
+			"name": "Captain Rex",
+			"rarity": "rare",
+			"mana_cost": "{1}{R/G}{R/G}",
+			"type": "Legendary Creature — Human Soldier",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/66_Captain Rex.png"
+			}
+		},
+		{
+			"name": "Bail Organa",
+			"rarity": "rare",
+			"mana_cost": "{3}{G/W}{G/W}",
+			"type": "Legendary Creature — Human Advisor",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/64_Bail Organa.png"
 			}
 		}
 	]
@@ -883,6 +1163,25 @@
 	1 Trench Run
 	2 The Darksaber
 	2 The Death Star
+	2 The Mandalorian
+	2 Chancellor Palpatine
+	2 General Leia Organa
+	2 Yoda, Reclusive Mentor
+	2 Ben, Exiled Warden
+	2 Finn, Rogue Trooper
+	2 Queen Padme Amidala
+	2 Supreme Leader Snoke
+	2 Poe Dameron
+	2 Anakin, Cocky Protege
+	2 Darth Maul
+	2 Master Qui-Gon Jinn
+	2 Boba Fett
+	2 Jar-Jar Binks
+	2 Wedge Antilles
+	2 Han Solo, Veteran Smuggler
+	2 Count Dooku
+	2 Captain Rex
+	2 Bail Organa
 [uncommon(3)]
 	4 Anakin, Fledgeling Pilot
 	4 The Twilight
@@ -902,24 +1201,25 @@
 	4 Jedi Temple
 	4 Obi-Wan, Stern Disciple
 	4 Viceroy Nute Gunray
-	4 Count Dooku, Separatist
-	4 Plo Koon
+	4 Darth Tyranus
+	4 Master Plo Koon
 	4 Sly Moore, the Umbaran
 	4 The Stranger, Cad Bane
 	4 Boss Nass, Gungan Leader
-	4 Depa Billibaba
+	4 Master Depa Billibaba
 	4 Captain Cassian Andor
 	4 Saw Gerrera, the Insurgent
-	4 Mas Amedda, Grand Vizier
+	4 Speaker Mas Amedda
 	4 Barriss Offee, the Healer
-	4 The Child, Din Grogu
-	4 Kit Fisto
+	4 Grogu, The Child
+	4 Master Kit Fisto
 	4 Bo-Katan Kryze
 	4 Captain Hera Syndulla
 	4 Hondo Ohnaka, Pirate King
 	4 Moff Gideon
 [common(7)]
 	8 Anakin, Faded Vestige
+	8 Blockade
 [foil(1)]
 	1 Darth Sidious
 	2 Droideka
@@ -986,22 +1286,42 @@
 	6 Jedi Temple
 	6 Obi-Wan, Stern Disciple
 	6 Viceroy Nute Gunray
-	6 Count Dooku, Separatist
-	6 Plo Koon
+	6 Darth Tyranus
+	6 Master Plo Koon
 	6 Sly Moore, the Umbaran
 	6 The Stranger, Cad Bane
 	6 Boss Nass, Gungan Leader
-	6 Depa Billibaba
+	6 Master Depa Billibaba
 	6 Captain Cassian Andor
 	6 Saw Gerrera, the Insurgent
-	6 Mas Amedda, Grand Vizier
+	6 Speaker Mas Amedda
 	6 Barriss Offee, the Healer
-	6 The Child, Din Grogu
-	6 Kit Fisto
+	6 Grogu, The Child
+	6 Master Kit Fisto
 	6 Bo-Katan Kryze
 	6 Captain Hera Syndulla
 	6 Hondo Ohnaka, Pirate King
 	6 Moff Gideon
+	2 The Mandalorian
+	2 Chancellor Palpatine
+	2 General Leia Organa
+	2 Yoda, Reclusive Mentor
+	12 Blockade
+	2 Ben, Exiled Warden
+	2 Finn, Rogue Trooper
+	2 Queen Padme Amidala
+	2 Supreme Leader Snoke
+	2 Poe Dameron
+	2 Anakin, Cocky Protege
+	2 Darth Maul
+	2 Master Qui-Gon Jinn
+	2 Boba Fett
+	2 Jar-Jar Binks
+	2 Wedge Antilles
+	2 Han Solo, Veteran Smuggler
+	2 Count Dooku
+	2 Captain Rex
+	2 Bail Organa
 [wildcard(1)]
 	4 Darth Sidious
 	7 Droideka
@@ -1068,19 +1388,39 @@
 	15 Jedi Temple
 	15 Obi-Wan, Stern Disciple
 	15 Viceroy Nute Gunray
-	15 Count Dooku, Separatist
-	15 Plo Koon
+	15 Darth Tyranus
+	15 Master Plo Koon
 	15 Sly Moore, the Umbaran
 	15 The Stranger, Cad Bane
 	15 Boss Nass, Gungan Leader
-	15 Depa Billibaba
+	15 Master Depa Billibaba
 	15 Captain Cassian Andor
 	15 Saw Gerrera, the Insurgent
-	15 Mas Amedda, Grand Vizier
+	15 Speaker Mas Amedda
 	15 Barriss Offee, the Healer
-	15 The Child, Din Grogu
-	15 Kit Fisto
+	15 Grogu, The Child
+	15 Master Kit Fisto
 	15 Bo-Katan Kryze
 	15 Captain Hera Syndulla
 	15 Hondo Ohnaka, Pirate King
 	15 Moff Gideon
+	7 The Mandalorian
+	7 Chancellor Palpatine
+	7 General Leia Organa
+	7 Yoda, Reclusive Mentor
+	6 Blockade
+	7 Ben, Exiled Warden
+	7 Finn, Rogue Trooper
+	7 Queen Padme Amidala
+	7 Supreme Leader Snoke
+	7 Poe Dameron
+	7 Anakin, Cocky Protege
+	7 Darth Maul
+	7 Master Qui-Gon Jinn
+	7 Boba Fett
+	7 Jar-Jar Binks
+	7 Wedge Antilles
+	7 Han Solo, Veteran Smuggler
+	7 Count Dooku
+	7 Captain Rex
+	7 Bail Organa

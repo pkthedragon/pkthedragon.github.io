@@ -1,4 +1,346 @@
-﻿VERSION 6 CHANGELOG
+﻿VERSION 7 CHANGELOG
+====================
+
+Darth Tyranus added.
+Master Plo Koon added.
+Master Depa Billibaba added.
+Speaker Mas Amedda added.
+Grogu, The Child added.
+Master Kit Fisto added.
+The Mandalorian added.
+Chancellor Palpatine added.
+Lama Su, the Overseer added.
+General Leia Organa added.
+Yoda, Reclusive Mentor added.
+Max Rebo, the Virtuoso added.
+Blockade added.
+Jabba, the Bloated One added.
+Anakin, Jedi Knight added.
+Leia, Rebel Leader added.
+Luke, Determined Adept added.
+Resolute, Anakin's Flagship added.
+Red Five, Reclaimed added.
+Ben, Exiled Warden added.
+Finn, Rogue Trooper added.
+Queen Padme Amidala added.
+Supreme Leader Snoke added.
+Poe Dameron added.
+Anakin, Cocky Protege added.
+Darth Maul added.
+Master Qui-Gon Jinn added.
+Boba Fett added.
+Jar-Jar Binks added.
+Wedge Antilles added.
+Han Solo, Veteran Smuggler added.
+Count Dooku added.
+Captain Rex added.
+Bail Organa added.
+
+Count Dooku, Separatist removed.
+Plo Koon removed.
+Depa Billibaba removed.
+Mas Amedda, Grand Vizier removed.
+The Child, Din Grogu removed.
+Kit Fisto removed.
+
+Darth Sidious
+
+Droideka
+
+Destruction of Alderaan
+rules_text: Energize [i](As you cast this spell, energize it by removing three counters from among permanents you control. If you do, it can't be countered.)[/i]
+Destruction of Alderaan costs {5} less to cast if it's energized.
+Exile target land. Destruction of Alderaan deals 20 damage to each nonartifact creature. => Energize [i](Energize this spell by removing three counters from among permanents you control. If you do, it can't be countered.)[/i]
+Destruction of Alderaan costs {5} less to cast if it's energized.
+Exile target land. Destruction of Alderaan deals 20 damage to each nonartifact creature.
+
+Luke, Ahch-To Exile
+type: Legendary Creature — Human Jedi => Legendary Creature — Human Jedi Elder
+
+The Twilight
+rules_text: Ward {2}
+Whenever a creature you control stations The Twilight, you may return it to its owner's hand.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 6+.)[/i]
+[level 6+] Flying
+You may activate The Twilight's station ability any time you could cast an instant. [4/2]
+ => Ward {2}
+Whenever a creature you control stations The Twilight, you may return it to its owner's hand.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 6+] Flying
+You may activate The Twilight's station ability any time you could cast an instant. [4/2]
+
+special_text: Ward {2}
+Whenever a creature you control stations The Twilight, you may return it to its owner's hand.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 6+.)[/i]
+[level 6+] Flying
+You may activate The Twilight's station ability any time you could cast an instant. [4/2]
+ => Ward {2}
+Whenever a creature you control stations The Twilight, you may return it to its owner's hand.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 6+] Flying
+You may activate The Twilight's station ability any time you could cast an instant. [4/2]
+
+
+Alderaan, Peaceful Jewel
+
+Coruscant, Galaxy's Heart
+
+Mustafar, Volcanic Crucible
+
+Naboo, Verdant Paradise
+
+Tatooine, Twin-Sunned
+
+Bespin, Clouded Domain
+
+Dagobah, Fetid Refuge
+
+Kamino, Drowned Cradle
+
+Kashyyk, Wild Enclave
+
+Hoth, Frozen Outpost
+
+Greedo, Trigger-Happy
+
+R2-D2, Universal Companion
+
+Anakin Skywalker
+
+Jabba the Hutt
+rules_text: Affinity for outlaws [i](This spell costs {1} less to cast for each Assassin, Mercenary, Pirate, Rogue, and/or Warlock you control.)[/i]
+At the beginning of each upkeep, hunt another target permanent until end of turn. [i](Whenever a permanent you're hunting dies, create a Treasure token or trigger a bounty ability of a permanent you control.)[/i]
+Bounty — Put a +1/+1 counter on each outlaw you control. => Affinity for outlaws [i](This spell costs {1} less to cast for each Assassin, Mercenary, Pirate, Rogue, and/or Warlock you control.)[/i]
+At the beginning of each upkeep, hunt another target permanent until end of turn.
+Bounty — Put a +1/+1 counter on each outlaw you control.
+
+Mos Eisley
+
+Jango Fett
+rules_text: Flying
+At the beginning of combat, hunt another target creature until end of turn. [i](Whenever a permanent you're hunting dies, create a Treasure token or trigger a bounty ability of a permanent you control.)[/i]
+Bounty — Create Boba Fett, a legendary 1/1 black and green Human creature token with protection from hunted creatures. => Flying
+At the beginning of combat, hunt another target creature until end of turn. [i](Whenever a permanent you're hunting dies, create a Treasure token or trigger a bounty ability of a permanent you control.)[/i]
+Bounty — Create a 1/1 green Human creature token with deathtouch.
+
+Supreme Commander Vader
+
+Chewbacca, Wookie Cohort
+
+Master Mace Windu
+type: Legendary Creature — Human Jedi => Legendary Creature — Human Jedi Elder
+
+General Grievous
+
+Han Solo, Roguish Captain
+
+The Millenium Falcon
+rules_text: Tapped nonattacking creatures you control have hexproof.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 12+.)[/i]
+[level 12+] Flying, first strike
+{R}, Remove X counters from a tapped permanent you control: The Millenium Falcon deals X damage to target creature. [8/4]
+ => Tapped nonattacking creatures you control have hexproof.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 12+] Flying, first strike
+{R}, Remove X counters from a tapped permanent you control: The Millenium Falcon deals X damage to target creature. [8/4]
+
+special_text: Tapped nonattacking creatures you control have hexproof.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 12+.)[/i]
+[level 12+] Flying, first strike
+{R}, Remove X counters from a tapped permanent you control: The Millenium Falcon deals X damage to target creature. [8/4]
+ => Tapped nonattacking creatures you control have hexproof.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 12+] Flying, first strike
+{R}, Remove X counters from a tapped permanent you control: The Millenium Falcon deals X damage to target creature. [8/4]
+
+
+Grand Master Yoda
+type: Legendary Creature — Elder Alien Jedi => Legendary Creature — Alien Jedi Elder
+
+Obi-Wan Kenobi
+type: Legendary Creature — Human Jedi => Legendary Creature — Human Jedi Knight
+
+Luke Skywalker
+rules_text: Whenever Luke Skywalker and at least one other creature become tapped, put a +1/+1 counter on Luke Skywalker.
+Force — {G}, {Q}: Destroy target artifact or enchantment with mana value less than or equal to the number of counters on Luke Skywalker. If at least one permanent was destroyed this way, Luke Skywalker gains hexproof until end of turn. [i](Activate only once each turn.)[/i] => Whenever Luke Skywalker becomes tapped for the first time each turn, put a +1/+1 counter on him.
+Force — {G}, {Q}: Destroy target artifact or enchantment with mana value less than or equal to the number of counters on Luke Skywalker. If at least one permanent was destroyed this way, Luke Skywalker gains hexproof until end of turn. [i](Activate only once each turn.)[/i]
+
+Princess Leia Organa
+
+Senator Mon Mothma
+rules_text: When Senator Mon Mothma enters, return another target creature to its owner's hand.
+At the beginning of combat, if an opponent controls more creatures than you, you may pay {R}. If you do, exile Senator Mon Mothma and return her to the battlefield transformed under her owner's control. => When Senator Mon Mothma enters, return another target creature to its owner's hand.
+At the beginning of combat, if an opponent controls more creatures than you, you may pay {R}. When you do, exile Senator Mon Mothma and return her to the battlefield transformed under her owner's control.
+
+Rey, the Last Skywalker
+
+Kylo Ren, Supreme Leader
+
+Battle of Endor
+rules_text: [i](As a Mission enters, choose an opponent to protect it.)[/i]
+When Battle of Endor enters, create X 1/1 red Rebel creature tokens. If X is 5 or more, put a +1/+1 counter on each creature you control.
+When Battle of Endor is defeated, remove all counters from target noncreature permanent, then destroy it. => [i](As a Mission enters, choose an opponent to protect it.)[/i]
+When Battle of Endor enters, create X 1/1 green Rebel creature tokens. If X is 5 or more, put a +1/+1 counter on each creature you control.
+When Battle of Endor is defeated, remove all counters from target noncreature permanent, then destroy it.
+
+Battle of Geonosis
+
+The Death Star II
+
+Order 66
+
+The Supremacy
+rules_text: During your turn, The Supremacy has indestructible.
+Whenever a creature stations The Supremacy, hunt target artifact or creature until end of turn.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 20+.)[/i]
+[level 20+] Bounty — Return any number of target artifact and/or creature cards from your graveyard to your hand. [2/20]
+ => During your turn, The Supremacy has indestructible.
+Whenever a creature stations The Supremacy, hunt another target artifact or creature until end of turn.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 20+] Bounty — Return any number of target artifact and/or creature cards from your graveyard to your hand. [2/20]
+
+special_text: During your turn, The Supremacy has indestructible.
+Whenever a creature stations The Supremacy, hunt target artifact or creature until end of turn.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 20+.)[/i]
+[level 20+] Bounty — Return any number of target artifact and/or creature cards from your graveyard to your hand. [2/20]
+ => During your turn, The Supremacy has indestructible.
+Whenever a creature stations The Supremacy, hunt another target artifact or creature until end of turn.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 20+] Bounty — Return any number of target artifact and/or creature cards from your graveyard to your hand. [2/20]
+
+
+Red Five
+rules_text: Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 4+.)[/i]
+[level 2+] Whenever you untap an artifact or a creature during a main phase, draw a card and put a charge counter on Red Five.
+[level 4+] Flying, vigilance
+Remove X charge counters from Red Five: Red Five gets +X/+0 until end of turn. [0/4] => Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 2+] Whenever you untap an artifact or a creature during a main phase, draw a card and put a charge counter on Red Five.
+[level 4+] Flying, vigilance
+Remove X charge counters from Red Five: Red Five gets +X/+0 until end of turn. [0/4]
+special_text: Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 4+.)[/i]
+[level 2+] Whenever you untap an artifact or a creature during a main phase, draw a card and put a charge counter on Red Five.
+[level 4+] Flying, vigilance
+Remove X charge counters from Red Five: Red Five gets +X/+0 until end of turn. [0/4] => Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 2+] Whenever you untap an artifact or a creature during a main phase, draw a card and put a charge counter on Red Five.
+[level 4+] Flying, vigilance
+Remove X charge counters from Red Five: Red Five gets +X/+0 until end of turn. [0/4]
+
+One With The Force
+
+No Disintegrations
+rules_text: Trigger a bounty ability of target permanent you control. When you do, put X plus one shield counters on target creature. For as long as it has a shield counter on it, it loses all abilities and is an artifact. [i](It's not a creature.)[/i] => Put X plus one shield counters on target creature, then you may trigger a bounty ability target permanent you control. For as long as that creature has a shield counter on it, it loses all abilities and is an artifact. [i](It's not a creature.)[/i]
+
+Kyber Crystal
+
+Fall of the New Republic
+rules_text: Put a Spacecraft from your hand onto the battlefield, then destroy all artifacts you don't control and all enchantments you don't control. Put a charge counter on that Spacecraft for each permanent destroyed this way. => Put a Spacecraft or Planet card from your hand onto the battlefield, then destroy all artifacts and enchantments you don't control. Put a charge counter on that Spacecraft or Planet for each permanent destroyed this way.
+
+Fraternal Betrayal
+
+The Skywalker Saga
+
+Trench Run
+rules_text: Energize [i](As you cast this spell, energize it by removing three counters from among permanents you control. If you do, it can't be countered.)[/i]
+Take an extra turn after this one. At the beginning of that turn's end step, you lose the game. If Trench Run is energized, up to one target creature or Spacecraft you control gains double strike, trample, hexproof, and indestructible. => Energize [i](Energize this spell by removing three counters from among permanents you control. If you do, it can't be countered.)[/i]
+Take an extra turn after this one. At the beginning of that turn's end step, you lose the game. If Trench Run is energized, up to one target creature or Spacecraft you control gains double strike, trample, hexproof, and indestructible.
+
+Warding Lightsaber
+rules_text: Flash
+When Warding Lightsaber enters, you may attach it to target untapped attacking creature you control.
+Equipped creature gets +1/+1 and has first strike and hexproof from red and green.
+Equip {2U}{2U} => Flash
+When Warding Lightsaber enters, you may attach it to target untapped attacking creature you control.
+Equipped creature gets +1/+1 and has first strike and hexproof from red and green.
+Equip {U}{U}
+
+Cleansed Lightsaber
+rules_text: Flash
+When Cleansed Lightsaber enters, you may attach it to target untapped attacking creature you control.
+Equipped creature gets +1/+1 and has first strike and hexproof from black and red.
+Equip {2W}{2W} => Flash
+When Cleansed Lightsaber enters, you may attach it to target untapped attacking creature you control.
+Equipped creature gets +1/+1 and has first strike and hexproof from black and red.
+Equip {W}{W}
+
+Defiant Lightsaber
+rules_text: Flash
+When Defiant Lightsaber enters, you may attach it to target untapped attacking creature you control.
+Equipped creature gets +1/+1 and has first strike and hexproof from green and white.
+Equip {2B}{2B} => Flash
+When Defiant Lightsaber enters, you may attach it to target untapped attacking creature you control.
+Equipped creature gets +1/+1 and has first strike and hexproof from green and white.
+Equip {B}{B}
+
+Bleeding Lightsaber
+rules_text: Flash
+When Bleeding Lightsaber enters, you may attach it to target untapped attacking creature you control.
+Equipped creature gets +1/+1 and has first strike and hexproof from white and blue.
+Equip {2R}{2R} => Flash
+When Bleeding Lightsaber enters, you may attach it to target untapped attacking creature you control.
+Equipped creature gets +1/+1 and has first strike and hexproof from white and blue.
+Equip {R}{R}
+
+Attuned Lightsaber
+rules_text: Flash
+When Attuned Lightsaber enters, you may attach it to target untapped attacking creature you control.
+Equipped creature gets +1/+1 and has first strike and hexproof from blue and black.
+Equip {2G}{2G} => Flash
+When Attuned Lightsaber enters, you may attach it to target untapped attacking creature you control.
+Equipped creature gets +1/+1 and has first strike and hexproof from blue and black.
+Equip {G}{G}
+
+The Darksaber
+
+The Death Star
+
+Ahch-To, Bygone Asylum
+
+Mandalore, Armored Ruin
+
+Moraband, Dark Tomb
+
+Jakku, Vessel Graveyard
+
+Nal Hutta, Decadent Mire
+
+Starkiller Base
+
+Jedi Temple
+
+Obi-Wan, Stern Disciple
+
+Viceroy Nute Gunray
+
+Sly Moore, the Umbaran
+
+The Stranger, Cad Bane
+
+Boss Nass, Gungan Leader
+
+Captain Cassian Andor
+type: Legendary Creature — Human => Legendary Creature — Human Rebel
+
+Saw Gerrera, the Insurgent
+rules_text: Vigilance, trample
+Whenever a creature an opponent controls dies, if it was dealt damage this turn by a creature you control, put a +1/+1 counter or a charge counter on target artifact or creature. => Vigilance, trample
+Whenever a creature you control deals combat damage to a player, put a +1/+1 counter on it.
+Permanents you control with counters on them have hexproof as long as it's your turn.
+
+Barriss Offee, the Healer
+rules_text: {B}, Sacrifice another creature or artifact: Barriss Offee gets +2/-2 and gains menace until end of turn.
+Force — {W}, {Q}: You gain 1 life for each artifact and creature that died this turn. [i](Activate only once each turn.)[/i] => {B}, Sacrifice a token: Barriss Offee gets +2/-2 and gains menace until end of turn.
+Force — {W}, {Q}: You gain 1 life for each token you control that died this turn. [i](Activate only once each turn.)[/i]
+
+Bo-Katan Kryze
+
+Captain Hera Syndulla
+
+Hondo Ohnaka, Pirate King
+
+Moff Gideon
+
+
+VERSION 6 CHANGELOG
 ====================
 
 Mas Amedda, Grand Vizier added.
