@@ -978,7 +978,7 @@
 			"name": "Boba Fett",
 			"rarity": "rare",
 			"mana_cost": "{4}{B/G}{B/G}",
-			"type": "Legendary Creature — Human Mercenary",
+			"type": "Legendary Creature — Clone Mercenary",
 			"collector_number": "65",
 			"image_uris": {
 				"en": "https://pkthedragon.github.io/sets/SWS-files/img/65_Boba Fett.png"
@@ -1028,7 +1028,7 @@
 			"name": "Captain Rex",
 			"rarity": "rare",
 			"mana_cost": "{1}{R/G}{R/G}",
-			"type": "Legendary Creature — Human Soldier",
+			"type": "Legendary Creature — Clone Soldier",
 			"collector_number": "66",
 			"image_uris": {
 				"en": "https://pkthedragon.github.io/sets/SWS-files/img/66_Captain Rex.png"

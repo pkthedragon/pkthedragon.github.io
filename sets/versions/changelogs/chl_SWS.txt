@@ -1,4 +1,35 @@
-﻿VERSION 8 CHANGELOG
+﻿VERSION 9 CHANGELOG
+====================
+
+
+
+Jango Fett
+rules_text: Flying
+At the beginning of combat, hunt another target creature until end of turn. [i](Whenever a permanent you're hunting dies, create a Treasure token or trigger a bounty ability of a permanent you control.)[/i]
+Bounty — Create a 1/1 green Human creature token with deathtouch. => Flying
+At the beginning of combat, hunt another target creature until end of turn. [i](Whenever a permanent you're hunting dies, create a Treasure token or trigger a bounty ability of a permanent you control.)[/i]
+Bounty — Create a 1/1 green Clone creature token with deathtouch.
+
+Senator Mon Mothma
+
+Battle of Geonosis
+rules_text: [i](As a Mission enters, choose an opponent to protect it.)[/i]
+When Battle of Geonosis enters, gain control of target creature until Battle of Geonosis is defeated.
+When Battle of Geonosis is defeated, create two tokens that are copies of target creature, except they're not legendary. => [i](As a Mission enters, choose an opponent to protect it.)[/i]
+When Battle of Geonosis enters, gain control of target creature until Battle of Geonosis is defeated.
+When Battle of Geonosis is defeated, create two tokens that are copies of target creature, except they're Clone creatures.
+
+Order 66
+rules_text: Create a token that's a copy of target creature you don't control except it's not legendary. Then each player sacrifices each creature they control that's not a copy. => Create a token that's a copy of target creature you don't control except it's a Clone creature. Then each player sacrifices each creature they control that isn't a Clone.
+
+Boba Fett
+type: Legendary Creature — Human Mercenary => Legendary Creature — Clone Mercenary
+
+Captain Rex
+type: Legendary Creature — Human Soldier => Legendary Creature — Clone Soldier
+
+
+VERSION 8 CHANGELOG
 ====================
 
 Han Solo, Smuggler Captain added.
