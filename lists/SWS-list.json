@@ -1,62 +1,212 @@
 ﻿[
     {
         "card_name": "Fall of the New Republic",
-        "number": 3,
+        "number": 5,
         "shape": "normal",
         "set": "SWS"
     },
     {
         "card_name": "Battle of Geonosis",
-        "number": 5,
+        "number": 12,
         "shape": "battle split",
         "set": "SWS"
     },
     {
         "card_name": "Darth Sidious",
-        "number": 9,
+        "number": 22,
         "shape": "normal",
         "set": "SWS"
     },
     {
         "card_name": "Destruction of Alderaan",
-        "number": 11,
+        "number": 31,
         "shape": "normal",
         "set": "SWS"
     },
     {
         "card_name": "Battle of Endor",
-        "number": 14,
+        "number": 39,
         "shape": "battle split",
         "set": "SWS"
     },
     {
-        "card_name": "General Leia Organa",
-        "number": 4,
-        "shape": "normal",
+        "card_name": "Battle of Yavin",
+        "number": 3,
+        "shape": "battle split",
         "set": "SWS"
     },
     {
         "card_name": "Red Five",
-        "number": 7,
+        "number": 18,
         "shape": "leveler",
         "set": "SWS"
     },
     {
         "card_name": "Supreme Commander Vader",
-        "number": 10,
+        "number": 26,
         "shape": "normal",
         "set": "SWS"
     },
     {
         "card_name": "Han Solo, Smuggler Captain",
-        "number": 12,
+        "number": 33,
         "shape": "normal",
         "set": "SWS"
     },
     {
         "card_name": "One With The Force",
+        "number": 41,
+        "shape": "normal",
+        "set": "SWS"
+    },
+    {
+        "card_name": "BB-8",
+        "number": 4,
+        "shape": "normal",
+        "set": "SWS"
+    },
+    {
+        "card_name": "Ackbar's Command",
+        "number": 10,
+        "shape": "normal",
+        "set": "SWS"
+    },
+    {
+        "card_name": "Asajj Ventress",
+        "number": 20,
+        "shape": "normal",
+        "set": "SWS"
+    },
+    {
+        "card_name": "Kyber Crystal",
+        "number": 35,
+        "shape": "normal",
+        "set": "SWS"
+    },
+    {
+        "card_name": "Ahsoka Tano",
+        "number": 37,
+        "shape": "normal",
+        "set": "SWS"
+    },
+    {
+        "card_name": "General Leia Organa",
+        "number": 6,
+        "shape": "normal",
+        "set": "SWS"
+    },
+    {
+        "card_name": "Admiral Ackbar",
+        "number": 11,
+        "shape": "normal",
+        "set": "SWS"
+    },
+    {
+        "card_name": "Battle of Coruscant",
+        "number": 21,
+        "shape": "battle split",
+        "set": "SWS"
+    },
+    {
+        "card_name": "Battle of Exegol",
+        "number": 28,
+        "shape": "battle split",
+        "set": "SWS"
+    },
+    {
+        "card_name": "Ahsoka's Command",
+        "number": 38,
+        "shape": "normal",
+        "set": "SWS"
+    },
+    {
+        "card_name": "Leia's Command",
+        "number": 7,
+        "shape": "normal",
+        "set": "SWS"
+    },
+    {
+        "card_name": "Clone Lieutenant",
+        "number": 14,
+        "shape": "normal",
+        "set": "SWS"
+    },
+    {
+        "card_name": "Executor",
+        "number": 23,
+        "shape": "leveler",
+        "set": "SWS"
+    },
+    {
+        "card_name": "Cody's Command",
+        "number": 29,
+        "shape": "normal",
+        "set": "SWS"
+    },
+    {
+        "card_name": "Master Ki-Adi-Mundi",
+        "number": 40,
+        "shape": "normal",
+        "set": "SWS"
+    },
+    {
+        "card_name": "Purrgil Ultra",
+        "number": 8,
+        "shape": "normal",
+        "set": "SWS"
+    },
+    {
+        "card_name": "Exogorth",
         "number": 15,
         "shape": "normal",
+        "set": "SWS"
+    },
+    {
+        "card_name": "Grand Moff Tarkin",
+        "number": 24,
+        "shape": "normal",
+        "set": "SWS"
+    },
+    {
+        "card_name": "Commander Cody",
+        "number": 30,
+        "shape": "normal",
+        "set": "SWS"
+    },
+    {
+        "card_name": "Rancor",
+        "number": 42,
+        "shape": "normal",
+        "set": "SWS"
+    },
+    {
+        "card_name": "Tantive IV",
+        "number": 9,
+        "shape": "leveler",
+        "set": "SWS"
+    },
+    {
+        "card_name": "Lama Su, Grand Minister",
+        "number": 16,
+        "shape": "normal",
+        "set": "SWS"
+    },
+    {
+        "card_name": "Sarlacc",
+        "number": 25,
+        "shape": "normal",
+        "set": "SWS"
+    },
+    {
+        "card_name": "Greater Krayt Dragon",
+        "number": 32,
+        "shape": "normal",
+        "set": "SWS"
+    },
+    {
+        "card_name": "Slave I",
+        "number": 43,
+        "shape": "leveler",
         "set": "SWS"
     },
     {
@@ -66,26 +216,86 @@
         "set": "SWS"
     },
     {
-        "card_name": "The Twilight",
-        "number": 8,
+        "card_name": "Raddus",
+        "number": 17,
         "shape": "leveler",
         "set": "SWS"
     },
     {
-        "card_name": "Moff Tarkin",
-        "number": 104,
+        "card_name": "Tarkin's Command",
+        "number": 27,
         "shape": "normal",
         "set": "SWS"
     },
     {
-        "card_name": "Kyber Crystal",
-        "number": 13,
+        "card_name": "Home One",
+        "number": 34,
+        "shape": "leveler",
+        "set": "SWS"
+    },
+    {
+        "card_name": "Wampa",
+        "number": 44,
+        "shape": "normal",
+        "set": "SWS"
+    },
+    {
+        "card_name": "Jyn Erso",
+        "number": 137,
+        "shape": "normal",
+        "set": "SWS"
+    },
+    {
+        "card_name": "The Twilight",
+        "number": 19,
+        "shape": "leveler",
+        "set": "SWS"
+    },
+    {
+        "card_name": "Asajj Ventress, Nightsister",
+        "number": 142,
+        "shape": "normal",
+        "set": "SWS"
+    },
+    {
+        "card_name": "Lando Calrissian",
+        "number": 36,
         "shape": "normal",
         "set": "SWS"
     },
     {
         "card_name": "Din Grogu",
-        "number": 106,
+        "number": 148,
+        "shape": "normal",
+        "set": "SWS"
+    },
+    {
+        "card_name": "Leia, Rebel Princess",
+        "number": 138,
+        "shape": "normal",
+        "set": "SWS"
+    },
+    {
+        "card_name": "Blockade",
+        "number": 13,
+        "shape": "battle split",
+        "set": "SWS"
+    },
+    {
+        "card_name": "Lee Char",
+        "number": 143,
+        "shape": "normal",
+        "set": "SWS"
+    },
+    {
+        "card_name": "Chewbacca",
+        "number": 145,
+        "shape": "normal",
+        "set": "SWS"
+    },
+    {
+        "card_name": "Savage Opress",
+        "number": 149,
         "shape": "normal",
         "set": "SWS"
     },
@@ -93,17 +303,20 @@
         "card_name": "e"
     },
     {
-        "card_name": "Blockade",
-        "number": 6,
-        "shape": "battle split",
+        "card_name": "Fennec Shand",
+        "number": 139,
+        "shape": "normal",
         "set": "SWS"
     },
     {
-        "card_name": "e"
+        "card_name": "Moff Tarkin",
+        "number": 144,
+        "shape": "normal",
+        "set": "SWS"
     },
     {
-        "card_name": "Jar-Jar Binks",
-        "number": 105,
+        "card_name": "Jango Fett, the Progenitor",
+        "number": 146,
         "shape": "normal",
         "set": "SWS"
     },
@@ -115,7 +328,16 @@
     },
     {
         "card_name": "R2-D2",
-        "number": 102,
+        "number": 140,
+        "shape": "normal",
+        "set": "SWS"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Jar-Jar, General Bombad",
+        "number": 147,
         "shape": "normal",
         "set": "SWS"
     },
@@ -126,14 +348,8 @@
         "card_name": "e"
     },
     {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
         "card_name": "Sy Snootles",
-        "number": 103,
+        "number": 141,
         "shape": "normal",
         "set": "SWS"
     },
@@ -161,171 +377,204 @@
     "a->gold",
     {
         "card_name": "Obi-Wan Kenobi",
-        "number": 47,
+        "number": 76,
         "shape": "normal",
         "set": "SWS"
     },
     {
         "card_name": "Order 66",
-        "number": 49,
+        "number": 78,
         "shape": "normal",
         "set": "SWS"
     },
     {
         "card_name": "Kylo Ren, Supreme Leader",
-        "number": 36,
+        "number": 65,
         "shape": "normal",
         "set": "SWS"
     },
     {
         "card_name": "Chewbacca, Wookie Cohort",
-        "number": 25,
-        "shape": "normal",
-        "set": "SWS"
-    },
-    {
-        "card_name": "Rey, the Last Skywalker",
-        "number": 53,
-        "shape": "normal",
-        "set": "SWS"
-    },
-    {
-        "card_name": "Senator Mon Mothma",
-        "number": 55,
-        "shape": "transform double faced",
-        "set": "SWS"
-    },
-    {
-        "card_name": "Count Dooku",
-        "number": 67,
-        "shape": "normal",
-        "set": "SWS"
-    },
-    {
-        "card_name": "General Grievous",
-        "number": 29,
-        "shape": "normal",
-        "set": "SWS"
-    },
-    {
-        "card_name": "The Millenium Falcon",
-        "number": 44,
-        "shape": "leveler",
-        "set": "SWS"
-    },
-    {
-        "card_name": "Queen Padme Amidala",
-        "number": 52,
-        "shape": "normal",
-        "set": "SWS"
-    },
-    {
-        "card_name": "Ben, Exiled Warden",
-        "number": 19,
-        "shape": "normal",
-        "set": "SWS"
-    },
-    {
-        "card_name": "Sly Moore, the Umbaran",
-        "number": 57,
-        "shape": "normal",
-        "set": "SWS"
-    },
-    {
-        "card_name": "Darth Maul",
-        "number": 68,
-        "shape": "normal",
-        "set": "SWS"
-    },
-    {
-        "card_name": "Finn, Rogue Trooper",
-        "number": 27,
-        "shape": "normal",
-        "set": "SWS"
-    },
-    {
-        "card_name": "Bail Organa",
-        "number": 64,
-        "shape": "normal",
-        "set": "SWS"
-    },
-    {
-        "card_name": "Master Qui-Gon Jinn",
-        "number": 71,
-        "shape": "normal",
-        "set": "SWS"
-    },
-    {
-        "card_name": "Viceroy Nute Gunray",
-        "number": 63,
-        "shape": "normal",
-        "set": "SWS"
-    },
-    {
-        "card_name": "Darth Tyranus",
-        "number": 26,
-        "shape": "normal",
-        "set": "SWS"
-    },
-    {
-        "card_name": "Captain Rex",
-        "number": 66,
-        "shape": "normal",
-        "set": "SWS"
-    },
-    {
-        "card_name": "Boss Nass, Gungan Leader",
-        "number": 21,
-        "shape": "normal",
-        "set": "SWS"
-    },
-    {
-        "card_name": "Master Plo Koon",
-        "number": 43,
-        "shape": "normal",
-        "set": "SWS"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "The Stranger, Cad Bane",
-        "number": 59,
-        "shape": "normal",
-        "set": "SWS"
-    },
-    {
-        "card_name": "Captain Cassian Andor",
-        "number": 22,
-        "shape": "normal",
-        "set": "SWS"
-    },
-    {
-        "card_name": "Master Depa Billibaba",
-        "number": 40,
-        "shape": "normal",
-        "set": "SWS"
-    },
-    {
-        "card_name": "Obi-Wan, Stern Disciple",
-        "number": 48,
-        "shape": "normal",
-        "set": "SWS"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Saw Gerrera, the Insurgent",
         "number": 54,
         "shape": "normal",
         "set": "SWS"
     },
     {
+        "card_name": "Rey, the Last Skywalker",
+        "number": 82,
+        "shape": "normal",
+        "set": "SWS"
+    },
+    {
+        "card_name": "Senator Mon Mothma",
+        "number": 84,
+        "shape": "transform double faced",
+        "set": "SWS"
+    },
+    {
+        "card_name": "Count Dooku",
+        "number": 96,
+        "shape": "normal",
+        "set": "SWS"
+    },
+    {
+        "card_name": "General Grievous",
+        "number": 58,
+        "shape": "normal",
+        "set": "SWS"
+    },
+    {
+        "card_name": "The Millenium Falcon",
+        "number": 73,
+        "shape": "leveler",
+        "set": "SWS"
+    },
+    {
+        "card_name": "Queen Padme Amidala",
+        "number": 81,
+        "shape": "normal",
+        "set": "SWS"
+    },
+    {
+        "card_name": "Ben, Exiled Warden",
+        "number": 48,
+        "shape": "normal",
+        "set": "SWS"
+    },
+    {
+        "card_name": "Sly Moore, the Umbaran",
+        "number": 86,
+        "shape": "normal",
+        "set": "SWS"
+    },
+    {
+        "card_name": "Darth Maul",
+        "number": 97,
+        "shape": "normal",
+        "set": "SWS"
+    },
+    {
+        "card_name": "Finn, Rogue Trooper",
+        "number": 56,
+        "shape": "normal",
+        "set": "SWS"
+    },
+    {
+        "card_name": "Bail Organa",
+        "number": 93,
+        "shape": "normal",
+        "set": "SWS"
+    },
+    {
+        "card_name": "Master Qui-Gon Jinn",
+        "number": 100,
+        "shape": "normal",
+        "set": "SWS"
+    },
+    {
+        "card_name": "Viceroy Nute Gunray",
+        "number": 92,
+        "shape": "normal",
+        "set": "SWS"
+    },
+    {
+        "card_name": "Darth Tyranus",
+        "number": 55,
+        "shape": "normal",
+        "set": "SWS"
+    },
+    {
+        "card_name": "Captain Rex",
+        "number": 95,
+        "shape": "normal",
+        "set": "SWS"
+    },
+    {
+        "card_name": "Boss Nass, Gungan Leader",
+        "number": 50,
+        "shape": "normal",
+        "set": "SWS"
+    },
+    {
+        "card_name": "Master Plo Koon",
+        "number": 72,
+        "shape": "normal",
+        "set": "SWS"
+    },
+    {
+        "card_name": "Senator Palpatine",
+        "number": 162,
+        "shape": "normal",
+        "set": "SWS"
+    },
+    {
+        "card_name": "The Stranger, Cad Bane",
+        "number": 88,
+        "shape": "normal",
+        "set": "SWS"
+    },
+    {
+        "card_name": "Captain Cassian Andor",
+        "number": 51,
+        "shape": "normal",
+        "set": "SWS"
+    },
+    {
+        "card_name": "Master Depa Billibaba",
+        "number": 69,
+        "shape": "normal",
+        "set": "SWS"
+    },
+    {
+        "card_name": "Obi-Wan, Stern Disciple",
+        "number": 77,
+        "shape": "normal",
+        "set": "SWS"
+    },
+    {
         "card_name": "e"
+    },
+    {
+        "card_name": "Darth Maul, The Shadow",
+        "number": 153,
+        "shape": "normal",
+        "set": "SWS"
+    },
+    {
+        "card_name": "Saw Gerrera, the Insurgent",
+        "number": 83,
+        "shape": "normal",
+        "set": "SWS"
+    },
+    {
+        "card_name": "Luke, Determined Adept",
+        "number": 158,
+        "shape": "normal",
+        "set": "SWS"
+    },
+    {
+        "card_name": "Obi-Wan, the Negotiator",
+        "number": 160,
+        "shape": "normal",
+        "set": "SWS"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Han Solo, Rebel General",
+        "number": 155,
+        "shape": "normal",
+        "set": "SWS"
+    },
+    {
+        "card_name": "Rey Skywalker",
+        "number": 161,
+        "shape": "normal",
+        "set": "SWS"
     },
     {
         "card_name": "e"
@@ -338,7 +587,7 @@
     },
     {
         "card_name": "Max Rebo, the Virtuoso",
-        "number": 107,
+        "number": 159,
         "shape": "normal",
         "set": "SWS"
     },
@@ -362,133 +611,163 @@
     },
     {
         "card_name": "The Skywalker Saga",
-        "number": 56,
+        "number": 85,
         "shape": "saga",
         "set": "SWS"
     },
     {
         "card_name": "Fraternal Betrayal",
-        "number": 28,
+        "number": 57,
         "shape": "normal",
         "set": "SWS"
     },
     {
         "card_name": "No Disintegrations",
-        "number": 46,
+        "number": 75,
         "shape": "normal",
         "set": "SWS"
     },
     {
         "card_name": "Trench Run",
-        "number": 62,
+        "number": 91,
         "shape": "normal",
         "set": "SWS"
     },
     {
         "card_name": "Grand Master Yoda",
-        "number": 30,
+        "number": 59,
         "shape": "normal",
         "set": "SWS"
     },
     {
         "card_name": "The Supremacy",
-        "number": 60,
+        "number": 89,
         "shape": "leveler",
         "set": "SWS"
     },
     {
         "card_name": "Poe Dameron",
-        "number": 50,
+        "number": 79,
         "shape": "normal",
         "set": "SWS"
     },
     {
         "card_name": "Boba Fett",
-        "number": 65,
+        "number": 94,
         "shape": "normal",
         "set": "SWS"
     },
     {
         "card_name": "Anakin, Cocky Protege",
-        "number": 16,
+        "number": 45,
         "shape": "normal",
         "set": "SWS"
     },
     {
         "card_name": "Luke, Ahch-To Exile",
-        "number": 37,
+        "number": 66,
         "shape": "normal",
         "set": "SWS"
     },
     {
         "card_name": "Supreme Leader Snoke",
-        "number": 61,
+        "number": 90,
         "shape": "normal",
         "set": "SWS"
     },
     {
         "card_name": "Wedge Antilles",
-        "number": 72,
+        "number": 101,
         "shape": "normal",
         "set": "SWS"
     },
     {
         "card_name": "Greedo, Trigger-Happy",
-        "number": 31,
+        "number": 60,
         "shape": "normal",
         "set": "SWS"
     },
     {
         "card_name": "Han Solo, Veteran Smuggler",
-        "number": 69,
+        "number": 98,
         "shape": "normal",
         "set": "SWS"
     },
     {
         "card_name": "Yoda, Reclusive Mentor",
-        "number": 73,
+        "number": 102,
         "shape": "normal",
         "set": "SWS"
     },
     {
-        "card_name": "Barriss Offee, the Healer",
-        "number": 18,
+        "card_name": "Jar-Jar Binks",
+        "number": 99,
         "shape": "normal",
         "set": "SWS"
     },
     {
         "card_name": "Hondo Ohnaka, Pirate King",
-        "number": 33,
+        "number": 62,
         "shape": "normal",
         "set": "SWS"
     },
     {
         "card_name": "Jango Fett",
-        "number": 35,
+        "number": 64,
         "shape": "normal",
         "set": "SWS"
     },
     {
         "card_name": "Bo-Katan Kryze",
-        "number": 20,
+        "number": 49,
         "shape": "normal",
         "set": "SWS"
     },
     {
         "card_name": "Grogu, The Child",
-        "number": 32,
+        "number": 61,
         "shape": "normal",
         "set": "SWS"
     },
     {
-        "card_name": "Speaker Mas Amedda",
-        "number": 58,
+        "card_name": "Barriss Offee, the Healer",
+        "number": 47,
         "shape": "normal",
         "set": "SWS"
     },
     {
         "card_name": "Moff Gideon",
-        "number": 45,
+        "number": 74,
+        "shape": "normal",
+        "set": "SWS"
+    },
+    {
+        "card_name": "Boba Fett, Apex Hunter",
+        "number": 151,
+        "shape": "normal",
+        "set": "SWS"
+    },
+    {
+        "card_name": "Captain Hera Syndulla",
+        "number": 52,
+        "shape": "normal",
+        "set": "SWS"
+    },
+    {
+        "card_name": "Master Kit Fisto",
+        "number": 70,
+        "shape": "normal",
+        "set": "SWS"
+    },
+    {
+        "card_name": "Speaker Mas Amedda",
+        "number": 87,
+        "shape": "normal",
+        "set": "SWS"
+    },
+    {
+        "card_name": "Cassian Andor",
+        "number": 152,
         "shape": "normal",
         "set": "SWS"
     },
@@ -496,14 +775,35 @@
         "card_name": "e"
     },
     {
-        "card_name": "Captain Hera Syndulla",
-        "number": 23,
+        "card_name": "Anakin, the Vengeant",
+        "number": 150,
         "shape": "normal",
         "set": "SWS"
     },
     {
-        "card_name": "Master Kit Fisto",
-        "number": 41,
+        "card_name": "Kit Fisto, Jedi Consular",
+        "number": 156,
+        "shape": "normal",
+        "set": "SWS"
+    },
+    {
+        "card_name": "Din Djarin",
+        "number": 154,
+        "shape": "normal",
+        "set": "SWS"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Lama Su, the Overseer",
+        "number": 157,
         "shape": "normal",
         "set": "SWS"
     },
@@ -524,43 +824,43 @@
     },
     {
         "card_name": "Anakin Skywalker",
-        "number": 17,
+        "number": 46,
         "shape": "transform double faced",
         "set": "SWS"
     },
     {
         "card_name": "Jabba the Hutt",
-        "number": 34,
+        "number": 63,
         "shape": "normal",
         "set": "SWS"
     },
     {
         "card_name": "Luke Skywalker",
-        "number": 38,
+        "number": 67,
         "shape": "normal",
         "set": "SWS"
     },
     {
         "card_name": "Master Mace Windu",
-        "number": 42,
+        "number": 71,
         "shape": "normal",
         "set": "SWS"
     },
     {
         "card_name": "Princess Leia Organa",
-        "number": 51,
+        "number": 80,
         "shape": "normal",
         "set": "SWS"
     },
     {
         "card_name": "Chancellor Palpatine",
-        "number": 24,
+        "number": 53,
         "shape": "normal",
         "set": "SWS"
     },
     {
         "card_name": "The Mandalorian",
-        "number": 39,
+        "number": 68,
         "shape": "normal",
         "set": "SWS"
     },
@@ -588,49 +888,85 @@
     "a->colorless",
     {
         "card_name": "R2-D2, Universal Companion",
-        "number": 82,
+        "number": 114,
+        "shape": "normal",
+        "set": "SWS"
+    },
+    {
+        "card_name": "AT-AT Walker",
+        "number": 103,
         "shape": "normal",
         "set": "SWS"
     },
     {
         "card_name": "The Darksaber",
-        "number": 77,
+        "number": 107,
         "shape": "normal",
         "set": "SWS"
     },
     {
         "card_name": "Droideka",
-        "number": 81,
+        "number": 111,
         "shape": "normal",
         "set": "SWS"
     },
     {
+        "card_name": "Finalizer",
+        "number": 112,
+        "shape": "leveler",
+        "set": "SWS"
+    },
+    {
+        "card_name": "Invisible Hand",
+        "number": 113,
+        "shape": "leveler",
+        "set": "SWS"
+    },
+    {
+        "card_name": "Razor Crest",
+        "number": 115,
+        "shape": "leveler",
+        "set": "SWS"
+    },
+    {
+        "card_name": "Star Destroyer",
+        "number": 116,
+        "shape": "leveler",
+        "set": "SWS"
+    },
+    {
+        "card_name": "X-Wing",
+        "number": 119,
+        "shape": "leveler",
+        "set": "SWS"
+    },
+    {
         "card_name": "Attuned Lightsaber",
-        "number": 74,
+        "number": 104,
         "shape": "normal",
         "set": "SWS"
     },
     {
         "card_name": "Bleeding Lightsaber",
-        "number": 75,
+        "number": 105,
         "shape": "normal",
         "set": "SWS"
     },
     {
         "card_name": "Cleansed Lightsaber",
-        "number": 76,
+        "number": 106,
         "shape": "normal",
         "set": "SWS"
     },
     {
         "card_name": "Defiant Lightsaber",
-        "number": 80,
+        "number": 110,
         "shape": "normal",
         "set": "SWS"
     },
     {
         "card_name": "Warding Lightsaber",
-        "number": 84,
+        "number": 118,
         "shape": "normal",
         "set": "SWS"
     },
@@ -642,9 +978,21 @@
     },
     {
         "card_name": "C-3P0",
-        "number": 108,
+        "number": 163,
         "shape": "normal",
         "set": "SWS"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "er"
@@ -661,31 +1009,31 @@
     "a->land",
     {
         "card_name": "Ahch-To, Bygone Asylum",
-        "number": 85,
+        "number": 120,
         "shape": "leveler",
         "set": "SWS"
     },
     {
         "card_name": "Mandalore, Armored Ruin",
-        "number": 95,
+        "number": 130,
         "shape": "leveler",
         "set": "SWS"
     },
     {
         "card_name": "Moraband, Dark Tomb",
-        "number": 96,
+        "number": 131,
         "shape": "leveler",
         "set": "SWS"
     },
     {
         "card_name": "Jakku, Vessel Graveyard",
-        "number": 91,
+        "number": 126,
         "shape": "leveler",
         "set": "SWS"
     },
     {
         "card_name": "Nal Hutta, Decadent Mire",
-        "number": 100,
+        "number": 135,
         "shape": "leveler",
         "set": "SWS"
     },
@@ -706,31 +1054,31 @@
     },
     {
         "card_name": "Hoth, Frozen Outpost",
-        "number": 90,
+        "number": 125,
         "shape": "leveler",
         "set": "SWS"
     },
     {
         "card_name": "Kamino, Drowned Cradle",
-        "number": 93,
+        "number": 128,
         "shape": "leveler",
         "set": "SWS"
     },
     {
         "card_name": "Mustafar, Volcanic Crucible",
-        "number": 98,
+        "number": 133,
         "shape": "leveler",
         "set": "SWS"
     },
     {
         "card_name": "Kashyyk, Wild Enclave",
-        "number": 94,
+        "number": 129,
         "shape": "leveler",
         "set": "SWS"
     },
     {
         "card_name": "Alderaan, Peaceful Jewel",
-        "number": 86,
+        "number": 121,
         "shape": "leveler",
         "set": "SWS"
     },
@@ -751,31 +1099,31 @@
     },
     {
         "card_name": "Coruscant, Galaxy's Heart",
-        "number": 88,
+        "number": 123,
         "shape": "leveler",
         "set": "SWS"
     },
     {
         "card_name": "Bespin, Clouded Domain",
-        "number": 87,
+        "number": 122,
         "shape": "leveler",
         "set": "SWS"
     },
     {
         "card_name": "Dagobah, Fetid Refuge",
-        "number": 89,
+        "number": 124,
         "shape": "leveler",
         "set": "SWS"
     },
     {
         "card_name": "Tatooine, Twin-Sunned",
-        "number": 101,
+        "number": 136,
         "shape": "leveler",
         "set": "SWS"
     },
     {
         "card_name": "Naboo, Verdant Paradise",
-        "number": 99,
+        "number": 134,
         "shape": "leveler",
         "set": "SWS"
     },
@@ -796,31 +1144,31 @@
     },
     {
         "card_name": "The Death Star II",
-        "number": 79,
+        "number": 109,
         "shape": "leveler",
         "set": "SWS"
     },
     {
         "card_name": "The Death Star",
-        "number": 78,
+        "number": 108,
         "shape": "leveler",
         "set": "SWS"
     },
     {
         "card_name": "Mos Eisley",
-        "number": 97,
+        "number": 132,
         "shape": "normal",
         "set": "SWS"
     },
     {
         "card_name": "Starkiller Base",
-        "number": 83,
+        "number": 117,
         "shape": "leveler",
         "set": "SWS"
     },
     {
         "card_name": "Jedi Temple",
-        "number": 92,
+        "number": 127,
         "shape": "normal",
         "set": "SWS"
     },

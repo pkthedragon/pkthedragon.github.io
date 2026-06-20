@@ -1,4 +1,292 @@
-﻿VERSION 10 CHANGELOG
+﻿VERSION 11 CHANGELOG
+====================
+
+Jar-Jar, General Bombad added.
+Asajj Ventress, Nightsister added.
+Leia, Rebel Princess added.
+Chewbacca added.
+Jyn Erso added.
+Fennec Shand added.
+Jango Fett, the Progenitor added.
+Lee Char added.
+Savage Opress added.
+Rey Skywalker added.
+Din Djarin added.
+Cassian Andor added.
+Boba Fett, Apex Hunter added.
+Anakin, the Vengeant added.
+Lama Su, the Overseer added.
+Kit Fisto, Jedi Consular added.
+Obi-Wan, the Negotiator added.
+Senator Palpatine added.
+Darth Maul, The Shadow added.
+Han Solo, Rebel General added.
+Luke, Determined Adept added.
+Ackbar's Command added.
+Tarkin's Command added.
+Lando Calrissian added.
+Master Ki-Adi-Mundi added.
+Battle of Yavin added.
+Exogorth added.
+Grand Moff Tarkin added.
+Battle of Exegol added.
+Wampa added.
+Leia's Command added.
+Lama Su, Grand Minister added.
+Sarlacc added.
+Cody's Command added.
+Slave I added.
+Purrgil Ultra added.
+Raddus added.
+Battle of Coruscant added.
+Commander Cody added.
+Ahsoka's Command added.
+Tantive IV added.
+Clone Lieutenant added.
+Executor added.
+Home One added.
+Ahsoka Tano added.
+BB-8 added.
+Admiral Ackbar added.
+Asajj Ventress added.
+Greater Krayt Dragon added.
+Rancor added.
+Invisible Hand added.
+Finalizer added.
+Star Destroyer added.
+X-Wing added.
+AT-AT Walker added.
+Razor Crest added.
+
+Jar-Jar Binks removed.
+
+Darth Sidious
+
+Droideka
+
+Destruction of Alderaan
+rules_text: Energize [i](Energize this spell by removing three counters from among permanents you control. If you do, it can't be countered.)[/i]
+Destruction of Alderaan costs {5} less to cast if it's energized.
+Exile target land. Destruction of Alderaan deals 20 damage to each nonartifact creature. => Payload [i](Each kind of counter you remove from permanents you control while casting this pays for {1}.)[/i]
+Exile target land. Destruction of Alderaan deals 20 damage to each nonartifact creature.
+
+Luke, Ahch-To Exile
+
+The Twilight
+
+Alderaan, Peaceful Jewel
+
+Coruscant, Galaxy's Heart
+
+Mustafar, Volcanic Crucible
+
+Naboo, Verdant Paradise
+
+Tatooine, Twin-Sunned
+
+Bespin, Clouded Domain
+
+Dagobah, Fetid Refuge
+
+Kamino, Drowned Cradle
+
+Kashyyk, Wild Enclave
+
+Hoth, Frozen Outpost
+
+Greedo, Trigger-Happy
+
+R2-D2, Universal Companion
+
+Anakin Skywalker
+
+Jabba the Hutt
+
+Mos Eisley
+
+Jango Fett
+
+Supreme Commander Vader
+
+Chewbacca, Wookie Cohort
+
+Master Mace Windu
+
+General Grievous
+
+Han Solo, Smuggler Captain
+
+The Millenium Falcon
+
+Grand Master Yoda
+
+Obi-Wan Kenobi
+
+Luke Skywalker
+
+Princess Leia Organa
+
+Senator Mon Mothma
+
+Rey, the Last Skywalker
+
+Kylo Ren, Supreme Leader
+
+Battle of Endor
+
+Battle of Geonosis
+
+The Death Star II
+
+Order 66
+
+The Supremacy
+
+Red Five
+
+One With The Force
+
+No Disintegrations
+
+Kyber Crystal
+
+Fall of the New Republic
+
+Fraternal Betrayal
+
+The Skywalker Saga
+
+Trench Run
+cost: {1}{R}{W} => {2}{R}{W}
+rules_text: Energize [i](Energize this spell by removing three counters from among permanents you control. If you do, it can't be countered.)[/i]
+Take an extra turn after this one. At the beginning of that turn's end step, you lose the game. If Trench Run is energized, up to one target creature or Spacecraft you control gains double strike, trample, hexproof, and indestructible. => Payload [i](Each kind of counter you remove from permanents you control while casting this pays for {1}.)[/i]
+Target creature or Spacecraft you control gains double strike, trample, hexproof, and indestructible. Take an extra turn after this one. At the beginning of that turn's end step, you lose the game.
+
+Warding Lightsaber
+
+Cleansed Lightsaber
+
+Defiant Lightsaber
+
+Bleeding Lightsaber
+
+Attuned Lightsaber
+
+The Darksaber
+
+The Death Star
+
+Ahch-To, Bygone Asylum
+
+Mandalore, Armored Ruin
+
+Moraband, Dark Tomb
+
+Jakku, Vessel Graveyard
+
+Nal Hutta, Decadent Mire
+
+Starkiller Base
+
+Jedi Temple
+
+Obi-Wan, Stern Disciple
+
+Viceroy Nute Gunray
+
+Darth Tyranus
+
+Master Plo Koon
+
+Sly Moore, the Umbaran
+
+The Stranger, Cad Bane
+
+Boss Nass, Gungan Leader
+
+Master Depa Billibaba
+
+Captain Cassian Andor
+rules_text: If one or more counters would be put on an artifact or creature you control, that many plus one of each of those kinds of counters are put on that permanent instead.
+{R}{G}, Exile Captain Cassian Andor: Return target creature or Spacecraft card from your graveyard to your hand. => If one or more counters would be put on an artifact or creature you control, that many plus one of each of those kinds of counters are put on that permanent instead.
+Exile Captain Cassian Andor: The next spell you cast this turn has payload. [i](Each kind of counter you remove from permanents you control while casting it pays for {1}.)[/i]
+
+Saw Gerrera, the Insurgent
+rules_text: Vigilance, trample
+Whenever a creature you control deals combat damage to a player, put a +1/+1 counter on it.
+Permanents you control with counters on them have hexproof as long as it's your turn. => Vigilance, trample
+Whenever a creature you control deals combat damage to a player, put a +1/+1 counter or charge counter on target permanent.
+
+Speaker Mas Amedda
+
+Barriss Offee, the Healer
+
+Grogu, The Child
+
+Master Kit Fisto
+
+Bo-Katan Kryze
+
+Captain Hera Syndulla
+
+Hondo Ohnaka, Pirate King
+
+Moff Gideon
+
+The Mandalorian
+
+Chancellor Palpatine
+
+General Leia Organa
+
+Yoda, Reclusive Mentor
+
+Max Rebo, the Virtuoso
+
+Blockade
+
+Ben, Exiled Warden
+
+Finn, Rogue Trooper
+
+Queen Padme Amidala
+
+Supreme Leader Snoke
+
+Poe Dameron
+
+Anakin, Cocky Protege
+
+Darth Maul
+
+Master Qui-Gon Jinn
+
+Boba Fett
+
+Jar-Jar Binks
+
+Wedge Antilles
+
+Han Solo, Veteran Smuggler
+
+Count Dooku
+
+Captain Rex
+
+Bail Organa
+
+R2-D2
+
+Moff Tarkin
+
+Din Grogu
+
+C-3P0
+
+Sy Snootles
+
+
+VERSION 10 CHANGELOG
 ====================
 
 
