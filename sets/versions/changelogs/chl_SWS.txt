@@ -1,4 +1,460 @@
-﻿VERSION 9 CHANGELOG
+﻿VERSION 10 CHANGELOG
+====================
+
+
+
+The Twilight
+rules_text: Ward {2}
+Whenever a creature you control stations The Twilight, you may return it to its owner's hand.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 6+.)[/i]
+[level 6+] Flying
+You may activate The Twilight's station ability any time you could cast an instant. [4/2]
+ => Ward {2}
+Whenever a creature you control stations The Twilight, you may return it to its owner's hand.
+Station
+[level 6+] Flying
+You may activate The Twilight's station ability any time you could cast an instant. [4/2]
+
+special_text: Ward {2}
+Whenever a creature you control stations The Twilight, you may return it to its owner's hand.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 6+.)[/i]
+[level 6+] Flying
+You may activate The Twilight's station ability any time you could cast an instant. [4/2]
+ => Ward {2}
+Whenever a creature you control stations The Twilight, you may return it to its owner's hand.
+Station
+[level 6+] Flying
+You may activate The Twilight's station ability any time you could cast an instant. [4/2]
+
+
+Alderaan, Peaceful Jewel
+rules_text: Alderaan enters tapped.
+{T}: Add {G} or {W}.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)[/i]
+[level 8+] {2}{G}{W}, {T}, Sacrifice Alderaan or an artifact: Creatures you control get +2/+2 and gain trample until end of turn.
+ => Alderaan enters tapped.
+{T}: Add {G} or {W}.
+Station
+[level 8+] {2}{G}{W}, {T}, Sacrifice Alderaan or an artifact: Creatures you control get +2/+2 and gain trample until end of turn.
+
+special_text: Alderaan enters tapped.
+{T}: Add {G} or {W}.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)[/i]
+[level 8+] {2}{G}{W}, {T}, Sacrifice Alderaan or an artifact: Creatures you control get +2/+2 and gain trample until end of turn.
+ => Alderaan enters tapped.
+{T}: Add {G} or {W}.
+Station
+[level 8+] {2}{G}{W}, {T}, Sacrifice Alderaan or an artifact: Creatures you control get +2/+2 and gain trample until end of turn.
+
+
+Coruscant, Galaxy's Heart
+rules_text: Coruscant enters tapped.
+{T}: Add {W} or {B}.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)[/i]
+[level 8+] {W}{B}, {T}, Sacrifice Coruscant or an artifact: Create two 1/1 white Alien creature tokens with flying.
+ => Coruscant enters tapped.
+{T}: Add {W} or {B}.
+Station
+[level 8+] {W}{B}, {T}, Sacrifice Coruscant or an artifact: Create two 1/1 white Alien creature tokens with flying.
+
+special_text: Coruscant enters tapped.
+{T}: Add {W} or {B}.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)[/i]
+[level 8+] {W}{B}, {T}, Sacrifice Coruscant or an artifact: Create two 1/1 white Alien creature tokens with flying.
+ => Coruscant enters tapped.
+{T}: Add {W} or {B}.
+Station
+[level 8+] {W}{B}, {T}, Sacrifice Coruscant or an artifact: Create two 1/1 white Alien creature tokens with flying.
+
+
+Mustafar, Volcanic Crucible
+rules_text: Mustafar enters tapped.
+{T}: Add {B} or {R}.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)[/i]
+[level 8+] {2}{B}{R}, {T}, Sacrifice Mustafar or an artifact: Mustafar deals 3 damage to any target. If it would die this turn, exile it instead.
+ => Mustafar enters tapped.
+{T}: Add {B} or {R}.
+Station
+[level 8+] {2}{B}{R}, {T}, Sacrifice Mustafar or an artifact: Mustafar deals 3 damage to any target. If it would die this turn, exile it instead.
+
+special_text: Mustafar enters tapped.
+{T}: Add {B} or {R}.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)[/i]
+[level 8+] {2}{B}{R}, {T}, Sacrifice Mustafar or an artifact: Mustafar deals 3 damage to any target. If it would die this turn, exile it instead.
+ => Mustafar enters tapped.
+{T}: Add {B} or {R}.
+Station
+[level 8+] {2}{B}{R}, {T}, Sacrifice Mustafar or an artifact: Mustafar deals 3 damage to any target. If it would die this turn, exile it instead.
+
+
+Naboo, Verdant Paradise
+rules_text: Naboo enters tapped.
+{T}: Add {G} or {U}.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)[/i]
+[level 8+] {X}{X}{G}{U}, {T}, Sacrifice Naboo or an artifact: Target player gains X life and draws X cards.
+ => Naboo enters tapped.
+{T}: Add {G} or {U}.
+Station
+[level 8+] {X}{X}{G}{U}, {T}, Sacrifice Naboo or an artifact: Target player gains X life and draws X cards.
+
+special_text: Naboo enters tapped.
+{T}: Add {G} or {U}.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)[/i]
+[level 8+] {X}{X}{G}{U}, {T}, Sacrifice Naboo or an artifact: Target player gains X life and draws X cards.
+ => Naboo enters tapped.
+{T}: Add {G} or {U}.
+Station
+[level 8+] {X}{X}{G}{U}, {T}, Sacrifice Naboo or an artifact: Target player gains X life and draws X cards.
+
+
+Tatooine, Twin-Sunned
+rules_text: Tatooine enters tapped.
+{T}: Add {R} or {W}.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)[/i]
+[level 8+] {R}{W}, {T}, Sacrifice Tatooine or an artifact: Destroy target artifact, enchantment, or nonbasic, non-Planet land.
+ => Tatooine enters tapped.
+{T}: Add {R} or {W}.
+Station
+[level 8+] {R}{W}, {T}, Sacrifice Tatooine or an artifact: Destroy target artifact, enchantment, or nonbasic, non-Planet land.
+
+special_text: Tatooine enters tapped.
+{T}: Add {R} or {W}.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)[/i]
+[level 8+] {R}{W}, {T}, Sacrifice Tatooine or an artifact: Destroy target artifact, enchantment, or nonbasic, non-Planet land.
+ => Tatooine enters tapped.
+{T}: Add {R} or {W}.
+Station
+[level 8+] {R}{W}, {T}, Sacrifice Tatooine or an artifact: Destroy target artifact, enchantment, or nonbasic, non-Planet land.
+
+
+Bespin, Clouded Domain
+rules_text: Bespin enters tapped.
+{T}: Add {U} or {R}.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)[/i]
+[level 8+] {1}{U}{R}, {T}, Sacrifice Bespin or an artifact: Copy target activated or triggered ability. You may choose new targets for the copy.
+ => Bespin enters tapped.
+{T}: Add {U} or {R}.
+Station
+[level 8+] {1}{U}{R}, {T}, Sacrifice Bespin or an artifact: Copy target activated or triggered ability. You may choose new targets for the copy.
+
+special_text: Bespin enters tapped.
+{T}: Add {U} or {R}.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)[/i]
+[level 8+] {1}{U}{R}, {T}, Sacrifice Bespin or an artifact: Copy target activated or triggered ability. You may choose new targets for the copy.
+ => Bespin enters tapped.
+{T}: Add {U} or {R}.
+Station
+[level 8+] {1}{U}{R}, {T}, Sacrifice Bespin or an artifact: Copy target activated or triggered ability. You may choose new targets for the copy.
+
+
+Dagobah, Fetid Refuge
+rules_text: Dagobah enters tapped.
+{T}: Add {G} or {B}.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)[/i]
+[level 8+] {1}{B}{G}, {T}, Sacrifice Dagobah or an artifact: Target creature you control deals damage equal to its power to target creature.
+ => Dagobah enters tapped.
+{T}: Add {G} or {B}.
+Station
+[level 8+] {1}{B}{G}, {T}, Sacrifice Dagobah or an artifact: Target creature you control deals damage equal to its power to target creature.
+
+special_text: Dagobah enters tapped.
+{T}: Add {G} or {B}.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)[/i]
+[level 8+] {1}{B}{G}, {T}, Sacrifice Dagobah or an artifact: Target creature you control deals damage equal to its power to target creature.
+ => Dagobah enters tapped.
+{T}: Add {G} or {B}.
+Station
+[level 8+] {1}{B}{G}, {T}, Sacrifice Dagobah or an artifact: Target creature you control deals damage equal to its power to target creature.
+
+
+Kamino, Drowned Cradle
+rules_text: Kamino enters tapped.
+{T}: Add {U} or {B}.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)[/i]
+[level 8+] {1}{U}{B}, {T}, Sacrifice Kamino or an artifact: Return a card that was put into a graveyard this turn to its owner's hand.
+ => Kamino enters tapped.
+{T}: Add {U} or {B}.
+Station
+[level 8+] {1}{U}{B}, {T}, Sacrifice Kamino or an artifact: Return a card that was put into a graveyard this turn to its owner's hand.
+
+special_text: Kamino enters tapped.
+{T}: Add {U} or {B}.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)[/i]
+[level 8+] {1}{U}{B}, {T}, Sacrifice Kamino or an artifact: Return a card that was put into a graveyard this turn to its owner's hand.
+ => Kamino enters tapped.
+{T}: Add {U} or {B}.
+Station
+[level 8+] {1}{U}{B}, {T}, Sacrifice Kamino or an artifact: Return a card that was put into a graveyard this turn to its owner's hand.
+
+
+Kashyyk, Wild Enclave
+rules_text: Kashyyk enters tapped.
+{T}: Add {R} or {G}.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)[/i]
+[level 8+] {2}{R}{G}, {T}, Sacrifice Kashyyk or an artifact: Put a +1/+1 counter on each creature you control. They gain haste until end of turn.
+ => Kashyyk enters tapped.
+{T}: Add {R} or {G}.
+Station
+[level 8+] {2}{R}{G}, {T}, Sacrifice Kashyyk or an artifact: Put a +1/+1 counter on each creature you control. They gain haste until end of turn.
+
+special_text: Kashyyk enters tapped.
+{T}: Add {R} or {G}.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)[/i]
+[level 8+] {2}{R}{G}, {T}, Sacrifice Kashyyk or an artifact: Put a +1/+1 counter on each creature you control. They gain haste until end of turn.
+ => Kashyyk enters tapped.
+{T}: Add {R} or {G}.
+Station
+[level 8+] {2}{R}{G}, {T}, Sacrifice Kashyyk or an artifact: Put a +1/+1 counter on each creature you control. They gain haste until end of turn.
+
+
+Hoth, Frozen Outpost
+rules_text: Hoth enters tapped.
+{T}: Add {W} or {U}.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)[/i]
+[level 8+] {2}{W}{U}, {T}, Sacrifice Hoth or an artifact: For each of up to three target creatures, tap or untap it.
+ => Hoth enters tapped.
+{T}: Add {W} or {U}.
+Station
+[level 8+] {2}{W}{U}, {T}, Sacrifice Hoth or an artifact: For each of up to three target creatures, tap or untap it.
+
+special_text: Hoth enters tapped.
+{T}: Add {W} or {U}.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)[/i]
+[level 8+] {2}{W}{U}, {T}, Sacrifice Hoth or an artifact: For each of up to three target creatures, tap or untap it.
+ => Hoth enters tapped.
+{T}: Add {W} or {U}.
+Station
+[level 8+] {2}{W}{U}, {T}, Sacrifice Hoth or an artifact: For each of up to three target creatures, tap or untap it.
+
+
+The Millenium Falcon
+rules_text: Tapped nonattacking creatures you control have hexproof.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 12+.)[/i]
+[level 12+] Flying, first strike
+{R}, Remove X counters from a tapped permanent you control: The Millenium Falcon deals X damage to target creature. [8/4]
+ => Tapped nonattacking creatures you control have hexproof.
+Station
+[level 12+] Flying, first strike
+{R}, Remove X counters from a tapped permanent you control: The Millenium Falcon deals X damage to target creature. [8/4]
+
+special_text: Tapped nonattacking creatures you control have hexproof.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 12+.)[/i]
+[level 12+] Flying, first strike
+{R}, Remove X counters from a tapped permanent you control: The Millenium Falcon deals X damage to target creature. [8/4]
+ => Tapped nonattacking creatures you control have hexproof.
+Station
+[level 12+] Flying, first strike
+{R}, Remove X counters from a tapped permanent you control: The Millenium Falcon deals X damage to target creature. [8/4]
+
+
+Senator Mon Mothma
+
+The Death Star II
+rules_text: The Death Star II enters with a shield counter on it.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)[/i]
+[level 1+] {T}: Add {C}. If The Death Star II has a shield counter on it, add one mana of any color instead.
+[level 8+] {T}: Exile The Death Star II and target permanent, then return The Death Star II to the battlefield tapped under its owner's control. => The Death Star II enters with a shield counter on it.
+Station
+[level 1+] {T}: Add {C}. If The Death Star II has a shield counter on it, add one mana of any color instead.
+[level 8+] {T}: Exile The Death Star II and target permanent, then return The Death Star II to the battlefield tapped under its owner's control.
+special_text: The Death Star II enters with a shield counter on it.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)[/i]
+[level 1+] {T}: Add {C}. If The Death Star II has a shield counter on it, add one mana of any color instead.
+[level 8+] {T}: Exile The Death Star II and target permanent, then return The Death Star II to the battlefield tapped under its owner's control. => The Death Star II enters with a shield counter on it.
+Station
+[level 1+] {T}: Add {C}. If The Death Star II has a shield counter on it, add one mana of any color instead.
+[level 8+] {T}: Exile The Death Star II and target permanent, then return The Death Star II to the battlefield tapped under its owner's control.
+
+The Supremacy
+rules_text: During your turn, The Supremacy has indestructible.
+Whenever a creature stations The Supremacy, hunt another target artifact or creature until end of turn.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 20+.)[/i]
+[level 20+] Bounty — Return any number of target artifact and/or creature cards from your graveyard to your hand. [2/20]
+ => During your turn, The Supremacy has indestructible.
+Whenever a creature stations The Supremacy, hunt another target artifact or creature until end of turn.
+Station
+[level 20+] Bounty — Return any number of target artifact and/or creature cards from your graveyard to your hand. [2/20]
+
+special_text: During your turn, The Supremacy has indestructible.
+Whenever a creature stations The Supremacy, hunt another target artifact or creature until end of turn.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 20+.)[/i]
+[level 20+] Bounty — Return any number of target artifact and/or creature cards from your graveyard to your hand. [2/20]
+ => During your turn, The Supremacy has indestructible.
+Whenever a creature stations The Supremacy, hunt another target artifact or creature until end of turn.
+Station
+[level 20+] Bounty — Return any number of target artifact and/or creature cards from your graveyard to your hand. [2/20]
+
+
+Red Five
+rules_text: Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 4+.)[/i]
+[level 2+] Whenever you untap an artifact or a creature during a main phase, draw a card and put a charge counter on Red Five.
+[level 4+] Flying, vigilance
+Remove X charge counters from Red Five: Red Five gets +X/+0 until end of turn. [0/4] => Station
+[level 2+] Whenever you untap an artifact or a creature during a main phase, draw a card and put a charge counter on Red Five.
+[level 4+] Flying, vigilance
+Remove X charge counters from Red Five: Red Five gets +X/+0 until end of turn. [0/4]
+special_text: Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 4+.)[/i]
+[level 2+] Whenever you untap an artifact or a creature during a main phase, draw a card and put a charge counter on Red Five.
+[level 4+] Flying, vigilance
+Remove X charge counters from Red Five: Red Five gets +X/+0 until end of turn. [0/4] => Station
+[level 2+] Whenever you untap an artifact or a creature during a main phase, draw a card and put a charge counter on Red Five.
+[level 4+] Flying, vigilance
+Remove X charge counters from Red Five: Red Five gets +X/+0 until end of turn. [0/4]
+
+The Death Star
+rules_text: {T}: Add {C}.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)[/i]
+[level 2+] {3}, {T}: Put up to three charge counters on target permanent.
+[level 6+] {3}, {T}, Remove three charge counters from The Death Star: Destroy target nonbasic land. => {T}: Add {C}.
+Station
+[level 2+] {3}, {T}: Put up to three charge counters on target permanent.
+[level 6+] {3}, {T}, Remove three charge counters from The Death Star: Destroy target nonbasic land.
+special_text: {T}: Add {C}.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)[/i]
+[level 2+] {3}, {T}: Put up to three charge counters on target permanent.
+[level 6+] {3}, {T}, Remove three charge counters from The Death Star: Destroy target nonbasic land. => {T}: Add {C}.
+Station
+[level 2+] {3}, {T}: Put up to three charge counters on target permanent.
+[level 6+] {3}, {T}, Remove three charge counters from The Death Star: Destroy target nonbasic land.
+
+Ahch-To, Bygone Asylum
+rules_text: Pay 1 life, {T}: Add {W}.
+Discard a legendary card: Put a charge counter on Ahch-To.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)[/i]
+[level 8+] Exile a card from your graveyard, {T}: 
+Add {W}{W}.
+ => Pay 1 life, {T}: Add {W}.
+Discard a legendary card: Put a charge counter on Ahch-To.
+Station
+[level 8+] Exile a card from your graveyard, {T}: 
+Add {W}{W}.
+
+special_text: Pay 1 life, {T}: Add {W}.
+Discard a legendary card: Put a charge counter on Ahch-To.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)[/i]
+[level 8+] Exile a card from your graveyard, {T}: 
+Add {W}{W}.
+ => Pay 1 life, {T}: Add {W}.
+Discard a legendary card: Put a charge counter on Ahch-To.
+Station
+[level 8+] Exile a card from your graveyard, {T}: 
+Add {W}{W}.
+
+
+Mandalore, Armored Ruin
+rules_text: Pay 1 life, {T}: Add {U}.
+Discard a legendary card: Put a charge counter on Mandalore.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)[/i]
+[level 8+] Exile a card from your graveyard, {T}: 
+Add {U}{U}.
+ => Pay 1 life, {T}: Add {U}.
+Discard a legendary card: Put a charge counter on Mandalore.
+Station
+[level 8+] Exile a card from your graveyard, {T}: 
+Add {U}{U}.
+
+special_text: Pay 1 life, {T}: Add {U}.
+Discard a legendary card: Put a charge counter on Mandalore.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)[/i]
+[level 8+] Exile a card from your graveyard, {T}: 
+Add {U}{U}.
+ => Pay 1 life, {T}: Add {U}.
+Discard a legendary card: Put a charge counter on Mandalore.
+Station
+[level 8+] Exile a card from your graveyard, {T}: 
+Add {U}{U}.
+
+
+Moraband, Dark Tomb
+rules_text: Pay 1 life, {T}: Add {B}.
+Discard a legendary card: Put a charge counter on Moraband.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)[/i]
+[level 8+] Exile a card from your graveyard, {T}:
+Add {B}{B}.
+ => Pay 1 life, {T}: Add {B}.
+Discard a legendary card: Put a charge counter on Moraband.
+Station
+[level 8+] Exile a card from your graveyard, {T}:
+Add {B}{B}.
+
+special_text: Pay 1 life, {T}: Add {B}.
+Discard a legendary card: Put a charge counter on Moraband.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)[/i]
+[level 8+] Exile a card from your graveyard, {T}:
+Add {B}{B}.
+ => Pay 1 life, {T}: Add {B}.
+Discard a legendary card: Put a charge counter on Moraband.
+Station
+[level 8+] Exile a card from your graveyard, {T}:
+Add {B}{B}.
+
+
+Jakku, Vessel Graveyard
+rules_text: Pay 1 life, {T}: Add {R}.
+Discard a legendary card: Put a charge counter on Jakku.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)[/i]
+[level 8+] Exile a card from your graveyard, {T}: 
+Add {R}{R}.
+ => Pay 1 life, {T}: Add {R}.
+Discard a legendary card: Put a charge counter on Jakku.
+Station
+[level 8+] Exile a card from your graveyard, {T}: 
+Add {R}{R}.
+
+special_text: Pay 1 life, {T}: Add {R}.
+Discard a legendary card: Put a charge counter on Jakku.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)[/i]
+[level 8+] Exile a card from your graveyard, {T}: 
+Add {R}{R}.
+ => Pay 1 life, {T}: Add {R}.
+Discard a legendary card: Put a charge counter on Jakku.
+Station
+[level 8+] Exile a card from your graveyard, {T}: 
+Add {R}{R}.
+
+
+Nal Hutta, Decadent Mire
+rules_text: Pay 1 life, {T}: Add {G}.
+Discard a legendary card: Put a charge counter on Nal Hutta.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)[/i]
+[level 8+] Exile a card from your graveyard, {T}:
+Add {G}{G}.
+ => Pay 1 life, {T}: Add {G}.
+Discard a legendary card: Put a charge counter on Nal Hutta.
+Station
+[level 8+] Exile a card from your graveyard, {T}:
+Add {G}{G}.
+
+special_text: Pay 1 life, {T}: Add {G}.
+Discard a legendary card: Put a charge counter on Nal Hutta.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)[/i]
+[level 8+] Exile a card from your graveyard, {T}:
+Add {G}{G}.
+ => Pay 1 life, {T}: Add {G}.
+Discard a legendary card: Put a charge counter on Nal Hutta.
+Station
+[level 8+] Exile a card from your graveyard, {T}:
+Add {G}{G}.
+
+
+Starkiller Base
+rules_text: {T}: Add {C}.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)[/i]
+[level 2+] {T}: Add one mana of any color that a land an opponent controls could produce.
+[level 6+] {3}, {T}, Sacrifice a land: Destroy target nonbasic land. => {T}: Add {C}.
+Station
+[level 2+] {T}: Add one mana of any color that a land an opponent controls could produce.
+[level 6+] {3}, {T}, Sacrifice a land: Destroy target nonbasic land.
+special_text: {T}: Add {C}.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)[/i]
+[level 2+] {T}: Add one mana of any color that a land an opponent controls could produce.
+[level 6+] {3}, {T}, Sacrifice a land: Destroy target nonbasic land. => {T}: Add {C}.
+Station
+[level 2+] {T}: Add one mana of any color that a land an opponent controls could produce.
+[level 6+] {3}, {T}, Sacrifice a land: Destroy target nonbasic land.
+
+
+VERSION 9 CHANGELOG
 ====================
 
 
