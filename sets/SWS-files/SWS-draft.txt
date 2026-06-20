@@ -278,13 +278,13 @@
 			}
 		},
 		{
-			"name": "Han Solo, Roguish Captain",
+			"name": "Han Solo, Smuggler Captain",
 			"rarity": "mythic",
 			"mana_cost": "{1}{R}",
 			"type": "Legendary Creature — Human Rogue Pilot",
 			"collector_number": "12",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/12_Han Solo, Roguish Captain.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/12_Han Solo, Smuggler Captain.png"
 			}
 		},
 		{
@@ -855,16 +855,6 @@
 			}
 		},
 		{
-			"name": "Lama Su, the Overseer",
-			"rarity": "special",
-			"mana_cost": "{2}{G}{U}{B}",
-			"type": "Legendary Creature — Alien Advisor",
-			"collector_number": "104",
-			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/104_Lama Su, the Overseer.png"
-			}
-		},
-		{
 			"name": "General Leia Organa",
 			"rarity": "rare",
 			"mana_cost": "{W}",
@@ -902,66 +892,6 @@
 			"collector_number": "6",
 			"image_uris": {
 				"en": "https://pkthedragon.github.io/sets/SWS-files/img/6_Blockade.png"
-			}
-		},
-		{
-			"name": "Jabba, the Bloated One",
-			"rarity": "special",
-			"mana_cost": "{4}{B}{R}{G}",
-			"type": "Legendary Creature — Alien Mercenary",
-			"collector_number": "103",
-			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/103_Jabba, the Bloated One.png"
-			}
-		},
-		{
-			"name": "Anakin, Jedi Knight",
-			"rarity": "special",
-			"mana_cost": "{1}{W}{B}{R}",
-			"type": "Legendary Creature — Human Jedi Knight",
-			"collector_number": "102",
-			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/102_Anakin, Jedi Knight.png"
-			}
-		},
-		{
-			"name": "Leia, Rebel Leader",
-			"rarity": "special",
-			"mana_cost": "{2}{R}{W}{U}",
-			"type": "Legendary Creature — Human Rebel Advisor",
-			"collector_number": "105",
-			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/105_Leia, Rebel Leader.png"
-			}
-		},
-		{
-			"name": "Luke, Determined Adept",
-			"rarity": "special",
-			"mana_cost": "{G}{W}{U}",
-			"type": "Legendary Creature — Human Jedi",
-			"collector_number": "106",
-			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/106_Luke, Determined Adept.png"
-			}
-		},
-		{
-			"name": "Resolute, Anakin's Flagship",
-			"rarity": "special",
-			"mana_cost": "{W}{B}{R}",
-			"type": "Legendary Artifact — Spacecraft",
-			"collector_number": "109",
-			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/109_Resolute, Anakin's Flagship.png"
-			}
-		},
-		{
-			"name": "Red Five, Reclaimed",
-			"rarity": "special",
-			"mana_cost": "{2}{G}{W}{U}",
-			"type": "Legendary Artifact — Spacecraft",
-			"collector_number": "108",
-			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/108_Red Five, Reclaimed.png"
 			}
 		},
 		{
@@ -1113,6 +1043,66 @@
 			"image_uris": {
 				"en": "https://pkthedragon.github.io/sets/SWS-files/img/64_Bail Organa.png"
 			}
+		},
+		{
+			"name": "R2-D2",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Artifact Creature — Construct",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/102_R2-D2.png"
+			}
+		},
+		{
+			"name": "Moff Tarkin",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Legendary Creature — Human Soldier",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/104_Moff Tarkin.png"
+			}
+		},
+		{
+			"name": "Din Grogu",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Legendary Creature — Alien",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/106_Din Grogu.png"
+			}
+		},
+		{
+			"name": "Jar-Jar Binks",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Creature — Alien",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/105_Jar-Jar Binks.png"
+			}
+		},
+		{
+			"name": "C-3P0",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Legendary Artifact Creature — Construct",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/108_C-3P0.png"
+			}
+		},
+		{
+			"name": "Sy Snootles",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Creature — Alien Bard Assassin",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/103_Sy Snootles.png"
+			}
 		}
 	]
 
@@ -1139,7 +1129,7 @@
 	1 Chewbacca, Wookie Cohort
 	1 Master Mace Windu
 	2 General Grievous
-	1 Han Solo, Roguish Captain
+	1 Han Solo, Smuggler Captain
 	1 The Millenium Falcon
 	1 Grand Master Yoda
 	1 Obi-Wan Kenobi
@@ -1248,7 +1238,7 @@
 	1 Chewbacca, Wookie Cohort
 	1 Master Mace Windu
 	2 General Grievous
-	1 Han Solo, Roguish Captain
+	1 Han Solo, Smuggler Captain
 	1 The Millenium Falcon
 	1 Grand Master Yoda
 	1 Obi-Wan Kenobi
@@ -1350,7 +1340,7 @@
 	4 Chewbacca, Wookie Cohort
 	4 Master Mace Windu
 	7 General Grievous
-	4 Han Solo, Roguish Captain
+	4 Han Solo, Smuggler Captain
 	4 The Millenium Falcon
 	4 Grand Master Yoda
 	4 Obi-Wan Kenobi

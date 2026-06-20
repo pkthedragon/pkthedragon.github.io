@@ -1,4 +1,116 @@
-﻿VERSION 7 CHANGELOG
+﻿VERSION 8 CHANGELOG
+====================
+
+Han Solo, Smuggler Captain added.
+R2-D2 added.
+Moff Tarkin added.
+Din Grogu added.
+Jar-Jar Binks added.
+C-3P0 added.
+Sy Snootles added.
+
+Han Solo, Roguish Captain removed.
+Lama Su, the Overseer removed.
+Jabba, the Bloated One removed.
+Anakin, Jedi Knight removed.
+Leia, Rebel Leader removed.
+Luke, Determined Adept removed.
+Resolute, Anakin's Flagship removed.
+Red Five, Reclaimed removed.
+
+The Twilight
+rules_text: Ward {2}
+Whenever a creature you control stations The Twilight, you may return it to its owner's hand.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 6+] Flying
+You may activate The Twilight's station ability any time you could cast an instant. [4/2]
+ => Ward {2}
+Whenever a creature you control stations The Twilight, you may return it to its owner's hand.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 6+.)[/i]
+[level 6+] Flying
+You may activate The Twilight's station ability any time you could cast an instant. [4/2]
+
+special_text: Ward {2}
+Whenever a creature you control stations The Twilight, you may return it to its owner's hand.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 6+] Flying
+You may activate The Twilight's station ability any time you could cast an instant. [4/2]
+ => Ward {2}
+Whenever a creature you control stations The Twilight, you may return it to its owner's hand.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 6+.)[/i]
+[level 6+] Flying
+You may activate The Twilight's station ability any time you could cast an instant. [4/2]
+
+
+The Millenium Falcon
+rules_text: Tapped nonattacking creatures you control have hexproof.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 12+] Flying, first strike
+{R}, Remove X counters from a tapped permanent you control: The Millenium Falcon deals X damage to target creature. [8/4]
+ => Tapped nonattacking creatures you control have hexproof.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 12+.)[/i]
+[level 12+] Flying, first strike
+{R}, Remove X counters from a tapped permanent you control: The Millenium Falcon deals X damage to target creature. [8/4]
+
+special_text: Tapped nonattacking creatures you control have hexproof.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 12+] Flying, first strike
+{R}, Remove X counters from a tapped permanent you control: The Millenium Falcon deals X damage to target creature. [8/4]
+ => Tapped nonattacking creatures you control have hexproof.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 12+.)[/i]
+[level 12+] Flying, first strike
+{R}, Remove X counters from a tapped permanent you control: The Millenium Falcon deals X damage to target creature. [8/4]
+
+
+Luke Skywalker
+rules_text: Whenever Luke Skywalker becomes tapped for the first time each turn, put a +1/+1 counter on him.
+Force — {G}, {Q}: Destroy target artifact or enchantment with mana value less than or equal to the number of counters on Luke Skywalker. If at least one permanent was destroyed this way, Luke Skywalker gains hexproof until end of turn. [i](Activate only once each turn.)[/i] => Whenever Luke Skywalker becomes untapped, put a +1/+1 counter on him.
+Force — {G}, {Q}: Destroy target artifact or enchantment with mana value less than or equal to the number of counters on Luke Skywalker. If a permanent was destroyed this way, Luke Skywalker gains hexproof until end of turn. [i](Activate only once each turn.)[/i]
+
+The Supremacy
+rules_text: During your turn, The Supremacy has indestructible.
+Whenever a creature stations The Supremacy, hunt another target artifact or creature until end of turn.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 20+] Bounty — Return any number of target artifact and/or creature cards from your graveyard to your hand. [2/20]
+ => During your turn, The Supremacy has indestructible.
+Whenever a creature stations The Supremacy, hunt another target artifact or creature until end of turn.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 20+.)[/i]
+[level 20+] Bounty — Return any number of target artifact and/or creature cards from your graveyard to your hand. [2/20]
+
+special_text: During your turn, The Supremacy has indestructible.
+Whenever a creature stations The Supremacy, hunt another target artifact or creature until end of turn.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 20+] Bounty — Return any number of target artifact and/or creature cards from your graveyard to your hand. [2/20]
+ => During your turn, The Supremacy has indestructible.
+Whenever a creature stations The Supremacy, hunt another target artifact or creature until end of turn.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 20+.)[/i]
+[level 20+] Bounty — Return any number of target artifact and/or creature cards from your graveyard to your hand. [2/20]
+
+
+Red Five
+rules_text: Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 2+] Whenever you untap an artifact or a creature during a main phase, draw a card and put a charge counter on Red Five.
+[level 4+] Flying, vigilance
+Remove X charge counters from Red Five: Red Five gets +X/+0 until end of turn. [0/4] => Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 4+.)[/i]
+[level 2+] Whenever you untap an artifact or a creature during a main phase, draw a card and put a charge counter on Red Five.
+[level 4+] Flying, vigilance
+Remove X charge counters from Red Five: Red Five gets +X/+0 until end of turn. [0/4]
+special_text: Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 2+] Whenever you untap an artifact or a creature during a main phase, draw a card and put a charge counter on Red Five.
+[level 4+] Flying, vigilance
+Remove X charge counters from Red Five: Red Five gets +X/+0 until end of turn. [0/4] => Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 4+.)[/i]
+[level 2+] Whenever you untap an artifact or a creature during a main phase, draw a card and put a charge counter on Red Five.
+[level 4+] Flying, vigilance
+Remove X charge counters from Red Five: Red Five gets +X/+0 until end of turn. [0/4]
+
+No Disintegrations
+rules_text: Put X plus one shield counters on target creature, then you may trigger a bounty ability target permanent you control. For as long as that creature has a shield counter on it, it loses all abilities and is an artifact. [i](It's not a creature.)[/i] => Put X plus one shield counters on target creature, then you may trigger a bounty ability of target permanent you control. For as long as that creature has a shield counter on it, it loses all abilities and is an artifact. [i](It's not a creature.)[/i]
+
+Fraternal Betrayal
+rules_text: Target player gains control of target creature you control until end of turn. Untap that creature. Until end of turn, it gains haste, undying, and “This creature must attack each combat if able. Whenever it attacks, it fights another target creature you control.” => Target player gains control of target creature you control until end of turn. Untap that creature. Until end of turn, it gains haste, undying, and “This creature attacks each combat if able. When it does, it fights another target creature you control.”
+
+
+VERSION 7 CHANGELOG
 ====================
 
 Darth Tyranus added.

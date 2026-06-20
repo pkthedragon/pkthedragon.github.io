@@ -48,7 +48,7 @@
         "set": "SWS"
     },
     {
-        "card_name": "Han Solo, Roguish Captain",
+        "card_name": "Han Solo, Smuggler Captain",
         "number": 12,
         "shape": "normal",
         "set": "SWS"
@@ -72,11 +72,38 @@
         "set": "SWS"
     },
     {
-        "card_name": "e"
+        "card_name": "Moff Tarkin",
+        "number": 104,
+        "shape": "normal",
+        "set": "SWS"
     },
     {
         "card_name": "Kyber Crystal",
         "number": 13,
+        "shape": "normal",
+        "set": "SWS"
+    },
+    {
+        "card_name": "Din Grogu",
+        "number": 106,
+        "shape": "normal",
+        "set": "SWS"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Blockade",
+        "number": 6,
+        "shape": "battle split",
+        "set": "SWS"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Jar-Jar Binks",
+        "number": 105,
         "shape": "normal",
         "set": "SWS"
     },
@@ -87,9 +114,27 @@
         "card_name": "e"
     },
     {
-        "card_name": "Blockade",
-        "number": 6,
-        "shape": "battle split",
+        "card_name": "R2-D2",
+        "number": 102,
+        "shape": "normal",
+        "set": "SWS"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Sy Snootles",
+        "number": 103,
+        "shape": "normal",
         "set": "SWS"
     },
     {
@@ -406,8 +451,8 @@
         "set": "SWS"
     },
     {
-        "card_name": "Jar-Jar Binks",
-        "number": 70,
+        "card_name": "Barriss Offee, the Healer",
+        "number": 18,
         "shape": "normal",
         "set": "SWS"
     },
@@ -436,8 +481,8 @@
         "set": "SWS"
     },
     {
-        "card_name": "Barriss Offee, the Healer",
-        "number": 18,
+        "card_name": "Speaker Mas Amedda",
+        "number": 58,
         "shape": "normal",
         "set": "SWS"
     },
@@ -463,105 +508,6 @@
         "set": "SWS"
     },
     {
-        "card_name": "Speaker Mas Amedda",
-        "number": 58,
-        "shape": "normal",
-        "set": "SWS"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "Master Mace Windu",
-        "number": 42,
-        "shape": "normal",
-        "set": "SWS"
-    },
-    {
-        "card_name": "Chancellor Palpatine",
-        "number": 24,
-        "shape": "normal",
-        "set": "SWS"
-    },
-    {
-        "card_name": "Jabba the Hutt",
-        "number": 34,
-        "shape": "normal",
-        "set": "SWS"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Luke Skywalker",
-        "number": 38,
-        "shape": "normal",
-        "set": "SWS"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Jabba, the Bloated One",
-        "number": 103,
-        "shape": "normal",
-        "set": "SWS"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Luke, Determined Adept",
-        "number": 106,
-        "shape": "normal",
-        "set": "SWS"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Red Five, Reclaimed",
-        "number": 108,
-        "shape": "leveler",
-        "set": "SWS"
-    },
-    {
         "card_name": "er"
     },
     {
@@ -583,11 +529,20 @@
         "set": "SWS"
     },
     {
-        "card_name": "e"
+        "card_name": "Jabba the Hutt",
+        "number": 34,
+        "shape": "normal",
+        "set": "SWS"
     },
     {
-        "card_name": "The Mandalorian",
-        "number": 39,
+        "card_name": "Luke Skywalker",
+        "number": 38,
+        "shape": "normal",
+        "set": "SWS"
+    },
+    {
+        "card_name": "Master Mace Windu",
+        "number": 42,
         "shape": "normal",
         "set": "SWS"
     },
@@ -598,40 +553,16 @@
         "set": "SWS"
     },
     {
-        "card_name": "Lama Su, the Overseer",
-        "number": 104,
+        "card_name": "Chancellor Palpatine",
+        "number": 24,
         "shape": "normal",
         "set": "SWS"
     },
     {
-        "card_name": "Anakin, Jedi Knight",
-        "number": 102,
+        "card_name": "The Mandalorian",
+        "number": 39,
         "shape": "normal",
         "set": "SWS"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Leia, Rebel Leader",
-        "number": 105,
-        "shape": "normal",
-        "set": "SWS"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Resolute, Anakin's Flagship",
-        "number": 109,
-        "shape": "leveler",
-        "set": "SWS"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "e"
@@ -710,7 +641,10 @@
         "set": "SWS"
     },
     {
-        "card_name": "e"
+        "card_name": "C-3P0",
+        "number": 108,
+        "shape": "normal",
+        "set": "SWS"
     },
     {
         "card_name": "er"
