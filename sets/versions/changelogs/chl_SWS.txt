@@ -1,4 +1,452 @@
-﻿VERSION 11 CHANGELOG
+﻿VERSION 12 CHANGELOG
+====================
+
+Kashyyyk, Wild Enclave added.
+The Millennium Falcon added.
+Master Depa Billaba added.
+Queen Padmé Amidala added.
+The Raddus added.
+The Executor added.
+Wild Rancor added.
+The Finalizer added.
+Carbon-Freezing Chamber added.
+
+Kashyyk, Wild Enclave removed.
+The Millenium Falcon removed.
+Master Depa Billibaba removed.
+Queen Padme Amidala removed.
+R2-D2 removed.
+Moff Tarkin removed.
+Din Grogu removed.
+Jar-Jar, General Bombad removed.
+C-3P0 removed.
+Sy Snootles removed.
+Asajj Ventress, Nightsister removed.
+Leia, Rebel Princess removed.
+Chewbacca removed.
+Jyn Erso removed.
+Fennec Shand removed.
+Jango Fett, the Progenitor removed.
+Lee Char removed.
+Savage Opress removed.
+Rey Skywalker removed.
+Din Djarin removed.
+Cassian Andor removed.
+Boba Fett, Apex Hunter removed.
+Anakin, the Vengeant removed.
+Lama Su, the Overseer removed.
+Kit Fisto, Jedi Consular removed.
+Obi-Wan, the Negotiator removed.
+Senator Palpatine removed.
+Darth Maul, The Shadow removed.
+Han Solo, Rebel General removed.
+Luke, Determined Adept removed.
+Raddus removed.
+Executor removed.
+Rancor removed.
+Finalizer removed.
+X-Wing removed.
+
+Droideka
+type: Artifact Creature — Construct => Artifact Creature — Droid
+rules_text: Assembly 3 [i](This creature enters with three +1/+1 counters on it. When it dies, create a 1/1 colorless Construct artifact creature token for each +1/+1 counter on it.)[/i]
+Droideka enters with a shield counter on it.
+{1}, Remove a counter from Droideka: It deals 1 damage to any target. => Assembly 3 [i](This creature enters with three +1/+1 counters on it. When it dies, create a 1/1 colorless Droid artifact creature token for each +1/+1 counter on it.)[/i]
+Droideka enters with a shield counter on it.
+{1}, Remove a counter from Droideka: It deals 1 damage to any target.
+
+Anakin, Fledgeling Pilot
+rules_text: Anakin crews Vehicles and stations Spacecraft as though his power were 2 greater.
+Whenever Anakin becomes tapped, he or target artifact creature you control gain first strike until end of turn. => Anakin stations permanents as though his power were 2 greater.
+Whenever Anakin becomes tapped, he and target artifact creature you control gain first strike until end of turn.
+
+The Twilight
+cost: {2}{U} => {3}{U}
+rules_text: Ward {2}
+Whenever a creature you control stations The Twilight, you may return it to its owner's hand.
+Station
+[level 6+] Flying
+You may activate The Twilight's station ability any time you could cast an instant. [4/2]
+ => Ward {2}
+Whenever a creature you control stations The Twilight, you may return it to its owner's hand.
+Station
+[level 6+] Flying
+You may activate The Twilight's station ability any time you could cast an instant. [6/3]
+
+special_text: Ward {2}
+Whenever a creature you control stations The Twilight, you may return it to its owner's hand.
+Station
+[level 6+] Flying
+You may activate The Twilight's station ability any time you could cast an instant. [4/2]
+ => Ward {2}
+Whenever a creature you control stations The Twilight, you may return it to its owner's hand.
+Station
+[level 6+] Flying
+You may activate The Twilight's station ability any time you could cast an instant. [6/3]
+
+
+R2-D2, Universal Companion
+type: Legendary Artifact Creature — Construct => Legendary Artifact Creature — Droid
+
+Jango Fett
+rules_text: Flying
+At the beginning of combat, hunt another target creature until end of turn. [i](Whenever a permanent you're hunting dies, create a Treasure token or trigger a bounty ability of a permanent you control.)[/i]
+Bounty — Create a 1/1 green Clone creature token with deathtouch. => Flying
+At the beginning of each combat, hunt another target creature until end of turn. [i](Whenever a permanent you're hunting dies, create a Treasure token or trigger a bounty ability of a permanent you control.)[/i]
+Bounty — Create a 1/1 green Clone creature token with deathtouch.
+pt: 4/4 => 3/4
+
+General Grievous
+type: Legendary Artifact Creature — Construct => Legendary Artifact Creature — Alien
+
+Han Solo, Smuggler Captain
+
+Senator Mon Mothma
+rules_text: When Senator Mon Mothma enters, return another target creature to its owner's hand.
+At the beginning of combat, if an opponent controls more creatures than you, you may pay {R}. When you do, exile Senator Mon Mothma and return her to the battlefield transformed under her owner's control. => When Senator Mon Mothma enters, return another target creature to its owner's hand.
+At the beginning of combat, if an opponent controls more creatures than you, you may pay {2}{R}{R}. When you do, exile Senator Mon Mothma and return her to the battlefield transformed under her owner's control.
+
+The Death Star II
+
+Red Five
+cost: {3}{U} => {1}{U}
+rules_text: Station
+[level 2+] Whenever you untap an artifact or a creature during a main phase, draw a card and put a charge counter on Red Five.
+[level 4+] Flying, vigilance
+Remove X charge counters from Red Five: Red Five gets +X/+0 until end of turn. [0/4] => Station
+[level 2+] Whenever you untap an artifact or creature during a main phase, draw a card and put a charge counter on Red Five.
+[level 8+] Flying, vigilance
+Discard X cards: Red Five gets +X/+0 until end of turn. [0/4]
+special_text: Station
+[level 2+] Whenever you untap an artifact or a creature during a main phase, draw a card and put a charge counter on Red Five.
+[level 4+] Flying, vigilance
+Remove X charge counters from Red Five: Red Five gets +X/+0 until end of turn. [0/4] => Station
+[level 2+] Whenever you untap an artifact or creature during a main phase, draw a card and put a charge counter on Red Five.
+[level 8+] Flying, vigilance
+Discard X cards: Red Five gets +X/+0 until end of turn. [0/4]
+
+Kyber Crystal
+rules_text: Activated abilities of artifacts and equipped creatures you control cost {2} less to activate. This effect can't reduce the mana in that cost to less than one mana.
+{X}{X}, {T}, Sacrifice Kyber Crystal: Copy target activated ability X times. You may choose new targets for the copies. Kyber Crystal deals X damage to you. This ability can't be copied. => Activated abilities of artifacts and equipped creatures you control cost {2} less to activate. This effect can't reduce the mana in that cost to less than one mana.
+{X}{X}, {T}, Pay X life, Sacrifice Kyber Crystal: Copy target activated ability X times. You may choose new targets for the copies. This ability can't be copied.
+
+Fall of the New Republic
+rules_text: Put a Spacecraft or Planet card from your hand onto the battlefield, then destroy all artifacts and enchantments you don't control. Put a charge counter on that Spacecraft or Planet for each permanent destroyed this way. => Put a Spacecraft or Planet card from your hand onto the battlefield, then destroy all artifacts and enchantments you don't control. You may put a charge counter on that Spacecraft or Planet for each permanent destroyed this way.
+
+Warding Lightsaber
+
+Cleansed Lightsaber
+
+Defiant Lightsaber
+
+The Darksaber
+
+The Death Star
+
+Starkiller Base
+
+Darth Tyranus
+rules_text: When Darth Tyranus enters, create a 1/1 colorless Construct artifact creature token.
+Force — {Q}, Sacrifice an artifact: Exile the top card of each opponent's library. You may play those cards this turn, and mana of any type can be spent to cast those spells. [i](Activate only once each turn.)[/i] => When Darth Tyranus enters, create a 1/1 colorless Droid artifact creature token.
+Force — {Q}, Sacrifice an artifact: Exile the top card of each opponent's library. You may play those cards this turn, and mana of any type can be spent to cast those spells. [i](Activate only once each turn.)[/i]
+
+Speaker Mas Amedda
+rules_text: Whenever a player casts a noncreature spell, that player creates a 1/1 white Advisor creature token and can't cast additional noncreature spells this turn.
+Whenever a token you control dies, each opponent loses 1 life and you gains 1 life. This ability triggers only once each turn. => Whenever a player casts a noncreature spell, that player creates a 1/1 white Advisor creature token and can't cast additional noncreature spells this turn.
+Whenever a token you control dies, each opponent loses 1 life and you gain 1 life. This ability triggers only once each turn.
+
+Grogu, The Child
+rules_text: Protection from creatures
+Force — {X}{X}{G}{U}, {Q}: Choose X. You may choose the same mode more than once. [i](Activate only once each turn.)[/i]
+• Tap target nonland permanent.
+• Put a shield counter on target permanent.
+• Put a land card from your hand onto the battlefield tapped. => Prevent all combat damage that would be dealt to Grogu.
+Force — {X}{X}{G}{U}, {Q}: Choose X. You may choose the same mode more than once. [i](Activate only once each turn.)[/i]
+• Tap target nonland permanent.
+• Put a shield counter on target permanent.
+• Put a land card from your hand onto the battlefield tapped.
+
+Bo-Katan Kryze
+rules_text: Flying, haste
+You may look at the top card of your library any time.
+While Bo-Katan Kryze is tapped, you may cast Vehicle, Spacecraft, and legendary spells from the top of your library. => Flying, haste
+Whenever Bo-Katan Kryze becomes tapped, look at the top card of your library. If it's a Spacecraft or legendary card, you may reveal it and draw a card.
+
+Captain Hera Syndulla
+rules_text: Vigilance
+Creatures you control crew Vehicles and station Spacecraft as though their power were 1 greater.
+Vehicles and Spacecraft you control have haste. => Vigilance
+Artifact creatures you control have haste.
+Creatures you control station permanents as though their power were 1 greater.
+
+Moff Gideon
+rules_text: Whenever Moff Gideon attacks, he gains flying and menace until end of turn.
+{4}{U}{R}: Create a 2/2 black Construct Soldier artifact creature token with menace and put a shield counter on it. This ability costs {1} less to activate for each ability you activated this turn that wasn't a mana ability. => Whenever Moff Gideon attacks, he gains flying and menace until end of turn.
+{4}{U}{R}: Create a 2/2 black Droid Soldier artifact creature token with menace and put a shield counter on it. This ability costs {1} less to activate for each ability you activated this turn that wasn't a mana ability.
+
+General Leia Organa
+cost: {W} => {3}{W}
+rules_text:  => Whenever another Rebel you control enters, put a +1/+1 counter on up to one target tapped creature.
+At the beginning of your second main phase, create a 1/1 white Rebel creature token if you control a tapped creature.
+pt:  => 2/4
+
+Max Rebo, the Virtuoso
+
+Anakin, Cocky Protege
+rules_text: Force — {R}{W}, {Q}: You may exile target creature you control and put a guard counter on it. Until end of turn, target Vehicle or Spacecraft gains double strike, haste, and “Whenever this deals combat damage to a player, you may put a creature card exiled with a guard counter on it onto the battlefield under your control.” [i](Activate only once each turn.)[/i] => Force — {R}{W}, {Q}: You may exile target creature you control and put a guard counter on it. Until end of turn, target artifact creature gains double strike, haste, and “Whenever this deals combat damage to a player, you may put a creature card exiled with a guard counter on it onto the battlefield under your control.” [i](Activate only once each turn.)[/i]
+
+Boba Fett
+
+Captain Rex
+rules_text: Captain Rex can't be countered.
+Captain Rex enters with a haste counter on him if {R}{R} was spent to cast him, and a +1/+1 counter if {G}{G} was spent.
+Vehicles, Spacecraft, and nontoken creatures you control enter with an additional counter on them of a kind on Captain Rex. => Captain Rex can't be countered.
+Captain Rex enters with a haste counter on him if {R}{R} was spent to cast him, and a +1/+1 counter if {G}{G} was spent.
+Nontoken artifacts and creatures you control enter with an additional counter on them of a kind on Captain Rex.
+
+Ackbar's Command
+cost: {U} => {2}{U}{U}
+rules_text:  => Choose two —
+• Untap up to two target artifacts and/or creatures.
+• Tap up to two target artifacts and/or creatures.
+• Target player draws a card.
+• Counter target activated or triggered ability.
+
+Tarkin's Command
+type:  => Sorcery
+cost: {B} => {2}{B}{B}
+rules_text:  => Choose two —
+• Target player creates a 2/2 white Soldier creature token.
+• Hunt an artifact or creature target player controls until end of turn.
+• Target player sacrifices an artifact or creature.
+• Creatures get -1/-1 until end of turn.
+
+Lando Calrissian
+cost: {R} => {2}{R}
+rules_text:  => When Lando Calrissian enters, flip a coin. If you win the flip, create two tapped Treasure tokens. If you lose the flip, sacrifice an artifact.
+Whenever an artifact you control dies, you may discard a card. If you do, draw a card.
+pt:  => 2/3
+
+Master Ki-Adi-Mundi
+cost: {G} => {1}{G}{G}
+rules_text:  => Trample
+Whenever a Jedi you control deals combat damage to a player, untap up to that many target permanents with a mana ability.
+Force — {4}{G}{G}, {Q}: Draw cards equal to the greatest power among creatures you control. [i](Activate only once each turn.)[/i]
+pt:  => 4/3
+
+Battle of Yavin
+cost: {W} => {1}{W}{W}
+rules_text:  => [i](As a Mission enters, choose an opponent to protect it.)[/i]
+Whenever one or more creatures attack Battle of Yavin, you may tap target permanent defending player controls.
+When Battle of Yavin is defeated, you may exile target tapped permanent.
+loyalty:  => 3
+
+Exogorth
+rules_text: Whenever one or more creatures become tapped, you may untap Exogorth.
+Whenever Exogorth blocks or becomes blocked by a creature, exile it until Exogorth leaves the battlefield. => Whenever one or more creatures an opponent controls become tapped, you may untap Exogorth.
+Whenever Exogorth blocks or becomes blocked by a creature, exile it until Exogorth leaves the battlefield.
+
+Grand Moff Tarkin
+cost: {B} => {1}{B}
+rules_text:  => Whenever you sacrifice another permanent, put an exalted counter on Grand Moff Tarkin.
+{3}, Sacrifice another creature or artifact: Draw a card. Activate only once each turn.
+pt:  => 2/2
+
+Battle of Exegol
+cost: {R} => {4}{R}{R}
+rules_text:  => [i](As a Mission enters, choose an opponent to protect it.)[/i]
+When Battle of Exegol enters, put three charge counters on each artifact and Planet you control.
+When Battle of Exegol is defeated, untap all creatures you control and after this phase, there is an additional combat phase.
+loyalty:  => 4
+
+Wampa
+
+Leia's Command
+cost: {W} => {2}{W}{W}
+rules_text:  => Choose two —
+• Create two 1/1 white Rebel creature tokens.
+• Put a +1/+1 counter on each of up to two creatures you control.
+• Search your library for an artifact or Planet card, reveal it, put it into your hand, then shuffle.
+• Exile target artifact or creature.
+
+Lama Su, Grand Minister
+cost: {U} => {2}{U}{U}
+rules_text:  => Whenever Lama Su attacks, you may sacrifice another creature or artifact. When you do, create a token that's a copy of the sacrificed permanent except it's a 2/2 Clone creature. [i](It loses all other types.)[/i]
+Lama Su has all activated abilities of all Clones you control.
+pt:  => 3/4
+
+Cody's Command
+type: Sorcery => Instant
+cost: {R} => {2}{R}{R}
+rules_text:  => Choose two —
+• Target player creates two Treasure tokens.
+• Put two charge counters on each of up to two target artifacts.
+• Copy target activated or triggered ability.
+• Cody's Command deals 3 damage to target creature. If it's a Jedi, Cody's Command deals 6 damage to it instead.
+
+Slave I
+cost: {G} => {3}{G}{G}
+rules_text: 
+
+ => Station
+[level 2+] At the beginning of each upkeep, hunt up to two target creatures until end of turn.
+[level 12+] Flying, vigilance, deathtouch
+Bounty — Return up to one target card from your graveyard to your hand. [9/6]
+special_text: 
+
+ => Station
+[level 2+] At the beginning of each upkeep, hunt up to two target creatures until end of turn.
+[level 12+] Flying, vigilance, deathtouch
+Bounty — Return up to one target card from your graveyard to your hand. [9/6]
+
+Battle of Coruscant
+cost: {B} => {3}{B}{B}
+rules_text:  => [i](As a Mission enters, choose an opponent to protect it.)[/i]
+When Battle of Coruscant enters, each player sacrifices a nontoken creature. Each player who doesn't discards two cards.
+When Battle of Coruscant is defeated, return target creature card from a graveyard to the battlefield under your control.
+loyalty:  => 5
+
+Commander Cody
+cost: {R} => {1}{R}{R}
+rules_text:  => Haste
+Whenever Commander Cody attacks, put a +1/+1 counter on each Clone you control.
+{R}, Remove a counter from Commander Cody: He deals 1 damage to target creature. If you control that creature, put a haste counter on it.
+pt:  => 2/1
+
+Ahsoka's Command
+type:  => Sorcery
+cost: {G} => {2}{G}{G}
+rules_text:  => Choose two —
+• Put a shield counter on each creature target player controls.
+• Target creature you control deals damage equal to its power to target creature.
+• Destroy two target artifacts.
+• For each player, you may exile their graveyard.
+
+Tantive IV
+cost: {W} => {2}{W}{W}
+rules_text: 
+
+ => When Tantive IV enters, create two 1/1 white Rebel creature tokens.
+Station
+[level 6+] Flying, vigilance
+Whenever Tantive IV attacks, you may return target permanent card with mana value 3 or less from your graveyard to the battlefield. [3/6]
+
+special_text: 
+
+ => When Tantive IV enters, create two 1/1 white Rebel creature tokens.
+Station
+[level 6+] Flying, vigilance
+Whenever Tantive IV attacks, you may return target permanent card with mana value 3 or less from your graveyard to the battlefield. [3/6]
+
+
+Clone Lieutenant
+cost: {U} => {3}{U}{U}
+rules_text:  => When you cast Clone Lieutenant, you may pay {4}. When you do, copy it four times.
+You may have Clone Lieutenant enter as a copy of any creature on the battlefield, except it's a Clone Soldier and it isn't legendary.
+pt:  => 1/1
+
+Ahsoka Tano
+cost: {G} => {3}{G}
+rules_text:  => Haste
+Force — {G}, {Q}: Choose a kind of counter that Ahsoka Tano doesn't have on her from among flying, first strike, hexproof, lifelink, menace, reach, trample, and +1/+1. Put a counter of that kind on her. [i](Activate only once each turn.)[/i]
+pt:  => 4/4
+
+BB-8
+type: Legendary Artifact Creature — Construct => Legendary Artifact Creature — Droid
+rules_text:  => BB-8 stations permanents using its toughness rather than its power.
+{1}{W}: Untap target artifact or creature. Scry 1. Activate only once each turn.
+pt:  => 0/3
+
+Admiral Ackbar
+cost: {U} => {2}{U}
+rules_text:  => Flash
+When Admiral Ackbar enters, tap or untap up to two target artifacts and/or creatures.
+Whenever you untap a permanent during an opponent's turn, draw a card.
+pt:  => 2/3
+
+Asajj Ventress
+type: Legendary Creature — Alien Sith => Legendary Creature — Alien Sith Rogue
+cost: {B} => {3}{B}
+rules_text:  => Menace, lifelink
+Asajj Ventress has hexproof as long as a nonland permanent died this turn.
+Force — {B}, {Q}, Pay X life, Sacrifice a nonland permanent: Target creature gets +X/-X until end of turn. [i](Activate only once each turn.)[/i]
+pt:  => 3/3
+
+Greater Krayt Dragon
+
+Invisible Hand
+cost: {1} => {4}{R}
+rules_text: 
+
+ => Affinity for artifacts
+When Invisible Hand enters, gain control of target creature until end of turn. It gains haste until end of turn. You may untap it.
+Station
+[level 7+] Flying, haste
+When Invisible Hand dies, it deals 4 damage to each nonartifact creature. [7/5]
+
+special_text: 
+
+ => Affinity for artifacts
+When Invisible Hand enters, gain control of target creature until end of turn. It gains haste until end of turn. You may untap it.
+Station
+[level 7+] Flying, haste
+When Invisible Hand dies, it deals 4 damage to each nonartifact creature. [7/5]
+
+
+Star Destroyer
+cost: {1} => {5}
+rules_text: 
+
+ => Station
+Whenever one or more charge counters are put on Star Destroyer, put that many charge counters on each other Spacecraft you control.
+[level 12+] Flying, vigilance
+Whenever Star Destroyer attacks, destroy target permanent. [7/10]
+special_text: 
+
+ => Station
+Whenever one or more charge counters are put on Star Destroyer, put that many charge counters on each other Spacecraft you control.
+[level 12+] Flying, vigilance
+Whenever Star Destroyer attacks, destroy target permanent. [7/10]
+
+AT-AT Walker
+cost: {1} => {4}
+rules_text:  => Station [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery.)[/i]
+Trample, protection from mana value 3 or less
+At the beginning of each combat, you may remove two charge counters from AT-AT Walker. When you do, it becomes an artifact creature until end of turn.
+pt:  => 6/6
+
+Razor Crest
+cost: {1} => {2}
+rules_text: 
+
+ => Station
+[level 2+] Whenever another artifact or creature dies, you may exile it.
+[level 8+] Flying, hexproof from monocolored
+Whenever Razor Crest deals combat damage to a player, you may put a card exiled with it onto the battlefield under your control. [4/6]
+special_text: 
+
+ => Station
+[level 2+] Whenever another artifact or creature dies, you may exile it.
+[level 8+] Flying, hexproof from monocolored
+Whenever Razor Crest deals combat damage to a player, you may put a card exiled with it onto the battlefield under your control. [4/6]
+
+Home One
+cost: {R} => {2}{U}
+rules_text: 
+
+ => Station
+[level 1+] Whenever you tap an artifact or Planet for mana, add {C} and put a charge counter on Home One.
+[level 8+] Flying
+Whenever Home One attacks, untap all permanents you control. [5/8]
+special_text: 
+
+ => Station
+[level 1+] Whenever you tap an artifact or Planet for mana, add {C} and put a charge counter on Home One.
+[level 8+] Flying
+Whenever Home One attacks, untap all permanents you control. [5/8]
+
+
+VERSION 11 CHANGELOG
 ====================
 
 Jar-Jar, General Bombad added.
