@@ -1,4 +1,194 @@
-﻿VERSION 12 CHANGELOG
+﻿VERSION 13 CHANGELOG
+====================
+
+Fortress Inquisitorius added.
+Petranaki Arena added.
+Jedha City added.
+Citadel Tower added.
+Canto Casino added.
+Kessel Mines added.
+Takodana Castle added.
+Vergence Scatter added.
+Echo Base added.
+Bright Tree Village added.
+Sith Holocron added.
+Jedi Holocron added.
+Vulture Droid added.
+IG-88 Assassin added.
+GNK Power Droid added.
+Thermal Detonator added.
+74-Z Speeder added.
+X-Wing added.
+The Malevolence added.
+The Ghost added.
+TIE Fighter added.
+
+
+Droideka
+
+Alderaan, Peaceful Jewel
+
+Coruscant, Galaxy's Heart
+
+Mustafar, Volcanic Crucible
+
+Naboo, Verdant Paradise
+
+Tatooine, Twin-Sunned
+
+Bespin, Clouded Domain
+
+Dagobah, Fetid Refuge
+
+Kamino, Drowned Cradle
+rules_text: Kamino enters tapped.
+{T}: Add {U} or {B}.
+Station
+[level 8+] {1}{U}{B}, {T}, Sacrifice Kamino or an artifact: Return a card that was put into a graveyard this turn to its owner's hand.
+ => Kamino enters tapped.
+{T}: Add {U} or {B}.
+Station
+[level 8+] {1}{U}{B}, {T}, Sacrifice Kamino or an artifact: Return a nonland card that was put into a graveyard this turn to its owner's hand.
+
+special_text: Kamino enters tapped.
+{T}: Add {U} or {B}.
+Station
+[level 8+] {1}{U}{B}, {T}, Sacrifice Kamino or an artifact: Return a card that was put into a graveyard this turn to its owner's hand.
+ => Kamino enters tapped.
+{T}: Add {U} or {B}.
+Station
+[level 8+] {1}{U}{B}, {T}, Sacrifice Kamino or an artifact: Return a nonland card that was put into a graveyard this turn to its owner's hand.
+
+
+Kashyyyk, Wild Enclave
+
+Hoth, Frozen Outpost
+
+R2-D2, Universal Companion
+
+Mos Eisley
+
+The Millennium Falcon
+rules_text: Tapped nonattacking creatures you control have hexproof.
+Station
+[level 12+] Flying, first strike
+{R}, Remove X counters from a tapped permanent you control: The Millennium Falcon deals X damage to target creature. [8/4]
+ => Tapped creatures you control have hexproof.
+Station
+[level 12+] Flying, first strike
+{R}, Remove X counters from a tapped permanent you control: The Millennium Falcon deals X damage to target creature or battle. [8/4]
+
+special_text: Tapped nonattacking creatures you control have hexproof.
+Station
+[level 12+] Flying, first strike
+{R}, Remove X counters from a tapped permanent you control: The Millennium Falcon deals X damage to target creature. [8/4]
+ => Tapped creatures you control have hexproof.
+Station
+[level 12+] Flying, first strike
+{R}, Remove X counters from a tapped permanent you control: The Millennium Falcon deals X damage to target creature or battle. [8/4]
+
+
+Battle of Geonosis
+rules_text: [i](As a Mission enters, choose an opponent to protect it.)[/i]
+When Battle of Geonosis enters, gain control of target creature until Battle of Geonosis is defeated.
+When Battle of Geonosis is defeated, create two tokens that are copies of target creature, except they're Clone creatures. => [i](As a Mission enters, choose an opponent to protect it.)[/i]
+When Battle of Geonosis enters, gain control of target creature until Battle of Geonosis is defeated.
+When Battle of Geonosis is defeated, create two tokens that are copies of target creature, except they're Clone creatures and they're not legendary.
+
+The Death Star II
+
+Order 66
+rules_text: Create a token that's a copy of target creature you don't control except it's a Clone creature. Then each player sacrifices each creature they control that isn't a Clone. => Create a token that's a copy of target creature you don't control except it's a Clone creature and it isn't legendary. Then each player sacrifices each creature they control that isn't a Clone.
+
+Red Five
+rules_text: Station
+[level 2+] Whenever you untap an artifact or creature during a main phase, draw a card and put a charge counter on Red Five.
+[level 8+] Flying, vigilance
+Discard X cards: Red Five gets +X/+0 until end of turn. [0/4] => Station
+[level 2+] Whenever you untap an artifact or creature during a main phase, draw a card and put a charge counter on Red Five.
+[level 8+] Flying, vigilance
+Discard X cards: Red Five gets +X/+0 until end of turn. [4/4]
+special_text: Station
+[level 2+] Whenever you untap an artifact or creature during a main phase, draw a card and put a charge counter on Red Five.
+[level 8+] Flying, vigilance
+Discard X cards: Red Five gets +X/+0 until end of turn. [0/4] => Station
+[level 2+] Whenever you untap an artifact or creature during a main phase, draw a card and put a charge counter on Red Five.
+[level 8+] Flying, vigilance
+Discard X cards: Red Five gets +X/+0 until end of turn. [4/4]
+
+Warding Lightsaber
+
+Cleansed Lightsaber
+
+Defiant Lightsaber
+
+Bleeding Lightsaber
+
+Attuned Lightsaber
+
+The Darksaber
+
+The Death Star
+
+Ahch-To, Bygone Asylum
+
+Mandalore, Armored Ruin
+
+Moraband, Dark Tomb
+
+Jakku, Vessel Graveyard
+
+Nal Hutta, Decadent Mire
+
+Starkiller Base
+
+Jedi Temple
+
+Max Rebo, the Virtuoso
+
+Lama Su, Grand Minister
+rules_text: Whenever Lama Su attacks, you may sacrifice another creature or artifact. When you do, create a token that's a copy of the sacrificed permanent except it's a 2/2 Clone creature. [i](It loses all other types.)[/i]
+Lama Su has all activated abilities of all Clones you control. => Whenever Lama Su attacks, you may sacrifice another creature or artifact. When you do, create a token that's a copy of the sacrificed permanent except it's a 2/2 Clone creature and it isn't legendary. [i](It loses all other types.)[/i]
+Lama Su has all activated abilities of all Clones you control.
+
+The Raddus
+rules_text: When The Raddus enters, put a shield counter on each artifact you control.
+Station
+[level 8+] Flying, vigilance
+Whenever The Raddus attacks, you may exile it. When you do, exile target permanent. [6/12]
+ => When The Raddus enters, put a shield counter on each nonland permanent you control.
+Station
+[level 8+] Flying, vigilance
+Whenever The Raddus attacks, you may exile it. When you do, exile target permanent. [6/12]
+
+special_text: When The Raddus enters, put a shield counter on each artifact you control.
+Station
+[level 8+] Flying, vigilance
+Whenever The Raddus attacks, you may exile it. When you do, exile target permanent. [6/12]
+ => When The Raddus enters, put a shield counter on each nonland permanent you control.
+Station
+[level 8+] Flying, vigilance
+Whenever The Raddus attacks, you may exile it. When you do, exile target permanent. [6/12]
+
+
+The Finalizer
+
+Star Destroyer
+
+AT-AT Walker
+rules_text: Station [i](Tap another creature you control: Put charge counters equal to its power on this permanent. Station only as a sorcery.)[/i]
+Trample, protection from mana value 3 or less
+At the beginning of each combat, you may remove two charge counters from AT-AT Walker. When you do, it becomes an artifact creature until end of turn. => Assembly 4 [i](This creature enters with four +1/+1 counters on it. When it dies, create a 1/1 colorless Droid artifact creature token for each +1/+1 counter on it.)[/i]
+Trample, protection from mana value 3 or less
+Tap four untapped creatures you control: AT-AT Walker becomes an artifact creature until end of turn.
+pt: 6/6 => 0/0
+
+Razor Crest
+
+Carbon-Freezing Chamber
+
+
+VERSION 12 CHANGELOG
 ====================
 
 Kashyyyk, Wild Enclave added.

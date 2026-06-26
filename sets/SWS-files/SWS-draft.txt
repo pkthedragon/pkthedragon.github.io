@@ -15,9 +15,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}",
 			"type": "Artifact Creature — Droid",
-			"collector_number": "112",
+			"collector_number": "113",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/112_Droideka.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/113_Droideka.png"
 			}
 		},
 		{
@@ -65,9 +65,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Legendary Land — Planet",
-			"collector_number": "121",
+			"collector_number": "132",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/121_Alderaan, Peaceful Jewel.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/132_Alderaan, Peaceful Jewel.png"
 			}
 		},
 		{
@@ -75,9 +75,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Legendary Land — Planet",
-			"collector_number": "123",
+			"collector_number": "137",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/123_Coruscant, Galaxy's Heart.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/137_Coruscant, Galaxy's Heart.png"
 			}
 		},
 		{
@@ -85,9 +85,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Legendary Land — Planet",
-			"collector_number": "133",
+			"collector_number": "151",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/133_Mustafar, Volcanic Crucible.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/151_Mustafar, Volcanic Crucible.png"
 			}
 		},
 		{
@@ -95,9 +95,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Legendary Land — Planet",
-			"collector_number": "134",
+			"collector_number": "152",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/134_Naboo, Verdant Paradise.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/152_Naboo, Verdant Paradise.png"
 			}
 		},
 		{
@@ -105,9 +105,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Legendary Land — Planet",
-			"collector_number": "136",
+			"collector_number": "156",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/136_Tatooine, Twin-Sunned.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/156_Tatooine, Twin-Sunned.png"
 			}
 		},
 		{
@@ -125,9 +125,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Legendary Land — Planet",
-			"collector_number": "122",
+			"collector_number": "133",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/122_Bespin, Clouded Domain.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/133_Bespin, Clouded Domain.png"
 			}
 		},
 		{
@@ -135,9 +135,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Legendary Land — Planet",
-			"collector_number": "124",
+			"collector_number": "138",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/124_Dagobah, Fetid Refuge.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/138_Dagobah, Fetid Refuge.png"
 			}
 		},
 		{
@@ -145,9 +145,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Legendary Land — Planet",
-			"collector_number": "128",
+			"collector_number": "145",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/128_Kamino, Drowned Cradle.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/145_Kamino, Drowned Cradle.png"
 			}
 		},
 		{
@@ -155,9 +155,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Legendary Land — Planet",
-			"collector_number": "129",
+			"collector_number": "146",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/129_Kashyyyk, Wild Enclave.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/146_Kashyyyk, Wild Enclave.png"
 			}
 		},
 		{
@@ -165,9 +165,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Legendary Land — Planet",
-			"collector_number": "125",
+			"collector_number": "141",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/125_Hoth, Frozen Outpost.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/141_Hoth, Frozen Outpost.png"
 			}
 		},
 		{
@@ -185,9 +185,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}",
 			"type": "Legendary Artifact Creature — Droid",
-			"collector_number": "114",
+			"collector_number": "120",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/114_R2-D2, Universal Companion.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/120_R2-D2, Universal Companion.png"
 			}
 		},
 		{
@@ -222,9 +222,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Legendary Land",
-			"collector_number": "132",
+			"collector_number": "150",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/132_Mos Eisley.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/150_Mos Eisley.png"
 			}
 		},
 		{
@@ -399,9 +399,9 @@
 			"rarity": "mythic",
 			"mana_cost": "",
 			"type": "Legendary Artifact Land — Planet",
-			"collector_number": "110",
+			"collector_number": "111",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/110_The Death Star II.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/111_The Death Star II.png"
 			}
 		},
 		{
@@ -519,9 +519,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}",
 			"type": "Artifact — Equipment",
-			"collector_number": "119",
+			"collector_number": "129",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/119_Warding Lightsaber.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/129_Warding Lightsaber.png"
 			}
 		},
 		{
@@ -529,9 +529,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}",
 			"type": "Artifact — Equipment",
-			"collector_number": "107",
+			"collector_number": "108",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/107_Cleansed Lightsaber.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/108_Cleansed Lightsaber.png"
 			}
 		},
 		{
@@ -539,9 +539,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}",
 			"type": "Artifact — Equipment",
-			"collector_number": "111",
+			"collector_number": "112",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/111_Defiant Lightsaber.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/112_Defiant Lightsaber.png"
 			}
 		},
 		{
@@ -549,9 +549,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}",
 			"type": "Artifact — Equipment",
-			"collector_number": "105",
+			"collector_number": "106",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/105_Bleeding Lightsaber.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/106_Bleeding Lightsaber.png"
 			}
 		},
 		{
@@ -559,9 +559,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}",
 			"type": "Artifact — Equipment",
-			"collector_number": "104",
+			"collector_number": "105",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/104_Attuned Lightsaber.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/105_Attuned Lightsaber.png"
 			}
 		},
 		{
@@ -569,9 +569,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}",
 			"type": "Legendary Artifact — Equipment",
-			"collector_number": "108",
+			"collector_number": "109",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/108_The Darksaber.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/109_The Darksaber.png"
 			}
 		},
 		{
@@ -579,9 +579,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Legendary Artifact Land — Planet",
-			"collector_number": "109",
+			"collector_number": "110",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/109_The Death Star.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/110_The Death Star.png"
 			}
 		},
 		{
@@ -589,9 +589,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Legendary Land — Planet",
-			"collector_number": "120",
+			"collector_number": "131",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/120_Ahch-To, Bygone Asylum.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/131_Ahch-To, Bygone Asylum.png"
 			}
 		},
 		{
@@ -599,9 +599,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Legendary Land — Planet",
-			"collector_number": "130",
+			"collector_number": "148",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/130_Mandalore, Armored Ruin.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/148_Mandalore, Armored Ruin.png"
 			}
 		},
 		{
@@ -609,9 +609,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Legendary Land — Planet",
-			"collector_number": "131",
+			"collector_number": "149",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/131_Moraband, Dark Tomb.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/149_Moraband, Dark Tomb.png"
 			}
 		},
 		{
@@ -619,9 +619,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Legendary Land — Planet",
-			"collector_number": "126",
+			"collector_number": "142",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/126_Jakku, Vessel Graveyard.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/142_Jakku, Vessel Graveyard.png"
 			}
 		},
 		{
@@ -629,9 +629,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Legendary Land — Planet",
-			"collector_number": "135",
+			"collector_number": "153",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/135_Nal Hutta, Decadent Mire.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/153_Nal Hutta, Decadent Mire.png"
 			}
 		},
 		{
@@ -639,9 +639,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Legendary Artifact Land — Planet",
-			"collector_number": "118",
+			"collector_number": "125",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/118_Starkiller Base.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/125_Starkiller Base.png"
 			}
 		},
 		{
@@ -649,9 +649,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "127",
+			"collector_number": "144",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/127_Jedi Temple.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/144_Jedi Temple.png"
 			}
 		},
 		{
@@ -879,9 +879,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}{G}",
 			"type": "Legendary Creature — Alien Bard Rogue",
-			"collector_number": "137",
+			"collector_number": "158",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/137_Max Rebo, the Virtuoso.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/158_Max Rebo, the Virtuoso.png"
 			}
 		},
 		{
@@ -1199,9 +1199,9 @@
 			"rarity": "rare",
 			"mana_cost": "{6}",
 			"type": "Legendary Artifact — Spacecraft",
-			"collector_number": "115",
+			"collector_number": "121",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/115_The Raddus.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/121_The Raddus.png"
 			}
 		},
 		{
@@ -1339,9 +1339,9 @@
 			"rarity": "rare",
 			"mana_cost": "{5}",
 			"type": "Legendary Artifact — Spacecraft",
-			"collector_number": "113",
+			"collector_number": "114",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/113_The Finalizer.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/114_The Finalizer.png"
 			}
 		},
 		{
@@ -1349,9 +1349,9 @@
 			"rarity": "rare",
 			"mana_cost": "{5}",
 			"type": "Artifact — Spacecraft",
-			"collector_number": "117",
+			"collector_number": "124",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/117_Star Destroyer.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/124_Star Destroyer.png"
 			}
 		},
 		{
@@ -1359,9 +1359,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "103",
+			"collector_number": "104",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/103_AT-AT Walker.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/104_AT-AT Walker.png"
 			}
 		},
 		{
@@ -1369,9 +1369,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}",
 			"type": "Legendary Artifact — Spacecraft",
-			"collector_number": "116",
+			"collector_number": "122",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/116_Razor Crest.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/122_Razor Crest.png"
 			}
 		},
 		{
@@ -1389,9 +1389,219 @@
 			"rarity": "rare",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "106",
+			"collector_number": "107",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/106_Carbon-Freezing Chamber.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/107_Carbon-Freezing Chamber.png"
+			}
+		},
+		{
+			"name": "Fortress Inquisitorius",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/140_Fortress Inquisitorius.png"
+			}
+		},
+		{
+			"name": "Petranaki Arena",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/154_Petranaki Arena.png"
+			}
+		},
+		{
+			"name": "Jedha City",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/143_Jedha City.png"
+			}
+		},
+		{
+			"name": "Citadel Tower",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/136_Citadel Tower.png"
+			}
+		},
+		{
+			"name": "Canto Casino",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/135_Canto Casino.png"
+			}
+		},
+		{
+			"name": "Kessel Mines",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/147_Kessel Mines.png"
+			}
+		},
+		{
+			"name": "Takodana Castle",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/155_Takodana Castle.png"
+			}
+		},
+		{
+			"name": "Vergence Scatter",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/157_Vergence Scatter.png"
+			}
+		},
+		{
+			"name": "Echo Base",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/139_Echo Base.png"
+			}
+		},
+		{
+			"name": "Bright Tree Village",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/134_Bright Tree Village.png"
+			}
+		},
+		{
+			"name": "Sith Holocron",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/123_Sith Holocron.png"
+			}
+		},
+		{
+			"name": "Jedi Holocron",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/118_Jedi Holocron.png"
+			}
+		},
+		{
+			"name": "Vulture Droid",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Droid",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/128_Vulture Droid.png"
+			}
+		},
+		{
+			"name": "IG-88 Assassin",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Droid Assassin",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/117_IG-88 Assassin.png"
+			}
+		},
+		{
+			"name": "GNK Power Droid",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Droid",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/116_GNK Power Droid.png"
+			}
+		},
+		{
+			"name": "Thermal Detonator",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/126_Thermal Detonator.png"
+			}
+		},
+		{
+			"name": "74-Z Speeder",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/103_74-Z Speeder.png"
+			}
+		},
+		{
+			"name": "X-Wing",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Artifact — Spacecraft",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/130_X-Wing.png"
+			}
+		},
+		{
+			"name": "The Malevolence",
+			"rarity": "uncommon",
+			"mana_cost": "{5}",
+			"type": "Legendary Artifact — Spacecraft",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/119_The Malevolence.png"
+			}
+		},
+		{
+			"name": "The Ghost",
+			"rarity": "uncommon",
+			"mana_cost": "{5}",
+			"type": "Legendary Artifact — Spacecraft",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/115_The Ghost.png"
+			}
+		},
+		{
+			"name": "TIE Fighter",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact — Spacecraft",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/127_TIE Fighter.png"
 			}
 		}
 	]
@@ -1532,9 +1742,30 @@
 	4 Captain Hera Syndulla
 	4 Hondo Ohnaka, Pirate King
 	4 Moff Gideon
+	4 Sith Holocron
+	4 Jedi Holocron
+	4 Vulture Droid
+	4 IG-88 Assassin
+	4 GNK Power Droid
+	4 Thermal Detonator
+	4 74-Z Speeder
+	4 X-Wing
+	4 The Malevolence
+	4 The Ghost
+	4 TIE Fighter
 [common(7)]
 	8 Anakin, Faded Vestige
 	8 Blockade
+	8 Fortress Inquisitorius
+	8 Petranaki Arena
+	8 Jedha City
+	8 Citadel Tower
+	8 Canto Casino
+	8 Kessel Mines
+	8 Takodana Castle
+	8 Vergence Scatter
+	8 Echo Base
+	8 Bright Tree Village
 [foil(1)]
 	1 Darth Sidious
 	2 Droideka
@@ -1672,6 +1903,27 @@
 	2 Razor Crest
 	2 Home One
 	2 Carbon-Freezing Chamber
+	12 Fortress Inquisitorius
+	12 Petranaki Arena
+	12 Jedha City
+	12 Citadel Tower
+	12 Canto Casino
+	12 Kessel Mines
+	12 Takodana Castle
+	12 Vergence Scatter
+	12 Echo Base
+	12 Bright Tree Village
+	6 Sith Holocron
+	6 Jedi Holocron
+	6 Vulture Droid
+	6 IG-88 Assassin
+	6 GNK Power Droid
+	6 Thermal Detonator
+	6 74-Z Speeder
+	6 X-Wing
+	6 The Malevolence
+	6 The Ghost
+	6 TIE Fighter
 [wildcard(1)]
 	4 Darth Sidious
 	7 Droideka
@@ -1809,3 +2061,24 @@
 	7 Razor Crest
 	7 Home One
 	7 Carbon-Freezing Chamber
+	6 Fortress Inquisitorius
+	6 Petranaki Arena
+	6 Jedha City
+	6 Citadel Tower
+	6 Canto Casino
+	6 Kessel Mines
+	6 Takodana Castle
+	6 Vergence Scatter
+	6 Echo Base
+	6 Bright Tree Village
+	15 Sith Holocron
+	15 Jedi Holocron
+	15 Vulture Droid
+	15 IG-88 Assassin
+	15 GNK Power Droid
+	15 Thermal Detonator
+	15 74-Z Speeder
+	15 X-Wing
+	15 The Malevolence
+	15 The Ghost
+	15 TIE Fighter
