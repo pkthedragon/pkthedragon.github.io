@@ -1,4 +1,420 @@
-﻿VERSION 13 CHANGELOG
+﻿VERSION 14 CHANGELOG
+====================
+
+X-Wing Starfighter added.
+Youngling Padawan added.
+ISB Agent added.
+Droid Missile Platform added.
+Wookiee Warrior added.
+Gungan Warrior added.
+Cell Block Guard added.
+Unruly Astromech added.
+Bounty Guild Crew added.
+Dagger Squadron Pilot added.
+Mystic Hermit added.
+B1 Battle Droid added.
+N-1 Starfighter added.
+ARC-170 Starfighter added.
+Y-Wing Starfighter added.
+X-34 Landspeeder added.
+Blaster Rifle added.
+Ascension Cable added.
+Smuggling Compartment added.
+Probe Droid added.
+Bacta Tank added.
+Sabé, Queen's Shadow added.
+Shmi Skywalker added.
+Profundity added.
+Rebel Squadron Leader added.
+ARC Trooper added.
+Alderaanian Envoys added.
+Jedi Temple Guard added.
+Gungan Army Captain added.
+Battle of Hoth added.
+Stay On Target added.
+Protect Senator Amidala! added.
+Rose Tico added.
+
+X-Wing removed.
+
+Darth Sidious
+
+Droideka
+
+Destruction of Alderaan
+
+Luke, Ahch-To Exile
+
+Anakin, Fledgeling Pilot
+rules_text: Anakin stations permanents as though his power were 2 greater.
+Whenever Anakin becomes tapped, he and target artifact creature you control gain first strike until end of turn. => Anakin stations permanents as though his power were 2 greater.
+Whenever Anakin becomes tapped, he and up to one target artifact creature you control gain first strike until end of turn.
+
+The Twilight
+
+Alderaan, Peaceful Jewel
+
+Coruscant, Galaxy's Heart
+
+Mustafar, Volcanic Crucible
+
+Naboo, Verdant Paradise
+
+Tatooine, Twin-Sunned
+
+Bespin, Clouded Domain
+
+Dagobah, Fetid Refuge
+
+Kamino, Drowned Cradle
+
+Kashyyyk, Wild Enclave
+
+Hoth, Frozen Outpost
+
+Greedo, Trigger-Happy
+
+R2-D2, Universal Companion
+
+Anakin Skywalker
+
+Jabba the Hutt
+
+Mos Eisley
+
+Jango Fett
+
+Supreme Commander Vader
+
+Chewbacca, Wookie Cohort
+
+Master Mace Windu
+
+General Grievous
+
+Han Solo, Smuggler Captain
+
+The Millennium Falcon
+
+Grand Master Yoda
+
+Obi-Wan Kenobi
+
+Luke Skywalker
+
+Princess Leia Organa
+
+Senator Mon Mothma
+
+Rey, the Last Skywalker
+
+Kylo Ren, Supreme Leader
+
+Battle of Endor
+
+Battle of Geonosis
+
+The Death Star II
+
+Order 66
+
+The Supremacy
+
+Red Five
+rules_text: Station
+[level 2+] Whenever you untap an artifact or creature during a main phase, draw a card and put a charge counter on Red Five.
+[level 8+] Flying, vigilance
+Discard X cards: Red Five gets +X/+0 until end of turn. [4/4] => Station
+[level 4+] Whenever you attack, draw a card and put a charge counter on Red Five for each untapped attacking creature you control.
+[level 8+] Flying, vigilance
+Discard X cards: Red Five gets +X/+0 until end of turn. [4/4]
+special_text: Station
+[level 2+] Whenever you untap an artifact or creature during a main phase, draw a card and put a charge counter on Red Five.
+[level 8+] Flying, vigilance
+Discard X cards: Red Five gets +X/+0 until end of turn. [4/4] => Station
+[level 4+] Whenever you attack, draw a card and put a charge counter on Red Five for each untapped attacking creature you control.
+[level 8+] Flying, vigilance
+Discard X cards: Red Five gets +X/+0 until end of turn. [4/4]
+
+One With The Force
+
+No Disintegrations
+
+Kyber Crystal
+
+Fall of the New Republic
+
+Fraternal Betrayal
+
+The Skywalker Saga
+
+Trench Run
+
+Warding Lightsaber
+
+Cleansed Lightsaber
+
+Defiant Lightsaber
+
+Bleeding Lightsaber
+
+Attuned Lightsaber
+
+The Darksaber
+
+The Death Star
+
+Ahch-To, Bygone Asylum
+
+Mandalore, Armored Ruin
+
+Moraband, Dark Tomb
+
+Jakku, Vessel Graveyard
+
+Nal Hutta, Decadent Mire
+
+Starkiller Base
+
+Jedi Temple
+
+Obi-Wan, Stern Disciple
+
+Viceroy Nute Gunray
+
+Darth Tyranus
+
+Master Plo Koon
+
+Sly Moore, the Umbaran
+
+The Stranger, Cad Bane
+
+Boss Nass, Gungan Leader
+
+Master Depa Billaba
+
+Captain Cassian Andor
+
+Saw Gerrera, the Insurgent
+
+Speaker Mas Amedda
+
+Barriss Offee, the Healer
+rules_text: {B}, Sacrifice a token: Barriss Offee gets +2/-2 and gains menace until end of turn.
+Force — {W}, {Q}: You gain 1 life for each token you control that died this turn. [i](Activate only once each turn.)[/i] => {B}, Sacrifice a token: Barriss Offee gets +2/-2 and gains menace until end of turn.
+Force — {W}, {Q}: You gain 2 life for each token that died this turn. [i](Activate only once each turn.)[/i]
+
+Grogu, The Child
+
+Master Kit Fisto
+rules_text: Whenever a creature you control activates a force ability, it gains islandwalk until end of turn.
+Force — {GU}, {Q}: Untap up to two target lands. Lands untapped this way become Islands in addition to their other types until end of turn. [i](Activate only once each turn.)[/i] => Whenever you activate a force ability, target Jedi gains islandwalk until end of turn.
+Force — {GU}, {Q}: Untap up to two target lands. Lands untapped this way become Islands in addition to their other types until end of turn. [i](Activate only once each turn.)[/i]
+
+Bo-Katan Kryze
+
+Captain Hera Syndulla
+
+Hondo Ohnaka, Pirate King
+
+Moff Gideon
+
+The Mandalorian
+rules_text: Whenever The Mandalorian attacks or blocks, you may hunt another target artifact or creature until end of turn.
+Creatures you control have protection from permanents you're hunting.
+Bounty — Put a flying, vigilance, or deathtouch counter on The Mandalorian. => Whenever The Mandalorian attacks or blocks, hunt another target permanent until end of turn.
+Creatures you control have protection from permanents you're hunting.
+Bounty — Put a flying, vigilance, or deathtouch counter on The Mandalorian.
+
+Chancellor Palpatine
+
+General Leia Organa
+
+Yoda, Reclusive Mentor
+
+Max Rebo, the Virtuoso
+
+Blockade
+
+Ben, Exiled Warden
+
+Finn, Rogue Trooper
+
+Queen Padmé Amidala
+
+Supreme Leader Snoke
+
+Poe Dameron
+
+Anakin, Cocky Protege
+
+Darth Maul
+
+Master Qui-Gon Jinn
+
+Boba Fett
+rules_text: Whenever Boba Fett attacks, you may hunt target creature until end of turn.
+Whenever you hunt a creature, you may pay {BG}{BG}. If {B} was spent this way, Boba Fett gains deathtouch until end of turn, then if {G} was spent, he fights another target creature.
+Bounty — Create two 1/1 black Rogue creature tokens. => Whenever Boba Fett attacks, hunt target creature until end of turn.
+Whenever you hunt a creature, you may pay {BG}{BG}. If {B} was spent this way, Boba Fett gains deathtouch until end of turn, then if {G} was spent, he fights another target creature.
+Bounty — Create two 1/1 black Rogue creature tokens.
+
+Jar-Jar Binks
+
+Wedge Antilles
+rules_text: Whenever you activate an ability of an artifact or Planet that isn't a mana ability, you may pay {UR}{UR}. Scry 2 for each {U} spent this way, then exile the top card of your library for each {R} spent.
+You may play cards exiled with Wedge Antilles as long as he's tapped. => Whenever you activate an ability of an artifact or a Planet that isn't a mana ability, you may pay {UR}{UR}. Scry 2 for each {U} spent this way, then exile the top card of your library for each {R} spent.
+You may play cards exiled with Wedge Antilles as long as he's tapped.
+
+Han Solo, Veteran Smuggler
+rules_text: {W}{W}, {T}: Create Eravana, a legendary colorless Spacecraft artifact token with station and “[4+]—This Spacecraft is a 6/6 with flying and vigilance.”
+{R}{R}, Sacrifice an artifact: Han Solo deals damage to any target equal to the number of counters on the sacrificed artifact. => {W}{W}, {T}: Create Eravana, a legendary colorless Spacecraft artifact token with station and “4+: Flying, Vigilance, 6/6.”
+{R}{R}, Sacrifice an artifact: Han Solo deals damage to any target equal to the number of counters on the sacrificed artifact.
+
+Count Dooku
+
+Captain Rex
+
+Bail Organa
+
+Ackbar's Command
+
+Tarkin's Command
+
+Lando Calrissian
+
+Master Ki-Adi-Mundi
+
+Battle of Yavin
+rules_text: [i](As a Mission enters, choose an opponent to protect it.)[/i]
+Whenever one or more creatures attack Battle of Yavin, you may tap target permanent defending player controls.
+When Battle of Yavin is defeated, you may exile target tapped permanent. => [i](As a Mission enters, choose an opponent to protect it.)[/i]
+Whenever one or more creatures attack Battle of Yavin, you may tap target permanent defending player controls.
+When Battle of Yavin is defeated, exile target tapped permanent.
+
+Exogorth
+
+Grand Moff Tarkin
+
+Battle of Exegol
+
+Wampa
+
+Leia's Command
+
+Lama Su, Grand Minister
+
+Sarlacc
+
+Cody's Command
+
+Slave I
+
+Purrgil Ultra
+
+The Raddus
+
+Battle of Coruscant
+
+Commander Cody
+
+Ahsoka's Command
+
+Tantive IV
+
+Clone Lieutenant
+
+The Executor
+
+Ahsoka Tano
+
+BB-8
+
+Admiral Ackbar
+rules_text: Flash
+When Admiral Ackbar enters, tap or untap up to two target artifacts and/or creatures.
+Whenever you untap a permanent during an opponent's turn, draw a card. => Flash
+When Admiral Ackbar enters, tap or untap up to two target artifacts and/or creatures.
+Whenever you untap a tapped permanent during an opponent's turn, draw a card. This ability triggers only twice each turn.
+
+Asajj Ventress
+
+Greater Krayt Dragon
+
+Wild Rancor
+
+Invisible Hand
+
+The Finalizer
+
+Star Destroyer
+
+AT-AT Walker
+rules_text: Assembly 4 [i](This creature enters with four +1/+1 counters on it. When it dies, create a 1/1 colorless Droid artifact creature token for each +1/+1 counter on it.)[/i]
+Trample, protection from mana value 3 or less
+Tap four untapped creatures you control: AT-AT Walker becomes an artifact creature until end of turn. => Assembly 4 [i](This artifact enters with four +1/+1 counters on it. When it dies, create a 1/1 colorless Droid artifact creature token for each +1/+1 counter on it.)[/i]
+Trample, protection from mana value 3 or less
+Tap two untapped creatures you control: AT-AT Walker becomes an artifact creature until end of turn.
+
+Razor Crest
+
+Home One
+
+Carbon-Freezing Chamber
+rules_text: You may choose not to untap Carbon-Freezing Chamber during your untap step.
+{T}: Target creature becomes an artifact and gains indestructible for as long as Carbon-Freezing Chamber remains tapped. [i](It loses all other types.)[/i]
+{3}: Target artifact loses all abilities until end of turn. => You may choose not to untap Carbon-Freezing Chamber during your untap step.
+{T}: For as long as Carbon-Freezing Chamber remains tapped, target creature becomes an artifact and gains indestructible. [i](It loses all other types.)[/i]
+{3}: Target artifact loses all abilities until end of turn.
+
+Fortress Inquisitorius
+
+Petranaki Arena
+
+Jedha City
+
+Citadel Tower
+
+Canto Casino
+
+Kessel Mines
+
+Takodana Castle
+
+Vergence Scatter
+
+Echo Base
+
+Bright Tree Village
+
+Sith Holocron
+
+Jedi Holocron
+
+Vulture Droid
+
+IG-88 Assassin
+rules_text: Assembly 1 [i](This creature enters with a +1/+1 counter on it. When it dies, create a 1/1 colorless Droid artifact creature token for each +1/+1 counter on it.)[/i]
+Deathtouch
+Whenever a creature an opponent controls dies, put a +1/+1 counter on IG-88 Assassin. => Assembly 2 [i](This creature enters with two +1/+1 counters on it. When it dies, create a 1/1 colorless Droid artifact creature token for each +1/+1 counter on it.)[/i]
+Deathtouch
+Whenever a creature an opponent controls dies, put a +1/+1 counter on IG-88 Assassin.
+
+GNK Power Droid
+
+Thermal Detonator
+
+74-Z Speeder
+
+The Malevolence
+
+The Ghost
+
+TIE Fighter
+
+
+VERSION 13 CHANGELOG
 ====================
 
 Fortress Inquisitorius added.
