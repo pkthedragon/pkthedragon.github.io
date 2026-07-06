@@ -1,4 +1,428 @@
-﻿VERSION 15 CHANGELOG
+﻿VERSION 16 CHANGELOG
+====================
+
+Master Saesee Tiin added.
+
+
+Darth Sidious
+
+Droideka
+
+Destruction of Alderaan
+rules_text: Payload [i](Each kind of counter you remove from permanents you control while casting this pays for {1}.)[/i]
+Exile target land. Destruction of Alderaan deals 20 damage to each nonartifact creature. => Payload [i](This spell costs {1} less to cast for each kind of counter among permanents you control.)[/i]
+Exile target land. Destruction of Alderaan deals 20 damage to each nonartifact creature.
+
+Luke, Ahch-To Exile
+
+The Twilight
+
+Alderaan, Peaceful Jewel
+
+Coruscant, Galaxy's Heart
+
+Mustafar, Volcanic Crucible
+
+Naboo, Verdant Paradise
+
+Tatooine, Twin-Sunned
+
+Bespin, Clouded Domain
+
+Dagobah, Fetid Refuge
+
+Kamino, Drowned Cradle
+
+Kashyyyk, Wild Enclave
+
+Hoth, Frozen Outpost
+
+Greedo, Trigger-Happy
+
+R2-D2, Universal Companion
+
+Anakin Skywalker
+
+Jabba the Hutt
+
+Mos Eisley
+
+Jango Fett
+
+Supreme Commander Vader
+
+Chewbacca, Wookie Cohort
+
+Master Mace Windu
+
+General Grievous
+
+Han Solo, Smuggler Captain
+
+The Millennium Falcon
+
+Grand Master Yoda
+
+Obi-Wan Kenobi
+
+Luke Skywalker
+
+Princess Leia Organa
+
+Senator Mon Mothma
+
+Rey, the Last Skywalker
+
+Kylo Ren, Supreme Leader
+
+Battle of Endor
+
+The Death Star II
+
+Order 66
+
+The Supremacy
+
+Red Five
+
+One With The Force
+
+No Disintegrations
+
+Kyber Crystal
+
+Fraternal Betrayal
+
+The Skywalker Saga
+
+Trench Run
+rules_text: Payload [i](Each kind of counter you remove from permanents you control while casting this pays for {1}.)[/i]
+Target creature or Spacecraft you control gains double strike, trample, hexproof, and indestructible. Take an extra turn after this one. At the beginning of that turn's end step, you lose the game. => Payload [i](This spell costs {1} less to cast for each kind of counter among permanents you control.)[/i]
+Target creature or Spacecraft you control gains double strike, trample, hexproof, and indestructible. Take an extra turn after this one. At the beginning of that turn's end step, you lose the game.
+
+Warding Lightsaber
+
+Cleansed Lightsaber
+
+Defiant Lightsaber
+
+Bleeding Lightsaber
+
+Attuned Lightsaber
+
+The Darksaber
+
+The Death Star
+
+Ahch-To, Bygone Asylum
+
+Mandalore, Armored Ruin
+
+Moraband, Dark Tomb
+
+Jakku, Vessel Graveyard
+
+Nal Hutta, Decadent Mire
+
+Starkiller Base
+
+Jedi Temple
+
+Obi-Wan, Stern Disciple
+
+Viceroy Nute Gunray
+
+Darth Tyranus
+
+Master Plo Koon
+
+Sly Moore, the Umbaran
+rules_text: When Sly Moore enters, gain control of target creature for as long as you control Sly Moore.
+Whenever another creature you control dies, you may put Sly Moore on top of her owner's library. => When Sly Moore enters, gain control of target creature with power 3 or less for as long as you control Sly Moore.
+Whenever another creature you control dies, you may put Sly Moore on top of her owner's library.
+
+The Stranger, Cad Bane
+
+Boss Nass, Gungan Leader
+
+Master Depa Billaba
+
+Captain Cassian Andor
+rules_text: If one or more counters would be put on an artifact or creature you control, that many plus one of each of those kinds of counters are put on that permanent instead.
+Exile Captain Cassian Andor: The next spell you cast this turn has payload. [i](Each kind of counter you remove from permanents you control while casting it pays for {1}.)[/i] => If one or more counters would be put on an artifact or creature you control, that many plus one of each of those kinds of counters are put on that permanent instead.
+Exile Captain Cassian Andor: The next spell you cast this turn has payload. [i](It costs {1} less to cast for each kind of counter among permanents you control.)[/i]
+
+Saw Gerrera, the Insurgent
+
+Speaker Mas Amedda
+cost: {1}{W}{B} => {W}{B}
+rules_text: Whenever a player casts a noncreature spell, that player creates a 1/1 white Advisor creature token and can't cast additional noncreature spells this turn.
+Whenever a token you control dies, each opponent loses 1 life and you gain 1 life. This ability triggers only once each turn. => Protection from tokens
+Whenever a player casts a noncreature spell, that player creates a 1/1 white Advisor creature token and can't cast additional noncreature spells this turn.
+pt: 1/3 => 2/2
+
+Barriss Offee, the Healer
+cost: {W}{B} => {1}{W}{B}
+rules_text: {B}, Sacrifice a token: Barriss Offee gets +2/-2 and gains menace until end of turn.
+Force — {W}, {Q}: You gain 2 life for each token that died this turn. [i](Activate only once each turn.)[/i] => When Barriss Offee enters, create a Vial token. [i](It's an artifact with “{1}, Sacrifice this and another permanent: Draw a card. Activate only during your turn.”)[/i]
+Force — {1}, {Q}, Sacrifice a token: Barriss Offee gets +3/+1 and gains lifelink until end of turn. [i](Activate only once each turn.)[/i]
+
+Grogu, The Child
+rules_text: Prevent all combat damage that would be dealt to Grogu.
+Force — {X}{X}{G}{U}, {Q}: Choose X. You may choose the same mode more than once. [i](Activate only once each turn.)[/i]
+• Tap target nonland permanent.
+• Put a shield counter on target permanent.
+• Put a land card from your hand onto the battlefield tapped. => Grogu has all force abilities of other creatures you control. [i](Activate each force ability once each turn.)[/i]
+{3}{G}{U}, {T}: Put a shield counter or a stun counter on target creature that doesn't have a counter on it.
+
+Master Kit Fisto
+rules_text: Whenever you activate a force ability, target Jedi gains islandwalk until end of turn.
+Force — {GU}, {Q}: Untap up to two target lands. Lands untapped this way become Islands in addition to their other types until end of turn. [i](Activate only once each turn.)[/i] => Master Kit Fisto has islandwalk as long as you activated a force ability this turn.
+Force — {GU}, {Q}: Untap up to two target lands. Lands untapped this way become Islands in addition to their other types until end of turn. [i](Activate only once each turn.)[/i]
+
+Bo-Katan Kryze
+
+Captain Hera Syndulla
+
+Hondo Ohnaka, Pirate King
+
+Moff Gideon
+
+The Mandalorian
+
+Chancellor Palpatine
+
+Yoda, Reclusive Mentor
+
+Max Rebo, the Virtuoso
+
+Ben, Exiled Warden
+
+Finn, Rogue Trooper
+
+Queen Padmé Amidala
+
+Supreme Leader Snoke
+
+Poe Dameron
+
+Anakin, Cocky Protege
+
+Darth Maul
+
+Master Qui-Gon Jinn
+
+Boba Fett
+
+Jar-Jar Binks
+
+Wedge Antilles
+
+Han Solo, Veteran Smuggler
+
+Count Dooku
+
+Captain Rex
+
+Bail Organa
+
+Tarkin's Command
+rules_text: Choose two —
+• Target player creates a 2/2 white Soldier creature token.
+• Hunt an artifact or creature target player controls until end of turn.
+• Target player sacrifices an artifact or creature.
+• Creatures get -1/-1 until end of turn. => Choose two —
+• Target player creates a 2/2 white Soldier creature token.
+• Hunt an artifact or creature target player controls until end of turn.
+• Creatures get -1/-1 until end of turn.
+• Target player sacrifices an artifact or creature.
+
+Lando Calrissian
+
+Master Ki-Adi-Mundi
+
+Grand Moff Tarkin
+
+Battle of Exegol
+
+Wampa
+
+Sarlacc
+
+Cody's Command
+
+Slave I
+
+Purrgil Ultra
+rules_text: Flash; payload [i](Each kind of counter you remove from permanents you control while casting this pays for {1}.)[/i]
+Flying
+Whenever Purrgil Ultra attacks, you may exile target creature or Spacecraft. Its owner may cast it from exile for as long as it remains exiled. => Flash; payload [i](This spell costs {1} less to cast for each kind of counter among permanents you control.)[/i]
+Flying
+Whenever Purrgil Ultra attacks, you may exile target creature or Spacecraft. Its owner may cast it from exile for as long as it remains exiled.
+
+The Raddus
+
+Battle of Coruscant
+
+Commander Cody
+
+Ahsoka's Command
+
+The Executor
+
+Ahsoka Tano
+
+Asajj Ventress
+
+Greater Krayt Dragon
+
+Wild Rancor
+
+Invisible Hand
+
+The Finalizer
+
+Star Destroyer
+
+AT-AT Walker
+
+Razor Crest
+
+Carbon-Freezing Chamber
+
+Fortress Inquisitorius
+
+Petranaki Arena
+
+Jedha City
+
+Citadel Tower
+
+Canto Casino
+
+Kessel Mines
+
+Takodana Castle
+
+Vergence Scatter
+
+Echo Base
+
+Bright Tree Village
+
+Sith Holocron
+
+Jedi Holocron
+
+Vulture Droid
+
+IG-88 Assassin
+
+GNK Power Droid
+
+Thermal Detonator
+
+74-Z Speeder
+
+X-Wing Starfighter
+
+The Malevolence
+
+The Ghost
+
+TIE Fighter
+rules_text: Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 4+] Flying
+When TIE Fighter dies, it deals 2 damage to any target. [2/1]
+ => Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 4+.)[/i]
+[level 4+] Flying
+When TIE Fighter dies, it deals 2 damage to any target. [2/1]
+
+special_text: Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 4+] Flying
+When TIE Fighter dies, it deals 2 damage to any target. [2/1]
+ => Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 4+.)[/i]
+[level 4+] Flying
+When TIE Fighter dies, it deals 2 damage to any target. [2/1]
+
+
+Youngling Padawan
+
+ISB Agent
+
+Droid Missile Platform
+
+Wookiee Warrior
+
+Gungan Warrior
+
+Cell Block Guard
+
+Unruly Astromech
+
+Bounty Guild Crew
+
+Dagger Squadron Pilot
+
+Mystic Hermit
+
+B1 Battle Droid
+
+N-1 Starfighter
+
+ARC-170 Starfighter
+rules_text: {T}: Add {C}{C}.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 8+] Flying
+{2}: Scry 1. [4/4]
+ => {T}: Add {C}{C}.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 8+.)[/i]
+[level 8+] Flying
+{2}: Scry 1. [4/4]
+
+special_text: {T}: Add {C}{C}.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 8+] Flying
+{2}: Scry 1. [4/4]
+ => {T}: Add {C}{C}.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 8+.)[/i]
+[level 8+] Flying
+{2}: Scry 1. [4/4]
+
+
+Y-Wing Starfighter
+rules_text: When Y-Wing Starfighter enters, scry 2.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 8+] Flying, vigilance [2/4]
+ => When Y-Wing Starfighter enters, scry 2.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 8+.)[/i]
+[level 8+] Flying, vigilance [2/4]
+
+special_text: When Y-Wing Starfighter enters, scry 2.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 8+] Flying, vigilance [2/4]
+ => When Y-Wing Starfighter enters, scry 2.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 8+.)[/i]
+[level 8+] Flying, vigilance [2/4]
+
+
+X-34 Landspeeder
+
+Blaster Rifle
+
+Ascension Cable
+
+Smuggling Compartment
+
+Probe Droid
+
+Bacta Tank
+rules_text: Whenever a permanent you control leaves the battlefield, if it had counters on it, put those counters on Bacta Tank, then you may exile that permanent.
+{T}, Remove three counters from Bacta Tank: Return a card exiled with it to its owner's hand. => When Bacta Tank enters, you gain 3 life.
+{1}, {T}: Regenerate target creature. [i](The next time it would be destroyed this turn, instead tap it, remove it from combat, and heal all damage on it.)[/i]
+
+
+VERSION 15 CHANGELOG
 ====================
 
 
