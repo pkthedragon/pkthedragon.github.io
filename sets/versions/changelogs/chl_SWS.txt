@@ -1,4 +1,618 @@
-﻿VERSION 16 CHANGELOG
+﻿VERSION 17 CHANGELOG
+====================
+
+Dantooine Fields added.
+Ezra Bridger added.
+Jedi Training Remote added.
+Force Spirit added.
+Loth-Wolf Pathfinder added.
+Purrgil Pod added.
+Admiral Piett added.
+Defabricate added.
+Memory Probe added.
+Jedi Mind Trick added.
+Force Push added.
+Fateful Negotiation added.
+
+Jedha City removed.
+
+Darth Sidious
+rules_text: Deathtouch
+Force — {R}, {Q}: Darth Sidious deals 3 damage to any target. [i](Activate only once each turn.)[/i]
+When Darth Sidious dies, you may put him into his owner's library third from the top. => Deathtouch
+Force — {R}: Darth Sidious deals 3 damage to any target. [i](Activate only if this was tapped this turn and only once each turn.)[/i]
+When Darth Sidious dies, you may put him into his owner's library third from the top.
+
+Droideka
+
+Destruction of Alderaan
+
+Luke, Ahch-To Exile
+rules_text: Hexproof
+When Luke enters, search your library for a land card, put it onto the battlefield tapped, then shuffle.
+Force — {X}, {Q}: Luke becomes an Avatar with base power and toughness X/X and gains indestructible. Exile him at the beginning of your next upkeep. [i](Activate only once each turn.)[/i] => Hexproof
+When Luke enters, search your library for a land card, put it onto the battlefield tapped, then shuffle.
+Force — {X}: Luke becomes an X/X Avatar with indestructible. Exile him at the beginning of your next upkeep. [i](Activate only if this was tapped this turn and only once each turn.)[/i]
+
+The Twilight
+rules_text: Ward {2}
+Whenever a creature you control stations The Twilight, you may return it to its owner's hand.
+Station
+[level 6+] Flying
+You may activate The Twilight's station ability any time you could cast an instant. [6/3]
+ => Ward {2}
+Whenever a creature you control stations The Twilight, you may return it to its owner's hand.
+Station
+[level 8+] Flying
+You may activate The Twilight's station ability any time you could cast an instant. [6/3]
+
+special_text: Ward {2}
+Whenever a creature you control stations The Twilight, you may return it to its owner's hand.
+Station
+[level 6+] Flying
+You may activate The Twilight's station ability any time you could cast an instant. [6/3]
+ => Ward {2}
+Whenever a creature you control stations The Twilight, you may return it to its owner's hand.
+Station
+[level 8+] Flying
+You may activate The Twilight's station ability any time you could cast an instant. [6/3]
+
+
+Alderaan, Peaceful Jewel
+
+Coruscant, Galaxy's Heart
+
+Mustafar, Volcanic Crucible
+
+Naboo, Verdant Paradise
+
+Tatooine, Twin-Sunned
+
+Anakin, Faded Vestige
+rules_text: Force — Discard a legendary card, {Q}: The next time you activate an activated ability of target creature this turn, that ability costs {2} less to activate. [i](Activate only once each turn.)[/i] => Force — Discard a legendary card: The next time you activate an activated ability of target creature this turn, that ability costs {2} less to activate. [i](Activate only if this was tapped this turn and only once each turn.)[/i]
+
+Bespin, Clouded Domain
+
+Dagobah, Fetid Refuge
+
+Kamino, Drowned Cradle
+
+Kashyyyk, Wild Enclave
+
+Hoth, Frozen Outpost
+
+Greedo, Trigger-Happy
+
+R2-D2, Universal Companion
+
+Anakin Skywalker
+
+Jabba the Hutt
+
+Mos Eisley
+
+Jango Fett
+
+Supreme Commander Vader
+rules_text: When Supreme Commander Vader enters, create two 2/2 white Soldier creature tokens.
+Deathtouch
+Other creatures you control have exalted.
+Force — {1}, {Q}: Permanents your opponents control lose hexproof, indestructible, and ward until end of turn. [i](Activate only once each turn.)[/i] => When Supreme Commander Vader enters, create two 2/2 white Soldier creature tokens.
+Deathtouch
+Other creatures you control have exalted.
+Force — {1}: Permanents your opponents control lose hexproof, indestructible, and ward until end of turn. [i](Activate only if this was tapped this turn and only once each turn.)[/i]
+
+Chewbacca, Wookie Cohort
+
+Master Mace Windu
+rules_text: Flash
+Ward—Discard a card.
+When Master Mace Windu enters, return target noncreature spell to its owner's hand.
+Force — {1}{W}{U}{B}, {Q}: Return target creature to its owner's hand. Then that player discards a card. [i](Activate only once each turn.)[/i] => Flash
+Ward—Discard a card.
+When Master Mace Windu enters, return target noncreature spell to its owner's hand.
+Force — {1}{W}{U}{B}: Return target creature to its owner's hand. Then that player discards a card. [i](Activate only if this was tapped this turn and only once each turn.)[/i]
+
+General Grievous
+
+Han Solo, Smuggler Captain
+
+The Millennium Falcon
+
+Grand Master Yoda
+rules_text: Grand Master Yoda can't be countered.
+Force — {1}{G}, {Q}: Target creature has base power and toughness 4/4 until end of turn.
+Force — {1}{U}, {Q}: Look at the top three cards of your library, then put them back in any order or shuffle. [i](Activate each force ability once each turn.)[/i]
+The first force ability you activate each turn costs up to {Q} less to activate. => Force — {G}{U}: Choose one. [i](Activate only if this was tapped this turn and only once each turn.)[/i]
+• Target creature has base power and toughness 4/4 until end of turn.
+• Look at the top three cards of your library, then put them back in any order or shuffle.
+Creatures you control can use the force twice during each turn rather than once.
+
+Obi-Wan Kenobi
+rules_text: Ward {2}
+Whenever one or more creatures attack you, tap or untap Obi-Wan Kenobi.
+Force — {1}{W}{U}, {Q}: Untap another target creature. You may remove it from combat if it's attacking. If you do, that creature's controller draws two cards. [i](Activate only once each turn.)[/i] => Ward {2}
+Whenever one or more creatures attack you, tap or untap Obi-Wan Kenobi.
+Force — {1}{W}{U}: Remove another target attacking creature from combat and untap it. That creature's controller draws two cards. [i](Activate only if this was tapped this turn and only once each turn.)[/i]
+
+Luke Skywalker
+rules_text: Whenever Luke Skywalker becomes untapped, put a +1/+1 counter on him.
+Force — {G}, {Q}: Destroy target artifact or enchantment with mana value less than or equal to the number of counters on Luke Skywalker. If a permanent was destroyed this way, Luke Skywalker gains hexproof until end of turn. [i](Activate only once each turn.)[/i] => Whenever Luke Skywalker becomes untapped, put a +1/+1 counter on him.
+Force — {G}: Destroy target artifact or enchantment with mana value less than or equal to the number of counters on Luke Skywalker. If a permanent was destroyed this way, Luke Skywalker gains hexproof until end of turn. [i](Activate only if this was tapped this turn and only once each turn.)[/i]
+
+Princess Leia Organa
+
+Senator Mon Mothma
+
+Rey, the Last Skywalker
+rules_text: Lifelink
+Whenever a creature you control becomes the target of a spell or ability for the first time each turn, put a shield counter on it.
+Force — {2}{U}, {Q}: Until end of turn, if you would gain life, draw that many cards instead. => Lifelink
+Rey and nontoken creatures you control enter with a shield counter on them.
+Force — {2}{U}, Remove a counter from each of X permanents you control: Draw X cards. [i](Activate only if this was tapped this turn and only once each turn.)[/i]
+pt: 3/3 => 4/4
+
+Kylo Ren, Supreme Leader
+rules_text: First strike
+Creatures you control have “Ward—Pay 3 life.”
+Force — {2}{U}, {Q}: Target player reveals X cards from their hand, where X is the amount of life they lost this turn. You may choose a card revealed this way. If you do, that player puts it on the bottom of their library. [i](Activate only once each turn.)[/i] => First strike
+Creatures you control have “Ward—Exile three cards from your graveyard.”
+Force — {U}, Sacrifice a creature: Target player mills cards equal to the sacrificed creature's power. [i](Activate only if this was tapped this turn and only once each turn.)[/i]
+
+Battle of Endor
+
+Battle of Geonosis
+
+The Death Star II
+
+Order 66
+
+The Supremacy
+
+Red Five
+rules_text: Station
+[level 4+] Whenever you attack, draw a card and put a charge counter on Red Five for each untapped attacking creature you control.
+[level 8+] Flying, vigilance
+Discard X cards: Red Five gets +X/+0 until end of turn. [4/4] => Station
+[level 4+] Whenever a creature you control stations Red Five or uses the force, draw a card and put a charge counter on Red Five.
+[level 8+] Flying, vigilance
+Discard X cards: Red Five gets +X/+0 until end of turn. [4/4]
+special_text: Station
+[level 4+] Whenever you attack, draw a card and put a charge counter on Red Five for each untapped attacking creature you control.
+[level 8+] Flying, vigilance
+Discard X cards: Red Five gets +X/+0 until end of turn. [4/4] => Station
+[level 4+] Whenever a creature you control stations Red Five or uses the force, draw a card and put a charge counter on Red Five.
+[level 8+] Flying, vigilance
+Discard X cards: Red Five gets +X/+0 until end of turn. [4/4]
+
+One With The Force
+rules_text: At the beginning of your end step, untap all lands you control.
+Nontoken creatures you control have “Force — {1}{G}, {Q}: Until end of turn, when this creature dies, return it to the battlefield tapped except it's an enchantment.” [i](It's no longer a creature. Activate a force ability only once each turn.)[/i] => At the beginning of your end step, untap all lands you control.
+Nontoken creatures you control have 
+“Force — {1}{G}: Until end of turn, when this creature dies, return it to the battlefield except it's an enchantment.” [i](It loses all other types. Creatures can only use the force if they were tapped this turn and only once each turn.)[/i]
+
+No Disintegrations
+
+Kyber Crystal
+
+Fraternal Betrayal
+
+The Skywalker Saga
+
+Trench Run
+
+Warding Lightsaber
+rules_text: Flash
+When Warding Lightsaber enters, you may attach it to target untapped attacking creature you control.
+Equipped creature gets +1/+1 and has first strike and hexproof from red and green.
+Equip {U}{U} => Whenever a creature you control uses the force, you may untap it and attach Warding Lightsaber to that creature.
+Equipped creature gets +2/+2 and has hexproof from red and green.
+Equip {2U}
+
+Cleansed Lightsaber
+rules_text: Flash
+When Cleansed Lightsaber enters, you may attach it to target untapped attacking creature you control.
+Equipped creature gets +1/+1 and has first strike and hexproof from black and red.
+Equip {W}{W} => Whenever a creature you control uses the force, you may untap it and attach Cleansed Lightsaber to that creature.
+Equipped creature gets +2/+2 and has hexproof from black and red.
+Equip {2W}
+
+Defiant Lightsaber
+rules_text: Flash
+When Defiant Lightsaber enters, you may attach it to target untapped attacking creature you control.
+Equipped creature gets +1/+1 and has first strike and hexproof from green and white.
+Equip {B}{B} => Whenever a creature you control uses the force, you may untap it and attach Defiant Lightsaber to that creature.
+Equipped creature gets +2/+2 and has hexproof from green and white.
+Equip {2B}
+
+Bleeding Lightsaber
+rules_text: Flash
+When Bleeding Lightsaber enters, you may attach it to target untapped attacking creature you control.
+Equipped creature gets +1/+1 and has first strike and hexproof from white and blue.
+Equip {R}{R} => Whenever a creature you control uses the force, you may untap it and attach Bleeding Lightsaber to that creature.
+Equipped creature gets +2/+2 and has hexproof from white and blue.
+Equip {2R}
+
+Attuned Lightsaber
+rules_text: Flash
+When Attuned Lightsaber enters, you may attach it to target untapped attacking creature you control.
+Equipped creature gets +1/+1 and has first strike and hexproof from blue and black.
+Equip {G}{G} => Whenever a creature you control uses the force, you may untap it and attach Attuned Lightsaber to that creature.
+Equipped creature gets +2/+2 and has hexproof from blue and black.
+Equip {2G}
+
+The Darksaber
+rules_text: Flash
+When The Darksaber enters, you may attach it to target creature you control that's attacking alone.
+Equipped creature gets +2/+0, has first strike and hexproof from monocolored, and is a Noble in addition to its other types.
+Equip {4} => Whenever a legendary creature you control attacks alone, you may untap it and attach The Darksaber to it.
+Equipped creature gets +3/+1, has hexproof from monocolored, and is a Noble in addition to its other types.
+Equip {3}
+
+The Death Star
+
+Ahch-To, Bygone Asylum
+
+Mandalore, Armored Ruin
+
+Moraband, Dark Tomb
+
+Jakku, Vessel Graveyard
+
+Nal Hutta, Decadent Mire
+
+Starkiller Base
+
+Jedi Temple
+
+Obi-Wan, Stern Disciple
+
+Viceroy Nute Gunray
+
+Darth Tyranus
+rules_text: When Darth Tyranus enters, create a 1/1 colorless Droid artifact creature token.
+Force — {Q}, Sacrifice an artifact: Exile the top card of each opponent's library. You may play those cards this turn, and mana of any type can be spent to cast those spells. [i](Activate only once each turn.)[/i] => When Darth Tyranus enters, create a 1/1 colorless Droid artifact creature token.
+Force — Sacrifice an artifact: Exile the top card of each opponent's library. You may play those cards this turn, and mana of any type can be spent to cast those spells. [i](Activate only if this was tapped this turn and only once each turn.)[/i]
+
+Master Plo Koon
+rules_text: Whenever you tap an untapped creature for the first time each turn, you may put a stun counter on it. If you do, its controller draws a card.
+Force — {W}{U}, {Q}: Tap target creature. [i](Activate only once each turn.)[/i] => Whenever you tap an untapped creature, if it isn't being declared as an attacker, you may draw a card. Do this only once each turn.
+Force — {1}{W}{U}: Tap target creature. You may put a stun counter on it. [i](Activate only if this was tapped this turn and only once each turn.)[/i]
+
+Sly Moore, the Umbaran
+
+The Stranger, Cad Bane
+
+Boss Nass, Gungan Leader
+
+Master Depa Billaba
+
+Captain Cassian Andor
+
+Saw Gerrera, the Insurgent
+
+Speaker Mas Amedda
+
+Barriss Offee, the Healer
+rules_text: When Barriss Offee enters, create a Vial token. [i](It's an artifact with “{1}, Sacrifice this and another permanent: Draw a card. Activate only during your turn.”)[/i]
+Force — {1}, {Q}, Sacrifice a token: Barriss Offee gets +3/+1 and gains lifelink until end of turn. [i](Activate only once each turn.)[/i] => When Barriss Offee enters, create a Vial token. [i](It's an artifact with “{1}, Sacrifice this and another permanent: Draw a card. Activate only during your turn.”)[/i]
+Force — {1}, Sacrifice a token: Barriss Offee gets +3/+1 and gains lifelink until end of turn. [i](Activate only if this was tapped this turn and only once each turn.)[/i]
+
+Grogu, The Child
+rules_text: Grogu has all force abilities of other creatures you control. [i](Activate each force ability once each turn.)[/i]
+{3}{G}{U}, {T}: Put a shield counter or a stun counter on target creature that doesn't have a counter on it. => Grogu has all force abilities of other creatures you control. [i](Activate each force ability only once each turn.)[/i]
+{2}{G}{U}: Tap target creature. Put a shield counter on it if it doesn't have a counter on it.
+
+Master Kit Fisto
+rules_text: Master Kit Fisto has islandwalk as long as you activated a force ability this turn.
+Force — {GU}, {Q}: Untap up to two target lands. Lands untapped this way become Islands in addition to their other types until end of turn. [i](Activate only once each turn.)[/i] => Whenever a creature you control uses the force, it gains islandwalk until end of turn.
+Force — {GU}: Untap up to two target lands. Lands untapped this way become Islands in addition to their other types until end of turn. [i](Activate only if this was tapped this turn and only once each turn.)[/i]
+
+Bo-Katan Kryze
+
+Captain Hera Syndulla
+
+Hondo Ohnaka, Pirate King
+
+Moff Gideon
+
+The Mandalorian
+
+Chancellor Palpatine
+
+Yoda, Reclusive Mentor
+rules_text: Whenever another permanent becomes the target of an activated ability you control, you may pay {U}. If you do, tap or untap it.
+Force — {G}, {Q}: Until end of turn, another target permanent gains “{T}: Add three mana of any one color.” Sacrifice Yoda. [i](Activate only once each turn.)[/i] => Whenever another permanent becomes the target of an activated ability you control, you may pay {U}. If you do, tap or untap it.
+Force — {G}: Until end of turn, another target permanent gains “{T}: Add three mana of any one color.” Sacrifice Yoda. [i](Activate only if this was tapped this turn and only once each turn.)[/i]
+
+Max Rebo, the Virtuoso
+
+Blockade
+
+Ben, Exiled Warden
+rules_text: Ben and other nonbasic permanents enter tapped.
+Force — {W}{U}, {Q}: Until end of turn, target creature you control gains hexproof and “Force — {1}, {Q}: Put a stun counter on target nonbasic permanent.” [i](Activate a force ability only once each turn.)[/i] => Whenever another creature enters, you may tap it.
+Force — {W}{U}: Until end of turn, target creature you control gains hexproof and “Force — {1}: Put a stun counter on target creature.” [i](Creatures can only use the force if they were tapped this turn and only once each turn.)[/i]
+
+Finn, Rogue Trooper
+
+Queen Padmé Amidala
+
+Supreme Leader Snoke
+
+Poe Dameron
+
+Anakin, Cocky Protege
+rules_text: Force — {R}{W}, {Q}: You may exile target creature you control and put a guard counter on it. Until end of turn, target artifact creature gains double strike, haste, and “Whenever this deals combat damage to a player, you may put a creature card exiled with a guard counter on it onto the battlefield under your control.” [i](Activate only once each turn.)[/i] => Anakin gets +2/+2 as long as he entered this turn.
+Force — {R}{W}: Target artifact creature gains haste and “Whenever this attacks, exile up to one other target tapped creature you own, then return it to the battlefield under your control tapped and attacking.” [i](Activate only if this was tapped this turn and only once each turn.)[/i]
+
+Darth Maul
+
+Master Qui-Gon Jinn
+rules_text: When Master Qui-Gon Jinn enters, if {W}{W} was spent to cast him, search your library for a creature card with power 2 or less, reveal it, put it into your hand, then shuffle.
+Force — {U}{U}, {Q}: Counter target spell or ability that targets a creature you control, then return that creature to its owner's hand. [i](Activate only once each turn.)[/i] => When Master Qui-Gon Jinn enters, if {W}{W} was spent to cast him, search your library for a creature card with power 2 or less, reveal it, put it into your hand, then shuffle.
+Force — {U}{U}: Counter target spell or ability that targets a creature you control, then return that creature to its owner's hand. [i](Activate only if this was tapped this turn and only once each turn.)[/i]
+
+Boba Fett
+
+Jar-Jar Binks
+
+Wedge Antilles
+
+Han Solo, Veteran Smuggler
+
+Count Dooku
+
+Captain Rex
+
+Bail Organa
+
+Tarkin's Command
+
+Lando Calrissian
+
+Master Ki-Adi-Mundi
+rules_text: Trample
+Whenever a Jedi you control deals combat damage to a player, untap up to that many target permanents with a mana ability.
+Force — {4}{G}{G}, {Q}: Draw cards equal to the greatest power among creatures you control. [i](Activate only once each turn.)[/i] => Trample
+Whenever a Jedi you control deals combat damage to a player, untap up to that many target permanents with mana abilities.
+Force — {4}{G}{G}: Draw cards equal to the greatest power among creatures you control. [i](Activate only if this was tapped this turn and only once each turn.)[/i]
+
+Exogorth
+
+Grand Moff Tarkin
+
+Battle of Exegol
+
+Wampa
+
+Lama Su, Grand Minister
+
+Sarlacc
+
+Cody's Command
+
+Slave I
+
+The Raddus
+
+Battle of Coruscant
+
+Commander Cody
+
+Ahsoka's Command
+
+Clone Lieutenant
+rules_text: When you cast Clone Lieutenant, you may pay {4}. When you do, copy it four times.
+You may have Clone Lieutenant enter as a copy of any creature on the battlefield, except it's a Clone Soldier and it isn't legendary. => When you cast Clone Lieutenant, you may pay {3}{U}{U}. When you do, copy it four times.
+You may have Clone Lieutenant enter as a copy of any creature on the battlefield, except it's a Clone Soldier and it isn't legendary.
+
+The Executor
+rules_text: When The Executor enters, creatures get -4/-4 until end of turn.
+Whenever a creature dies, put a charge counter on The Executor and each opponent loses 1 life.
+Station
+[level 10+] Flying, menace, annihilator 1 [10/10]
+ => When The Executor enters, creatures get -3/-3 until end of turn.
+Whenever a creature dies, put a charge counter on The Executor and each opponent loses 1 life.
+Station
+[level 10+] Flying, menace, annihilator 1 [10/10]
+
+special_text: When The Executor enters, creatures get -4/-4 until end of turn.
+Whenever a creature dies, put a charge counter on The Executor and each opponent loses 1 life.
+Station
+[level 10+] Flying, menace, annihilator 1 [10/10]
+ => When The Executor enters, creatures get -3/-3 until end of turn.
+Whenever a creature dies, put a charge counter on The Executor and each opponent loses 1 life.
+Station
+[level 10+] Flying, menace, annihilator 1 [10/10]
+
+
+Ahsoka Tano
+rules_text: Haste
+Force — {G}, {Q}: Choose a kind of counter that Ahsoka Tano doesn't have on her from among flying, first strike, hexproof, lifelink, menace, reach, trample, and +1/+1. Put a counter of that kind on her. [i](Activate only once each turn.)[/i] => Haste
+Force — {G}: Choose a kind of counter that Ahsoka Tano doesn't have on her from among flying, first strike, hexproof, lifelink, menace, reach, trample, and +1/+1. Put a counter of that kind on her. [i](Activate only if this was tapped this turn and only once each turn.)[/i]
+
+Admiral Ackbar
+rules_text: Flash
+When Admiral Ackbar enters, tap or untap up to two target artifacts and/or creatures.
+Whenever you untap a tapped permanent during an opponent's turn, draw a card. This ability triggers only twice each turn. => Flash
+When Admiral Ackbar enters, tap or untap up to two target artifacts and/or creatures.
+Whenever you tap an untapped artifact or creature during an opponent's turn, draw a card. This ability triggers only twice each turn.
+
+Asajj Ventress
+rules_text: Menace, lifelink
+Asajj Ventress has hexproof as long as a nonland permanent died this turn.
+Force — {B}, {Q}, Pay X life, Sacrifice a nonland permanent: Target creature gets +X/-X until end of turn. [i](Activate only once each turn.)[/i] => Menace, lifelink
+Asajj Ventress has hexproof as long as a nonland permanent died this turn.
+Force — {B}, Pay X life, Sacrifice a nonland permanent: Target creature gets +X/-X until end of turn. [i](Activate only if this was tapped this turn and only once each turn.)[/i]
+
+Greater Krayt Dragon
+
+Wild Rancor
+
+Invisible Hand
+rules_text: Affinity for artifacts
+When Invisible Hand enters, gain control of target creature until end of turn. It gains haste until end of turn. You may untap it.
+Station
+[level 7+] Flying, haste
+When Invisible Hand dies, it deals 4 damage to each nonartifact creature. [7/5]
+ => Affinity for artifacts
+When Invisible Hand enters, gain control of target creature until end of turn and untap it. It gains haste until end of turn.
+Station
+[level 7+] Flying, haste
+When Invisible Hand dies, it deals 4 damage to each nonartifact creature. [7/5]
+
+special_text: Affinity for artifacts
+When Invisible Hand enters, gain control of target creature until end of turn. It gains haste until end of turn. You may untap it.
+Station
+[level 7+] Flying, haste
+When Invisible Hand dies, it deals 4 damage to each nonartifact creature. [7/5]
+ => Affinity for artifacts
+When Invisible Hand enters, gain control of target creature until end of turn and untap it. It gains haste until end of turn.
+Station
+[level 7+] Flying, haste
+When Invisible Hand dies, it deals 4 damage to each nonartifact creature. [7/5]
+
+
+The Finalizer
+
+Star Destroyer
+
+AT-AT Walker
+
+Razor Crest
+
+Home One
+
+Carbon-Freezing Chamber
+
+Fortress Inquisitorius
+
+Petranaki Arena
+
+Citadel Tower
+
+Canto Casino
+
+Kessel Mines
+
+Takodana Castle
+
+Vergence Scatter
+
+Echo Base
+
+Bright Tree Village
+
+Sith Holocron
+
+Jedi Holocron
+
+Vulture Droid
+
+IG-88 Assassin
+
+GNK Power Droid
+
+Thermal Detonator
+
+74-Z Speeder
+
+X-Wing Starfighter
+
+The Malevolence
+
+The Ghost
+
+TIE Fighter
+
+Youngling Padawan
+rules_text: Force — {1}{WU}, {Q}: Tap target artifact or creature. [i](Activate only once each turn.)[/i] => Force — {1}{WU}: Tap target artifact or creature. [i](Activate only if this was tapped this turn and only once each turn.)[/i]
+
+ISB Agent
+
+Droid Missile Platform
+
+Wookiee Warrior
+
+Gungan Warrior
+
+Cell Block Guard
+
+Unruly Astromech
+rules_text: Tap an untapped artifact you control: Choose one —
+• Unruly Astromech gets +1/-1 until end of turn.
+• Unruly Astromech gains flying until end of turn. => Tap another untapped artifact you control: Choose one. Activate only as a sorcery.
+• Unruly Astromech gets +1/-1 until end of turn.
+• Unruly Astromech gains flying until end of turn.
+
+Bounty Guild Crew
+
+Dagger Squadron Pilot
+
+Mystic Hermit
+
+B1 Battle Droid
+
+N-1 Starfighter
+
+ARC-170 Starfighter
+
+Y-Wing Starfighter
+
+X-34 Landspeeder
+
+Blaster Rifle
+
+Ascension Cable
+
+Smuggling Compartment
+
+Probe Droid
+
+Bacta Tank
+rules_text: When Bacta Tank enters, you gain 3 life.
+{1}, {T}: Regenerate target creature. [i](The next time it would be destroyed this turn, instead tap it, remove it from combat, and heal all damage on it.)[/i] => When Bacta Tank enters, you gain 5 life.
+{1}, {T}: Regenerate target creature. [i](The next time it would be destroyed this turn, instead tap it, remove it from combat, and heal all damage on it.)[/i]
+
+Shmi Skywalker
+rules_text: When Shmi Skywalker enters, create a 1/1 white Human creature token.
+When Shmi Skywalker dies, put a +1/+1 counter on target creature you control for each creature that entered the battlefield or died this turn. => When Shmi Skywalker enters, create a 1/1 white Human creature token.
+When Shmi Skywalker dies, put a +1/+1 counter on target creature you control for each creature that entered or died this turn.
+
+Alderaanian Envoys
+cost: {1}{W}{W} => {4}{W}{W}
+rules_text: When Alderaanian Envoys enters, each player creates a Clue token.
+Whenever you create a token, put a +1/+1 counter on target creature you control other than Alderaanian Envoys. Scry 1. => Vigilance
+When Alderaanian Envoys enters, create a Clue token, a Food token, and a Treasure token.
+pt: 2/2 => 3/3
+
+Jedi Temple Guard
+rules_text: Jedi you control have double strike as long as they're attacking.
+Force — {4}{W}, {Q}: Put a +1/+1 counter on Jedi Temple Guard. This ability costs {1} less to activate for each other creature that became tapped this turn. [i](Activate only once each turn.)[/i] => Double strike
+Force — {4}{W}: Put a +1/+1 counter on Jedi Temple Guard. This ability costs {1} less to activate for each other creature that became tapped this turn. [i](Activate only if this was tapped this turn and only once each turn.)[/i]
+
+Gungan Army Captain
+type: Creature — Alien Soldier => Creature — Alien Warrior
+
+Battle of Hoth
+rules_text: [i](As a Mission enters, choose an opponent to protect it.)[/i]
+When Battle of Hoth enters, exile target nonland permanent until Battle of Hoth leaves the battlefield.
+When Battle of Hoth is defeated, return any number of artifact and/or creature cards from your graveyard to your hand. => [i](As a Mission enters, choose an opponent to protect it.)[/i]
+When Battle of Hoth enters, exile target nonland permanent until Battle of Hoth leaves the battlefield.
+When Battle of Hoth is defeated, return up to three artifact and/or creature cards from your graveyard to your hand.
+
+Protect Senator Amidala!
+cost: {1}{W} => {2}{W}
+rules_text: Create a tapped 2/2 white Jedi creature token, then put a shield counter on target creature you control. => Create a 2/2 white Jedi creature token, then put a shield counter on target creature you control.
+
+Master Saesee Tiin
+rules_text: Master Saesee Tiin has flying as long he's untapped.
+Force — {U}, {Q}: Copy target activated or triggered ability you control. You may choose new targets for the copy. [i](Activate only once each turn.)[/i] => Master Saesee Tiin has flying as long he's attacking.
+Force — {U}: Copy target activated or triggered ability you control. You may choose new targets for the copy. [i](Activate only if this was tapped this turn and only once each turn.)[/i]
+
+
+VERSION 16 CHANGELOG
 ====================
 
 Master Saesee Tiin added.
