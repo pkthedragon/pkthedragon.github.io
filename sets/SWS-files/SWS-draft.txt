@@ -165,9 +165,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Legendary Land — Planet",
-			"collector_number": "285",
+			"collector_number": "284",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/285_Hoth, Frozen Outpost.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/284_Hoth, Frozen Outpost.png"
 			}
 		},
 		{
@@ -609,9 +609,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Legendary Land — Planet",
-			"collector_number": "286",
+			"collector_number": "285",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/286_Jakku, Vessel Graveyard.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/285_Jakku, Vessel Graveyard.png"
 			}
 		},
 		{
@@ -869,9 +869,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}{G}",
 			"type": "Legendary Creature — Alien Bard Rogue",
-			"collector_number": "301",
+			"collector_number": "306",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/301_Max Rebo, the Virtuoso.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/306_Max Rebo, the Virtuoso.png"
 			}
 		},
 		{
@@ -1379,9 +1379,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "284",
+			"collector_number": "283",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/284_Fortress Inquisitorius.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/283_Fortress Inquisitorius.png"
 			}
 		},
 		{
@@ -1395,13 +1395,13 @@
 			}
 		},
 		{
-			"name": "Dantooine Fields",
+			"name": "Jedha City",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "282",
+			"collector_number": "286",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/282_Dantooine Fields.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/286_Jedha City.png"
 			}
 		},
 		{
@@ -1459,9 +1459,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "283",
+			"collector_number": "282",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/283_Echo Base.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/282_Echo Base.png"
 			}
 		},
 		{
@@ -3023,6 +3023,56 @@
 			"image_uris": {
 				"en": "https://pkthedragon.github.io/sets/SWS-files/img/262_Rebel Supply Cache.png"
 			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "301",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/301_Plains.png"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "302",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/302_Island.png"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "303",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/303_Swamp.png"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "304",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/304_Mountain.png"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "305",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/305_Forest.png"
+			}
 		}
 	]
 
@@ -3240,7 +3290,7 @@
 	8 Anakin, Faded Vestige
 	8 Fortress Inquisitorius
 	8 Petranaki Arena
-	8 Dantooine Fields
+	8 Jedha City
 	8 Citadel Tower
 	8 Canto Casino
 	8 Kessel Mines
@@ -3467,7 +3517,7 @@
 	2 Carbon-Freezing Chamber
 	12 Fortress Inquisitorius
 	12 Petranaki Arena
-	12 Dantooine Fields
+	12 Jedha City
 	12 Citadel Tower
 	12 Canto Casino
 	12 Kessel Mines
@@ -3768,7 +3818,7 @@
 	7 Carbon-Freezing Chamber
 	6 Fortress Inquisitorius
 	6 Petranaki Arena
-	6 Dantooine Fields
+	6 Jedha City
 	6 Citadel Tower
 	6 Canto Casino
 	6 Kessel Mines

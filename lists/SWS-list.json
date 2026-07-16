@@ -1226,7 +1226,7 @@
     },
     {
         "card_name": "Max Rebo, the Virtuoso",
-        "number": 301,
+        "number": 306,
         "shape": "normal",
         "set": "SWS"
     },
@@ -1786,7 +1786,7 @@
     },
     {
         "card_name": "Jakku, Vessel Graveyard",
-        "number": 286,
+        "number": 285,
         "shape": "leveler",
         "set": "SWS"
     },
@@ -1813,7 +1813,7 @@
     },
     {
         "card_name": "Hoth, Frozen Outpost",
-        "number": 285,
+        "number": 284,
         "shape": "leveler",
         "set": "SWS"
     },
@@ -1843,13 +1843,13 @@
     },
     {
         "card_name": "Echo Base",
-        "number": 283,
+        "number": 282,
         "shape": "normal",
         "set": "SWS"
     },
     {
         "card_name": "Fortress Inquisitorius",
-        "number": 284,
+        "number": 283,
         "shape": "normal",
         "set": "SWS"
     },
@@ -1866,8 +1866,8 @@
         "set": "SWS"
     },
     {
-        "card_name": "Dantooine Fields",
-        "number": 282,
+        "card_name": "Jedha City",
+        "number": 286,
         "shape": "normal",
         "set": "SWS"
     },
@@ -1988,6 +1988,51 @@
     {
         "card_name": "Jedi Temple",
         "number": 287,
+        "shape": "normal",
+        "set": "SWS"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Plains",
+        "number": 301,
+        "shape": "normal",
+        "set": "SWS"
+    },
+    {
+        "card_name": "Island",
+        "number": 302,
+        "shape": "normal",
+        "set": "SWS"
+    },
+    {
+        "card_name": "Swamp",
+        "number": 303,
+        "shape": "normal",
+        "set": "SWS"
+    },
+    {
+        "card_name": "Mountain",
+        "number": 304,
+        "shape": "normal",
+        "set": "SWS"
+    },
+    {
+        "card_name": "Forest",
+        "number": 305,
         "shape": "normal",
         "set": "SWS"
     },
