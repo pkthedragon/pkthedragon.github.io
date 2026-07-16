@@ -1,4 +1,203 @@
-﻿VERSION 19 CHANGELOG
+﻿VERSION 20 CHANGELOG
+====================
+
+C-3PO, Steadfast Translator added.
+Frantic Race added.
+Seismic Charge added.
+Target the Main Reactor added.
+Shoot First added.
+Arena Reek added.
+Proton Torpedo Barrage added.
+Mummer Salver added.
+Spectre Coil Saboteur added.
+Arena Ackler added.
+Wookiee Sharpshooter added.
+Arena Nexu added.
+Ewok War Party added.
+Trust in the Force added.
+Jedi Communion added.
+Size Matters Not added.
+Shielded Fambaa added.
+
+The Finalizer removed.
+UR05 removed.
+UR06 removed.
+UR07 removed.
+UR04 removed.
+UR03 removed.
+UR08 removed.
+UR01 removed.
+UR02 removed.
+UG05 removed.
+UG03 removed.
+UG02 removed.
+UG01 removed.
+UG06 removed.
+UG07 removed.
+UG08 removed.
+UG04 removed.
+
+Droideka
+
+Destruction of Alderaan
+
+R2-D2, Universal Companion
+type: Legendary Artifact Creature — Droid => Legendary Artifact Creature — Rebel Droid
+
+Han Solo, Smuggler Captain
+
+Battle of Endor
+
+The Death Star II
+
+One With The Force
+
+Kyber Crystal
+
+Cleansed Lightsaber
+
+Defiant Lightsaber
+
+The Darksaber
+
+The Death Star
+
+Bo-Katan Kryze
+type: Legendary Creature — Human Warrior => Legendary Creature — Human Rebel Warrior
+
+Hondo Ohnaka, Pirate King
+
+Lando Calrissian
+
+Master Ki-Adi-Mundi
+
+Battle of Exegol
+
+Wampa
+
+Cody's Command
+
+Slave I
+
+The Raddus
+rules_text: When The Raddus enters, put a shield counter on each nonland permanent you control.
+Station
+[level 8+] Flying, vigilance
+Whenever The Raddus attacks, you may exile it. When you do, exile target permanent. [6/12]
+ => When The Raddus enters, put a shield counter on each nonland permanent you control.
+Station
+[level 12+] Flying, vigilance
+Whenever The Raddus attacks, you may exile it. When you do, destroy all nonland permanents. [6/12]
+
+special_text: When The Raddus enters, put a shield counter on each nonland permanent you control.
+Station
+[level 8+] Flying, vigilance
+Whenever The Raddus attacks, you may exile it. When you do, exile target permanent. [6/12]
+ => When The Raddus enters, put a shield counter on each nonland permanent you control.
+Station
+[level 12+] Flying, vigilance
+Whenever The Raddus attacks, you may exile it. When you do, destroy all nonland permanents. [6/12]
+
+
+Commander Cody
+
+Ahsoka Tano
+
+Asajj Ventress
+
+Greater Krayt Dragon
+
+Wild Rancor
+
+Invisible Hand
+
+Star Destroyer
+rules_text: Station
+Whenever one or more charge counters are put on Star Destroyer, put that many charge counters on each other Spacecraft you control.
+[level 12+] Flying, vigilance
+Whenever Star Destroyer attacks, destroy target permanent. [7/10] => Station
+[level 2+] Whenever one or more charge counters are put on Star Destroyer, put that many charge counters on each other Spacecraft you control.
+[level 12+] Flying, vigilance
+Whenever Star Destroyer attacks, destroy target permanent. [7/10]
+special_text: Station
+Whenever one or more charge counters are put on Star Destroyer, put that many charge counters on each other Spacecraft you control.
+[level 12+] Flying, vigilance
+Whenever Star Destroyer attacks, destroy target permanent. [7/10] => Station
+[level 2+] Whenever one or more charge counters are put on Star Destroyer, put that many charge counters on each other Spacecraft you control.
+[level 12+] Flying, vigilance
+Whenever Star Destroyer attacks, destroy target permanent. [7/10]
+
+Carbon-Freezing Chamber
+
+Fondor Haulcraft
+
+Battle of Jakku
+
+Captain Phasma
+
+The Grand Inquisitor
+
+Rotta the Hutt
+type: Legendary Creature — Alien Warrior => Legendary Creature — Alien Rebel Warrior
+
+The Khetanna
+
+Shaak Ti
+
+Maz Kanata
+
+Battle of Kashyyyk
+
+CR01
+
+CR02
+
+CR03
+
+CR04
+
+CR05
+
+CR06
+
+CR07
+
+CR08
+
+CR09
+
+CR10
+
+CR11
+
+CR12
+
+CG01
+
+CG02
+
+CG03
+
+CG04
+
+CG05
+
+CG06
+
+CG07
+
+CG08
+
+CG09
+
+CG10
+
+CG11
+
+CG12
+
+
+VERSION 19 CHANGELOG
 ====================
 
 Jedha City added.

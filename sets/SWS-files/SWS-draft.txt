@@ -15,9 +15,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}",
 			"type": "Artifact Creature — Droid",
-			"collector_number": "250",
+			"collector_number": "251",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/250_Droideka.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/251_Droideka.png"
 			}
 		},
 		{
@@ -25,9 +25,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{7}{R}{R}{R}",
 			"type": "Sorcery",
-			"collector_number": "118",
+			"collector_number": "119",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/118_Destruction of Alderaan.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/119_Destruction of Alderaan.png"
 			}
 		},
 		{
@@ -184,7 +184,7 @@
 			"name": "R2-D2, Universal Companion",
 			"rarity": "mythic",
 			"mana_cost": "{4}",
-			"type": "Legendary Artifact Creature — Droid",
+			"type": "Legendary Artifact Creature — Rebel Droid",
 			"collector_number": "259",
 			"image_uris": {
 				"en": "https://pkthedragon.github.io/sets/SWS-files/img/259_R2-D2, Universal Companion.png"
@@ -282,9 +282,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{R}",
 			"type": "Legendary Creature — Human Rogue Pilot",
-			"collector_number": "122",
+			"collector_number": "124",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/122_Han Solo, Smuggler Captain.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/124_Han Solo, Smuggler Captain.png"
 			}
 		},
 		{
@@ -379,9 +379,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{X}{G}{G}",
 			"type": "Battle — Mission",
-			"collector_number": "136",
+			"collector_number": "138",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/136_Battle of Endor.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/138_Battle of Endor.png"
 			}
 		},
 		{
@@ -399,9 +399,9 @@
 			"rarity": "mythic",
 			"mana_cost": "",
 			"type": "Legendary Artifact Land — Planet",
-			"collector_number": "248",
+			"collector_number": "249",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/248_The Death Star II.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/249_The Death Star II.png"
 			}
 		},
 		{
@@ -439,9 +439,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}{G}{G}",
 			"type": "Enchantment",
-			"collector_number": "153",
+			"collector_number": "157",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/153_One With The Force.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/157_One With The Force.png"
 			}
 		},
 		{
@@ -459,9 +459,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{R}",
 			"type": "Artifact",
-			"collector_number": "124",
+			"collector_number": "126",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/124_Kyber Crystal.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/126_Kyber Crystal.png"
 			}
 		},
 		{
@@ -519,9 +519,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}",
 			"type": "Artifact — Equipment",
-			"collector_number": "245",
+			"collector_number": "246",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/245_Cleansed Lightsaber.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/246_Cleansed Lightsaber.png"
 			}
 		},
 		{
@@ -529,9 +529,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}",
 			"type": "Artifact — Equipment",
-			"collector_number": "249",
+			"collector_number": "250",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/249_Defiant Lightsaber.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/250_Defiant Lightsaber.png"
 			}
 		},
 		{
@@ -559,9 +559,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}",
 			"type": "Legendary Artifact — Equipment",
-			"collector_number": "246",
+			"collector_number": "247",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/246_The Darksaber.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/247_The Darksaber.png"
 			}
 		},
 		{
@@ -569,9 +569,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Legendary Artifact Land — Planet",
-			"collector_number": "247",
+			"collector_number": "248",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/247_The Death Star.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/248_The Death Star.png"
 			}
 		},
 		{
@@ -788,7 +788,7 @@
 			"name": "Bo-Katan Kryze",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}{W}",
-			"type": "Legendary Creature — Human Warrior",
+			"type": "Legendary Creature — Human Rebel Warrior",
 			"collector_number": "201",
 			"image_uris": {
 				"en": "https://pkthedragon.github.io/sets/SWS-files/img/201_Bo-Katan Kryze.png"
@@ -1049,9 +1049,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}",
 			"type": "Legendary Creature — Human Rogue",
-			"collector_number": "125",
+			"collector_number": "127",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/125_Lando Calrissian.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/127_Lando Calrissian.png"
 			}
 		},
 		{
@@ -1059,9 +1059,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}{G}",
 			"type": "Legendary Creature — Alien Jedi Elder",
-			"collector_number": "151",
+			"collector_number": "155",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/151_Master Ki-Adi-Mundi.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/155_Master Ki-Adi-Mundi.png"
 			}
 		},
 		{
@@ -1099,9 +1099,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{R}{R}",
 			"type": "Battle — Mission",
-			"collector_number": "101",
+			"collector_number": "102",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/101_Battle of Exegol.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/102_Battle of Exegol.png"
 			}
 		},
 		{
@@ -1109,9 +1109,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{G}{G}",
 			"type": "Creature — Beast",
-			"collector_number": "165",
+			"collector_number": "164",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/165_Wampa.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/164_Wampa.png"
 			}
 		},
 		{
@@ -1149,9 +1149,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}{R}",
 			"type": "Instant",
-			"collector_number": "104",
+			"collector_number": "105",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/104_Cody's Command.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/105_Cody's Command.png"
 			}
 		},
 		{
@@ -1159,9 +1159,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{G}{G}",
 			"type": "Legendary Artifact — Spacecraft",
-			"collector_number": "156",
+			"collector_number": "162",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/156_Slave I.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/162_Slave I.png"
 			}
 		},
 		{
@@ -1199,9 +1199,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}{R}",
 			"type": "Legendary Creature — Clone Soldier",
-			"collector_number": "105",
+			"collector_number": "106",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/105_Commander Cody.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/106_Commander Cody.png"
 			}
 		},
 		{
@@ -1289,9 +1289,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}{R}",
 			"type": "Creature — Dragon Beast",
-			"collector_number": "121",
+			"collector_number": "123",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/121_Greater Krayt Dragon.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/123_Greater Krayt Dragon.png"
 			}
 		},
 		{
@@ -1299,9 +1299,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{G}{G}",
 			"type": "Creature — Beast",
-			"collector_number": "166",
+			"collector_number": "165",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/166_Wild Rancor.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/165_Wild Rancor.png"
 			}
 		},
 		{
@@ -1309,19 +1309,19 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{R}",
 			"type": "Legendary Artifact — Spacecraft",
-			"collector_number": "123",
+			"collector_number": "125",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/123_Invisible Hand.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/125_Invisible Hand.png"
 			}
 		},
 		{
-			"name": "The Finalizer",
+			"name": "C-3PO, Steadfast Translator",
 			"rarity": "rare",
 			"mana_cost": "{5}",
-			"type": "Legendary Artifact — Spacecraft",
-			"collector_number": "251",
+			"type": "Legendary Artifact Creature — Rebel Droid",
+			"collector_number": "244",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/251_The Finalizer.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/244_C-3PO, Steadfast Translator.png"
 			}
 		},
 		{
@@ -1369,9 +1369,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "244",
+			"collector_number": "245",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/244_Carbon-Freezing Chamber.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/245_Carbon-Freezing Chamber.png"
 			}
 		},
 		{
@@ -2155,43 +2155,43 @@
 			}
 		},
 		{
-			"name": "UR05",
+			"name": "Frantic Race",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Sorcery",
-			"collector_number": "130",
+			"collector_number": "121",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/130_UR05.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/121_Frantic Race.png"
 			}
 		},
 		{
-			"name": "UR06",
+			"name": "Seismic Charge",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Sorcery",
-			"collector_number": "131",
+			"collector_number": "130",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/131_UR06.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/130_Seismic Charge.png"
 			}
 		},
 		{
-			"name": "UR07",
+			"name": "Target the Main Reactor",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}",
 			"type": "Instant",
-			"collector_number": "132",
+			"collector_number": "133",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/132_UR07.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/133_Target the Main Reactor.png"
 			}
 		},
 		{
-			"name": "UR04",
+			"name": "Shoot First",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
-			"collector_number": "129",
+			"collector_number": "131",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/129_UR04.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/131_Shoot First.png"
 			}
 		},
 		{
@@ -2199,19 +2199,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{5}{R}{R}",
 			"type": "Legendary Artifact — Spacecraft",
-			"collector_number": "119",
+			"collector_number": "120",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/119_Fondor Haulcraft.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/120_Fondor Haulcraft.png"
 			}
 		},
 		{
-			"name": "UR03",
+			"name": "Arena Reek",
 			"rarity": "uncommon",
 			"mana_cost": "{4}{R}{R}",
 			"type": "Creature",
-			"collector_number": "128",
+			"collector_number": "101",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/128_UR03.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/101_Arena Reek.png"
 			}
 		},
 		{
@@ -2219,39 +2219,39 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{R}",
 			"type": "Battle — Mission",
-			"collector_number": "102",
+			"collector_number": "103",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/102_Battle of Jakku.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/103_Battle of Jakku.png"
 			}
 		},
 		{
-			"name": "UR08",
+			"name": "Proton Torpedo Barrage",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}{R}",
 			"type": "Sorcery",
-			"collector_number": "133",
+			"collector_number": "129",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/133_UR08.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/129_Proton Torpedo Barrage.png"
 			}
 		},
 		{
-			"name": "UR01",
+			"name": "Mummer Salver",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
-			"type": "Creature",
-			"collector_number": "126",
+			"type": "Creature — Alien Rebel",
+			"collector_number": "128",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/126_UR01.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/128_Mummer Salver.png"
 			}
 		},
 		{
-			"name": "UR02",
+			"name": "Spectre Coil Saboteur",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Creature",
-			"collector_number": "127",
+			"collector_number": "132",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/127_UR02.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/132_Spectre Coil Saboteur.png"
 			}
 		},
 		{
@@ -2269,9 +2269,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}{R}",
 			"type": "Legendary Creature — Human Soldier",
-			"collector_number": "103",
+			"collector_number": "104",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/103_Captain Phasma.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/104_Captain Phasma.png"
 			}
 		},
 		{
@@ -2279,19 +2279,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{R}",
 			"type": "Legendary Creature — Alien Mercenary",
-			"collector_number": "120",
+			"collector_number": "122",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/120_The Grand Inquisitor.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/122_The Grand Inquisitor.png"
 			}
 		},
 		{
 			"name": "Rotta the Hutt",
 			"rarity": "uncommon",
 			"mana_cost": "{4}{G}",
-			"type": "Legendary Creature — Alien Warrior",
-			"collector_number": "154",
+			"type": "Legendary Creature — Alien Rebel Warrior",
+			"collector_number": "158",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/154_Rotta the Hutt.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/158_Rotta the Hutt.png"
 			}
 		},
 		{
@@ -2299,9 +2299,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}",
 			"type": "Legendary Artifact — Spacecraft",
-			"collector_number": "150",
+			"collector_number": "154",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/150_The Khetanna.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/154_The Khetanna.png"
 			}
 		},
 		{
@@ -2309,19 +2309,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}{G}",
 			"type": "Legendary Creature — Alien Jedi Elder",
-			"collector_number": "155",
+			"collector_number": "159",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/155_Shaak Ti.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/159_Shaak Ti.png"
 			}
 		},
 		{
-			"name": "UG05",
+			"name": "Arena Ackler",
 			"rarity": "uncommon",
 			"mana_cost": "{6}{G}",
 			"type": "Creature",
-			"collector_number": "161",
+			"collector_number": "136",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/161_UG05.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/136_Arena Ackler.png"
 			}
 		},
 		{
@@ -2329,79 +2329,79 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Legendary Creature — Alien Rebel",
-			"collector_number": "152",
+			"collector_number": "156",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/152_Maz Kanata.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/156_Maz Kanata.png"
 			}
 		},
 		{
-			"name": "UG03",
+			"name": "Wookiee Sharpshooter",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Creature",
-			"collector_number": "159",
+			"collector_number": "166",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/159_UG03.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/166_Wookiee Sharpshooter.png"
 			}
 		},
 		{
-			"name": "UG02",
+			"name": "Arena Nexu",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Creature",
-			"collector_number": "158",
+			"collector_number": "137",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/158_UG02.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/137_Arena Nexu.png"
 			}
 		},
 		{
-			"name": "UG01",
+			"name": "Ewok War Party",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Creature",
-			"collector_number": "157",
+			"collector_number": "152",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/157_UG01.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/152_Ewok War Party.png"
 			}
 		},
 		{
-			"name": "UG06",
+			"name": "Trust in the Force",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Instant",
-			"collector_number": "162",
-			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/162_UG06.png"
-			}
-		},
-		{
-			"name": "UG07",
-			"rarity": "uncommon",
-			"mana_cost": "{2}{G}",
-			"type": "Sorcery",
 			"collector_number": "163",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/163_UG07.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/163_Trust in the Force.png"
 			}
 		},
 		{
-			"name": "UG08",
+			"name": "Jedi Communion",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Sorcery",
-			"collector_number": "164",
+			"collector_number": "153",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/164_UG08.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/153_Jedi Communion.png"
 			}
 		},
 		{
-			"name": "UG04",
+			"name": "Size Matters Not",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/161_Size Matters Not.png"
+			}
+		},
+		{
+			"name": "Shielded Fambaa",
 			"rarity": "uncommon",
 			"mana_cost": "{4}{G}{G}",
 			"type": "Creature",
 			"collector_number": "160",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/160_UG04.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/160_Shielded Fambaa.png"
 			}
 		},
 		{
@@ -2409,9 +2409,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}{G}",
 			"type": "Battle — Mission",
-			"collector_number": "137",
+			"collector_number": "139",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/137_Battle of Kashyyyk.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/139_Battle of Kashyyyk.png"
 			}
 		},
 		{
@@ -2779,9 +2779,9 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Creature",
-			"collector_number": "106",
+			"collector_number": "107",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/106_CR01.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/107_CR01.png"
 			}
 		},
 		{
@@ -2789,9 +2789,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Creature",
-			"collector_number": "107",
+			"collector_number": "108",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/107_CR02.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/108_CR02.png"
 			}
 		},
 		{
@@ -2799,9 +2799,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Creature",
-			"collector_number": "108",
+			"collector_number": "109",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/108_CR03.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/109_CR03.png"
 			}
 		},
 		{
@@ -2809,9 +2809,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}{R}",
 			"type": "Creature",
-			"collector_number": "109",
+			"collector_number": "110",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/109_CR04.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/110_CR04.png"
 			}
 		},
 		{
@@ -2819,9 +2819,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
 			"type": "Creature",
-			"collector_number": "110",
+			"collector_number": "111",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/110_CR05.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/111_CR05.png"
 			}
 		},
 		{
@@ -2829,9 +2829,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{R}{R}",
 			"type": "Creature",
-			"collector_number": "111",
+			"collector_number": "112",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/111_CR06.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/112_CR06.png"
 			}
 		},
 		{
@@ -2839,9 +2839,9 @@
 			"rarity": "common",
 			"mana_cost": "{5}{R}",
 			"type": "Creature",
-			"collector_number": "112",
+			"collector_number": "113",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/112_CR07.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/113_CR07.png"
 			}
 		},
 		{
@@ -2849,9 +2849,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
-			"collector_number": "113",
+			"collector_number": "114",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/113_CR08.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/114_CR08.png"
 			}
 		},
 		{
@@ -2859,9 +2859,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
-			"collector_number": "114",
+			"collector_number": "115",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/114_CR09.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/115_CR09.png"
 			}
 		},
 		{
@@ -2869,9 +2869,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Instant",
-			"collector_number": "115",
+			"collector_number": "116",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/115_CR10.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/116_CR10.png"
 			}
 		},
 		{
@@ -2879,9 +2879,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Sorcery",
-			"collector_number": "116",
+			"collector_number": "117",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/116_CR11.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/117_CR11.png"
 			}
 		},
 		{
@@ -2889,9 +2889,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
 			"type": "Sorcery",
-			"collector_number": "117",
+			"collector_number": "118",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/117_CR12.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/118_CR12.png"
 			}
 		},
 		{
@@ -2899,9 +2899,9 @@
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Creature",
-			"collector_number": "138",
+			"collector_number": "140",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/138_CG01.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/140_CG01.png"
 			}
 		},
 		{
@@ -2909,9 +2909,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Creature",
-			"collector_number": "139",
+			"collector_number": "141",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/139_CG02.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/141_CG02.png"
 			}
 		},
 		{
@@ -2919,9 +2919,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Creature",
-			"collector_number": "140",
+			"collector_number": "142",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/140_CG03.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/142_CG03.png"
 			}
 		},
 		{
@@ -2929,9 +2929,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Creature",
-			"collector_number": "141",
+			"collector_number": "143",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/141_CG04.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/143_CG04.png"
 			}
 		},
 		{
@@ -2939,9 +2939,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}{G}",
 			"type": "Creature",
-			"collector_number": "142",
+			"collector_number": "144",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/142_CG05.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/144_CG05.png"
 			}
 		},
 		{
@@ -2949,9 +2949,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}{G}",
 			"type": "Creature",
-			"collector_number": "143",
+			"collector_number": "145",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/143_CG06.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/145_CG06.png"
 			}
 		},
 		{
@@ -2959,9 +2959,9 @@
 			"rarity": "common",
 			"mana_cost": "{5}{G}",
 			"type": "Creature",
-			"collector_number": "144",
+			"collector_number": "146",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/144_CG07.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/146_CG07.png"
 			}
 		},
 		{
@@ -2969,9 +2969,9 @@
 			"rarity": "common",
 			"mana_cost": "{5}{G}{G}",
 			"type": "Creature",
-			"collector_number": "145",
+			"collector_number": "147",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/145_CG08.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/147_CG08.png"
 			}
 		},
 		{
@@ -2979,9 +2979,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Instant",
-			"collector_number": "146",
+			"collector_number": "148",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/146_CG09.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/148_CG09.png"
 			}
 		},
 		{
@@ -2989,9 +2989,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Instant",
-			"collector_number": "147",
+			"collector_number": "149",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/147_CG10.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/149_CG10.png"
 			}
 		},
 		{
@@ -2999,9 +2999,9 @@
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Sorcery",
-			"collector_number": "148",
+			"collector_number": "150",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/148_CG11.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/150_CG11.png"
 			}
 		},
 		{
@@ -3009,9 +3009,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Sorcery",
-			"collector_number": "149",
+			"collector_number": "151",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/149_CG12.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/151_CG12.png"
 			}
 		},
 		{
@@ -3171,7 +3171,7 @@
 	2 Greater Krayt Dragon
 	2 Wild Rancor
 	2 Invisible Hand
-	2 The Finalizer
+	2 C-3PO, Steadfast Translator
 	2 Star Destroyer
 	2 AT-AT Walker
 	2 Razor Crest
@@ -3260,31 +3260,31 @@
 	4 Battle of Carkoon
 	4 Paternal Revelation
 	4 Night of a Thousand Tears
-	4 UR05
-	4 UR06
-	4 UR07
-	4 UR04
+	4 Frantic Race
+	4 Seismic Charge
+	4 Target the Main Reactor
+	4 Shoot First
 	4 Fondor Haulcraft
-	4 UR03
+	4 Arena Reek
 	4 Battle of Jakku
-	4 UR08
-	4 UR01
-	4 UR02
+	4 Proton Torpedo Barrage
+	4 Mummer Salver
+	4 Spectre Coil Saboteur
 	4 Agen Kolar
 	4 Captain Phasma
 	4 The Grand Inquisitor
 	4 Rotta the Hutt
 	4 The Khetanna
 	4 Shaak Ti
-	4 UG05
+	4 Arena Ackler
 	4 Maz Kanata
-	4 UG03
-	4 UG02
-	4 UG01
-	4 UG06
-	4 UG07
-	4 UG08
-	4 UG04
+	4 Wookiee Sharpshooter
+	4 Arena Nexu
+	4 Ewok War Party
+	4 Trust in the Force
+	4 Jedi Communion
+	4 Size Matters Not
+	4 Shielded Fambaa
 	4 Battle of Kashyyyk
 [common(7)]
 	8 Anakin, Faded Vestige
@@ -3509,7 +3509,7 @@
 	2 Greater Krayt Dragon
 	2 Wild Rancor
 	2 Invisible Hand
-	2 The Finalizer
+	2 C-3PO, Steadfast Translator
 	2 Star Destroyer
 	2 AT-AT Walker
 	2 Razor Crest
@@ -3593,31 +3593,31 @@
 	6 Battle of Carkoon
 	6 Paternal Revelation
 	6 Night of a Thousand Tears
-	6 UR05
-	6 UR06
-	6 UR07
-	6 UR04
+	6 Frantic Race
+	6 Seismic Charge
+	6 Target the Main Reactor
+	6 Shoot First
 	6 Fondor Haulcraft
-	6 UR03
+	6 Arena Reek
 	6 Battle of Jakku
-	6 UR08
-	6 UR01
-	6 UR02
+	6 Proton Torpedo Barrage
+	6 Mummer Salver
+	6 Spectre Coil Saboteur
 	6 Agen Kolar
 	6 Captain Phasma
 	6 The Grand Inquisitor
 	6 Rotta the Hutt
 	6 The Khetanna
 	6 Shaak Ti
-	6 UG05
+	6 Arena Ackler
 	6 Maz Kanata
-	6 UG03
-	6 UG02
-	6 UG01
-	6 UG06
-	6 UG07
-	6 UG08
-	6 UG04
+	6 Wookiee Sharpshooter
+	6 Arena Nexu
+	6 Ewok War Party
+	6 Trust in the Force
+	6 Jedi Communion
+	6 Size Matters Not
+	6 Shielded Fambaa
 	6 Battle of Kashyyyk
 	12 CW01
 	12 CW02
@@ -3810,7 +3810,7 @@
 	7 Greater Krayt Dragon
 	7 Wild Rancor
 	7 Invisible Hand
-	7 The Finalizer
+	7 C-3PO, Steadfast Translator
 	7 Star Destroyer
 	7 AT-AT Walker
 	7 Razor Crest
@@ -3894,31 +3894,31 @@
 	15 Battle of Carkoon
 	15 Paternal Revelation
 	15 Night of a Thousand Tears
-	15 UR05
-	15 UR06
-	15 UR07
-	15 UR04
+	15 Frantic Race
+	15 Seismic Charge
+	15 Target the Main Reactor
+	15 Shoot First
 	15 Fondor Haulcraft
-	15 UR03
+	15 Arena Reek
 	15 Battle of Jakku
-	15 UR08
-	15 UR01
-	15 UR02
+	15 Proton Torpedo Barrage
+	15 Mummer Salver
+	15 Spectre Coil Saboteur
 	15 Agen Kolar
 	15 Captain Phasma
 	15 The Grand Inquisitor
 	15 Rotta the Hutt
 	15 The Khetanna
 	15 Shaak Ti
-	15 UG05
+	15 Arena Ackler
 	15 Maz Kanata
-	15 UG03
-	15 UG02
-	15 UG01
-	15 UG06
-	15 UG07
-	15 UG08
-	15 UG04
+	15 Wookiee Sharpshooter
+	15 Arena Nexu
+	15 Ewok War Party
+	15 Trust in the Force
+	15 Jedi Communion
+	15 Size Matters Not
+	15 Shielded Fambaa
 	15 Battle of Kashyyyk
 	6 CW01
 	6 CW02
