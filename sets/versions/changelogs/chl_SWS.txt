@@ -1,4 +1,645 @@
-﻿VERSION 17 CHANGELOG
+﻿VERSION 18 CHANGELOG
+====================
+
+Naboo Royal Starship added.
+The Profundity added.
+Battle of Naboo added.
+Death Trooper added.
+Trandoshan Hunter added.
+General Hux added.
+Morgan Elsbeth added.
+The Scimitar added.
+Bib Fortuna added.
+Pyke Syndicate Agent added.
+Nightsister's Ritual added.
+Force Choke added.
+The Dead Speak! added.
+Battle of Carkoon added.
+Paternal Revelation added.
+Night of a Thousand Tears added.
+UR05 added.
+UR06 added.
+UR07 added.
+UR04 added.
+Fondor Haulcraft added.
+UR03 added.
+Battle of Jakku added.
+UR08 added.
+UR01 added.
+UR02 added.
+Agen Kolar added.
+Captain Phasma added.
+The Grand Inquisitor added.
+Rotta the Hutt added.
+The Khetanna added.
+Shaak Ti added.
+UG05 added.
+Maz Kanata added.
+UG03 added.
+UG02 added.
+UG01 added.
+UG06 added.
+UG07 added.
+UG08 added.
+UG04 added.
+Battle of Kashyyyk added.
+CW01 added.
+CW02 added.
+CW03 added.
+CW04 added.
+CW05 added.
+CW06 added.
+CW07 added.
+CW08 added.
+CW09 added.
+CW10 added.
+CW11 added.
+CW12 added.
+CU01 added.
+CU02 added.
+CU03 added.
+CU04 added.
+CU05 added.
+CU06 added.
+CU07 added.
+CU08 added.
+CU09 added.
+CU10 added.
+CU11 added.
+CU12 added.
+CB01 added.
+CB02 added.
+CB03 added.
+CB04 added.
+CB05 added.
+CB06 added.
+CB07 added.
+CB08 added.
+CB09 added.
+CB10 added.
+CB11 added.
+CB12 added.
+CR01 added.
+CR02 added.
+CR03 added.
+CR04 added.
+CR05 added.
+CR06 added.
+CR07 added.
+CR08 added.
+CR09 added.
+CR10 added.
+CR11 added.
+CR12 added.
+CG01 added.
+CG02 added.
+CG03 added.
+CG04 added.
+CG05 added.
+CG06 added.
+CG07 added.
+CG08 added.
+CG09 added.
+CG10 added.
+CG11 added.
+CG12 added.
+Rebel Supply Cache added.
+
+The Twilight removed.
+Hunted removed.
+Blockade removed.
+Profundity removed.
+Defabricate removed.
+
+Darth Sidious
+
+Droideka
+
+Destruction of Alderaan
+
+Luke, Ahch-To Exile
+
+Alderaan, Peaceful Jewel
+
+Coruscant, Galaxy's Heart
+
+Mustafar, Volcanic Crucible
+
+Naboo, Verdant Paradise
+
+Tatooine, Twin-Sunned
+
+Bespin, Clouded Domain
+
+Dagobah, Fetid Refuge
+
+Kamino, Drowned Cradle
+
+Kashyyyk, Wild Enclave
+
+Hoth, Frozen Outpost
+
+Greedo, Trigger-Happy
+rules_text: Whenever Greedo enters or attacks, hunt target creature until end of turn. [i](Whenever a permanent you're hunting dies, create a Treasure token or trigger a bounty ability of a permanent you control.)[/i]
+{1}: Greedo fights another target creature. Activate only as a sorcery. => Whenever Greedo enters or attacks, you may hunt target creature. [i](When that creature dies this turn, create a Treasure token and trigger up to one bounty of one permanent you control.)[/i]
+{1}: Greedo fights another target creature. Activate only as a sorcery.
+Bounty — Put a deathtouch counter on Greedo.
+
+R2-D2, Universal Companion
+
+Anakin Skywalker
+
+Jabba the Hutt
+type: Legendary Creature — Alien Mercenary => Legendary Creature — Alien Rogue Noble
+rules_text: Affinity for outlaws [i](This spell costs {1} less to cast for each Assassin, Mercenary, Pirate, Rogue, and/or Warlock you control.)[/i]
+At the beginning of each upkeep, hunt another target permanent until end of turn.
+Bounty — Put a +1/+1 counter on each outlaw you control. => Affinity for outlaws
+Deathtouch
+At the beginning of each upkeep, you may hunt target permanent. [i](When that permanent dies this turn, create a Treasure token and trigger up to one bounty of one permanent you control.)[/i]
+Bounty — Put a +1/+1 counter on each outlaw you control.
+pt: 4/12 => 4/8
+
+Mos Eisley
+rules_text: Whenever Mos Eisley or a nontoken creature you control enters, hunt target creature until end of turn. [i](Whenever a permanent you're hunting dies, create a Treasure token or trigger a bounty ability of a permanent you control.)[/i]
+{T}, Remove X gold counters from Mos Eisley: Add an amount of {C} equal to twice X.
+Bounty — Put a gold counter on Mos Eisley. => Whenever Mos Eisley or a nontoken creature you control enters, you may hunt target creature. [i](When that creature dies this turn, create a Treasure token and trigger up to one bounty of one permanent you control.)[/i]
+{T}, Remove X credit counters from Mos Eisley: Add an amount of {C} equal to twice X.
+Bounty — Put a credit counter on Mos Eisley.
+
+Jango Fett
+rules_text: Flying
+At the beginning of each combat, hunt another target creature until end of turn. [i](Whenever a permanent you're hunting dies, create a Treasure token or trigger a bounty ability of a permanent you control.)[/i]
+Bounty — Create a 1/1 green Clone creature token with deathtouch. => When Jango Fett enters, create a 2/2 green Clone creature token with vigilance.
+Whenever Jango Fett attacks, you may hunt target creature. [i](When that creature dies this turn, create a Treasure token and trigger up to one bounty of one permanent you control.)[/i]
+Bounty — Put a +1/+1 counter on Jango Fett and each Clone you control.
+pt: 3/4 => 4/4
+
+Supreme Commander Vader
+
+Chewbacca, Wookie Cohort
+
+Master Mace Windu
+
+General Grievous
+
+Han Solo, Smuggler Captain
+
+The Millennium Falcon
+
+Grand Master Yoda
+
+Obi-Wan Kenobi
+
+Luke Skywalker
+
+Princess Leia Organa
+
+Senator Mon Mothma
+
+Rey, the Last Skywalker
+
+Kylo Ren, Supreme Leader
+
+Battle of Endor
+
+Battle of Geonosis
+
+The Death Star II
+
+Order 66
+
+The Supremacy
+rules_text: During your turn, The Supremacy has indestructible.
+Whenever a creature stations The Supremacy, hunt another target artifact or creature until end of turn.
+Station
+[level 20+] Bounty — Return any number of target artifact and/or creature cards from your graveyard to your hand. [2/20]
+ => Whenever a creature stations The Supremacy, you may hunt target artifact or creature.
+Station
+[level 20+] Flying, indestructible
+Bounty — Put an indestructible counter on any number of target artifacts or creatures. [2/20]
+
+special_text: During your turn, The Supremacy has indestructible.
+Whenever a creature stations The Supremacy, hunt another target artifact or creature until end of turn.
+Station
+[level 20+] Bounty — Return any number of target artifact and/or creature cards from your graveyard to your hand. [2/20]
+ => Whenever a creature stations The Supremacy, you may hunt target artifact or creature.
+Station
+[level 20+] Flying, indestructible
+Bounty — Put an indestructible counter on any number of target artifacts or creatures. [2/20]
+
+
+Red Five
+
+One With The Force
+
+No Disintegrations
+rules_text: Put X plus one shield counters on target creature, then you may trigger a bounty ability of target permanent you control. For as long as that creature has a shield counter on it, it loses all abilities and is an artifact. [i](It's not a creature.)[/i] => Put X plus one shield counters on target creature, then you may trigger a bounty ability of target permanent you control. For as long as that creature has a shield counter on it, it loses all abilities and is an artifact. 
+[i](It loses all other types.)[/i]
+
+Kyber Crystal
+
+Fall of the New Republic
+
+Fraternal Betrayal
+rules_text: Target player gains control of target creature you control until end of turn. Untap that creature. Until end of turn, it gains haste, undying, and “This creature attacks each combat if able. When it does, it fights another target creature you control.” => Target player gains control of target creature you control. Untap that creature. It gains haste, undying, and “This creature attacks each combat if able. When it does, it fights another target creature you control.”
+
+The Skywalker Saga
+
+Trench Run
+
+Warding Lightsaber
+
+Cleansed Lightsaber
+
+Defiant Lightsaber
+
+Bleeding Lightsaber
+
+Attuned Lightsaber
+
+The Darksaber
+
+The Death Star
+
+Ahch-To, Bygone Asylum
+
+Mandalore, Armored Ruin
+
+Moraband, Dark Tomb
+
+Jakku, Vessel Graveyard
+
+Nal Hutta, Decadent Mire
+
+Starkiller Base
+
+Jedi Temple
+
+Obi-Wan, Stern Disciple
+
+Viceroy Nute Gunray
+
+Darth Tyranus
+
+Master Plo Koon
+rules_text: Whenever you tap an untapped creature, if it isn't being declared as an attacker, you may draw a card. Do this only once each turn.
+Force — {1}{W}{U}: Tap target creature. You may put a stun counter on it. [i](Activate only if this was tapped this turn and only once each turn.)[/i] => Whenever you tap an untapped creature, if it isn't being declared as an attacker, draw a card. This ability triggers only once each turn.
+Force — {1}{W}{U}: Tap target creature. You may put a stun counter on it. [i](Activate only if this was tapped this turn and only once each turn.)[/i]
+
+Sly Moore, the Umbaran
+
+The Stranger, Cad Bane
+rules_text: Whenever an artifact you control dies, Cad Bane deals 1 damage to each opponent.
+{2}{B}{R}, {T}: Hunt another target creature until end of turn. Cad Bane deals 2 damage to it. [i](Whenever a permanent you're hunting dies, create a Treasure token or trigger a bounty ability of a permanent you control.)[/i] => Whenever an artifact you control dies, Cad Bane deals 1 damage to each opponent.
+{2}{B}{R}, {T}: Hunt target creature. Cad Bane deals 2 damage to it. [i](When that creature dies this turn, create a Treasure token and trigger up to one bounty of one permanent you control.)[/i]
+
+Boss Nass, Gungan Leader
+
+Master Depa Billaba
+
+Captain Cassian Andor
+
+Saw Gerrera, the Insurgent
+
+Speaker Mas Amedda
+
+Barriss Offee, the Healer
+
+Grogu, The Child
+
+Master Kit Fisto
+
+Bo-Katan Kryze
+
+Captain Hera Syndulla
+
+Hondo Ohnaka, Pirate King
+
+Moff Gideon
+
+The Mandalorian
+rules_text: Whenever The Mandalorian attacks or blocks, hunt another target permanent until end of turn.
+Creatures you control have protection from permanents you're hunting.
+Bounty — Put a flying, vigilance, or deathtouch counter on The Mandalorian. => Whenever a creature you control attacks, you may hunt target artifact or creature.
+Hunted permanents your opponents control lose all abilities.
+Bounty — Put a flying, vigilance, lifelink, or deathtouch counter on The Mandalorian.
+
+Chancellor Palpatine
+
+General Leia Organa
+
+Yoda, Reclusive Mentor
+
+Max Rebo, the Virtuoso
+rules_text: When Max Rebo enters, hunt target Food until end of turn.
+[i]Jizz —[/i] Sacrifice a Food, {T}: Goad target creature. You may prevent all combat damage it deals this turn.
+You may cast Max Rebo from your graveyard as long as you're hunting a permanent.
+Bounty — Create a Food token. => When Max Rebo enters, hunt target Food.
+Sacrifice a Food, {T}: Goad target creature. You may prevent all combat damage it deals this turn.
+You may cast Max Rebo from your graveyard as long as a hunted permanent is on the battlefield.
+Bounty — Create a Food token.
+
+Ben, Exiled Warden
+
+Finn, Rogue Trooper
+
+Queen Padmé Amidala
+
+Supreme Leader Snoke
+
+Poe Dameron
+
+Anakin, Cocky Protege
+
+Darth Maul
+
+Master Qui-Gon Jinn
+
+Boba Fett
+rules_text: Whenever Boba Fett attacks, hunt target creature until end of turn.
+Whenever you hunt a creature, you may pay {BG}{BG}. If {B} was spent this way, Boba Fett gains deathtouch until end of turn, then if {G} was spent, he fights another target creature.
+Bounty — Create two 1/1 black Rogue creature tokens. => Flying
+Whenever Boba Fett attacks, you may pay {BG}{BG}. For each {B} was spent this way, you may hunt target creature, then Boba Fett fights up to one other target creature for each {G} spent.
+Bounty — Put a shield counter on Boba Fett.
+
+Jar-Jar Binks
+
+Wedge Antilles
+
+Han Solo, Veteran Smuggler
+
+Count Dooku
+
+Captain Rex
+
+Bail Organa
+
+Ackbar's Command
+
+Tarkin's Command
+rules_text: Choose two —
+• Target player creates a 2/2 white Soldier creature token.
+• Hunt an artifact or creature target player controls until end of turn.
+• Creatures get -1/-1 until end of turn.
+• Target player sacrifices an artifact or creature. => Choose two —
+• Target player creates a 2/2 white Soldier creature token.
+• Hunt an artifact or creature target player controls.
+• Creatures get -1/-1 until end of turn.
+• Target player sacrifices an artifact or creature.
+
+Lando Calrissian
+
+Master Ki-Adi-Mundi
+
+Exogorth
+
+Grand Moff Tarkin
+rules_text: Whenever you sacrifice another permanent, put an exalted counter on Grand Moff Tarkin.
+{3}, Sacrifice another creature or artifact: Draw a card. Activate only once each turn. => Whenever you sacrifice another permanent, each opponent loses 1 life. Put an exalted counter on Grand Moff Tarkin. [i](Whenever a creature you control attacks alone, it gets +1/+1 until end of turn for each instance of exalted.)[/i]
+{2}, Sacrifice an artifact or creature: Draw a card.
+
+Battle of Exegol
+
+Wampa
+
+Leia's Command
+
+Lama Su, Grand Minister
+
+Sarlacc
+
+Cody's Command
+
+Slave I
+rules_text: Station
+[level 2+] At the beginning of each upkeep, hunt up to two target creatures until end of turn.
+[level 12+] Flying, vigilance, deathtouch
+Bounty — Return up to one target card from your graveyard to your hand. [9/6] => Station
+[level 2+] At the beginning of each upkeep, you may hunt target nonland permanent.
+[level 12+] Flying, vigilance, deathtouch
+Bounty — Put an undying counter on target creature. [9/6]
+special_text: Station
+[level 2+] At the beginning of each upkeep, hunt up to two target creatures until end of turn.
+[level 12+] Flying, vigilance, deathtouch
+Bounty — Return up to one target card from your graveyard to your hand. [9/6] => Station
+[level 2+] At the beginning of each upkeep, you may hunt target nonland permanent.
+[level 12+] Flying, vigilance, deathtouch
+Bounty — Put an undying counter on target creature. [9/6]
+
+Purrgil Ultra
+rules_text: Flash; payload [i](This spell costs {1} less to cast for each kind of counter among permanents you control.)[/i]
+Flying
+Whenever Purrgil Ultra attacks, you may exile target creature or Spacecraft. Its owner may cast it from exile for as long as it remains exiled. => Flash; payload [i](This spell costs {1} less to cast for each kind of counter among permanents you control.)[/i]
+Flying
+Whenever Purrgil Ultra enters or attacks, you may exile target creature or Spacecraft. Its owner may cast it from exile for as long as it remains exiled.
+
+The Raddus
+
+Battle of Coruscant
+
+Commander Cody
+
+Ahsoka's Command
+
+Tantive IV
+
+Clone Lieutenant
+
+The Executor
+rules_text: When The Executor enters, creatures get -3/-3 until end of turn.
+Whenever a creature dies, put a charge counter on The Executor and each opponent loses 1 life.
+Station
+[level 10+] Flying, menace, annihilator 1 [10/10]
+ => When The Executor enters, creatures get -3/-3 until end of turn.
+Whenever a creature dies, put a charge counter on The Executor and each opponent loses 1 life.
+Station
+[level 12+] Flying, menace, annihilator 1 [10/10]
+
+special_text: When The Executor enters, creatures get -3/-3 until end of turn.
+Whenever a creature dies, put a charge counter on The Executor and each opponent loses 1 life.
+Station
+[level 10+] Flying, menace, annihilator 1 [10/10]
+ => When The Executor enters, creatures get -3/-3 until end of turn.
+Whenever a creature dies, put a charge counter on The Executor and each opponent loses 1 life.
+Station
+[level 12+] Flying, menace, annihilator 1 [10/10]
+
+
+Ahsoka Tano
+rules_text: Haste
+Force — {G}: Choose a kind of counter that Ahsoka Tano doesn't have on her from among flying, first strike, hexproof, lifelink, menace, reach, trample, and +1/+1. Put a counter of that kind on her. [i](Activate only if this was tapped this turn and only once each turn.)[/i] => Haste
+Force — {G}: Choose a kind of counter that Ahsoka Tano doesn't have on her from among first strike, hexproof, lifelink, menace, reach, trample, and +1/+1. Put a counter of that kind on her. [i](Activate only if this was tapped this turn and only once each turn.)[/i]
+
+Admiral Ackbar
+
+Asajj Ventress
+rules_text: Menace, lifelink
+Asajj Ventress has hexproof as long as a nonland permanent died this turn.
+Force — {B}, Pay X life, Sacrifice a nonland permanent: Target creature gets +X/-X until end of turn. [i](Activate only if this was tapped this turn and only once each turn.)[/i] => Menace, lifelink
+Asajj Ventress has hexproof as long you sacrificed a nonland permanent this turn.
+Force — {B}, Pay X life, Sacrifice a nonland permanent: Target creature gets +X/-X until end of turn. [i](Activate only if this was tapped this turn and only once each turn.)[/i]
+
+Greater Krayt Dragon
+
+Wild Rancor
+
+Invisible Hand
+
+The Finalizer
+
+Star Destroyer
+
+AT-AT Walker
+
+Razor Crest
+
+Home One
+
+Carbon-Freezing Chamber
+
+Fortress Inquisitorius
+
+Petranaki Arena
+
+Dantooine Fields
+
+Citadel Tower
+
+Canto Casino
+
+Kessel Mines
+
+Takodana Castle
+
+Vergence Scatter
+
+Echo Base
+
+Bright Tree Village
+
+Sith Holocron
+
+Jedi Holocron
+
+Vulture Droid
+
+IG-88 Assassin
+
+GNK Power Droid
+
+Thermal Detonator
+rules_text: When Thermal Detonator enters, hunt target artifact or creature until end of turn. [i](Whenever a permanent you're hunting dies, create a Treasure token or trigger a bounty ability of a permanent you control.)[/i]
+{7}, {T}, Sacrifice Thermal Detonator: Destroy up to one target artifact and up to one target creature. => When Thermal Detonator enters, you may hunt target artifact or creature. [i](When that artifact or creature dies this turn, create a Treasure token and trigger up to one bounty of one permanent you control.)[/i]
+{7}, {T}, Sacrifice Thermal Detonator: Destroy up to one target artifact and up to one target creature.
+
+74-Z Speeder
+
+X-Wing Starfighter
+
+The Malevolence
+
+The Ghost
+
+TIE Fighter
+
+Youngling Padawan
+
+ISB Agent
+
+Droid Missile Platform
+
+Wookiee Warrior
+
+Gungan Warrior
+
+Cell Block Guard
+
+Unruly Astromech
+
+Bounty Guild Crew
+rules_text: Whenever Bounty Guild Crew enters or attacks, hunt another target creature until end of turn. [i](Whenever a permanent you're hunting dies, create a Treasure token or trigger a bounty ability of a permanent you control.)[/i]
+Bounty — Put a +1/+1 counter on target outlaw. [i](Assassins, Mercenaries, Pirates, Rogues, and Warlocks are outlaws.)[/i] => Whenever Bounty Guild Crew attacks, you may hunt target creature. [i](When that creature dies this turn, create a Treasure token and trigger up to one bounty of one permanent you control.)[/i]
+Bounty — Put a +1/+1 counter on target outlaw.
+
+Dagger Squadron Pilot
+
+Mystic Hermit
+
+B1 Battle Droid
+
+N-1 Starfighter
+
+ARC-170 Starfighter
+
+Y-Wing Starfighter
+
+X-34 Landspeeder
+
+Blaster Rifle
+
+Ascension Cable
+
+Smuggling Compartment
+
+Probe Droid
+
+Bacta Tank
+rules_text: When Bacta Tank enters, you gain 5 life.
+{1}, {T}: Regenerate target creature. [i](The next time it would be destroyed this turn, instead tap it, remove it from combat, and heal all damage on it.)[/i] => When Bacta Tank enters, you gain 5 life.
+{1}, {T}: Tap target creature you control. It gains indestructible until end of turn. Activate only during a main phase.
+
+Sabé, Queen's Shadow
+
+Shmi Skywalker
+
+Rebel Squadron Leader
+
+Jedi Temple Guard
+
+Gungan Army Captain
+
+Battle of Hoth
+rules_text: [i](As a Mission enters, choose an opponent to protect it.)[/i]
+When Battle of Hoth enters, exile target nonland permanent until Battle of Hoth leaves the battlefield.
+When Battle of Hoth is defeated, return up to three artifact and/or creature cards from your graveyard to your hand. => [i](As a Mission enters, choose an opponent to protect it.)[/i]
+When Battle of Hoth enters, exile target nonland permanent until Battle of Hoth leaves the battlefield.
+When Battle of Hoth is defeated, return up to three target artifact and/or creature cards from your graveyard to your hand.
+
+Stay On Target
+
+Protect Senator Amidala!
+
+Rose Tico
+
+Master Saesee Tiin
+
+Ezra Bridger
+
+Jedi Training Remote
+
+Force Spirit
+pt: 3/4 => 3/3
+
+Loth-Wolf Pathfinder
+rules_text: When you cast Loth-Wolf Pathfinder, create an artifact token named Temple Archive with “{4}, {T}: Draw a card.”
+Loth-Wolf Pathfinder can't be blocked as long as you've activated an ability that isn't a mana ability this turn. => When Loth-Wolf Pathfinder enters, create an artifact token named Temple Archive with “{4}, {T}: Draw a card.”
+Loth-Wolf Pathfinder can't be blocked as long as you've activated an ability that isn't a mana ability this turn.
+
+Purrgil Pod
+
+Admiral Piett
+
+Memory Probe
+rules_text: Counter target creature spell. Create three Vial tokens. [i](They're artifacts with “{1}, Sacrifice this and another permanent: Draw a card. Activate only during your turn.”)[/i] => Counter target noncreature spell. Create three Vial tokens. [i](They're artifacts with “{1}, Sacrifice this and another permanent: Draw a card. Activate only during your turn.”)[/i]
+
+Jedi Mind Trick
+
+Force Push
+
+Fateful Negotiation
+
+
+VERSION 17 CHANGELOG
 ====================
 
 Dantooine Fields added.
