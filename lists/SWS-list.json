@@ -37,7 +37,7 @@
     },
     {
         "card_name": "Red Five",
-        "number": 65,
+        "number": 66,
         "shape": "leveler",
         "set": "SWS"
     },
@@ -187,7 +187,7 @@
     },
     {
         "card_name": "Home One",
-        "number": 50,
+        "number": 52,
         "shape": "leveler",
         "set": "SWS"
     },
@@ -217,7 +217,7 @@
     },
     {
         "card_name": "Lama Su, Grand Minister",
-        "number": 56,
+        "number": 58,
         "shape": "normal",
         "set": "SWS"
     },
@@ -367,7 +367,7 @@
     },
     {
         "card_name": "Force Push",
-        "number": 47,
+        "number": 48,
         "shape": "normal",
         "set": "SWS"
     },
@@ -397,7 +397,7 @@
     },
     {
         "card_name": "Force Spirit",
-        "number": 48,
+        "number": 49,
         "shape": "normal",
         "set": "SWS"
     },
@@ -427,7 +427,7 @@
     },
     {
         "card_name": "Jedi Mind Trick",
-        "number": 53,
+        "number": 55,
         "shape": "normal",
         "set": "SWS"
     },
@@ -457,7 +457,7 @@
     },
     {
         "card_name": "Jedi Training Remote",
-        "number": 54,
+        "number": 56,
         "shape": "normal",
         "set": "SWS"
     },
@@ -487,7 +487,7 @@
     },
     {
         "card_name": "Loth-Wolf Pathfinder",
-        "number": 57,
+        "number": 59,
         "shape": "normal",
         "set": "SWS"
     },
@@ -517,7 +517,7 @@
     },
     {
         "card_name": "Master Saesee Tiin",
-        "number": 58,
+        "number": 60,
         "shape": "normal",
         "set": "SWS"
     },
@@ -547,7 +547,7 @@
     },
     {
         "card_name": "Memory Probe",
-        "number": 59,
+        "number": 61,
         "shape": "normal",
         "set": "SWS"
     },
@@ -577,7 +577,7 @@
     },
     {
         "card_name": "Naboo Royal Starship",
-        "number": 63,
+        "number": 64,
         "shape": "leveler",
         "set": "SWS"
     },
@@ -607,7 +607,7 @@
     },
     {
         "card_name": "Purrgil Pod",
-        "number": 64,
+        "number": 65,
         "shape": "normal",
         "set": "SWS"
     },
@@ -756,8 +756,8 @@
         "set": "SWS"
     },
     {
-        "card_name": "Heightened Awareness",
-        "number": 49,
+        "card_name": "Force Barrier",
+        "number": 47,
         "shape": "normal",
         "set": "SWS"
     },
@@ -786,8 +786,8 @@
         "set": "SWS"
     },
     {
-        "card_name": "Imperial Espionage",
-        "number": 51,
+        "card_name": "Frozen in Carbonite",
+        "number": 50,
         "shape": "normal",
         "set": "SWS"
     },
@@ -816,8 +816,8 @@
         "set": "SWS"
     },
     {
-        "card_name": "Jedi Consular",
-        "number": 52,
+        "card_name": "Heightened Awareness",
+        "number": 51,
         "shape": "normal",
         "set": "SWS"
     },
@@ -846,8 +846,8 @@
         "set": "SWS"
     },
     {
-        "card_name": "Knowledge and Defense",
-        "number": 55,
+        "card_name": "Imperial Espionage",
+        "number": 53,
         "shape": "normal",
         "set": "SWS"
     },
@@ -876,8 +876,8 @@
         "set": "SWS"
     },
     {
-        "card_name": "Mission Briefing",
-        "number": 60,
+        "card_name": "Jedi Consular",
+        "number": 54,
         "shape": "normal",
         "set": "SWS"
     },
@@ -906,8 +906,8 @@
         "set": "SWS"
     },
     {
-        "card_name": "Monster Droid",
-        "number": 61,
+        "card_name": "Knowledge and Defense",
+        "number": 57,
         "shape": "normal",
         "set": "SWS"
     },
@@ -936,7 +936,7 @@
         "set": "SWS"
     },
     {
-        "card_name": "Mouse Droid",
+        "card_name": "Monster Droid",
         "number": 62,
         "shape": "normal",
         "set": "SWS"
@@ -963,8 +963,8 @@
         "card_name": "e"
     },
     {
-        "card_name": "Scour the Archives",
-        "number": 66,
+        "card_name": "Mouse Droid",
+        "number": 63,
         "shape": "normal",
         "set": "SWS"
     },

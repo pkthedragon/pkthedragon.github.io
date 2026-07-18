@@ -55,9 +55,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U}",
 			"type": "Legendary Artifact — Spacecraft",
-			"collector_number": "63",
+			"collector_number": "64",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/63_Naboo Royal Starship.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/64_Naboo Royal Starship.png"
 			}
 		},
 		{
@@ -429,9 +429,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{U}",
 			"type": "Legendary Artifact — Spacecraft",
-			"collector_number": "65",
+			"collector_number": "66",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/65_Red Five.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/66_Red Five.png"
 			}
 		},
 		{
@@ -1129,9 +1129,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Legendary Creature — Alien Advisor",
-			"collector_number": "56",
+			"collector_number": "58",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/56_Lama Su, Grand Minister.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/58_Lama Su, Grand Minister.png"
 			}
 		},
 		{
@@ -1359,9 +1359,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}",
 			"type": "Legendary Artifact — Spacecraft",
-			"collector_number": "50",
+			"collector_number": "52",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/50_Home One.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/52_Home One.png"
 			}
 		},
 		{
@@ -1909,9 +1909,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{U}",
 			"type": "Legendary Creature — Alien Jedi Elder",
-			"collector_number": "58",
+			"collector_number": "60",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/58_Master Saesee Tiin.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/60_Master Saesee Tiin.png"
 			}
 		},
 		{
@@ -1929,9 +1929,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Artifact Creature — Droid",
-			"collector_number": "54",
+			"collector_number": "56",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/54_Jedi Training Remote.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/56_Jedi Training Remote.png"
 			}
 		},
 		{
@@ -1939,9 +1939,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U}{U}",
 			"type": "Creature — Jedi Spirit",
-			"collector_number": "48",
+			"collector_number": "49",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/48_Force Spirit.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/49_Force Spirit.png"
 			}
 		},
 		{
@@ -1949,9 +1949,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{5}{U}{U}",
 			"type": "Creature — Wolf Beast",
-			"collector_number": "57",
+			"collector_number": "59",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/57_Loth-Wolf Pathfinder.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/59_Loth-Wolf Pathfinder.png"
 			}
 		},
 		{
@@ -1959,9 +1959,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{5}{U}",
 			"type": "Creature — Whale Beast",
-			"collector_number": "64",
+			"collector_number": "65",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/64_Purrgil Pod.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/65_Purrgil Pod.png"
 			}
 		},
 		{
@@ -1989,9 +1989,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
 			"type": "Instant",
-			"collector_number": "59",
+			"collector_number": "61",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/59_Memory Probe.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/61_Memory Probe.png"
 			}
 		},
 		{
@@ -1999,9 +1999,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{U}",
 			"type": "Enchantment",
-			"collector_number": "53",
+			"collector_number": "55",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/53_Jedi Mind Trick.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/55_Jedi Mind Trick.png"
 			}
 		},
 		{
@@ -2009,9 +2009,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Instant",
-			"collector_number": "47",
+			"collector_number": "48",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/47_Force Push.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/48_Force Push.png"
 			}
 		},
 		{
@@ -2539,26 +2539,26 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Artifact Creature — Droid",
-			"collector_number": "62",
+			"collector_number": "63",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/62_Mouse Droid.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/63_Mouse Droid.png"
 			}
 		},
 		{
 			"name": "Jedi Consular",
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
-			"type": "Creature",
-			"collector_number": "52",
+			"type": "Creature — Alien Jedi",
+			"collector_number": "54",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/52_Jedi Consular.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/54_Jedi Consular.png"
 			}
 		},
 		{
 			"name": "Attendant Navigator",
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
-			"type": "Creature",
+			"type": "Creature — Alien Pilot",
 			"collector_number": "38",
 			"image_uris": {
 				"en": "https://pkthedragon.github.io/sets/SWS-files/img/38_Attendant Navigator.png"
@@ -2567,8 +2567,8 @@
 		{
 			"name": "Bespin Wing Guard",
 			"rarity": "common",
-			"mana_cost": "{1}{U}{U}",
-			"type": "Creature",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Soldier",
 			"collector_number": "41",
 			"image_uris": {
 				"en": "https://pkthedragon.github.io/sets/SWS-files/img/41_Bespin Wing Guard.png"
@@ -2579,9 +2579,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{U}",
 			"type": "Artifact Creature — Droid Beast",
-			"collector_number": "61",
+			"collector_number": "62",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/61_Monster Droid.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/62_Monster Droid.png"
 			}
 		},
 		{
@@ -2597,7 +2597,7 @@
 		{
 			"name": "Asteroid Sanctuary",
 			"rarity": "common",
-			"mana_cost": "{1}{U}",
+			"mana_cost": "{2}{U}",
 			"type": "Instant",
 			"collector_number": "37",
 			"image_uris": {
@@ -2609,9 +2609,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
-			"collector_number": "51",
+			"collector_number": "53",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/51_Imperial Espionage.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/53_Imperial Espionage.png"
 			}
 		},
 		{
@@ -2619,39 +2619,39 @@
 			"rarity": "common",
 			"mana_cost": "{3}{U}",
 			"type": "Instant",
-			"collector_number": "55",
+			"collector_number": "57",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/55_Knowledge and Defense.png"
-			}
-		},
-		{
-			"name": "Mission Briefing",
-			"rarity": "common",
-			"mana_cost": "{1}{U}",
-			"type": "Sorcery",
-			"collector_number": "60",
-			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/60_Mission Briefing.png"
-			}
-		},
-		{
-			"name": "Scour the Archives",
-			"rarity": "common",
-			"mana_cost": "{1}{U}{U}",
-			"type": "Sorcery",
-			"collector_number": "66",
-			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/66_Scour the Archives.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/57_Knowledge and Defense.png"
 			}
 		},
 		{
 			"name": "Heightened Awareness",
 			"rarity": "common",
 			"mana_cost": "{U}",
-			"type": "Enchantment — Aura",
-			"collector_number": "49",
+			"type": "Sorcery",
+			"collector_number": "51",
 			"image_uris": {
-				"en": "https://pkthedragon.github.io/sets/SWS-files/img/49_Heightened Awareness.png"
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/51_Heightened Awareness.png"
+			}
+		},
+		{
+			"name": "Force Barrier",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/47_Force Barrier.png"
+			}
+		},
+		{
+			"name": "Frozen in Carbonite",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://pkthedragon.github.io/sets/SWS-files/img/50_Frozen in Carbonite.png"
 			}
 		},
 		{
@@ -3339,9 +3339,9 @@
 	8 Asteroid Sanctuary
 	8 Imperial Espionage
 	8 Knowledge and Defense
-	8 Mission Briefing
-	8 Scour the Archives
 	8 Heightened Awareness
+	8 Force Barrier
+	8 Frozen in Carbonite
 	8 Stormtrooper
 	8 Jawa Scavenger
 	8 Snowtrooper
@@ -3640,9 +3640,9 @@
 	12 Asteroid Sanctuary
 	12 Imperial Espionage
 	12 Knowledge and Defense
-	12 Mission Briefing
-	12 Scour the Archives
 	12 Heightened Awareness
+	12 Force Barrier
+	12 Frozen in Carbonite
 	12 Stormtrooper
 	12 Jawa Scavenger
 	12 Snowtrooper
@@ -3941,9 +3941,9 @@
 	6 Asteroid Sanctuary
 	6 Imperial Espionage
 	6 Knowledge and Defense
-	6 Mission Briefing
-	6 Scour the Archives
 	6 Heightened Awareness
+	6 Force Barrier
+	6 Frozen in Carbonite
 	6 Stormtrooper
 	6 Jawa Scavenger
 	6 Snowtrooper

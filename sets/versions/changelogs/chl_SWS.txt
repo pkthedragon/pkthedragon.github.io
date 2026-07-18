@@ -1,4 +1,127 @@
-﻿VERSION 21 CHANGELOG
+﻿VERSION 22 CHANGELOG
+====================
+
+Force Barrier added.
+Frozen in Carbonite added.
+
+Mission Briefing removed.
+Scour the Archives removed.
+
+Naboo Royal Starship
+
+Red Five
+
+Warding Lightsaber
+rules_text: Whenever a creature you control uses the force, you may untap it and attach Warding Lightsaber to that creature.
+Equipped creature gets +2/+2 and has hexproof from red and green.
+Equip {2U} => Whenever a creature you control uses the force, you may untap it and attach Warding Lightsaber to that creature.
+Equipped creature gets +2/+2 and has hexproof from red and green.
+Equip {1}{U}
+
+Cleansed Lightsaber
+rules_text: Whenever a creature you control uses the force, you may untap it and attach Cleansed Lightsaber to that creature.
+Equipped creature gets +2/+2 and has hexproof from black and red.
+Equip {2W} => Whenever a creature you control uses the force, you may untap it and attach Cleansed Lightsaber to that creature.
+Equipped creature gets +2/+2 and has hexproof from black and red.
+Equip {1}{W}
+
+Defiant Lightsaber
+rules_text: Whenever a creature you control uses the force, you may untap it and attach Defiant Lightsaber to that creature.
+Equipped creature gets +2/+2 and has hexproof from green and white.
+Equip {2B} => Whenever a creature you control uses the force, you may untap it and attach Defiant Lightsaber to that creature.
+Equipped creature gets +2/+2 and has hexproof from green and white.
+Equip {1}{B}
+
+Bleeding Lightsaber
+rules_text: Whenever a creature you control uses the force, you may untap it and attach Bleeding Lightsaber to that creature.
+Equipped creature gets +2/+2 and has hexproof from white and blue.
+Equip {2R} => Whenever a creature you control uses the force, you may untap it and attach Bleeding Lightsaber to that creature.
+Equipped creature gets +2/+2 and has hexproof from white and blue.
+Equip {1}{R}
+
+Attuned Lightsaber
+rules_text: Whenever a creature you control uses the force, you may untap it and attach Attuned Lightsaber to that creature.
+Equipped creature gets +2/+2 and has hexproof from blue and black.
+Equip {2G} => Whenever a creature you control uses the force, you may untap it and attach Attuned Lightsaber to that creature.
+Equipped creature gets +2/+2 and has hexproof from blue and black.
+Equip {1}{G}
+
+Exogorth
+rules_text: Whenever one or more creatures an opponent controls become tapped, you may untap Exogorth.
+Whenever Exogorth blocks or becomes blocked by a creature, exile it until Exogorth leaves the battlefield. => Whenever one or more creatures an opponent controls become tapped, you may untap Exogorth.
+Whenever Exogorth blocks or becomes blocked by a creature, exile that creature until Exogorth leaves the battlefield.
+
+Lama Su, Grand Minister
+
+Home One
+
+ISB Agent
+pt: 3/2 => 2/2
+
+Master Saesee Tiin
+
+Jedi Training Remote
+
+Force Spirit
+
+Loth-Wolf Pathfinder
+
+Purrgil Pod
+
+Memory Probe
+
+Jedi Mind Trick
+
+Force Push
+
+Senate Guard
+rules_text: Whenever Senate Guard attacks, untap target nonland permanent. => Whenever Senate Guard attacks, put a +1/+1 counter on up to one target tapped creature with lesser power.
+pt: 3/3 => 3/2
+
+Mouse Droid
+
+Jedi Consular
+type: Creature => Creature — Alien Jedi
+rules_text:  => Jedi Consular gets +1/+0 as long as you activated an ability that wasn't a mana ability this turn.
+Force — {1}{U}: Target creature gains flying until end of turn. [i](Activate only if this was tapped this turn and only once each turn.)[/i]
+pt:  => 1/4
+
+Attendant Navigator
+type: Creature => Creature — Alien Pilot
+rules_text:  => When Attendant Navigator enters, create a 1/1 colorless Droid artifact creature token with flying.
+Attendant Navigator gets +1/+1 as long as you control another tapped artifact or creature.
+pt:  => 1/2
+
+Bespin Wing Guard
+type: Creature => Creature — Human Soldier
+cost: {1}{U}{U} => {2}{U}
+rules_text:  => Whenever Bespin Wing Guard becomes tapped, untap target permanent. This ability triggers only once each turn.
+pt:  => 3/2
+
+Monster Droid
+
+Dianoga
+rules_text: Dianoga has hexproof as long as it's untapped.
+Whenever you tap an untapped creature an opponent controls, untap Dianoga. => Dianoga has hexproof as long as it's untapped.
+Whenever you activate an ability that's not a mana ability, you may untap Dianoga. Do this only once each turn.
+
+Asteroid Sanctuary
+cost: {1}{U} => {2}{U}
+
+Imperial Espionage
+rules_text: Counter target spell unless its controller pays {2}. If they do, untap up to one target permanent. => Counter target spell unless its controller pays {2}. If they do, create a Clue token. [i](It's an artifact with “{2}, Sacrifice this: Draw a card.”)[/i]
+
+Knowledge and Defense
+rules_text:  => Choose one —
+• Target creature's owner puts it on their choice of the top or bottom of their library.
+• Draw two cards.
+
+Heightened Awareness
+type: Enchantment — Aura => Sorcery
+rules_text:  => Target creature can't be blocked this turn. Until end of turn, it gains “Whenever this creature deals combat damage to a player, draw a card.”
+
+
+VERSION 21 CHANGELOG
 ====================
 
 Clone Trooper added.
