@@ -1,4 +1,328 @@
-﻿VERSION 20 CHANGELOG
+﻿VERSION 21 CHANGELOG
+====================
+
+Clone Trooper added.
+Guardian of the Whills added.
+Rebel Pathfinder added.
+Senate Guard added.
+Communications Droid added.
+Imperial Royal Guard added.
+Echo Base Defender added.
+Fleet Troopers added.
+Knight of the Republic added.
+Focus Fire added.
+Detention Block Rescue added.
+Way of Mand'alor added.
+Mouse Droid added.
+Jedi Consular added.
+Attendant Navigator added.
+Bespin Wing Guard added.
+Monster Droid added.
+Dianoga added.
+Asteroid Sanctuary added.
+Imperial Espionage added.
+Knowledge and Defense added.
+Mission Briefing added.
+Scour the Archives added.
+Heightened Awareness added.
+Stormtrooper added.
+Jawa Scavenger added.
+Snowtrooper added.
+Gamorrean Guards added.
+Praetorian Elite added.
+Imperial Dark Trooper added.
+Ravenous Rathtar added.
+Force Slow added.
+Confiscate added.
+Calculated Lethality added.
+Take Captive added.
+Merciless Contest added.
+Cantina Braggart added.
+Mortar Trooper added.
+Cantina Band added.
+Mandalorian Commando added.
+Remnant Corps added.
+E-Web Gunner added.
+Mynock added.
+Precision Fire added.
+Daring Raid added.
+Grenade Strike added.
+Open Fire added.
+Maximum Firepower added.
+Porg added.
+Womp Rat added.
+Domesticated Loth-Cat added.
+Tusken Tracker added.
+Tauntaun added.
+Dewback Patrol added.
+Bantha Herd added.
+Ravening Gundark added.
+Do or Do Not added.
+Pounce added.
+Follow the Path added.
+Stronger Together added.
+
+CW01 removed.
+CW02 removed.
+CW03 removed.
+CW04 removed.
+CW05 removed.
+CW06 removed.
+CW07 removed.
+CW08 removed.
+CW09 removed.
+CW10 removed.
+CW11 removed.
+CW12 removed.
+CU01 removed.
+CU02 removed.
+CU03 removed.
+CU04 removed.
+CU05 removed.
+CU06 removed.
+CU07 removed.
+CU08 removed.
+CU09 removed.
+CU10 removed.
+CU11 removed.
+CU12 removed.
+CB01 removed.
+CB02 removed.
+CB03 removed.
+CB04 removed.
+CB05 removed.
+CB06 removed.
+CB07 removed.
+CB08 removed.
+CB09 removed.
+CB10 removed.
+CB11 removed.
+CB12 removed.
+CR01 removed.
+CR02 removed.
+CR03 removed.
+CR04 removed.
+CR05 removed.
+CR06 removed.
+CR07 removed.
+CR08 removed.
+CR09 removed.
+CR10 removed.
+CR11 removed.
+CR12 removed.
+CG01 removed.
+CG02 removed.
+CG03 removed.
+CG04 removed.
+CG05 removed.
+CG06 removed.
+CG07 removed.
+CG08 removed.
+CG09 removed.
+CG10 removed.
+CG11 removed.
+CG12 removed.
+
+Darth Sidious
+
+Destruction of Alderaan
+
+Naboo Royal Starship
+
+R2-D2, Universal Companion
+type: Legendary Artifact Creature — Rebel Droid => Legendary Artifact Creature — Droid Rebel
+
+Jango Fett
+rules_text: When Jango Fett enters, create a 2/2 green Clone creature token with vigilance.
+Whenever Jango Fett attacks, you may hunt target creature. [i](When that creature dies this turn, create a Treasure token and trigger up to one bounty of one permanent you control.)[/i]
+Bounty — Put a +1/+1 counter on Jango Fett and each Clone you control. => When Jango Fett enters, create a 2/2 green Clone creature token with vigilance.
+Whenever Jango Fett attacks, you may hunt target creature. [i](When that creature dies this turn, create a Treasure token and trigger up to one bounty of one permanent you control.)[/i]
+Bounty — Put a +1/+1 counter on Jango Fett or target Clone.
+
+Supreme Commander Vader
+
+Han Solo, Smuggler Captain
+
+Battle of Endor
+
+Battle of Geonosis
+
+Red Five
+
+One With The Force
+
+Kyber Crystal
+
+Fall of the New Republic
+
+Barriss Offee, the Healer
+type: Legendary Creature — Alien Jedi Sith => Legendary Creature — Alien Jedi Rogue
+
+Captain Hera Syndulla
+
+General Leia Organa
+
+Lando Calrissian
+
+Master Ki-Adi-Mundi
+
+Exogorth
+
+Grand Moff Tarkin
+
+Wampa
+
+Leia's Command
+
+Lama Su, Grand Minister
+
+Sarlacc
+
+Cody's Command
+
+Slave I
+
+Purrgil Ultra
+
+Commander Cody
+
+Tantive IV
+
+Clone Lieutenant
+
+The Executor
+
+Ahsoka Tano
+type: Legendary Creature — Human Jedi => Legendary Creature — Alien Jedi
+
+Greater Krayt Dragon
+
+Wild Rancor
+
+Invisible Hand
+
+C-3PO, Steadfast Translator
+type: Legendary Artifact Creature — Rebel Droid => Legendary Artifact Creature — Droid Rebel
+rules_text: C-3PO is all colors.
+C-3PO has hexproof and indestructible as long as he has a counter on him.
+{X}, {T}, Put a stun counter on C-3PO: Draw X cards. Spend only mana of different colors to activate this ability. 
+X can't be 0. => C-3PO is all colors.
+C-3PO has indestructible as long as he has a counter on him.
+{X}, {T}, Put a stun counter on C-3PO: Draw X cards. Spend only mana of different colors to activate this ability. 
+X can't be 0.
+
+Home One
+
+Vulture Droid
+rules_text: Assembly X, where X is the number of creatures you control named Vulture Droid. [i](This creature enters with X +1/+1 counters on it. When it dies, create a 1/1 colorless Droid artifact creature token for each +1/+1 counter on it.)[/i]
+Flying
+A deck can have any number of cards named Vulture Droid. => Assembly X, where X is the number of Droids you control. [i](This creature enters with X +1/+1 counters on it. When it dies, create a 1/1 colorless Droid artifact creature token for each +1/+1 counter on it.)[/i]
+Flying
+A deck can have any number of cards named Vulture Droid.
+
+Sabé, Queen's Shadow
+
+Shmi Skywalker
+
+The Profundity
+
+Rebel Squadron Leader
+
+Jedi Temple Guard
+
+Gungan Army Captain
+
+Stay On Target
+
+Protect Senator Amidala!
+rules_text: Create a 2/2 white Jedi creature token, then put a shield counter on target creature you control. => Create a 2/2 white Jedi creature token, then put a shield counter on a creature you control.
+
+Rose Tico
+
+Master Saesee Tiin
+
+Ezra Bridger
+
+Jedi Training Remote
+
+Force Spirit
+
+Loth-Wolf Pathfinder
+
+Purrgil Pod
+
+Battle of Naboo
+
+Memory Probe
+
+Jedi Mind Trick
+
+Force Push
+
+Fateful Negotiation
+
+Death Trooper
+
+General Hux
+
+Morgan Elsbeth
+
+The Scimitar
+
+Pyke Syndicate Agent
+
+Nightsister's Ritual
+
+Force Choke
+
+The Dead Speak!
+
+Paternal Revelation
+
+Night of a Thousand Tears
+
+Frantic Race
+
+Fondor Haulcraft
+
+Proton Torpedo Barrage
+
+Mummer Salver
+
+Captain Phasma
+
+The Grand Inquisitor
+
+Rotta the Hutt
+
+The Khetanna
+
+Shaak Ti
+
+Maz Kanata
+
+Wookiee Sharpshooter
+
+Ewok War Party
+
+Trust in the Force
+
+Jedi Communion
+
+Size Matters Not
+
+Shielded Fambaa
+
+Battle of Kashyyyk
+
+Rebel Supply Cache
+type: Artifact — Food Clue => Artifact — Food
+rules_text: {1}: Add one mana of any color. Activate only once each turn.
+{2}, {T}, Sacrifice Rebel Supply Cache: You gain 3 life and draw a card. => {1}: Add one mana of any color. Activate only once each turn.
+{2}, {T}, Sacrifice Rebel Supply Cache: You gain 3 life.
+
+
+VERSION 20 CHANGELOG
 ====================
 
 C-3PO, Steadfast Translator added.
