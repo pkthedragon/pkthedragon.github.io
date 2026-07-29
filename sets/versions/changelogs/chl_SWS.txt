@@ -1,4 +1,1232 @@
-﻿VERSION 22 CHANGELOG
+﻿VERSION 23 CHANGELOG
+====================
+
+Anakin, Podracer Prodigy added.
+Master Yoda added.
+Grogu, the Child added.
+Saleucami Oasis added.
+Alter the Deal added.
+T'doshok Hunter added.
+Invasive Maneuvers added.
+Geonosis Droid Factory added.
+Wartime Production added.
+Unlimited Power added.
+Rampaging Reeks added.
+Mummer Salvager added.
+Pilot Droid added.
+Territorial Acklay added.
+Feral Nexu added.
+Ewok Scout added.
+Stripped For Parts added.
+Primal Defiance added.
+R4 Courier Droid added.
+Wookiee Trophy Hunter added.
+Super Tactical Droid added.
+Watchful Eye added.
+Deadly Dispute added.
+Hunter's Gambit added.
+Influence Death added.
+Show No Mercy added.
+Pit Droid Team added.
+Terentatek added.
+Test of Metal added.
+Divert Power added.
+Playful Porgs added.
+Womp Rat Pack added.
+Felucian Shaman added.
+Rampant Tauntaun added.
+Bantha Sentry added.
+Biosynthic Burst added.
+Feed New Life added.
+Smuggled Coaxium added.
+
+Anakin, Fledgeling Pilot removed.
+Grand Master Yoda removed.
+Grogu, The Child removed.
+Vergence Scatter removed.
+Stay On Target removed.
+Trandoshan Hunter removed.
+Frantic Race removed.
+Seismic Charge removed.
+Target the Main Reactor removed.
+Shoot First removed.
+Arena Reek removed.
+Mummer Salver removed.
+Spectre Coil Saboteur removed.
+Arena Ackler removed.
+Arena Nexu removed.
+Ewok War Party removed.
+Trust in the Force removed.
+Jedi Communion removed.
+Communications Droid removed.
+Gamorrean Guards removed.
+Force Slow removed.
+Confiscate removed.
+Calculated Lethality removed.
+Take Captive removed.
+Merciless Contest removed.
+Cantina Braggart removed.
+Mandalorian Commando removed.
+Remnant Corps removed.
+E-Web Gunner removed.
+Precision Fire removed.
+Daring Raid removed.
+Open Fire removed.
+Porg removed.
+Womp Rat removed.
+Tauntaun removed.
+Bantha Herd removed.
+Do or Do Not removed.
+Stronger Together removed.
+
+Darth Sidious
+
+Droideka
+rules_text: Assembly 3 [i](This creature enters with three +1/+1 counters on it. When it dies, create a 1/1 colorless Droid artifact creature token for each +1/+1 counter on it.)[/i]
+Droideka enters with a shield counter on it.
+{1}, Remove a counter from Droideka: It deals 1 damage to any target. => Droideka enters with a shield counter on it. When it does, assemble 2. [i](To assemble 2, either put two +1/+1 counters on this creature or create two 1/1 colorless Droid artifact creature tokens.)[/i]
+{2}, {T}, Sacrifice another artifact: Droideka deals damage equal to its power to any target.
+pt: 0/0 => 1/1
+
+Destruction of Alderaan
+rules_text: Payload [i](This spell costs {1} less to cast for each kind of counter among permanents you control.)[/i]
+Exile target land. Destruction of Alderaan deals 20 damage to each nonartifact creature. => Payload [i](Each kind of counter you remove from permanents you control while casting this spell pays for {1}.)[/i]
+Exile target land. Destruction of Alderaan deals 20 damage to each nonartifact creature.
+
+Luke, Ahch-To Exile
+
+Alderaan, Peaceful Jewel
+rules_text: Alderaan enters tapped.
+{T}: Add {G} or {W}.
+Station
+[level 8+] {2}{G}{W}, {T}, Sacrifice Alderaan or an artifact: Creatures you control get +2/+2 and gain trample until end of turn.
+ => {T}, Pay 1 life: Add {G} or {W}.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)[/i]
+Cycling {G}{W}
+[level 8+] {2}{G}{W}, {T}: Creatures you control gain lifelink and trample until end of turn.
+
+special_text: Alderaan enters tapped.
+{T}: Add {G} or {W}.
+Station
+[level 8+] {2}{G}{W}, {T}, Sacrifice Alderaan or an artifact: Creatures you control get +2/+2 and gain trample until end of turn.
+ => {T}, Pay 1 life: Add {G} or {W}.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)[/i]
+Cycling {G}{W}
+[level 8+] {2}{G}{W}, {T}: Creatures you control gain lifelink and trample until end of turn.
+
+
+Coruscant, Galaxy's Heart
+rules_text: Coruscant enters tapped.
+{T}: Add {W} or {B}.
+Station
+[level 8+] {W}{B}, {T}, Sacrifice Coruscant or an artifact: Create two 1/1 white Alien creature tokens with flying.
+ => {T}, Pay 1 life: Add {W} or {B}.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)[/i]
+Cycling {W}{B}
+[level 8+] {1}{W}{B}, {T}: Create a 1/1 colorless Drone artifact creature token with flying.
+
+special_text: Coruscant enters tapped.
+{T}: Add {W} or {B}.
+Station
+[level 8+] {W}{B}, {T}, Sacrifice Coruscant or an artifact: Create two 1/1 white Alien creature tokens with flying.
+ => {T}, Pay 1 life: Add {W} or {B}.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)[/i]
+Cycling {W}{B}
+[level 8+] {1}{W}{B}, {T}: Create a 1/1 colorless Drone artifact creature token with flying.
+
+
+Mustafar, Volcanic Crucible
+rules_text: Mustafar enters tapped.
+{T}: Add {B} or {R}.
+Station
+[level 8+] {2}{B}{R}, {T}, Sacrifice Mustafar or an artifact: Mustafar deals 3 damage to any target. If it would die this turn, exile it instead.
+ => {T}, Pay 1 life: Add {B} or {R}.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)[/i]
+Cycling {B}{R}
+[level 8+] {2}{B}{R}, {T}: Mustafar deals 3 damage to each opponent and each battle you control.
+
+special_text: Mustafar enters tapped.
+{T}: Add {B} or {R}.
+Station
+[level 8+] {2}{B}{R}, {T}, Sacrifice Mustafar or an artifact: Mustafar deals 3 damage to any target. If it would die this turn, exile it instead.
+ => {T}, Pay 1 life: Add {B} or {R}.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)[/i]
+Cycling {B}{R}
+[level 8+] {2}{B}{R}, {T}: Mustafar deals 3 damage to each opponent and each battle you control.
+
+
+Naboo, Verdant Paradise
+rules_text: Naboo enters tapped.
+{T}: Add {G} or {U}.
+Station
+[level 8+] {X}{X}{G}{U}, {T}, Sacrifice Naboo or an artifact: Target player gains X life and draws X cards.
+ => {T}, Pay 1 life: Add {G} or {U}.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)[/i]
+Cycling {G}{U}
+[level 8+] {X}{X}{G}{U}, {T}: Target player gains X life and draws X cards.
+
+special_text: Naboo enters tapped.
+{T}: Add {G} or {U}.
+Station
+[level 8+] {X}{X}{G}{U}, {T}, Sacrifice Naboo or an artifact: Target player gains X life and draws X cards.
+ => {T}, Pay 1 life: Add {G} or {U}.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)[/i]
+Cycling {G}{U}
+[level 8+] {X}{X}{G}{U}, {T}: Target player gains X life and draws X cards.
+
+
+Tatooine, Twin-Sunned
+rules_text: Tatooine enters tapped.
+{T}: Add {R} or {W}.
+Station
+[level 8+] {R}{W}, {T}, Sacrifice Tatooine or an artifact: Destroy target artifact, enchantment, or nonbasic, non-Planet land.
+ => {T}, Pay 1 life: Add {R} or {W}.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)[/i]
+Cycling {R}{W}
+[level 8+] {1}{R}{W}, {T}: Creatures you control get +2/+0 and gain haste until end of turn.
+
+special_text: Tatooine enters tapped.
+{T}: Add {R} or {W}.
+Station
+[level 8+] {R}{W}, {T}, Sacrifice Tatooine or an artifact: Destroy target artifact, enchantment, or nonbasic, non-Planet land.
+ => {T}, Pay 1 life: Add {R} or {W}.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)[/i]
+Cycling {R}{W}
+[level 8+] {1}{R}{W}, {T}: Creatures you control get +2/+0 and gain haste until end of turn.
+
+
+Anakin, Faded Vestige
+pt: 1/1 => 2/2
+
+Bespin, Clouded Domain
+rules_text: Bespin enters tapped.
+{T}: Add {U} or {R}.
+Station
+[level 8+] {1}{U}{R}, {T}, Sacrifice Bespin or an artifact: Copy target activated or triggered ability. You may choose new targets for the copy.
+ => {T}, Pay 1 life: Add {U} or {R}.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)[/i]
+Cycling {U}{R}
+[level 8+] {1}{U}{R}, {T}: Copy target activated or triggered ability. You may choose new targets for the copy.
+
+special_text: Bespin enters tapped.
+{T}: Add {U} or {R}.
+Station
+[level 8+] {1}{U}{R}, {T}, Sacrifice Bespin or an artifact: Copy target activated or triggered ability. You may choose new targets for the copy.
+ => {T}, Pay 1 life: Add {U} or {R}.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)[/i]
+Cycling {U}{R}
+[level 8+] {1}{U}{R}, {T}: Copy target activated or triggered ability. You may choose new targets for the copy.
+
+
+Dagobah, Fetid Refuge
+rules_text: Dagobah enters tapped.
+{T}: Add {G} or {B}.
+Station
+[level 8+] {1}{B}{G}, {T}, Sacrifice Dagobah or an artifact: Target creature you control deals damage equal to its power to target creature.
+ => {T}, Pay 1 life: Add {B} or {G}.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)[/i]
+Cycling {B}{G}
+[level 8+] {1}{B}{G}, {T}, Sacrifice an artifact or creature: Draw a card.
+
+special_text: Dagobah enters tapped.
+{T}: Add {G} or {B}.
+Station
+[level 8+] {1}{B}{G}, {T}, Sacrifice Dagobah or an artifact: Target creature you control deals damage equal to its power to target creature.
+ => {T}, Pay 1 life: Add {B} or {G}.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)[/i]
+Cycling {B}{G}
+[level 8+] {1}{B}{G}, {T}, Sacrifice an artifact or creature: Draw a card.
+
+
+Kamino, Drowned Cradle
+rules_text: Kamino enters tapped.
+{T}: Add {U} or {B}.
+Station
+[level 8+] {1}{U}{B}, {T}, Sacrifice Kamino or an artifact: Return a nonland card that was put into a graveyard this turn to its owner's hand.
+ => {T}, Pay 1 life: Add {U} or {B}.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)[/i]
+Cycling {U}{B}
+[level 8+] {U}{B}, {T}: Create a Clue token.
+
+special_text: Kamino enters tapped.
+{T}: Add {U} or {B}.
+Station
+[level 8+] {1}{U}{B}, {T}, Sacrifice Kamino or an artifact: Return a nonland card that was put into a graveyard this turn to its owner's hand.
+ => {T}, Pay 1 life: Add {U} or {B}.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)[/i]
+Cycling {U}{B}
+[level 8+] {U}{B}, {T}: Create a Clue token.
+
+
+Kashyyyk, Wild Enclave
+rules_text: Kashyyyk enters tapped.
+{T}: Add {R} or {G}.
+Station
+[level 8+] {2}{R}{G}, {T}, Sacrifice Kashyyyk or an artifact: Put a +1/+1 counter on each creature you control. They gain haste until end of turn.
+ => {T}, Pay 1 life: Add {R} or {G}.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)[/i]
+Cycling {R}{G}
+[level 8+] {R}{G}, {T}: Distribute two +1/+1 counters among any number of target permanents.
+
+special_text: Kashyyyk enters tapped.
+{T}: Add {R} or {G}.
+Station
+[level 8+] {2}{R}{G}, {T}, Sacrifice Kashyyyk or an artifact: Put a +1/+1 counter on each creature you control. They gain haste until end of turn.
+ => {T}, Pay 1 life: Add {R} or {G}.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)[/i]
+Cycling {R}{G}
+[level 8+] {R}{G}, {T}: Distribute two +1/+1 counters among any number of target permanents.
+
+
+Hoth, Frozen Outpost
+rules_text: Hoth enters tapped.
+{T}: Add {W} or {U}.
+Station
+[level 8+] {2}{W}{U}, {T}, Sacrifice Hoth or an artifact: For each of up to three target creatures, tap or untap it.
+ => {T}, Pay 1 life: Add {W} or {U}.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)[/i]
+Cycling {W}{U}
+[level 8+] {2}{W}{U}, {T}: Untap up to two target artifacts and/or creatures.
+
+special_text: Hoth enters tapped.
+{T}: Add {W} or {U}.
+Station
+[level 8+] {2}{W}{U}, {T}, Sacrifice Hoth or an artifact: For each of up to three target creatures, tap or untap it.
+ => {T}, Pay 1 life: Add {W} or {U}.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)[/i]
+Cycling {W}{U}
+[level 8+] {2}{W}{U}, {T}: Untap up to two target artifacts and/or creatures.
+
+
+Greedo, Trigger-Happy
+type: Legendary Creature — Alien Mercenary => Legendary Creature — Rodian Mercenary
+rules_text: Whenever Greedo enters or attacks, you may hunt target creature. [i](When that creature dies this turn, create a Treasure token and trigger up to one bounty of one permanent you control.)[/i]
+{1}: Greedo fights another target creature. Activate only as a sorcery.
+Bounty — Put a deathtouch counter on Greedo. => Whenever Greedo enters or attacks, you may hunt target creature. [i](When it dies this turn, create a Treasure token and trigger up to one bounty of one permanent you control.)[/i]
+{1}: Greedo fights another target creature. Activate only as a sorcery.
+Bounty — Put a deathtouch counter on Greedo.
+
+Jabba the Hutt
+type: Legendary Creature — Alien Rogue Noble => Legendary Creature — Hutt Rogue Noble
+rules_text: Affinity for outlaws
+Deathtouch
+At the beginning of each upkeep, you may hunt target permanent. [i](When that permanent dies this turn, create a Treasure token and trigger up to one bounty of one permanent you control.)[/i]
+Bounty — Put a +1/+1 counter on each outlaw you control. => Affinity for outlaws
+Deathtouch
+At the beginning of each upkeep, you may hunt target permanent. [i](When it dies this turn, create a Treasure token and trigger up to one bounty of one permanent you control.)[/i]
+Bounty — Put a +1/+1 counter on each outlaw you control.
+
+Mos Eisley
+rules_text: Whenever Mos Eisley or a nontoken creature you control enters, you may hunt target creature. [i](When that creature dies this turn, create a Treasure token and trigger up to one bounty of one permanent you control.)[/i]
+{T}, Remove X credit counters from Mos Eisley: Add an amount of {C} equal to twice X.
+Bounty — Put a credit counter on Mos Eisley. => Whenever Mos Eisley or a nontoken creature you control enters, you may hunt target creature. [i](When it dies this turn, create a Treasure token and trigger up to one bounty of one permanent you control.)[/i]
+{T}, Remove X credit counters from Mos Eisley: Add an amount of {C} equal to twice X.
+Bounty — Put a credit counter on Mos Eisley.
+
+Jango Fett
+rules_text: When Jango Fett enters, create a 2/2 green Clone creature token with vigilance.
+Whenever Jango Fett attacks, you may hunt target creature. [i](When that creature dies this turn, create a Treasure token and trigger up to one bounty of one permanent you control.)[/i]
+Bounty — Put a +1/+1 counter on Jango Fett or target Clone. => When Jango Fett enters, create a 2/2 green Clone creature token with vigilance.
+Whenever Jango Fett attacks, you may hunt target creature. [i](When it dies this turn, create a Treasure token and trigger up to one bounty of one permanent you control.)[/i]
+Bounty — Put a +1/+1 counter on Jango Fett or target Clone.
+
+Supreme Commander Vader
+
+Chewbacca, Wookie Cohort
+type: Legendary Creature — Beast Rogue Pilot => Legendary Creature — Wookiee Rogue Pilot
+
+General Grievous
+type: Legendary Artifact Creature — Alien => Legendary Artifact Creature — Kaleesh
+
+Han Solo, Smuggler Captain
+
+Senator Mon Mothma
+
+Kylo Ren, Supreme Leader
+type: Legendary Creature — Human Sith => Legendary Creature — Human Knight
+
+Battle of Endor
+
+Red Five
+rules_text: Station
+[level 4+] Whenever a creature you control stations Red Five or uses the force, draw a card and put a charge counter on Red Five.
+[level 8+] Flying, vigilance
+Discard X cards: Red Five gets +X/+0 until end of turn. [4/4] => Station
+[level 4+] Whenever a creature you control stations Red Five or uses the force, draw a card.
+[level 8+] Flying, vigilance
+Discard X cards: Red Five gets +X/+0 until end of turn. [4/4]
+special_text: Station
+[level 4+] Whenever a creature you control stations Red Five or uses the force, draw a card and put a charge counter on Red Five.
+[level 8+] Flying, vigilance
+Discard X cards: Red Five gets +X/+0 until end of turn. [4/4] => Station
+[level 4+] Whenever a creature you control stations Red Five or uses the force, draw a card.
+[level 8+] Flying, vigilance
+Discard X cards: Red Five gets +X/+0 until end of turn. [4/4]
+
+Kyber Crystal
+rules_text: Activated abilities of artifacts and equipped creatures you control cost {2} less to activate. This effect can't reduce the mana in that cost to less than one mana.
+{X}{X}, {T}, Pay X life, Sacrifice Kyber Crystal: Copy target activated ability X times. You may choose new targets for the copies. This ability can't be copied. => Activated abilities of artifacts and equipped creatures you control cost {2} less to activate. This effect can't reduce the mana in that cost to less than one mana.
+
+Fraternal Betrayal
+rules_text: Target player gains control of target creature you control. Untap that creature. It gains haste, undying, and “This creature attacks each combat if able. When it does, it fights another target creature you control.” => Target player gains control of target creature you control. Untap that creature. It gains haste and “This creature is goaded. Whenever it attacks, it fights another target creature you control.”
+
+Trench Run
+rules_text: Payload [i](This spell costs {1} less to cast for each kind of counter among permanents you control.)[/i]
+Target creature or Spacecraft you control gains double strike, trample, hexproof, and indestructible. Take an extra turn after this one. At the beginning of that turn's end step, you lose the game. => Payload [i](Each kind of counter you remove from permanents you control while casting this spell pays for {1}.)[/i]
+Target creature or Spacecraft you control gains double strike, trample, hexproof, and indestructible. Take an extra turn after this one. At the beginning of that turn's end step, you lose the game.
+
+The Darksaber
+rules_text: Whenever a legendary creature you control attacks alone, you may untap it and attach The Darksaber to it.
+Equipped creature gets +3/+1, has hexproof from monocolored, and is a Noble in addition to its other types.
+Equip {3} => Equipped creature gets +3/+3, has hexproof from multicolored, and is a legendary Noble in addition to its other types.
+Equip {3}. This ability costs {3} less to activate if it targets a creature that attacked alone this turn.
+
+Ahch-To, Bygone Asylum
+rules_text: Pay 1 life, {T}: Add {W}.
+Discard a legendary card: Put a charge counter on Ahch-To.
+Station
+[level 8+] Exile a card from your graveyard, {T}: 
+Add {W}{W}.
+ => {T}: Add {C}.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)[/i]
+Plainscycling {1}
+[level 8+] {T}, Exile a card from your graveyard: 
+Add {W}{W}.
+
+special_text: Pay 1 life, {T}: Add {W}.
+Discard a legendary card: Put a charge counter on Ahch-To.
+Station
+[level 8+] Exile a card from your graveyard, {T}: 
+Add {W}{W}.
+ => {T}: Add {C}.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)[/i]
+Plainscycling {1}
+[level 8+] {T}, Exile a card from your graveyard: 
+Add {W}{W}.
+
+
+Mandalore, Armored Ruin
+rules_text: Pay 1 life, {T}: Add {U}.
+Discard a legendary card: Put a charge counter on Mandalore.
+Station
+[level 8+] Exile a card from your graveyard, {T}: 
+Add {U}{U}.
+ => {T}: Add {C}.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)[/i]
+Islandcycling {1}
+[level 8+] {T}, Exile a card from your graveyard: 
+Add {U}{U}.
+
+special_text: Pay 1 life, {T}: Add {U}.
+Discard a legendary card: Put a charge counter on Mandalore.
+Station
+[level 8+] Exile a card from your graveyard, {T}: 
+Add {U}{U}.
+ => {T}: Add {C}.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)[/i]
+Islandcycling {1}
+[level 8+] {T}, Exile a card from your graveyard: 
+Add {U}{U}.
+
+
+Moraband, Dark Tomb
+rules_text: Pay 1 life, {T}: Add {B}.
+Discard a legendary card: Put a charge counter on Moraband.
+Station
+[level 8+] Exile a card from your graveyard, {T}:
+Add {B}{B}.
+ => {T}: Add {C}.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)[/i]
+Swampcycling {1}
+[level 8+] {T}, Exile a card from your graveyard:
+Add {B}{B}.
+
+special_text: Pay 1 life, {T}: Add {B}.
+Discard a legendary card: Put a charge counter on Moraband.
+Station
+[level 8+] Exile a card from your graveyard, {T}:
+Add {B}{B}.
+ => {T}: Add {C}.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)[/i]
+Swampcycling {1}
+[level 8+] {T}, Exile a card from your graveyard:
+Add {B}{B}.
+
+
+Jakku, Vessel Graveyard
+rules_text: Pay 1 life, {T}: Add {R}.
+Discard a legendary card: Put a charge counter on Jakku.
+Station
+[level 8+] Exile a card from your graveyard, {T}: 
+Add {R}{R}.
+ => {T}: Add {C}.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)[/i]
+Mountaincycling {1}
+[level 8+] {T}, Exile a card from your graveyard: 
+Add {R}{R}.
+
+special_text: Pay 1 life, {T}: Add {R}.
+Discard a legendary card: Put a charge counter on Jakku.
+Station
+[level 8+] Exile a card from your graveyard, {T}: 
+Add {R}{R}.
+ => {T}: Add {C}.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)[/i]
+Mountaincycling {1}
+[level 8+] {T}, Exile a card from your graveyard: 
+Add {R}{R}.
+
+
+Nal Hutta, Decadent Mire
+rules_text: Pay 1 life, {T}: Add {G}.
+Discard a legendary card: Put a charge counter on Nal Hutta.
+Station
+[level 8+] Exile a card from your graveyard, {T}:
+Add {G}{G}.
+ => {T}: Add {C}.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)[/i]
+Forestcycling {1}
+[level 8+] {T}, Exile a card from your graveyard:
+Add {G}{G}.
+
+special_text: Pay 1 life, {T}: Add {G}.
+Discard a legendary card: Put a charge counter on Nal Hutta.
+Station
+[level 8+] Exile a card from your graveyard, {T}:
+Add {G}{G}.
+ => {T}: Add {C}.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)[/i]
+Forestcycling {1}
+[level 8+] {T}, Exile a card from your graveyard:
+Add {G}{G}.
+
+
+Viceroy Nute Gunray
+type: Legendary Creature — Alien Advisor => Legendary Creature — Neimoidian Advisor
+rules_text: When Viceroy Nute Gunray enters, you may sacrifice another permanent. When you do, create a blue battle token named Blockade with three defense and “Whenever an opponent draws a card, they may pay {1}. If they don't, you create a Treasure token.” You're protecting it. => When Viceroy Nute Gunray enters, create a black battle token named Trade Blockade with three defense and “At the beginning of your upkeep, surveil 1 and create a tapped Treasure token.” You're protecting it.
+pt: 2/4 => 1/2
+
+Master Plo Koon
+type: Legendary Creature — Alien Jedi Elder => Legendary Creature — Kel Dor Jedi Elder
+
+Sly Moore, the Umbaran
+type: Legendary Creature — Alien Advisor => Legendary Creature — Umbaran Advisor
+rules_text: When Sly Moore enters, gain control of target creature with power 3 or less for as long as you control Sly Moore.
+Whenever another creature you control dies, you may put Sly Moore on top of her owner's library. => Ward {1}
+When Sly Moore enters, put target artifact or creature card with mana value 3 or less from a graveyard onto the battlefield under your control.
+
+The Stranger, Cad Bane
+type: Legendary Creature — Alien Mercenary => Legendary Creature — Duros Mercenary
+rules_text: Whenever an artifact you control dies, Cad Bane deals 1 damage to each opponent.
+{2}{B}{R}, {T}: Hunt target creature. Cad Bane deals 2 damage to it. [i](When that creature dies this turn, create a Treasure token and trigger up to one bounty of one permanent you control.)[/i] => Whenever an artifact you control dies, Cad Bane deals 1 damage to each opponent.
+{2}{B}{R}, {T}: Hunt target creature. Cad Bane deals 2 damage to it. [i](When it dies this turn, create a Treasure token and trigger up to one bounty of one permanent you control.)[/i]
+
+Boss Nass, Gungan Leader
+type: Legendary Creature — Alien Noble => Legendary Creature — Gungan Noble
+rules_text: Aliens you control have ward {2} as long as Boss Nass is untapped.
+Whenever Boss Nass becomes tapped, put a +1/+1 counter on each creature you control with power less than Boss Nass's toughness. => Gungans you control have ward {3} as long as Boss Nass is untapped.
+Whenever Boss Nass becomes tapped, put a +1/+1 counter on each creature you control with power less than Boss Nass's toughness.
+
+Captain Cassian Andor
+
+Speaker Mas Amedda
+type: Legendary Creature — Alien Advisor => Legendary Creature — Chagrian Advisor
+rules_text: Protection from tokens
+Whenever a player casts a noncreature spell, that player creates a 1/1 white Advisor creature token and can't cast additional noncreature spells this turn. => [i]War Machine[/i] — At the beginning of your end step, if you created or sacrificed a token this turn, create a 1/1 white Advisor creature token.
+
+Barriss Offee, the Healer
+type: Legendary Creature — Alien Jedi Rogue => Legendary Creature — Mirialan Jedi Rogue
+rules_text: When Barriss Offee enters, create a Vial token. [i](It's an artifact with “{1}, Sacrifice this and another permanent: Draw a card. Activate only during your turn.”)[/i]
+Force — {1}, Sacrifice a token: Barriss Offee gets +3/+1 and gains lifelink until end of turn. [i](Activate only if this was tapped this turn and only once each turn.)[/i] => Whenever you create a token, each opponent loses 1 life and you gain 1 life. This ability triggers only once each turn.
+Force — {W}{B}: Target creature gets -X/-X until end of turn, where X is the number of tokens you created this turn. [i](Activate only if this was tapped this turn and only once each turn.)[/i]
+
+Master Kit Fisto
+type: Legendary Creature — Alien Jedi Elder => Legendary Creature — Nautolan Jedi Elder
+rules_text: Whenever a creature you control uses the force, it gains islandwalk until end of turn.
+Force — {GU}: Untap up to two target lands. Lands untapped this way become Islands in addition to their other types until end of turn. [i](Activate only if this was tapped this turn and only once each turn.)[/i] => Whenever a creature you control uses the force, it can't be blocked by creatures with flying this turn. Scry 1.
+Force — {3}{G}{U}: Master Kit Fisto gets +2/+2 until end of turn. [i](Activate only if this was tapped this turn and only once each turn.)[/i]
+
+Captain Hera Syndulla
+type: Legendary Creature — Alien Rebel Pilot => Legendary Creature — Twi'lek Rebel Pilot
+rules_text: Vigilance
+Artifact creatures you control have haste.
+Creatures you control station permanents as though their power were 1 greater. => Vigilance
+Artifact creatures you control have haste.
+Creatures you control have deft 1. [i](They get +1/+0 as long as they're not attacking a player or blocking.)[/i]
+
+Hondo Ohnaka, Pirate King
+type: Legendary Creature — Alien Pirate => Legendary Creature — Weequay Pirate
+rules_text: Haste
+Whenever Hondo Ohnaka attacks, the next time you activate an ability of an artifact or a creature this turn, that ability costs {T} less to activate.
+{4}{U}{R}, {T}: Draw two cards and create two Treasure tokens. => Haste
+As long as Hondo Ohnaka is tapped, activated abilities of artifacts and creatures you control cost {1} less to activate. This effect can't reduce the mana in that cost to less than one mana.
+{3}{U}{R}: Draw two cards and create a Treasure token.
+
+Moff Gideon
+rules_text: Whenever Moff Gideon attacks, he gains flying and menace until end of turn.
+{4}{U}{R}: Create a 2/2 black Droid Soldier artifact creature token with menace and put a shield counter on it. This ability costs {1} less to activate for each ability you activated this turn that wasn't a mana ability. => Whenever Moff Gideon attacks, he gains flying and menace until end of turn.
+{4}{U}{R}: Create a 2/2 black Droid Soldier artifact creature token and put a shield counter on it. This ability costs {1} less to activate for each ability of an artifact or creature you activated this turn that wasn't a mana ability.
+
+Max Rebo, the Virtuoso
+type: Legendary Creature — Alien Bard Rogue => Legendary Creature — Ortolan Bard Rogue
+
+Supreme Leader Snoke
+type: Legendary Creature — Sith Construct => Legendary Creature — Construct
+
+Poe Dameron
+rules_text: Vigilance, haste
+Whenever you activate an ability of an artifact that isn't a mana ability, you may put a charge counter on that artifact.
+Whenever Poe Dameron attacks, you may remove a charge counter from an artifact you control. If you do, draw two cards and untap that artifact. => Vigilance, haste
+Whenever you activate an ability of an artifact or creature that isn't a mana ability, you may put a charge counter on that permanent.
+Whenever Poe Dameron attacks, you may remove a charge counter from a permanent you control. If you do, draw a card and untap that permanent.
+
+Darth Maul
+type: Legendary Creature — Alien Sith => Legendary Creature — Zabrak Sith
+rules_text: Haste
+Darth Maul enters with a double strike counter on him if {R}{R} was spent to cast him, and a menace counter if {B}{B} was spent.
+Escape—{BR}{BR}, Pay 4 life, Sacrifice four artifacts. => Haste
+Darth Maul enters with a double strike counter on him if {R}{R} was spent to cast him, and a menace counter if {B}{B} was spent.
+Escape—{BR}{BR}, Pay 4 life, Sacrifice two artifacts.
+pt: 4/2 => 3/3
+
+The Grand Inquisitor
+type: Legendary Creature — Alien Mercenary => Legendary Creature — Pau'an Mercenary
+cost: {4}{R} => {2}{WB}{WB}
+rules_text: When The Grand Inquisitor enters, if you control an artifact or an opponent controls a Jedi, create a Clue token.
+Force — {1}{R}, Sacrifice an artifact: The Grand Inquisitor deals damage equal to his power to any target. [i](Activate only if this was tapped this turn and only once each turn.)[/i] => First strike, lifelink
+When The Grand Inquisitor enters, if {W}{W} was spent to cast him, create a 2/2 white Soldier creature token, then if {B}{B} was spent, you may sacrifice another creature. When you do, create a number of Clue tokens equal to that creature's power.
+pt: 4/4 => 3/2
+
+Wedge Antilles
+rules_text: Whenever you activate an ability of an artifact or a Planet that isn't a mana ability, you may pay {UR}{UR}. Scry 2 for each {U} spent this way, then exile the top card of your library for each {R} spent.
+You may play cards exiled with Wedge Antilles as long as he's tapped. => Whenever you activate an ability of an artifact or creature that isn't a mana ability, you may pay {UR}{UR}. Scry 2 for each {U} spent this way, then exile the top card of your library for each {R} spent.
+You may play cards exiled with Wedge Antilles as long as he's tapped.
+
+Tarkin's Command
+
+Lando Calrissian
+
+Master Ki-Adi-Mundi
+type: Legendary Creature — Alien Jedi Elder => Legendary Creature — Cerean Jedi Elder
+
+Battle of Yavin
+
+Grand Moff Tarkin
+rules_text: Whenever you sacrifice another permanent, each opponent loses 1 life. Put an exalted counter on Grand Moff Tarkin. [i](Whenever a creature you control attacks alone, it gets +1/+1 until end of turn for each instance of exalted.)[/i]
+{2}, Sacrifice an artifact or creature: Draw a card. => [i]War Machine[/i] — At the beginning of combat on your turn, if you created or sacrificed a token this turn, put an exalted counter on Grand Moff Tarkin.
+{2}, Sacrifice a nonland permanent: Draw a card.
+
+Battle of Exegol
+
+Lama Su, Grand Minister
+type: Legendary Creature — Alien Advisor => Legendary Creature — Kaminoan Advisor
+
+Sarlacc
+
+Cody's Command
+
+Slave I
+
+Purrgil Ultra
+rules_text: Flash; payload [i](This spell costs {1} less to cast for each kind of counter among permanents you control.)[/i]
+Flying
+Whenever Purrgil Ultra enters or attacks, you may exile target creature or Spacecraft. Its owner may cast it from exile for as long as it remains exiled. => Flash; payload [i](Each kind of counter you remove from permanents you control while casting this spell pays for {1}.)[/i]
+Flying
+Whenever Purrgil Ultra enters or attacks, you may exile target creature or Spacecraft. Its owner may cast it from exile for as long as it remains exiled.
+
+Commander Cody
+
+Tantive IV
+rules_text: When Tantive IV enters, create two 1/1 white Rebel creature tokens.
+Station
+[level 6+] Flying, vigilance
+Whenever Tantive IV attacks, you may return target permanent card with mana value 3 or less from your graveyard to the battlefield. [3/6]
+ => When Tantive IV enters, create two 1/1 colorless Pilot creature tokens with deft 2. [i](They have +2/+0 as long as they're not attacking a player or blocking.)[/i]
+Station
+[level 12+] Flying
+Whenever Tantive IV attacks, untap any number of nonland permanents you control. [6/6]
+
+special_text: When Tantive IV enters, create two 1/1 white Rebel creature tokens.
+Station
+[level 6+] Flying, vigilance
+Whenever Tantive IV attacks, you may return target permanent card with mana value 3 or less from your graveyard to the battlefield. [3/6]
+ => When Tantive IV enters, create two 1/1 colorless Pilot creature tokens with deft 2. [i](They have +2/+0 as long as they're not attacking a player or blocking.)[/i]
+Station
+[level 12+] Flying
+Whenever Tantive IV attacks, untap any number of nonland permanents you control. [6/6]
+
+
+The Executor
+rules_text: When The Executor enters, creatures get -3/-3 until end of turn.
+Whenever a creature dies, put a charge counter on The Executor and each opponent loses 1 life.
+Station
+[level 12+] Flying, menace, annihilator 1 [10/10]
+ => [i]War Machine[/i] — When The Executor enters, if you created or sacrificed a token this turn, all creatures get -4/-4 until end of turn.
+Whenever a creature dies, put a charge counter on The Executor.
+Station
+[level 12+] Flying, annihilator 1 [10/10]
+
+special_text: When The Executor enters, creatures get -3/-3 until end of turn.
+Whenever a creature dies, put a charge counter on The Executor and each opponent loses 1 life.
+Station
+[level 12+] Flying, menace, annihilator 1 [10/10]
+ => [i]War Machine[/i] — When The Executor enters, if you created or sacrificed a token this turn, all creatures get -4/-4 until end of turn.
+Whenever a creature dies, put a charge counter on The Executor.
+Station
+[level 12+] Flying, annihilator 1 [10/10]
+
+
+Ahsoka Tano
+type: Legendary Creature — Alien Jedi => Legendary Creature — Togruta Jedi
+
+BB-8
+rules_text: BB-8 stations permanents using its toughness rather than its power.
+{1}{W}: Untap target artifact or creature. Scry 1. Activate only once each turn. => Deft X, where X is BB-8's toughness. [i](This creature has +X/+0 as long as it's not attacking a player or blocking.)[/i]
+{1}{W}: Untap target artifact or creature. Scry 1. Activate only once each turn.
+
+Admiral Ackbar
+type: Legendary Creature — Alien Rebel => Legendary Creature — Mon Calamari Rebel
+
+Asajj Ventress
+type: Legendary Creature — Alien Sith Rogue => Legendary Creature — Zabrak Human Warlock
+rules_text: Menace, lifelink
+Asajj Ventress has hexproof as long you sacrificed a nonland permanent this turn.
+Force — {B}, Pay X life, Sacrifice a nonland permanent: Target creature gets +X/-X until end of turn. [i](Activate only if this was tapped this turn and only once each turn.)[/i] => Menace, lifelink
+Asajj Ventress has hexproof as long you sacrificed a permanent this turn.
+Force — Pay X life, Sacrifice X other permanents: Target creature gets +X/-X until end of turn. [i](Activate only if this was tapped this turn and only once each turn.)[/i]
+
+Greater Krayt Dragon
+rules_text: Greater Krayt Dragon enters tapped with six slumber counters on it.
+As long as Greater Krayt Dragon has a slumber counter on it, it's a Desert land with “{T}: Create a Treasure token.” 
+Whenever you activate an ability that isn't a mana ability, you may remove a slumber counter from Greater Krayt Dragon. => Greater Krayt Dragon enters tapped with six slumber counters on it.
+As long as Greater Krayt Dragon has a slumber counter on it, it's a Desert land with “{T}: Create a Treasure token.” 
+Whenever you activate an ability of a nonland permanent that isn't a mana ability, you may remove a slumber counter from Greater Krayt Dragon.
+
+Invisible Hand
+
+C-3PO, Steadfast Translator
+rules_text: C-3PO is all colors.
+C-3PO has indestructible as long as he has a counter on him.
+{X}, {T}, Put a stun counter on C-3PO: Draw X cards. Spend only mana of different colors to activate this ability. 
+X can't be 0. => C-3PO is all colors.
+C-3PO has indestructible as long as he has a stun counter on him.
+{X}, {T}, Put a stun counter on C-3PO: Draw X cards. Spend only mana of different colors to activate this ability. 
+X can't be 0.
+
+AT-AT Walker
+rules_text: Assembly 4 [i](This artifact enters with four +1/+1 counters on it. When it dies, create a 1/1 colorless Droid artifact creature token for each +1/+1 counter on it.)[/i]
+Trample, protection from mana value 3 or less
+Tap two untapped creatures you control: AT-AT Walker becomes an artifact creature until end of turn. => When AT-AT Walker enters, assemble 2 [i](To assemble 2, either put two +1/+1 counters on this or create two 1/1 colorless Droid creature tokens.)[/i]
+Trample, protection from mana value 3 or less
+Tap two untapped creatures you control: AT-AT Walker becomes an artifact creature until end of turn.
+pt: 0/0 => 4/2
+
+Fortress Inquisitorius
+
+Petranaki Arena
+
+Jedha City
+
+Citadel Tower
+
+Canto Casino
+
+Kessel Mines
+
+Takodana Castle
+
+Echo Base
+
+Bright Tree Village
+
+Vulture Droid
+type: Artifact Creature — Droid => Artifact Creature — Droid Drone
+rules_text: Assembly X, where X is the number of Droids you control. [i](This creature enters with X +1/+1 counters on it. When it dies, create a 1/1 colorless Droid artifact creature token for each +1/+1 counter on it.)[/i]
+Flying
+A deck can have any number of cards named Vulture Droid. => Flying
+Whenever Vulture Droid a nontoken Droid you control enters, assemble 1. [i](To assemble 1, either put a +1/+1 counter on this creature or create a 1/1 colorless Droid artifact creature token.)[/i]
+pt: 0/0 => 1/1
+
+IG-88 Assassin
+rules_text: Assembly 2 [i](This creature enters with two +1/+1 counters on it. When it dies, create a 1/1 colorless Droid artifact creature token for each +1/+1 counter on it.)[/i]
+Deathtouch
+Whenever a creature an opponent controls dies, put a +1/+1 counter on IG-88 Assassin. => Haste
+Whenever a creature an opponent controls dies, assemble 1 [i](To assemble 1, either put a +1/+1 counter on this creature or create a 1/1 colorless Droid artifact creature token.)[/i]
+pt: 0/0 => 2/2
+
+GNK Power Droid
+rules_text: Assembly 1 [i](This creature enters with a +1/+1 counter on it. When it dies, create a 1/1 colorless Droid artifact creature token for each +1/+1 counter on it.)[/i]
+{T}, Remove a +1/+1 counter from GNK Power Droid: Put two charge counters on target permanent. => When GNK Power Droid enters, assemble 1. [i](To assemble 1, either put a +1/+1 counter on this creature or create a 1/1 colorless Droid artifact creature token.)[/i]
+{T}, Remove a +1/+1 counter from GNK Power Droid: Put two charge counters on target permanent.
+pt: 0/1 => 1/1
+
+Thermal Detonator
+rules_text: When Thermal Detonator enters, you may hunt target artifact or creature. [i](When that artifact or creature dies this turn, create a Treasure token and trigger up to one bounty of one permanent you control.)[/i]
+{7}, {T}, Sacrifice Thermal Detonator: Destroy up to one target artifact and up to one target creature. => When Thermal Detonator enters, you may hunt target artifact or creature. [i](When it dies this turn, create a Treasure token and trigger up to one bounty of one permanent you control.)[/i]
+{7}, {T}, Sacrifice Thermal Detonator: Destroy up to one target artifact and up to one target creature.
+
+TIE Fighter
+rules_text: Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 4+.)[/i]
+[level 4+] Flying
+When TIE Fighter dies, it deals 2 damage to any target. [2/1]
+ => Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 4+] Flying
+When TIE Fighter dies, it deals 2 damage to any target. [2/1]
+
+special_text: Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 4+.)[/i]
+[level 4+] Flying
+When TIE Fighter dies, it deals 2 damage to any target. [2/1]
+ => Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 4+] Flying
+When TIE Fighter dies, it deals 2 damage to any target. [2/1]
+
+
+ISB Agent
+rules_text: {2}{UB}, {T}: Create a 2/2 white Soldier creature token, then sacrifice a creature.
+When ISB Agent dies, draw a card. => When ISB Agent enters or dies, create a Clue token. [i](It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i]
+
+Droid Missile Platform
+rules_text: Assembly 1 [i](This creature enters with a +1/+1 counter on it. When it dies, create a 1/1 colorless Droid artifact creature token for each +1/+1 counter on it.)[/i]
+Flying
+Droids you control have haste. => When Droid Missile Platform enters, assemble 1. [i](To assemble 1, either put a +1/+1 counter on this creature or create a 1/1 colorless Droid artifact creature token.)[/i]
+Flying
+Other Droids you control have haste.
+pt: 0/0 => 0/1
+
+Wookiee Warrior
+type: Creature — Beast Warrior => Creature — Wookiee Warrior
+
+Gungan Warrior
+type: Creature — Alien Warrior => Creature — Gungan Warrior
+
+Cell Block Guard
+rules_text: When Cell Block Guard enters, create a 1/1 colorless Droid artifact creature token. => [i]War Machine[/i] — Cell Block Guard gets +1/+0 and has first strike as long as you created or sacrificed a token this turn.
+pt: 1/1 => 2/2
+
+Unruly Astromech
+
+Bounty Guild Crew
+rules_text: Whenever Bounty Guild Crew attacks, you may hunt target creature. [i](When that creature dies this turn, create a Treasure token and trigger up to one bounty of one permanent you control.)[/i]
+Bounty — Put a +1/+1 counter on target outlaw. => Whenever Bounty Guild Crew attacks, you may hunt target creature. [i](When it dies this turn, create a Treasure token and trigger up to one bounty of one permanent you control.)[/i]
+Bounty — Put a +1/+1 counter on target outlaw. [i](Assassins, Mercenaries, Pirates, Rogues, and Warlocks are outlaws.)[/i]
+
+Mystic Hermit
+type: Creature — Alien Mystic => Creature — Twi'lek Mystic
+rules_text: Flash
+When Mystic Hermit enters, search your library for a card with a mana ability or a force ability, reveal it, then shuffle and put that card on top. => Flash
+When Mystic Hermit enters, you may tap or untap target permanent. If that permanent has a force ability, put a +1/+1 counter on Mystic Hermit.
+
+B1 Battle Droid
+rules_text: Assembly 2 [i](This creature enters with two +1/+1 counters on it. When it dies, create a 1/1 colorless Droid artifact creature token for each +1/+1 counter on it.)[/i] => When B1 Battle Droid enters, assemble 1 [i](To assemble 1, either put a +1/+1 counter on this creature or create a 1/1 colorless Droid artifact creature token.)[/i]
+pt: 0/0 => 2/1
+
+ARC-170 Starfighter
+rules_text: {T}: Add {C}{C}.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 8+.)[/i]
+[level 8+] Flying
+{2}: Scry 1. [4/4]
+ => {T}: Add {C}{C}.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 8+] Flying
+{2}: Scry 1. [4/4]
+
+special_text: {T}: Add {C}{C}.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 8+.)[/i]
+[level 8+] Flying
+{2}: Scry 1. [4/4]
+ => {T}: Add {C}{C}.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 8+] Flying
+{2}: Scry 1. [4/4]
+
+
+Y-Wing Starfighter
+rules_text: When Y-Wing Starfighter enters, scry 2.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 8+.)[/i]
+[level 8+] Flying, vigilance [2/4]
+ => When Y-Wing Starfighter enters, scry 2.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 8+] Flying, vigilance [2/4]
+
+special_text: When Y-Wing Starfighter enters, scry 2.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 8+.)[/i]
+[level 8+] Flying, vigilance [2/4]
+ => When Y-Wing Starfighter enters, scry 2.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 8+] Flying, vigilance [2/4]
+
+
+X-34 Landspeeder
+rules_text: Haste
+Whenever X-34 Landspeeder attacks, draw a card, then discard a card.
+Tap an untapped creature you control: X-34 Landspeeder becomes an artifact creature until end of turn. => Haste
+Whenever X-34 Landspeeder attacks, discard a card, then draw a card.
+Tap an untapped creature you control: X-34 Landspeeder becomes an artifact creature until end of turn.
+
+Probe Droid
+rules_text: Assembly 1 [i](This creature enters with a +1/+1 counter on it. When it dies, create a 1/1 colorless Droid artifact creature token for each +1/+1 counter on it.)[/i]
+When Probe Droid enters, look at target player's hand. => When Probe Droid enters or dies, look at target player's hand. Draw a card at the beginning of the next turn's upkeep.
+pt: 0/0 => 1/1
+
+Sabé, Queen's Shadow
+
+Shmi Skywalker
+
+Rebel Squadron Leader
+rules_text: When Rebel Squadron Leader becomes tapped for the first time each turn, untap any number of target creatures.
+{1}{W}, {T}: Target artifact or creature gains indestructible until end of turn. Activate only if you control a Spacecraft creature. => When Rebel Squadron Leader becomes tapped for the first time each turn, untap up to one target creature. It gains deft 2 until end of turn. [i](It gets +2/+0 as long as it's not attacking a player or blocking.)[/i]
+{W}, {T}: Target Spacecraft you control phases out.
+pt: 2/1 => 2/2
+
+ARC Trooper
+
+Gungan Army Captain
+type: Creature — Alien Warrior => Creature — Gungan Warrior
+rules_text: Gungan Army Captain costs {1} less to cast for each counter among creatures you control.
+Whenever a nontoken creature you control with a counter on it dies, create a 1/1 white Alien creature token. => Gungan Army Captain costs {1} less to cast for each creature you control with a counter on it.
+Whenever a nontoken creature you control with a counter on it dies, create a 1/1 white Gungan creature token.
+
+Battle of Hoth
+
+Rose Tico
+
+Master Saesee Tiin
+type: Legendary Creature — Alien Jedi Elder => Legendary Creature — Iktotchi Jedi Elder
+
+Ezra Bridger
+rules_text: Flash
+When Ezra Bridger enters, you may tap him.
+Force — {1}{U}: You may tap or untap target artifact or creature. [i](Activate only if this was tapped this turn and only once each turn.)[/i] => Flash
+When Ezra Bridger enters, you may tap him.
+Force — {1}{U}: Tap or untap target artifact or creature. [i](Activate only if this was tapped this turn and only once each turn.)[/i]
+
+Force Spirit
+rules_text: Flying
+Whenever Force Spirit attacks, you may tap up to two target creatures.
+Force — {5}{U}{U}: Draw a card for each tapped creature target player controls. [i](Activate only if this was tapped this turn and only once each turn.)[/i] => Flying
+Whenever Force Spirit attacks alone, tap up to one target nonland permanent.
+Force — {1}{U}: Put a stun counter on up to one target nonland permanent. Untap Force Spirit. [i](Activate only if this was tapped this turn and only once each turn.)[/i]
+pt: 3/3 => 3/4
+
+Loth-Wolf Pathfinder
+rules_text: When Loth-Wolf Pathfinder enters, create an artifact token named Temple Archive with “{4}, {T}: Draw a card.”
+Loth-Wolf Pathfinder can't be blocked as long as you've activated an ability that isn't a mana ability this turn. => When Loth-Wolf Pathfinder enters, create an artifact token named Temple Archive with “{4}, {T}: Draw a card.”
+Loth-Wolf Pathfinder can't be blocked as long as you've activated an ability of an artifact or creature that isn't a mana ability this turn.
+
+Purrgil Pod
+rules_text: As an additional cost to cast this spell, you may tap two untapped artifacts and/or creatures you control or sacrifice one. If you do, this spell costs {2} less to cast.
+Flying, ward {2} => As an additional cost to cast this spell, you may tap two untapped artifacts and/or creatures you control. If you do, this spell costs {2} less to cast.
+Flying, ward {2}
+
+Admiral Piett
+cost: {2}{U}{U} => {3}{U}
+rules_text: Admiral Piett can't be sacrificed as long as you control another creature.
+Artifact spells you cast cost {2} less to cast.
+Whenever you cast an artifact spell, sacrifice a nonartifact, nonland permanent. => Whenever a creature you control attacks alone, you may have Admiral Piett and up to one target Spacecraft you control phase out.
+Whenever Admiral Piett enters or phases in, draw a card.
+pt: 2/4 => 3/3
+
+Memory Probe
+rules_text: Counter target noncreature spell. Create three Vial tokens. [i](They're artifacts with “{1}, Sacrifice this and another permanent: Draw a card. Activate only during your turn.”)[/i] => Counter target noncreature spell. Create a Clue token. [i](It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i]
+
+Jedi Mind Trick
+rules_text: Whenever you activate an ability that isn't a mana ability, you may tap target creature. Do this only once each turn.
+{3}{U}{U}: Draw a card, then discard a card. => Whenever you activate an ability of an artifact or creature that isn't a mana ability, you may tap target creature. Do this only once each turn.
+{3}{U}{U}: Draw a card, then discard a card.
+
+Death Trooper
+rules_text: Menace
+Whenever another creature or an artifact dies, put a +1/+1 counter on Death Trooper. This ability triggers only once each turn. => Menace
+[i]War Machine[/i] — At the beginning of each end step, if you created or sacrificed a token this turn, put a +1/+1 counter on Death Trooper.
+
+General Hux
+rules_text: When General Hux enters, create an artifact token named Intelligence with 
+“{1}, Sacrifice this artifact: Surveil 2.”
+Whenever you create or sacrifice a token, each opponent loses 1 life and you gain 1 life. => When General Hux enters, create an artifact token named Intelligence with 
+“{1}, Sacrifice this artifact: Surveil 2.”
+[i]War Machine[/i] — At the beginning of your end step, if you created or sacrificed a token this turn, each opponent loses 2 life.
+pt: 2/3 => 3/3
+
+Morgan Elsbeth
+type: Legendary Creature — Human Sith Warlock => Legendary Creature — Human Warlock
+rules_text: Lifelink
+Force — {2}{B}{B}: Destroy another target creature, then return it to the battlefield under its owner's control unless you pay life equal to its power. [i](Activate only if this was tapped this turn and only once each turn.)[/i] => Whenever a creature you control attacks alone, it gains lifelink until end of turn.
+Force — {2}{B}{B}: Destroy another target creature, then return it to the battlefield under its owner's control unless you pay life equal to its power. [i](Activate only if this was tapped this turn and only once each turn.)[/i]
+
+The Scimitar
+cost: {1}{B}{B} => {2}{B}
+rules_text: Whenever you attack, you may hunt target artifact or creature.
+Station
+[level 8+] The Scimitar can't be blocked by hunted creatures.
+Bounty — Put a hexproof counter on The Scimitar. [4/3]
+ => When The Scimitar enters, surveil 2, then create a Clue token.
+Station
+[level 8+] [i]War Machine[/i] — The Scimitar has hexproof and can't be blocked as long as you created or sacrificed a token this turn. [4/3]
+
+special_text: Whenever you attack, you may hunt target artifact or creature.
+Station
+[level 8+] The Scimitar can't be blocked by hunted creatures.
+Bounty — Put a hexproof counter on The Scimitar. [4/3]
+ => When The Scimitar enters, surveil 2, then create a Clue token.
+Station
+[level 8+] [i]War Machine[/i] — The Scimitar has hexproof and can't be blocked as long as you created or sacrificed a token this turn. [4/3]
+
+
+Bib Fortuna
+type: Legendary Creature — Alien Rogue => Legendary Creature — Twi'lek Rogue
+rules_text: Whenever an outlaw you control attacks, you may hunt target artifact or creature. [i](When that artifact or creature dies this turn, create a Treasure token and trigger up to one bounty of one permanent you control.)[/i]
+Bounty — Put a menace counter on target creature. It becomes a Rogue in addition to its other types. => Whenever an outlaw you control attacks, you may hunt target artifact or creature. [i](When it dies this turn, create a Treasure token and trigger up to one bounty of one permanent you control. Assassins, Mercenaries, Pirates, Rogues, and Warlocks are outlaws.)[/i]
+Bounty — Put a menace counter on target creature. It becomes a Rogue in addition to its other types.
+
+Pyke Syndicate Agent
+type: Creature — Alien Rogue => Creature — Pyke Rogue
+rules_text: Deathtouch
+Whenever Pyke Syndicate Agent deals combat damage to a player, you lose 1 life and create a Treasure token. => Deathtouch
+Whenever Pyke Syndicate Agent attacks alone, you lose 1 life and create a Treasure token.
+
+Nightsister's Ritual
+
+Force Choke
+rules_text: Target creature gets -4/-4 until end of turn. If you control a Sith, that creature loses all abilities until end of turn. => Target creature gets -4/-4 until end of turn. If you control a creature with a force ability, that creature loses all abilities until end of turn.
+
+The Dead Speak!
+rules_text: As an additional cost to cast this spell, you may sacrifice a creature.
+You draw X cards and you lose X life, where X is the greatest power among creature cards in a graveyard. => As an additional cost to cast this spell, sacrifice a creature.
+Draw X cards, where X is the sacrificed creature's power. If it attacked alone this turn, each opponent loses X life and you gain X life.
+
+Paternal Revelation
+cost: {1}{B}{B} => {2}{B}
+rules_text: Create a token that's a copy of target creature card in your graveyard, except it's a 1/1. Then return that creature card from your graveyard to your hand. => Return target creature card from your graveyard to your hand. Up to one target creature gets -X/-X until end of turn, where X is that creature card's power.
+
+Night of a Thousand Tears
+rules_text: Nonbasic lands you control become artifacts in addition to their other types until end of turn.
+All creatures get -X/-X until end of turn, where X is the number of artifacts you control. => All creatures get -3/-3 until end of turn.
+[i]War Machine[/i] — If you created or sacrificed a token this turn, until end of turn, lands become artifacts with “{T}: Add {C}” and lose all other types and abilities.
+
+Fondor Haulcraft
+rules_text: Payload [i](This spell costs {1} less to cast for each kind of counter among permanents you control.)[/i]
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 3+.)[/i]
+[level 3+] Flying, haste [6/5]
+ => Payload [i](Each kind of counter you remove from permanents you control while casting this spell pays for {1}.)[/i]
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 3+] Flying, haste [6/5]
+
+special_text: Payload [i](This spell costs {1} less to cast for each kind of counter among permanents you control.)[/i]
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 3+.)[/i]
+[level 3+] Flying, haste [6/5]
+ => Payload [i](Each kind of counter you remove from permanents you control while casting this spell pays for {1}.)[/i]
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 3+] Flying, haste [6/5]
+
+
+Battle of Jakku
+rules_text: [i](As a Mission enters, choose an opponent to protect it.)[/i]
+When Battle of Jakku enters, it deals 3 damage to each creature.
+When Battle of Jakku is defeated, destroy up to one target artifact and up to one target non-Planet land. => [i](As a Mission enters, choose an opponent to protect it.)[/i]
+When Battle of Jakku enters, it deals 3 damage to each creature.
+When Battle of Jakku is defeated, create three Junk tokens. [i](They're artifacts with “{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)[/i]
+loyalty: 6 => 5
+
+Proton Torpedo Barrage
+rules_text: Payload [i](This spell costs {1} less to cast for each kind of counter among permanents you control.)[/i] => Payload [i](Each kind of counter you remove from permanents you control while casting this spell pays for {1}.)[/i]
+Proton Torpedo Barrage deals 4 damage divided as you choose among any number of targets.
+
+Agen Kolar
+type: Legendary Creature — Alien Jedi => Legendary Creature — Zabrak Jedi
+rules_text: Haste
+Force — {2}{R}: Choose one. [i](Activate only if this was tapped this turn and only once each turn.)[/i]
+• Put a menace counter on each creature you control without menace.
+• Put a +1/+1 counter on each creature you control with menace. => Haste
+Whenever an artifact you control dies, put a +1/+1 counter on Agen Kolar.
+Force — Discard a card: Create a Clue token. If Agen Kolar is attacking, he gains first strike until end of turn. [i](Activate only if this was tapped this turn and only once each turn.)[/i]
+
+Captain Phasma
+rules_text: Attacking Soldiers you control get +1/+0 and have first strike.
+Spacecraft you control have haste and “{4}, {T}: Create a 2/2 white Soldier creature token. This ability costs {1} less to activate for each other tapped artifact and creature you control.” => Haste
+Spacecraft spells you cast cost {1} less to cast for each tapped creature you control.
+Whenever a Soldier you control attacks, put a charge counter on target artifact or Planet you control.
+
+Rotta the Hutt
+type: Legendary Creature — Alien Rebel Warrior => Legendary Creature — Hutt Rebel Warrior
+rules_text: Other players can't gain control of Rotta.
+Whenever Rotta is dealt damage, put that many +1/+1 counters on him. When you do, you may hunt target creature. [i](When that creature dies this turn, create a Treasure token and trigger up to one bounty of one permanent you control.)[/i]
+Bounty — Put a shield counter on Rotta. => Other players can't gain control of Rotta.
+Whenever Rotta is dealt damage, put that many +1/+1 counters on him. When you do, you may hunt target creature. [i](When it dies this turn, create a Treasure token and trigger up to one bounty of one permanent you control.)[/i]
+Bounty — Put a shield counter on Rotta.
+
+Shaak Ti
+type: Legendary Creature — Alien Jedi Elder => Legendary Creature — Togruta Jedi Elder
+
+Wookiee Sharpshooter
+type: Creature => Creature — Wookiee Archer
+rules_text: Flash
+Reach => Flash
+When Wookiee Sharpshooter enters, target creature gets +1/+1 until end of turn. Put a reach counter on it.
+pt: 3/2 => 2/2
+
+Size Matters Not
+rules_text:  => This spell costs {2} less to cast if a creature you control used the force this turn.
+Return target card from your graveyard to your hand.
+
+Shielded Fambaa
+type: Creature => Creature — Beast
+rules_text: Ward {2} => Reach
+Ward {3}
+{2}{G}, Discard Shielded Fambaa: Put a shield counter on up to one target creature. If that creature is a Gungan, you gain 3 life.
+pt: 5/6 => 5/7
+
+Battle of Kashyyyk
+
+Clone Trooper
+
+Rebel Pathfinder
+
+Senate Guard
+
+Imperial Royal Guard
+rules_text: Whenever an artifact you control enters during your turn, you may tap target creature. => [i]War Machine[/i] — Whenever Imperial Royal Guard attacks, if you created or sacrificed a token this turn, you may tap target artifact or creature.
+
+Knight of the Republic
+type: Creature — Alien Jedi Knight => Creature — Devaronian Jedi Knight
+rules_text: Force — {2}{W}: Other creatures you control get +1/+1 until end of turn. [i](Activate only if this was tapped this turn and only once each turn.)[/i] => Force — {2}{W}: Other creatures you control get +1/+1 until end of turn. This ability costs {2}{W} less to activate if you control two or more other tapped creatures. [i](Activate only if this was tapped this turn and only once each turn.)[/i]
+
+Attendant Navigator
+type: Creature — Alien Pilot => Creature — Insect Pilot
+rules_text: When Attendant Navigator enters, create a 1/1 colorless Droid artifact creature token with flying.
+Attendant Navigator gets +1/+1 as long as you control another tapped artifact or creature. => Exalted [i](Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)[/i]
+When Attendant Navigator enters, you may tap another untapped creature or artifact you control. If you do, create a 1/1 colorless Droid artifact creature token with flying.
+pt: 1/2 => 2/1
+
+Monster Droid
+rules_text: As an additional cost to cast Monster Droid, tap two untapped artifacts and/or creatures you control or sacrifice one.
+Menace => As an additional cost to cast Monster Droid, tap two untapped artifacts and/or creatures you control.
+Monster Droid has menace as long as it's attacking alone.
+
+Dianoga
+rules_text: Dianoga has hexproof as long as it's untapped.
+Whenever you activate an ability that's not a mana ability, you may untap Dianoga. Do this only once each turn. => Dianoga has hexproof as long as it's untapped.
+Whenever you activate an ability of an artifact or creature that's not a mana ability, you may untap Dianoga. Do this only once each turn.
+
+Imperial Espionage
+rules_text: Counter target spell unless its controller pays {2}. If they do, create a Clue token. [i](It's an artifact with “{2}, Sacrifice this: Draw a card.”)[/i] => Counter target spell unless its controller pays {2}. If they do, create a Clue token. [i](It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i]
+
+Heightened Awareness
+
+Force Barrier
+rules_text: Counter target spell. If you control a tapped creature, draw a card. => Counter target spell. If you control a creature with a force ability, draw a card.
+
+Frozen in Carbonite
+rules_text: Enchant artifact or creature
+Enchanted creature is a Treasure artifact with “{T}, Sacrifice this artifact: Add one mana of any color,” and it loses all other abilities. [i](It loses all other types.)[/i] => Enchant artifact or creature
+Enchanted permanent is a Treasure artifact with “{T}, Sacrifice this artifact: Add one mana of any color,” and it loses all other abilities. [i](It loses all other types.)[/i]
+
+Snowtrooper
+type: Creature => Creature — Human Soldier
+cost: {2}{B} => {B}
+rules_text:  => Whenever Snowtrooper enters or a creature you control attacks alone, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+pt:  => 1/1
+
+Tusken Tracker
+type: Creature => Creature — Tusken Scout
+cost: {2}{G} => {1}{B}
+rules_text:  => Whenever Tusken Tracker becomes tapped, you may hunt target artifact or creature. [i](When it dies this turn, create a Treasure token and trigger up to one bounty of one permanent you control.)[/i]
+Bounty — Put a deathtouch counter on Tusken Tracker.
+pt:  => 2/2
+
+Stormtrooper
+type: Creature => Creature — Human Soldier
+cost: {B} => {2}{B}
+rules_text:  => When Stormtrooper dies, create a 2/2 white Soldier creature token.
+pt:  => 2/2
+
+Imperial Dark Trooper
+type: Creature => Artifact Creature — Droid Soldier
+rules_text:  => Imperial Dark Trooper has flying and deathtouch as long as it's attacking alone.
+When Imperial Dark Trooper enters, create a Clue token.
+pt:  => 3/4
+
+Ravenous Rathtar
+type: Creature => Creature — Beast
+rules_text:  => Deathtouch
+When Ravenous Rathtar enters, if an opponent controls a hunted permanent, each opponent loses 3 life and you gain 3 life.
+pt:  => 6/6
+
+Jawa Scavenger
+type: Creature => Creature — Jawa Rogue
+cost: {1}{B} => {R}
+rules_text:  => {2}, {T}, Sacrifice an artifact or tap two untapped artifacts you control: Draw a card.
+pt:  => 1/2
+
+Mortar Trooper
+type: Creature => Creature — Clone Soldier
+rules_text:  => {T}: Mortar Trooper deals 1 damage to each opponent.
+Whenever an artifact you control dies, untap Mortar Trooper.
+pt:  => 1/3
+
+Praetorian Elite
+type: Creature => Creature — Human Soldier
+cost: {2}{B}{B} => {3}{R}
+rules_text:  => Menace
+Praetorian Elite enters with a haste counter on it if an artifact you control became tapped or died this turn.
+pt:  => 4/3
+
+Mynock
+
+Grenade Strike
+rules_text:  => Grenade Strike deals 4 damage to target creature or battle.
+
+Maximum Firepower
+cost: {3}{R} => {2}{R}{R}
+rules_text:  => Payload [i](Each kind of counter you remove from permanents you control while casting this spell pays for {1}.)[/i]
+Maximum Firepower deals 6 damage to target creature.
+
+Domesticated Loth-Cat
+type: Creature => Creature — Cat
+rules_text:  => {T}: Add {G}.
+{T}: Add {G}{G}. Spend this mana only to activate force abilities.
+pt:  => 1/2
+
+Dewback Patrol
+type: Creature => Creature — Human Soldier
+
+Ravening Gundark
+type: Creature => Creature — Beast
+cost: {5}{G}{G} => {6}{G}
+rules_text: Trample => Payload [i](Each kind of counter you remove from permanents you control while casting this spell pays for {1}.)[/i]
+Ravening Gundark enters with a haste, trample, or +1/+1 counter on it.
+pt:  => 5/4
+
+Pounce
+cost: {2}{G} => {1}{G}
+rules_text:  => Target creature you control fights target creature you don't control.
+
+Follow the Path
+type: Sorcery => Enchantment — Aura
+rules_text:  => Enchant creature
+Enchanted creature has reach and “Force — {1}: Add two mana of different colors.” [i](Activate only if this was tapped this turn and only once each turn.)[/i]
+
+Jar-Jar Binks
+type: Legendary Creature — Alien Advisor => Legendary Creature — Gungan Advisor
+cost: {X}{WB}{WB} => {4}{R}
+rules_text: When Jar-Jar Binks enters, create a 2/2 white Soldier creature token for each {W}{W} spent to cast him, then each player sacrifices a nontoken creature for each {B}{B} spent.
+Protection from artifacts and spells => Protection from artifacts
+Whenever Jar-Jar Binks becomes tapped, create a colorless artifact token named Booma with “{R}, {T}, Sacrifice this artifact: It deals 2 damage to target player or artifact creature.”
+pt: 1/1 => 2/4
+
+Jedi Consular
+type: Creature — Alien Jedi => Creature — Twi'Lek Jedi
+cost: {2}{U} => {1}{U}{U}
+rules_text: Jedi Consular gets +1/+0 as long as you activated an ability that wasn't a mana ability this turn.
+Force — {1}{U}: Target creature gains flying until end of turn. [i](Activate only if this was tapped this turn and only once each turn.)[/i] => Jedi Consular gets +1/+0 as long as you activated an ability of an artifact or creature that wasn't a mana ability this turn.
+Force — {1}{U}: Target creature gains flying until end of turn. [i](Activate only if this was tapped this turn and only once each turn.)[/i]
+
+Cantina Band
+type: Creature => Creature — Bith Bard
+rules_text:  => At the beginning of your end step, if you control two or more tapped creatures, put a +1/+1 counter on Cantina Band.
+pt:  => 2/3
+
+
+VERSION 22 CHANGELOG
 ====================
 
 Force Barrier added.

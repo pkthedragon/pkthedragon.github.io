@@ -13,25 +13,25 @@
     },
     {
         "card_name": "Darth Sidious",
-        "number": 73,
+        "number": 71,
         "shape": "normal",
         "set": "SWS"
     },
     {
         "card_name": "Destruction of Alderaan",
-        "number": 110,
+        "number": 107,
         "shape": "normal",
         "set": "SWS"
     },
     {
         "card_name": "Battle of Endor",
-        "number": 139,
+        "number": 137,
         "shape": "battle split",
         "set": "SWS"
     },
     {
         "card_name": "Battle of Yavin",
-        "number": 6,
+        "number": 7,
         "shape": "battle split",
         "set": "SWS"
     },
@@ -43,13 +43,13 @@
     },
     {
         "card_name": "Supreme Commander Vader",
-        "number": 96,
+        "number": 94,
         "shape": "normal",
         "set": "SWS"
     },
     {
         "card_name": "Han Solo, Smuggler Captain",
-        "number": 117,
+        "number": 113,
         "shape": "normal",
         "set": "SWS"
     },
@@ -61,7 +61,7 @@
     },
     {
         "card_name": "BB-8",
-        "number": 7,
+        "number": 8,
         "shape": "normal",
         "set": "SWS"
     },
@@ -79,7 +79,7 @@
     },
     {
         "card_name": "Kyber Crystal",
-        "number": 119,
+        "number": 118,
         "shape": "normal",
         "set": "SWS"
     },
@@ -109,7 +109,7 @@
     },
     {
         "card_name": "Battle of Exegol",
-        "number": 102,
+        "number": 101,
         "shape": "battle split",
         "set": "SWS"
     },
@@ -133,13 +133,13 @@
     },
     {
         "card_name": "The Executor",
-        "number": 76,
+        "number": 75,
         "shape": "leveler",
         "set": "SWS"
     },
     {
         "card_name": "Cody's Command",
-        "number": 107,
+        "number": 105,
         "shape": "normal",
         "set": "SWS"
     },
@@ -163,19 +163,19 @@
     },
     {
         "card_name": "Grand Moff Tarkin",
-        "number": 81,
+        "number": 78,
         "shape": "normal",
         "set": "SWS"
     },
     {
         "card_name": "Commander Cody",
-        "number": 108,
+        "number": 106,
         "shape": "normal",
         "set": "SWS"
     },
     {
         "card_name": "Slave I",
-        "number": 158,
+        "number": 160,
         "shape": "leveler",
         "set": "SWS"
     },
@@ -193,13 +193,13 @@
     },
     {
         "card_name": "Sarlacc",
-        "number": 92,
+        "number": 88,
         "shape": "normal",
         "set": "SWS"
     },
     {
         "card_name": "Greater Krayt Dragon",
-        "number": 115,
+        "number": 111,
         "shape": "normal",
         "set": "SWS"
     },
@@ -223,13 +223,13 @@
     },
     {
         "card_name": "Tarkin's Command",
-        "number": 98,
+        "number": 95,
         "shape": "normal",
         "set": "SWS"
     },
     {
         "card_name": "Invisible Hand",
-        "number": 118,
+        "number": 115,
         "shape": "leveler",
         "set": "SWS"
     },
@@ -240,7 +240,7 @@
         "set": "SWS"
     },
     {
-        "card_name": "Anakin, Fledgeling Pilot",
+        "card_name": "Alter the Deal",
         "number": 3,
         "shape": "normal",
         "set": "SWS"
@@ -259,18 +259,18 @@
     },
     {
         "card_name": "Lando Calrissian",
-        "number": 120,
+        "number": 119,
         "shape": "normal",
         "set": "SWS"
     },
     {
-        "card_name": "Arena Ackler",
-        "number": 136,
-        "shape": "normal",
+        "card_name": "Battle of Kashyyyk",
+        "number": 138,
+        "shape": "battle split",
         "set": "SWS"
     },
     {
-        "card_name": "ARC Trooper",
+        "card_name": "Anakin, Podracer Prodigy",
         "number": 4,
         "shape": "normal",
         "set": "SWS"
@@ -294,15 +294,15 @@
         "set": "SWS"
     },
     {
-        "card_name": "Arena Nexu",
-        "number": 137,
+        "card_name": "Ewok Scout",
+        "number": 142,
         "shape": "normal",
         "set": "SWS"
     },
     {
-        "card_name": "Battle of Hoth",
+        "card_name": "ARC Trooper",
         "number": 5,
-        "shape": "battle split",
+        "shape": "normal",
         "set": "SWS"
     },
     {
@@ -313,26 +313,26 @@
     },
     {
         "card_name": "The Dead Speak!",
-        "number": 74,
+        "number": 72,
         "shape": "normal",
         "set": "SWS"
     },
     {
-        "card_name": "Arena Reek",
-        "number": 101,
-        "shape": "normal",
-        "set": "SWS"
-    },
-    {
-        "card_name": "Battle of Kashyyyk",
-        "number": 140,
+        "card_name": "Battle of Jakku",
+        "number": 102,
         "shape": "battle split",
         "set": "SWS"
     },
     {
-        "card_name": "Gungan Army Captain",
-        "number": 17,
+        "card_name": "Felucian Shaman",
+        "number": 144,
         "shape": "normal",
+        "set": "SWS"
+    },
+    {
+        "card_name": "Battle of Hoth",
+        "number": 6,
+        "shape": "battle split",
         "set": "SWS"
     },
     {
@@ -343,25 +343,25 @@
     },
     {
         "card_name": "Death Trooper",
-        "number": 75,
+        "number": 74,
         "shape": "normal",
         "set": "SWS"
     },
     {
-        "card_name": "Battle of Jakku",
-        "number": 103,
-        "shape": "battle split",
-        "set": "SWS"
-    },
-    {
-        "card_name": "Ewok War Party",
-        "number": 144,
+        "card_name": "Captain Phasma",
+        "number": 104,
         "shape": "normal",
         "set": "SWS"
     },
     {
-        "card_name": "Jedi Temple Guard",
-        "number": 19,
+        "card_name": "Feral Nexu",
+        "number": 145,
+        "shape": "normal",
+        "set": "SWS"
+    },
+    {
+        "card_name": "Gungan Army Captain",
+        "number": 17,
         "shape": "normal",
         "set": "SWS"
     },
@@ -373,43 +373,13 @@
     },
     {
         "card_name": "Force Choke",
-        "number": 77,
-        "shape": "normal",
-        "set": "SWS"
-    },
-    {
-        "card_name": "Captain Phasma",
-        "number": 106,
-        "shape": "normal",
-        "set": "SWS"
-    },
-    {
-        "card_name": "Jedi Communion",
-        "number": 146,
-        "shape": "normal",
-        "set": "SWS"
-    },
-    {
-        "card_name": "The Profundity",
-        "number": 22,
-        "shape": "leveler",
-        "set": "SWS"
-    },
-    {
-        "card_name": "Force Spirit",
-        "number": 49,
-        "shape": "normal",
-        "set": "SWS"
-    },
-    {
-        "card_name": "General Hux",
-        "number": 80,
+        "number": 76,
         "shape": "normal",
         "set": "SWS"
     },
     {
         "card_name": "Fondor Haulcraft",
-        "number": 112,
+        "number": 109,
         "shape": "leveler",
         "set": "SWS"
     },
@@ -420,26 +390,26 @@
         "set": "SWS"
     },
     {
-        "card_name": "Protect Senator Amidala!",
-        "number": 23,
+        "card_name": "Jedi Temple Guard",
+        "number": 19,
         "shape": "normal",
         "set": "SWS"
     },
     {
-        "card_name": "Jedi Mind Trick",
-        "number": 55,
+        "card_name": "Force Spirit",
+        "number": 49,
         "shape": "normal",
         "set": "SWS"
     },
     {
-        "card_name": "Morgan Elsbeth",
-        "number": 85,
+        "card_name": "General Hux",
+        "number": 77,
         "shape": "normal",
         "set": "SWS"
     },
     {
-        "card_name": "Frantic Race",
-        "number": 113,
+        "card_name": "Geonosis Droid Factory",
+        "number": 110,
         "shape": "normal",
         "set": "SWS"
     },
@@ -450,8 +420,38 @@
         "set": "SWS"
     },
     {
-        "card_name": "Rebel Squadron Leader",
-        "number": 26,
+        "card_name": "The Profundity",
+        "number": 22,
+        "shape": "leveler",
+        "set": "SWS"
+    },
+    {
+        "card_name": "Jedi Mind Trick",
+        "number": 55,
+        "shape": "normal",
+        "set": "SWS"
+    },
+    {
+        "card_name": "Morgan Elsbeth",
+        "number": 82,
+        "shape": "normal",
+        "set": "SWS"
+    },
+    {
+        "card_name": "Invasive Maneuvers",
+        "number": 114,
+        "shape": "normal",
+        "set": "SWS"
+    },
+    {
+        "card_name": "Primal Defiance",
+        "number": 153,
+        "shape": "normal",
+        "set": "SWS"
+    },
+    {
+        "card_name": "Protect Senator Amidala!",
+        "number": 23,
         "shape": "normal",
         "set": "SWS"
     },
@@ -463,24 +463,24 @@
     },
     {
         "card_name": "Night of a Thousand Tears",
-        "number": 86,
+        "number": 83,
         "shape": "normal",
         "set": "SWS"
     },
     {
-        "card_name": "The Grand Inquisitor",
-        "number": 114,
+        "card_name": "Jar-Jar Binks",
+        "number": 116,
         "shape": "normal",
         "set": "SWS"
     },
     {
         "card_name": "Rotta the Hutt",
-        "number": 154,
+        "number": 156,
         "shape": "normal",
         "set": "SWS"
     },
     {
-        "card_name": "Rose Tico",
+        "card_name": "Rebel Squadron Leader",
         "number": 27,
         "shape": "normal",
         "set": "SWS"
@@ -493,24 +493,24 @@
     },
     {
         "card_name": "Nightsister's Ritual",
-        "number": 87,
+        "number": 84,
         "shape": "normal",
         "set": "SWS"
     },
     {
-        "card_name": "Mummer Salver",
-        "number": 124,
+        "card_name": "Mummer Salvager",
+        "number": 122,
         "shape": "normal",
         "set": "SWS"
     },
     {
         "card_name": "Shaak Ti",
-        "number": 155,
+        "number": 157,
         "shape": "normal",
         "set": "SWS"
     },
     {
-        "card_name": "Sab\u00e9, Queen's Shadow",
+        "card_name": "Rose Tico",
         "number": 28,
         "shape": "normal",
         "set": "SWS"
@@ -523,25 +523,25 @@
     },
     {
         "card_name": "Paternal Revelation",
-        "number": 88,
+        "number": 85,
         "shape": "normal",
         "set": "SWS"
     },
     {
-        "card_name": "Proton Torpedo Barrage",
-        "number": 128,
+        "card_name": "Pilot Droid",
+        "number": 124,
         "shape": "normal",
         "set": "SWS"
     },
     {
         "card_name": "Shielded Fambaa",
-        "number": 156,
+        "number": 158,
         "shape": "normal",
         "set": "SWS"
     },
     {
-        "card_name": "Shmi Skywalker",
-        "number": 30,
+        "card_name": "Sab\u00e9, Queen's Shadow",
+        "number": 29,
         "shape": "normal",
         "set": "SWS"
     },
@@ -553,24 +553,24 @@
     },
     {
         "card_name": "Pyke Syndicate Agent",
-        "number": 90,
+        "number": 86,
         "shape": "normal",
         "set": "SWS"
     },
     {
-        "card_name": "Seismic Charge",
-        "number": 130,
+        "card_name": "Proton Torpedo Barrage",
+        "number": 127,
         "shape": "normal",
         "set": "SWS"
     },
     {
         "card_name": "Size Matters Not",
-        "number": 157,
+        "number": 159,
         "shape": "normal",
         "set": "SWS"
     },
     {
-        "card_name": "Stay On Target",
+        "card_name": "Shmi Skywalker",
         "number": 31,
         "shape": "normal",
         "set": "SWS"
@@ -583,25 +583,25 @@
     },
     {
         "card_name": "The Scimitar",
-        "number": 93,
+        "number": 89,
         "shape": "leveler",
         "set": "SWS"
     },
     {
-        "card_name": "Shoot First",
-        "number": 131,
+        "card_name": "Rampaging Reeks",
+        "number": 128,
         "shape": "normal",
         "set": "SWS"
     },
     {
-        "card_name": "Trust in the Force",
+        "card_name": "Stripped For Parts",
         "number": 161,
         "shape": "normal",
         "set": "SWS"
     },
     {
         "card_name": "Clone Trooper",
-        "number": 8,
+        "number": 9,
         "shape": "normal",
         "set": "SWS"
     },
@@ -612,50 +612,20 @@
         "set": "SWS"
     },
     {
-        "card_name": "Trandoshan Hunter",
-        "number": 99,
+        "card_name": "T'doshok Hunter",
+        "number": 96,
         "shape": "normal",
         "set": "SWS"
     },
     {
-        "card_name": "Spectre Coil Saboteur",
-        "number": 132,
+        "card_name": "Smuggled Coaxium",
+        "number": 129,
         "shape": "normal",
         "set": "SWS"
     },
     {
-        "card_name": "Wookiee Sharpshooter",
-        "number": 166,
-        "shape": "normal",
-        "set": "SWS"
-    },
-    {
-        "card_name": "Communications Droid",
-        "number": 9,
-        "shape": "normal",
-        "set": "SWS"
-    },
-    {
-        "card_name": "Asteroid Sanctuary",
-        "number": 37,
-        "shape": "normal",
-        "set": "SWS"
-    },
-    {
-        "card_name": "Calculated Lethality",
-        "number": 71,
-        "shape": "normal",
-        "set": "SWS"
-    },
-    {
-        "card_name": "Target the Main Reactor",
-        "number": 133,
-        "shape": "normal",
-        "set": "SWS"
-    },
-    {
-        "card_name": "Bantha Herd",
-        "number": 138,
+        "card_name": "Territorial Acklay",
+        "number": 162,
         "shape": "normal",
         "set": "SWS"
     },
@@ -666,26 +636,26 @@
         "set": "SWS"
     },
     {
-        "card_name": "Attendant Navigator",
-        "number": 38,
+        "card_name": "Asteroid Sanctuary",
+        "number": 37,
         "shape": "normal",
         "set": "SWS"
     },
     {
-        "card_name": "Confiscate",
-        "number": 72,
+        "card_name": "Deadly Dispute",
+        "number": 73,
         "shape": "normal",
         "set": "SWS"
     },
     {
-        "card_name": "Cantina Band",
-        "number": 104,
+        "card_name": "Unlimited Power",
+        "number": 132,
         "shape": "normal",
         "set": "SWS"
     },
     {
-        "card_name": "Dewback Patrol",
-        "number": 141,
+        "card_name": "Bantha Sentry",
+        "number": 136,
         "shape": "normal",
         "set": "SWS"
     },
@@ -696,26 +666,26 @@
         "set": "SWS"
     },
     {
-        "card_name": "Bespin Wing Guard",
-        "number": 41,
+        "card_name": "Attendant Navigator",
+        "number": 38,
         "shape": "normal",
         "set": "SWS"
     },
     {
-        "card_name": "Force Slow",
-        "number": 78,
+        "card_name": "Hunter's Gambit",
+        "number": 79,
         "shape": "normal",
         "set": "SWS"
     },
     {
-        "card_name": "Cantina Braggart",
-        "number": 105,
+        "card_name": "Wartime Production",
+        "number": 133,
         "shape": "normal",
         "set": "SWS"
     },
     {
-        "card_name": "Do or Do Not",
-        "number": 142,
+        "card_name": "Biosynthic Burst",
+        "number": 139,
         "shape": "normal",
         "set": "SWS"
     },
@@ -726,26 +696,26 @@
         "set": "SWS"
     },
     {
-        "card_name": "Dianoga",
-        "number": 43,
+        "card_name": "Bespin Wing Guard",
+        "number": 41,
         "shape": "normal",
         "set": "SWS"
     },
     {
-        "card_name": "Gamorrean Guards",
-        "number": 79,
+        "card_name": "Imperial Dark Trooper",
+        "number": 80,
         "shape": "normal",
         "set": "SWS"
     },
     {
-        "card_name": "Daring Raid",
-        "number": 109,
+        "card_name": "Cantina Band",
+        "number": 103,
         "shape": "normal",
         "set": "SWS"
     },
     {
-        "card_name": "Domesticated Loth-Cat",
-        "number": 143,
+        "card_name": "Dewback Patrol",
+        "number": 140,
         "shape": "normal",
         "set": "SWS"
     },
@@ -756,26 +726,26 @@
         "set": "SWS"
     },
     {
-        "card_name": "Force Barrier",
-        "number": 47,
+        "card_name": "Dianoga",
+        "number": 43,
         "shape": "normal",
         "set": "SWS"
     },
     {
-        "card_name": "Imperial Dark Trooper",
-        "number": 82,
+        "card_name": "Influence Death",
+        "number": 81,
         "shape": "normal",
         "set": "SWS"
     },
     {
-        "card_name": "E-Web Gunner",
-        "number": 111,
+        "card_name": "Divert Power",
+        "number": 108,
         "shape": "normal",
         "set": "SWS"
     },
     {
-        "card_name": "Follow the Path",
-        "number": 145,
+        "card_name": "Domesticated Loth-Cat",
+        "number": 141,
         "shape": "normal",
         "set": "SWS"
     },
@@ -786,26 +756,26 @@
         "set": "SWS"
     },
     {
-        "card_name": "Frozen in Carbonite",
-        "number": 50,
+        "card_name": "Force Barrier",
+        "number": 47,
         "shape": "normal",
         "set": "SWS"
     },
     {
-        "card_name": "Jawa Scavenger",
-        "number": 83,
+        "card_name": "Ravenous Rathtar",
+        "number": 87,
         "shape": "normal",
         "set": "SWS"
     },
     {
         "card_name": "Grenade Strike",
-        "number": 116,
+        "number": 112,
         "shape": "normal",
         "set": "SWS"
     },
     {
-        "card_name": "Porg",
-        "number": 151,
+        "card_name": "Feed New Life",
+        "number": 143,
         "shape": "normal",
         "set": "SWS"
     },
@@ -816,19 +786,79 @@
         "set": "SWS"
     },
     {
+        "card_name": "Frozen in Carbonite",
+        "number": 50,
+        "shape": "normal",
+        "set": "SWS"
+    },
+    {
+        "card_name": "Show No Mercy",
+        "number": 90,
+        "shape": "normal",
+        "set": "SWS"
+    },
+    {
+        "card_name": "Jawa Scavenger",
+        "number": 117,
+        "shape": "normal",
+        "set": "SWS"
+    },
+    {
+        "card_name": "Follow the Path",
+        "number": 146,
+        "shape": "normal",
+        "set": "SWS"
+    },
+    {
+        "card_name": "Knight of the Republic",
+        "number": 20,
+        "shape": "normal",
+        "set": "SWS"
+    },
+    {
         "card_name": "Heightened Awareness",
         "number": 51,
         "shape": "normal",
         "set": "SWS"
     },
     {
-        "card_name": "Merciless Contest",
-        "number": 84,
+        "card_name": "Snowtrooper",
+        "number": 91,
         "shape": "normal",
         "set": "SWS"
     },
     {
-        "card_name": "Mandalorian Commando",
+        "card_name": "Maximum Firepower",
+        "number": 120,
+        "shape": "normal",
+        "set": "SWS"
+    },
+    {
+        "card_name": "Playful Porgs",
+        "number": 151,
+        "shape": "normal",
+        "set": "SWS"
+    },
+    {
+        "card_name": "R4 Courier Droid",
+        "number": 25,
+        "shape": "normal",
+        "set": "SWS"
+    },
+    {
+        "card_name": "Imperial Espionage",
+        "number": 53,
+        "shape": "normal",
+        "set": "SWS"
+    },
+    {
+        "card_name": "Stormtrooper",
+        "number": 92,
+        "shape": "normal",
+        "set": "SWS"
+    },
+    {
+        "card_name": "Mortar Trooper",
         "number": 121,
         "shape": "normal",
         "set": "SWS"
@@ -840,38 +870,8 @@
         "set": "SWS"
     },
     {
-        "card_name": "Knight of the Republic",
-        "number": 20,
-        "shape": "normal",
-        "set": "SWS"
-    },
-    {
-        "card_name": "Imperial Espionage",
-        "number": 53,
-        "shape": "normal",
-        "set": "SWS"
-    },
-    {
-        "card_name": "Praetorian Elite",
-        "number": 89,
-        "shape": "normal",
-        "set": "SWS"
-    },
-    {
-        "card_name": "Maximum Firepower",
-        "number": 122,
-        "shape": "normal",
-        "set": "SWS"
-    },
-    {
-        "card_name": "Ravening Gundark",
-        "number": 153,
-        "shape": "normal",
-        "set": "SWS"
-    },
-    {
         "card_name": "Rebel Pathfinder",
-        "number": 25,
+        "number": 26,
         "shape": "normal",
         "set": "SWS"
     },
@@ -882,26 +882,26 @@
         "set": "SWS"
     },
     {
-        "card_name": "Ravenous Rathtar",
-        "number": 91,
+        "card_name": "Super Tactical Droid",
+        "number": 93,
         "shape": "normal",
         "set": "SWS"
     },
     {
-        "card_name": "Mortar Trooper",
+        "card_name": "Mynock",
         "number": 123,
         "shape": "normal",
         "set": "SWS"
     },
     {
-        "card_name": "Stronger Together",
-        "number": 159,
+        "card_name": "Rampant Tauntaun",
+        "number": 154,
         "shape": "normal",
         "set": "SWS"
     },
     {
         "card_name": "Senate Guard",
-        "number": 29,
+        "number": 30,
         "shape": "normal",
         "set": "SWS"
     },
@@ -912,20 +912,20 @@
         "set": "SWS"
     },
     {
-        "card_name": "Snowtrooper",
-        "number": 94,
+        "card_name": "Tusken Tracker",
+        "number": 97,
         "shape": "normal",
         "set": "SWS"
     },
     {
-        "card_name": "Mynock",
+        "card_name": "Pit Droid Team",
         "number": 125,
         "shape": "normal",
         "set": "SWS"
     },
     {
-        "card_name": "Tauntaun",
-        "number": 160,
+        "card_name": "Ravening Gundark",
+        "number": 155,
         "shape": "normal",
         "set": "SWS"
     },
@@ -942,20 +942,20 @@
         "set": "SWS"
     },
     {
-        "card_name": "Stormtrooper",
-        "number": 95,
+        "card_name": "Watchful Eye",
+        "number": 98,
         "shape": "normal",
         "set": "SWS"
     },
     {
-        "card_name": "Open Fire",
+        "card_name": "Praetorian Elite",
         "number": 126,
         "shape": "normal",
         "set": "SWS"
     },
     {
-        "card_name": "Tusken Tracker",
-        "number": 162,
+        "card_name": "Womp Rat Pack",
+        "number": 165,
         "shape": "normal",
         "set": "SWS"
     },
@@ -969,20 +969,20 @@
         "set": "SWS"
     },
     {
-        "card_name": "Take Captive",
-        "number": 97,
+        "card_name": "Wookiee Trophy Hunter",
+        "number": 99,
         "shape": "normal",
         "set": "SWS"
     },
     {
-        "card_name": "Precision Fire",
-        "number": 127,
+        "card_name": "Terentatek",
+        "number": 130,
         "shape": "normal",
         "set": "SWS"
     },
     {
-        "card_name": "Womp Rat",
-        "number": 165,
+        "card_name": "Wookiee Sharpshooter",
+        "number": 166,
         "shape": "normal",
         "set": "SWS"
     },
@@ -996,8 +996,8 @@
         "card_name": "e"
     },
     {
-        "card_name": "Remnant Corps",
-        "number": 129,
+        "card_name": "Test of Metal",
+        "number": 131,
         "shape": "normal",
         "set": "SWS"
     },
@@ -1273,8 +1273,8 @@
         "set": "SWS"
     },
     {
-        "card_name": "Grand Master Yoda",
-        "number": 204,
+        "card_name": "Master Yoda",
+        "number": 207,
         "shape": "normal",
         "set": "SWS"
     },
@@ -1304,7 +1304,7 @@
     },
     {
         "card_name": "Luke, Ahch-To Exile",
-        "number": 206,
+        "number": 205,
         "shape": "normal",
         "set": "SWS"
     },
@@ -1339,7 +1339,7 @@
         "set": "SWS"
     },
     {
-        "card_name": "Jar-Jar Binks",
+        "card_name": "The Grand Inquisitor",
         "number": 226,
         "shape": "normal",
         "set": "SWS"
@@ -1363,8 +1363,8 @@
         "set": "SWS"
     },
     {
-        "card_name": "Grogu, The Child",
-        "number": 205,
+        "card_name": "Grogu, the Child",
+        "number": 204,
         "shape": "normal",
         "set": "SWS"
     },
@@ -1394,7 +1394,7 @@
     },
     {
         "card_name": "Master Kit Fisto",
-        "number": 207,
+        "number": 206,
         "shape": "normal",
         "set": "SWS"
     },
@@ -1906,7 +1906,7 @@
     },
     {
         "card_name": "Tatooine, Twin-Sunned",
-        "number": 299,
+        "number": 300,
         "shape": "leveler",
         "set": "SWS"
     },
@@ -1936,13 +1936,13 @@
     },
     {
         "card_name": "Takodana Castle",
-        "number": 298,
+        "number": 299,
         "shape": "normal",
         "set": "SWS"
     },
     {
-        "card_name": "Vergence Scatter",
-        "number": 300,
+        "card_name": "Saleucami Oasis",
+        "number": 298,
         "shape": "normal",
         "set": "SWS"
     },
