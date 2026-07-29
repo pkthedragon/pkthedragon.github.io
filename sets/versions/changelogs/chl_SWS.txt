@@ -1,4 +1,218 @@
-﻿VERSION 23 CHANGELOG
+﻿VERSION 24 CHANGELOG
+====================
+
+Jedi Seeker added.
+Imperial Prison Ship added.
+TIE Bomber added.
+
+Wookiee Sharpshooter removed.
+Way of Mand'alor removed.
+Maximum Firepower removed.
+
+Alderaan, Peaceful Jewel
+
+Coruscant, Galaxy's Heart
+
+Mustafar, Volcanic Crucible
+
+Naboo, Verdant Paradise
+
+Tatooine, Twin-Sunned
+
+Anakin, Faded Vestige
+rules_text: Force — Discard a legendary card: The next time you activate an activated ability of target creature this turn, that ability costs {2} less to activate. [i](Activate only if this was tapped this turn and only once each turn.)[/i] => Force — Discard a card with a force ability: The next time you activate an activated ability of target creature this turn, that ability costs {2} less to activate. [i](Activate only if this was tapped this turn and only once each turn.)[/i]
+
+Bespin, Clouded Domain
+
+Dagobah, Fetid Refuge
+
+Kamino, Drowned Cradle
+
+Kashyyyk, Wild Enclave
+
+Hoth, Frozen Outpost
+
+One With The Force
+
+Ahch-To, Bygone Asylum
+
+Mandalore, Armored Ruin
+
+Moraband, Dark Tomb
+
+Jakku, Vessel Graveyard
+
+Nal Hutta, Decadent Mire
+
+Master Ki-Adi-Mundi
+
+Wampa
+
+Leia's Command
+
+Slave I
+
+Purrgil Ultra
+
+Tantive IV
+
+Wild Rancor
+
+The Malevolence
+rules_text: Flash
+Whenever The Malevolence enters or attacks, artifacts and creatures your opponents control lose all abilities until end of turn.
+Station
+[level 8+] Flying [7/6]
+ => Flash
+Whenever The Malevolence enters or attacks, artifacts and creatures your opponents control lose all abilities until end of turn.
+Station
+[level 8+] Flying, deathtouch [7/6]
+
+special_text: Flash
+Whenever The Malevolence enters or attacks, artifacts and creatures your opponents control lose all abilities until end of turn.
+Station
+[level 8+] Flying [7/6]
+ => Flash
+Whenever The Malevolence enters or attacks, artifacts and creatures your opponents control lose all abilities until end of turn.
+Station
+[level 8+] Flying, deathtouch [7/6]
+
+
+Mystic Hermit
+rules_text: Flash
+When Mystic Hermit enters, you may tap or untap target permanent. If that permanent has a force ability, put a +1/+1 counter on Mystic Hermit. => Ward {1}
+Force — {6}{GU}{GU}: Put three +1/+1 counters on target creature without counters on it. [i](Activate only if this was tapped this turn and only once each turn.)[/i]
+pt: 2/2 => 3/3
+
+Sabé, Queen's Shadow
+
+Shmi Skywalker
+
+The Profundity
+
+Rebel Squadron Leader
+
+Jedi Temple Guard
+
+Gungan Army Captain
+rules_text: Gungan Army Captain costs {1} less to cast for each creature you control with a counter on it.
+Whenever a nontoken creature you control with a counter on it dies, create a 1/1 white Gungan creature token. => Gungan Army Captain costs {2} less to cast if you control two or more creatures with counters on them.
+Whenever a nontoken creature you control with a counter on it dies, create a 1/1 white Gungan creature token.
+
+Protect Senator Amidala!
+
+Rose Tico
+
+Admiral Piett
+
+Rampaging Reeks
+
+Proton Torpedo Barrage
+
+Mummer Salvager
+
+Pilot Droid
+
+Rotta the Hutt
+
+The Khetanna
+
+Shaak Ti
+rules_text: Other creatures you control have “{T}: Add {C}{C}.”
+Force — {X}{X}: Distribute X +1/+1 counters among any number of target creatures. [i](Activate only if this was tapped this turn and only once each turn.)[/i] => Other creatures you control have “{T}: Add {G}.”
+Force — {1}{G}: Draw a card for each creature you control that used the force this turn. [i](Activate only if this was tapped this turn and only once each turn.)[/i]
+
+Territorial Acklay
+
+Maz Kanata
+
+Ewok Scout
+
+Stripped For Parts
+
+Primal Defiance
+
+Size Matters Not
+
+Shielded Fambaa
+
+Rebel Pathfinder
+
+Senate Guard
+
+R4 Courier Droid
+
+Imperial Royal Guard
+
+Knight of the Republic
+
+Asteroid Sanctuary
+rules_text: Choose one —
+• Tap target artifact or creature and put a stun counter on it.
+• Return target tapped artifact or creature to its owner's hand. Draw a card. => Choose one —
+• Tap target artifact or creature and put a stun counter on it.
+• Return target tapped artifact or creature to its owner's hand. Surveil 1.
+
+Knowledge and Defense
+cost: {3}{U} => {2}{U}{U}
+
+Ravenous Rathtar
+rules_text: Deathtouch
+When Ravenous Rathtar enters, if an opponent controls a hunted permanent, each opponent loses 3 life and you gain 3 life. => Menace
+When Ravenous Rathtar enters, if an opponent controls a hunted permanent, each opponent loses 3 life and you gain 3 life.
+
+Mortar Trooper
+
+Pit Droid Team
+
+Praetorian Elite
+
+Terentatek
+
+Mynock
+
+Test of Metal
+
+Divert Power
+type: Instant => Sorcery
+
+Playful Porgs
+cost: {G} => {1}{G}
+rules_text: When Playful Porgs enters, put a +1/+1 counter on target creature and you gain 1 life. => Playful Porgs enters with two +1/+1 counters on it.
+At the beginning of your upkeep, you may move any number of counters from Playful Porgs onto another target creature you control.
+pt: 0/2 => 0/0
+
+Womp Rat Pack
+cost: {1}{G} => {G}
+pt:  => 1/2
+
+Domesticated Loth-Cat
+
+Felucian Shaman
+rules_text: {T}: X mana of any one color, where X is Felucian Shaman's power.
+Force — {3}{G}: Put a +1/+1 counter on target creature. [i](Activate only if this was tapped this turn and only once each turn.)[/i] => {T}: Add X mana of any one color, where X is Felucian Shaman's power.
+Force — {3}{G}: Put a +1/+1 counter on target creature. [i](Activate only if this was tapped this turn and only once each turn.)[/i]
+
+Rampant Tauntaun
+
+Dewback Patrol
+
+Ravening Gundark
+pt: 5/4 => 4/4
+
+Biosynthic Burst
+
+Pounce
+
+Feed New Life
+rules_text: Search your library for a basic land or Planet card, put it onto the battlefield tapped, then shuffle.
+You may cast Feed New Life from your graveyard as long as a creature you control used the force or died this turn. When you do, exile it. => Search your library for a basic land or Planet card, put it onto the battlefield tapped, then shuffle.
+Feed New Life has flashback {2}{G} as long as a creature you control used the force or died this turn. [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i]
+
+Smuggled Coaxium
+
+
+VERSION 23 CHANGELOG
 ====================
 
 Anakin, Podracer Prodigy added.
